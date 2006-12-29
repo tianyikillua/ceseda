@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 27 décembre 2006
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20061227)
+- Date de consolidation : 29 décembre 2006
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20061229)
 
 
 # Partie législative
@@ -5323,6 +5323,11 @@ Les modalités selon lesquelles le tribunal administratif examine les recours en
 "Art. R. 776-20 du code de justice administrative :
 
 "Le délai d'appel est d'un mois. Il court contre toute partie à l'instance à compter du jour où la notification a été faite à cette partie dans les conditions prévues à l'article R. 776-17, troisième alinéa."
+
+
+##### Article R512-3
+
+Les modalités selon lesquelles les juridictions administratives examinent les recours en annulation formés contre les décisions de refus de séjour assorties d'une obligation de quitter le territoire français obéissent aux règles définies par le chapitre V du titre VII du livre VII du code de justice administrative.
 
 
 #### Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière
