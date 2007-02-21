@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 26 janvier 2007
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20070126)
+- Date de consolidation : 21 février 2007
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20070221)
 
 
 # Partie législative
@@ -1358,7 +1358,7 @@ En outre, ne peut faire l'objet d'une mesure de reconduite à la frontière pour
 
 #### Article L512-1
 
-L'étranger qui fait l'objet d'un refus de séjour, d'un refus de délivrance ou de renouvellement de titre de séjour ou d'un retrait de titre de séjour, de récépissé de demande de carte de séjour ou d'autorisation provisoire de séjour assorti d'une obligation de quitter le territoire français mentionnant le pays de destination peut, dans le délai d'un mois suivant la notification, demander l'annulation de ces décisions au tribunal administratif. Son recours suspend l'exécution de l'obligation de quitter le territoire français sans pour autant faire obstacle au placement en rétention administrative dans les conditions prévues au titre V du présent livre.
+L'étranger qui fait l'objet d'un refus de séjour, d'un refus de délivrance ou de renouvellement de titre de séjour ou d'un retrait de titre de séjour, de récépissé de demande de carte de séjour ou d'autorisation provisoire de séjour assorti d'une obligation de quitter le territoire français mentionnant le pays de destination peut, dans le délai d'un mois suivant la notification, demander l'annulation de ces décisions au tribunal administratif. Il peut demander le bénéfice de l'aide juridictionnelle au plus tard lors de l'introduction de sa requête en annulation. Son recours suspend l'exécution de l'obligation de quitter le territoire français sans pour autant faire obstacle au placement en rétention administrative dans les conditions prévues au titre V du présent livre.
 
 Le tribunal administratif statue dans un délai de trois mois à compter de sa saisine. Toutefois, en cas de placement en rétention de l'étranger avant qu'il ait rendu sa décision, il statue, selon la procédure prévue à l'article [L. 512-2](#article-l512-2), sur la légalité de l'obligation de quitter le territoire français et de la décision fixant le pays de renvoi, au plus tard soixante-douze heures à compter de la notification par l'administration au tribunal de ce placement.
 
