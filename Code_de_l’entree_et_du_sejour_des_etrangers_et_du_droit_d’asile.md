@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 15 septembre 2007
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20070915)
+- Date de consolidation : 31 octobre 2007
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20071031)
 
 
 # Partie législative
@@ -101,7 +101,7 @@ i) Les actions entreprises au niveau national en vue de lutter contre les discri
 
 Ce rapport propose également des indicateurs permettant d'estimer le nombre d'étrangers se trouvant en situation irrégulière sur le territoire français.
 
-L'Office français de protection des réfugiés et apatrides, le Haut Conseil à l'intégration, l'Agence nationale de l'accueil des étrangers et des migrations et la Commission nationale de contrôle des centres et locaux de rétention et des zones d'attente joignent leurs observations au rapport.
+L'Office français de protection des réfugiés et apatrides, le Haut Conseil à l'intégration et l'Agence nationale de l'accueil des étrangers et des migrations joignent leurs observations au rapport.
 
 
 #### Article L111-11
