@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 21 novembre 2007
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20071121)
+- Date de consolidation : 7 décembre 2007
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20071207)
 
 
 # Partie législative
@@ -5102,7 +5102,7 @@ Les conditions d'indemnisation des membres de la commission médicale régionale
 
 ###### Article R313-33
 
-La Commission nationale de l'admission exceptionnelle au séjour est placée auprès du ministre de l'intérieur. Elle est composée de onze membres, soit :
+La Commission nationale de l'admission exceptionnelle au séjour est placée auprès du ministre chargé de l'immigration. Elle est composée de onze membres, soit :
 
 1. Deux personnalités qualifiées, dont l'une président de la commission ;
 
@@ -5114,13 +5114,13 @@ La Commission nationale de l'admission exceptionnelle au séjour est placée aup
 
 5. Un maire désigné par l'Association des maires de France ;
 
-6. Deux représentants du ministre de l'intérieur ;
+6. Deux représentants du ministre chargé de l'immigration ;
 
-7. Un représentant du ministre chargé de l'intégration ;
+7. Un représentant du ministre de l'intérieur ;
 
 8. Un représentant du ministre des affaires étrangères.
 
-Le président et les autres membres de la commission sont nommés par arrêté du ministre de l'intérieur. Leur mandat est d'une durée de deux ans. Il est renouvelable.
+Le président et les autres membres de la commission sont nommés par arrêté du ministre chargé de l'immigration. Leur mandat est d'une durée de deux ans. Il est renouvelable.
 
 Un suppléant est nommé dans les mêmes conditions que le titulaire pour les membres mentionnés du 2° au 8°.
 
@@ -5135,9 +5135,9 @@ Les séances de la commission ne sont pas publiques.
 
 ###### Article R313-34
 
-La commission se réunit, sur convocation de son président, au moins deux fois par an et chaque fois que le ministre de l'intérieur la saisit pour avis.
+La commission se réunit, sur convocation de son président, au moins deux fois par an et chaque fois que le ministre chargé de l'immigration la saisit pour avis.
 
-Saisi d'un recours hiérarchique contre un refus d'admission exceptionnelle au séjour, le ministre de l'intérieur peut recueillir à cette occasion l'avis de la commission. Il en informe le requérant et le préfet compétent. La commission émet son avis dans le délai d'un mois à compter de sa saisine. En l'absence de réponse à l'issue de ce délai, l'avis est réputé défavorable.
+Saisi d'un recours hiérarchique contre un refus d'admission exceptionnelle au séjour, le ministre chargé de l'immigration peut recueillir à cette occasion l'avis de la commission. Il en informe le requérant et le préfet compétent. La commission émet son avis dans le délai d'un mois à compter de sa saisine. En l'absence de réponse à l'issue de ce délai, l'avis est réputé défavorable.
 
 
 ###### Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne
@@ -5339,16 +5339,16 @@ Pour l'application des dispositions de l'article [L. 314-1](#article-l314-1), l'
 
 #### Article R315-1
 
-La Commission nationale des compétences et des talents prévue à l'article [L. 315-4](#article-l315-4) détermine, pour la délivrance de la carte de séjour portant la mention "compétences et talents", la nature et l'importance relative des critères d'évaluation, d'une part, du projet de l'étranger qui sollicite la délivrance de cette carte, compte tenu notamment de sa localisation, du secteur d'activité en cause, des créations d'emplois envisagées et, d'autre part, de son aptitude à le réaliser, compte tenu notamment de son niveau d'études, de ses qualifications ou de son expérience professionnelles et, le cas échéant, des investissements prévus.
+La Commission nationale des compétences et des talents prévue à l'article [L. 315-4](#article-l315-4) détermine, pour la délivrance de la carte de séjour portant la mention " compétences et talents ", la nature et l'importance relative des critères d'évaluation, d'une part, du projet de l'étranger qui sollicite la délivrance de cette carte, compte tenu notamment de sa localisation, du secteur d'activité en cause, des créations d'emplois envisagées et, d'autre part, de son aptitude à le réaliser, compte tenu notamment de son niveau d'études, de ses qualifications ou de son expérience professionnelles et, le cas échéant, des investissements prévus.
 
-La commission fait toutes propositions au ministre de l'intérieur et au ministre des affaires étrangères pour favoriser l'attractivité de cette carte.
+La commission fait toutes propositions au ministre chargé de l'immigration et au ministre des affaires étrangères pour favoriser l'attractivité de cette carte.
 
 
 #### Article R315-2
 
-La Commission nationale des compétences et des talents est placée auprès du ministre de l'intérieur. Elle comprend quinze membres :
+La Commission nationale des compétences et des talents est placée auprès du ministre chargé de l'immigration. Elle comprend dix-sept membres :
 
-1. Une personnalité qualifiée, président ;
+1. Cinq personnalités qualifiées dont l'une est le président ;
 
 2. Un député ;
 
@@ -5356,15 +5356,15 @@ La Commission nationale des compétences et des talents est placée auprès du m
 
 4. Un membre du Conseil économique et social ;
 
-5. Un représentant du ministre de l'intérieur ;
+5. Le secrétaire général du comité interministériel de contrôle de l'immigration ;
 
-6. Deux représentants du ministre des affaires étrangères ;
+6. Deux représentants du ministre des affaires étrangères et européennes ;
 
-7. Deux représentants du ministre chargé de l'emploi ;
+7. Un représentant du ministre chargé de l'emploi ;
 
-8. Deux représentants du ministre chargé de l'économie ;
+8. Un représentant du ministre chargé de l'économie ;
 
-9. Un représentant du ministre chargé de l'éducation ;
+9. Un représentant du ministre chargé de la recherche ;
 
 10. Un représentant du ministre chargé de la culture ;
 
@@ -5375,9 +5375,9 @@ La Commission nationale des compétences et des talents est placée auprès du m
 
 #### Article R315-3
 
-Les membres de la commission sont nommés par arrêté du ministre de l'intérieur. Leur mandat est d'une durée de deux ans. Il est renouvelable.
+Les membres de la commission sont nommés par arrêté du ministre chargé de l'immigration. Leur mandat est d'une durée de deux ans. Il est renouvelable.
 
-La commission se réunit, sur convocation de son président, au moins deux fois par an et chaque fois que le ministre de l'intérieur l'estime nécessaire.
+La commission se réunit, sur convocation de son président, au moins deux fois par an et chaque fois que le ministre chargé de l'immigration l'estime nécessaire.
 
 Le quorum est atteint lorsque la moitié au moins des membres composant la commission sont présents.
 
@@ -5385,7 +5385,7 @@ La commission se prononce à la majorité des voix des membres présents ou repr
 
 Les délibérations relatives aux critères d'évaluation sont rendues publiques.
 
-Le secrétaire général du comité interministériel de contrôle de l'immigration assure le secrétariat de la commission.
+Les services du ministère chargé de l'immigration assurent le secrétariat de la commission.
 
 
 #### Article R315-4
@@ -5414,14 +5414,12 @@ L'étranger déjà admis au séjour sur le fondement de l'article [L. 311-2](#ar
 
 #### Article R315-6
 
-Les autorités diplomatiques et consulaires ou le préfet, selon le cas, procèdent à l'évaluation en tenant compte des critères mentionnés à l'article [R. 315-1](#article-r315-1) après avoir entendu l'étranger, s'ils l'estiment utile. La demande de carte de séjour portant la mention "compétences et talents", accompagnée de cette évaluation et d'un avis motivé sur l'intérêt du projet et l'aptitude du candidat, est transmise au ministre de l'intérieur.
+Les autorités diplomatiques et consulaires ou le préfet, selon le cas, évaluent l'aptitude du candidat et l'intérêt du projet en tenant compte des critères d'évaluation mentionnés à l'article [R. 315-1](#article-r315-1) après avoir entendu l'étranger, s'ils l'estiment utile.
 
 
 #### Article R315-7
 
-Le ministre de l'intérieur attribue la carte de séjour à l'étranger qui réside en France.
-
-Si l'étranger réside hors de France, le ministre de l'intérieur informe les autorités diplomatiques et consulaires qu'il attribue à l'étranger la carte de séjour portant la mention "compétences et talents" sous réserve qu'il présente un visa pour un séjour d'une durée supérieure à trois mois. Ce visa est délivré de plein droit.
+Les autorités diplomatiques et consulaires délivrent à l'étranger résidant hors de France la carte de séjour portant la mention " compétences et talents" et un visa de long séjour. Cette carte de séjour est délivrée à l'étranger qui réside en France par le préfet ou, à Paris, par le préfet de police.
 
 L'attribution de cette carte vaut autorisation de travail à compter de sa notification.
 
@@ -5457,7 +5455,7 @@ L'étranger bénéficiaire de la carte de séjour portant la mention "compétenc
 
 #### Article R315-11
 
-Le ministre des affaires étrangères et le ministre chargé de l'économie peuvent habiliter une personne morale pour exercer à l'étranger des missions de promotion de la carte de séjour portant la mention "compétences et talents" et de recherche des personnes susceptibles d'en bénéficier.
+Le ministre des affaires étrangères, le ministre chargé de l'immigration et le ministre chargé de l'économie peuvent habiliter une personne morale pour exercer à l'étranger des missions de promotion de la carte de séjour portant la mention "compétences et talents" et de recherche des personnes susceptibles d'en bénéficier.
 
 
 #### Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions ou témoigné dans une procédure pénale
