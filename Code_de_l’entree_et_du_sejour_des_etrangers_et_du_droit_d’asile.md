@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 7 décembre 2007
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20071207)
+- Date de consolidation : 22 décembre 2007
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20071222)
 
 
 # Partie législative
@@ -493,7 +493,7 @@ En cas de nécessité, le président du tribunal de grande instance peut décide
 
 Par décision du juge prise sur une proposition de l'autorité administrative à laquelle l'étranger dûment informé dans une langue qu'il comprend ne s'est pas opposé, l'audience peut également se dérouler avec l'utilisation de moyens de télécommunication audiovisuelle garantissant la confidentialité de la transmission. Il est alors dressé, dans chacune des deux salles d'audience ouvertes au public, un procès-verbal des opérations effectuées.
 
-Sous réserve de l'application de l'article 435 du nouveau code de procédure civile, le juge des libertés et de la détention statue publiquement.
+Sous réserve de l'application de l'article 435 du code de procédure civile, le juge des libertés et de la détention statue publiquement.
 
 
 ##### Article L222-5
