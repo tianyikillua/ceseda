@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 22 décembre 2007
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20071222)
+- Date de consolidation : 28 décembre 2007
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20071228)
 
 
 # Partie législative
@@ -303,7 +303,7 @@ Ce décret précise la durée de conservation et les conditions de mise à jour 
 
 ##### Article L211-8
 
-Chaque demande de validation d'une attestation d'accueil donne lieu à la perception, au profit de l'Agence nationale de l'accueil des étrangers et des migrations, d'une taxe d'un montant de 30 euros acquittée par l'hébergeant. Cette taxe est recouvrée comme en matière de droit de timbre.
+Chaque demande de validation d'une attestation d'accueil donne lieu à la perception, au profit de l'Agence nationale de l'accueil des étrangers et des migrations, d'une taxe d'un montant de 45 euros acquittée par l'hébergeant. Cette taxe est recouvrée comme en matière de droit de timbre.
 
 
 ##### Article L211-9
