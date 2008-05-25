@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 8 mars 2008
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20080308)
+- Date de consolidation : 25 mai 2008
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20080525)
 
 
 # Partie législative
@@ -6683,13 +6683,13 @@ Pour la mise en oeuvre des articles [L. 552-7](#article-l552-7) et [L. 552-8](#a
 
 ###### Article R552-12
 
-L'ordonnance est susceptible d'appel devant le premier président de la cour d'appel ou son délégué, dans les vingt-quatre heures de son prononcé, par l'étranger, par le préfet de département et, à Paris, par le préfet de police. Le délai ainsi prévu est calculé et prorogé conformément aux articles 640 et 642 du nouveau code de procédure civile.
+L' ordonnance est susceptible d' appel devant le premier président de la cour d' appel ou son délégué, dans les vingt- quatre heures de son prononcé, par l' étranger, par le préfet de département et, à Paris, par le préfet de police. Le délai ainsi prévu est calculé et prorogé conformément aux articles 640 et 642 du code de procédure civile.
 
-Le ministère public peut également interjeter appel de cette ordonnance selon les mêmes modalités, alors même qu'il a renoncé à solliciter la suspension provisoire.
+Le ministère public peut également interjeter appel de cette ordonnance selon les mêmes modalités, alors même qu' il a renoncé à solliciter la suspension provisoire.
 
-Toutefois, il doit former appel dans le délai de quatre heures s'il entend solliciter du premier président ou de son délégué qu'il déclare l'appel suspensif.
+Toutefois, il doit former appel dans le délai de quatre heures s' il entend solliciter du premier président ou de son délégué qu' il déclare l' appel suspensif.
 
-Dans le cas prévu à l'alinéa précédent, le ministère public fait notifier la déclaration d'appel, immédiatement et par tout moyen, à l'autorité administrative, à l'étranger et, le cas échéant, à son avocat, qui en accusent réception. La notification mentionne que des observations en réponse à la demande de déclaration d'appel suspensif peuvent être transmises par tout moyen au secrétariat du premier président ou de son délégué dans un délai de deux heures.
+Dans le cas prévu à l' alinéa précédent, le ministère public fait notifier la déclaration d' appel, immédiatement et par tout moyen, à l' autorité administrative, à l' étranger et, le cas échéant, à son avocat, qui en accusent réception. La notification mentionne que des observations en réponse à la demande de déclaration d' appel suspensif peuvent être transmises par tout moyen au secrétariat du premier président ou de son délégué dans un délai de deux heures.
 
 
 ###### Article R552-13
@@ -6716,7 +6716,7 @@ L'autorité qui a ordonné la rétention, l'avocat de l'étranger et l'étranger
 
 Le ministère public peut faire connaître son avis.
 
-Le premier président ou son délégué statue au fond dans les quarante-huit heures de sa saisine. Le délai ainsi prévu est calculé et prorogé conformément aux articles 640 et 642 du nouveau code de procédure civile.
+Le premier président ou son délégué statue au fond dans les quarante-huit heures de sa saisine. Le délai ainsi prévu est calculé et prorogé conformément aux articles 640 et 642 du code de procédure civile.
 
 L'ordonnance est communiquée au ministère public. Elle est notifiée à l'étranger et à son conseil, s'il en a un, ainsi qu'à l'autorité qui a prononcé la rétention. La notification est faite sur place aux parties présentes qui en accusent réception. Le greffier la notifie par tout moyen et dans les meilleurs délais aux autres parties qui en accusent réception.
 
