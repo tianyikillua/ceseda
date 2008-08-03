@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 18 juillet 2008
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20080718)
+- Date de consolidation : 3 août 2008
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20080803)
 
 
 # Partie législative
@@ -3218,30 +3218,6 @@ Les décisions prises en vertu du présent article ne peuvent donner lieu qu'à 
 Dans le mois de l'achèvement de chaque mission, l'administrateur ad hoc transmet au procureur de la République un rapport détaillant les démarches effectuées et, le cas échéant, aux fins d'assurer au mieux sa protection, les éléments d'information recueillis sur le mineur.
 
 
-##### Article R111-20
-
-Il est alloué à chaque personne désignée en qualité d'administrateur ad hoc, lorsqu'elle figure sur la liste prévue à l'article [R. 111-13](#article-r111-13) :
-
-1. Une indemnité forfaitaire au titre de l'ensemble des frais exposés pour l'assistance du mineur durant son maintien en zone d'attente et sa représentation dans toutes les procédures administratives et juridictionnelles relatives à ce maintien ainsi que celles afférentes à son entrée sur le territoire national en vertu des dispositions du titre II du livre II et de l'article [L. 624-1](#article-l624-1) du présent code et des articles [L. 521-1](#article-l521-1), [L. 521-2](#article-l521-2) et [L. 521-3](#article-l521-3) du code de justice administrative ;
-
-2. Une indemnité forfaitaire au titre de l'ensemble des frais exposés pour l'assistance du mineur et sa représentation dans la procédure relative à l'examen de sa demande d'asile par l'Office français de protection des réfugiés et apatrides en application des dispositions du livre VII du présent code ;
-
-3. Une indemnité forfaitaire au titre de l'ensemble des frais exposés pour l'assistance du mineur et sa représentation dans les procédures relatives à l'examen de sa demande d'asile devant la Cour nationale du droit d'asile et devant le Conseil d'Etat, en application des dispositions du livre VII du présent code.
-
-
-##### Article R111-21
-
-Le montant des indemnités prévues à l'article [R. 111-20](#article-r111-20) est fixé à :
-
-- 100 euros pour l'indemnité forfaitaire prévue au 1° ;
-
-- 50 euros pour l'indemnité forfaitaire prévue au 2° ;
-
-- 50 euros pour l'indemnité forfaitaire prévue au 3°.
-
-Ces sommes peuvent être revalorisées par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de l'économie et des finances compte tenu notamment de l'évolution des prix à la consommation hors tabac prévue dans le rapport économique et financier annexé à la loi de finances.
-
-
 ##### Article R111-22
 
 Les indemnités forfaitaires des administrateurs ad hoc sont à la charge de l'Etat.
@@ -3251,12 +3227,7 @@ Les indemnités forfaitaires des administrateurs ad hoc sont à la charge de l'E
 
 Lorsque, dans le ressort de la cour d'appel, il n'est pas possible de désigner l'une des personnes figurant sur la liste prévue à l'article [R. 111-13](#article-r111-13) ou que cette liste n'a pas été encore constituée, la désignation d'un administrateur ad hoc en application des dispositions de l'article [L. 221-5](#article-l221-5) ou de celles de l'article [L. 751-1](#article-l751-1) est faite, à titre provisoire et jusqu'à l'établissement ou la mise à jour annuelle de la liste, parmi les personnes physiques ou morales remplissant les conditions définies aux articles [R. 111-14](#article-r111-14) et [R. 111-15](#article-r111-15) ou parmi les personnes figurant sur la liste prévue à l'article R. 53 du code de procédure pénale.
 
-Il est alloué aux personnes ainsi désignées l'indemnité prévue aux articles [R. 111-20](#article-r111-20) et [R. 111-21](#article-r111-21).
-
-
-##### Article R111-24
-
-Les dispositions de la présente section ne sont pas applicables à Mayotte.
+Il est alloué aux personnes ainsi désignées l'indemnité prévue aux articles R. 111-20 et R. 111-21.
 
 
 ##### Section 3 : Commission nationale de contrôle des centres et locaux de rétention et des zones d'attente
@@ -4091,7 +4062,7 @@ La décision écrite et motivée prononçant le maintien en zone d'attente d'un 
 
 #### Article R221-2
 
-Les administrateurs ad hoc chargés d'assister les mineurs non accompagnés d'un représentant légal lors de leur maintien en zone d'attente, mentionnés à l'article [L. 221-5](#article-l221-5), sont désignés et indemnisés conformément aux dispositions des articles [R. 111-13](#article-r111-13) à [R. 111-24](#article-r111-24).
+Les administrateurs ad hoc chargés d'assister les mineurs non accompagnés d'un représentant légal lors de leur maintien en zone d'attente, mentionnés à l'article [L. 221-5](#article-l221-5), sont désignés et indemnisés conformément aux dispositions des articles [R. 111-13](#article-r111-13) à R. 111-24.
 
 
 #### Article R221-3
@@ -7957,7 +7928,7 @@ La carte de séjour temporaire est renouvelée selon les modalités définies au
 
 ### Article R751-1
 
-Les administrateurs ad hoc chargés d'assister les mineurs non accompagnés d'un représentant légal qui demandent l'asile, mentionnés à l'article [L. 751-1](#article-l751-1), sont désignés et indemnisés conformément aux dispositions des articles [R. 111-13](#article-r111-13) à [R. 111-24](#article-r111-24).
+Les administrateurs ad hoc chargés d'assister les mineurs non accompagnés d'un représentant légal qui demandent l'asile, mentionnés à l'article [L. 751-1](#article-l751-1), sont désignés et indemnisés conformément aux dispositions des articles [R. 111-13](#article-r111-13) à R. 111-24.
 
 
 ### TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES
