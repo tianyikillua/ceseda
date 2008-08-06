@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 3 août 2008
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20080803)
+- Date de consolidation : 6 août 2008
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20080806)
 
 
 # Partie législative
@@ -1084,13 +1084,22 @@ La carte de résident délivrée en Nouvelle-Calédonie est valable sur le terri
 
 ###### Article L314-14
 
-A l'expiration de sa carte de résident délivrée sur le fondement de l'article [L. 314-8](#article-l314-8), [L. 314-9](#article-l314-9), [L. 314-11](#article-l314-11) ou [L. 314-12](#article-l314-12), une carte de résident permanent, à durée indéterminée, peut être délivrée à l'étranger qui en fait la demande, sauf si sa présence constitue une menace pour l'ordre public et à condition qu'il satisfasse aux conditions prévues à l'article [L. 314-2](#article-l314-2).
+A l'expiration de sa carte de résident délivrée sur le fondement de l'article [L. 314-8](#article-l314-8), [L. 314-9](#article-l314-9), [L. 314-11](#article-l314-11), [L. 314-12](#article-l314-12) ou [L. 314-15](#article-l314-15), une carte de résident permanent, à durée indéterminée, peut être délivrée à l'étranger qui en fait la demande, sauf si sa présence constitue une menace pour l'ordre public et à condition qu'il satisfasse aux conditions prévues à l'article [L. 314-2](#article-l314-2).
 
 Lors du dépôt de sa demande de renouvellement de carte de résident, l'étranger est dûment informé des conditions dans lesquelles il pourra se voir accorder une carte de résident permanent.
 
 Les articles [L. 314-4](#article-l314-4) à [L. 314-7](#article-l314-7) sont applicables à la carte de résident permanent.
 
 Lorsque la carte de résident permanent est retirée à un ressortissant étranger qui ne peut faire l'objet d'une mesure d'expulsion en application des articles [L. 521-2](#article-l521-2) ou [L. 521-3](#article-l521-3), une carte de séjour temporaire lui est délivrée de plein droit.
+
+
+###### Sous-section 5 : Carte de résident délivrée pour une contribution économique exceptionnelle
+
+###### Article L314-15
+
+L'étranger qui apporte une contribution économique exceptionnelle à la France peut, sous réserve de la régularité du séjour, se voir délivrer la carte de résident.
+
+Un décret en Conseil d'Etat définit les modalités d'application du présent article. Il détermine notamment les motifs pour lesquels la carte peut être retirée.
 
 
 #### Chapitre V : La carte de séjour portant la mention "compétences et talents"
