@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 6 août 2008
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20080806)
+- Date de consolidation : 24 août 2008
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20080824)
 
 
 # Partie législative
@@ -3160,6 +3160,11 @@ Lors de leur inscription initiale sur la liste ou de leur réinscription après 
 " Je jure d'exercer ma mission en mon honneur et conscience et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à cette occasion. "
 
 Pour les personnes morales, le serment est prêté par leur représentant désigné à cet effet.
+
+
+##### Article R111-12-1
+
+L'autorité administrative compétente pour agréer un organisme d'interprétariat et de traduction en application du deuxième alinéa de l'article [L. 111-8](#article-l111-8) est le ministre chargé de l'immigration.
 
 
 ##### Section 2 : Administrateurs ad hoc désignés pour la représentation des mineurs maintenus en zone d'attente ou demandeurs du statut de réfugié
@@ -6623,7 +6628,7 @@ Pour la mise en oeuvre des articles [L. 552-7](#article-l552-7) et [L. 552-8](#a
 
 ###### Article R552-12
 
-L' ordonnance est susceptible d' appel devant le premier président de la cour d' appel ou son délégué, dans les vingt- quatre heures de son prononcé, par l' étranger, par le préfet de département et, à Paris, par le préfet de police. Le délai ainsi prévu est calculé et prorogé conformément aux articles 640 et 642 du code de procédure civile.
+L' ordonnance est susceptible d' appel devant le premier président de la cour d' appel ou son délégué, dans les vingt-quatre heures de son prononcé, par l' étranger, par le préfet de département et, à Paris, par le préfet de police. Lorsque l'étranger n'assiste pas à l'audience, le délai court pour ce dernier à compter de la notification qui lui est faite. Le délai ainsi prévu est calculé et prorogé conformément aux articles 640 et 642 du code de procédure civile.
 
 Le ministère public peut également interjeter appel de cette ordonnance selon les mêmes modalités, alors même qu' il a renoncé à solliciter la suspension provisoire.
 
@@ -6672,23 +6677,68 @@ L'ordonnance du premier président de la cour d'appel ou de son délégué n'est
 
 ##### Section 5 : Saisine du juge par l'étranger et décisions de mise en liberté prises par le juge de sa propre initiative ou à la demande du ministère public
 
-##### Article R552-17
+###### Sous-section 1 : Saisine et décision du juge des libertés et de la détention
+
+###### Article R552-17
 
 L'étranger en rétention qui demande, hors des audiences prévues aux articles [R. 552-9](#article-r552-9) et [R. 552-15](#article-r552-15), qu'il soit mis fin à sa rétention saisit le juge des libertés et de la détention par simple requête adressée par tout moyen au juge. A peine d'irrecevabilité, la requête est motivée et signée de l'étranger ou de son représentant, et accompagnée de toutes les pièces justificatives.
 
 Il est procédé comme il est dit à la section 1 du présent chapitre. Toutefois, le juge peut rejeter la requête sans avoir préalablement convoqué les parties s'il apparaît qu'aucune circonstance nouvelle de fait ou de droit n'est intervenue depuis le placement en rétention administrative ou son renouvellement, ou que les éléments fournis à l'appui de la demande ne permettent manifestement pas de justifier qu'il soit mis fin à la rétention.
 
 
-##### Article R552-18
+###### Article R552-18
 
 Indépendamment de la mise en oeuvre des dispositions de l'article [R. 552-17](#article-r552-17), le juge des libertés et de la détention peut, à tout moment, après avoir mis l'autorité administrative en mesure de présenter ses observations, de sa propre initiative ou à la demande du ministère public, décider la mise en liberté de l'étranger lorsque les circonstances de droit ou de fait le justifient.
 
 
-##### Article R552-19
+###### Article R552-19
 
 L'ordonnance du juge des libertés et de la détention est notifiée sans délai et par tout moyen à l'étranger et à son conseil, au préfet de département et, à Paris, au préfet de police ainsi qu'au ministère public.
 
-Elle n'est susceptible d'aucun recours autre qu'un pourvoi en cassation fondé sur un excès de pouvoir ou la violation d'un principe fondamental de la procédure.
+
+###### Sous-section 2 : Appel
+
+###### Article R552-20
+
+L'ordonnance mentionnée à l'article [R. 552-19](#article-r552-19) est susceptible d'appel devant le premier président de la cour d'appel ou son délégué, dans les vingt-quatre heures de sa notification, par l'étranger, par le ministère public, par le préfet de département et, à Paris, par le préfet de police. Le délai ainsi prévu est calculé et prorogé conformément aux articles 640 et 642 du code de procédure civile.
+
+L'appel n'est pas suspensif. Toutefois, le ministère public peut solliciter du premier président ou de son délégué qu'il déclare son recours suspensif, lorsqu'il lui apparaît que l'intéressé ne dispose pas de garanties de représentation effectives ou en cas de menace grave pour l'ordre public.
+
+Dans ce cas, l'appel est formé dans un délai de quatre heures à compter de la notification de l'ordonnance au procureur de la République.
+
+Le ministère public fait notifier la déclaration d'appel, accompagnée de la demande qui se réfère à l'absence de garanties de représentation effectives ou à la menace grave pour l'ordre public, immédiatement et par tout moyen à l'autorité administrative, à l'étranger et, le cas échéant, à son avocat, qui en accusent réception.
+
+La notification mentionne que des observations en réponse à la demande de déclaration d'appel suspensif peuvent être transmises par tout moyen au secrétariat du premier président ou de son délégué dans un délai de deux heures.
+
+
+###### Article R552-21
+
+Le premier président ou son délégué est saisi par une déclaration d'appel motivée transmise par tout moyen au greffe de la cour d'appel. La déclaration est enregistrée avec mention de la date et de l'heure.
+
+Le greffier de la cour d'appel avise immédiatement le greffier du tribunal de grande instance qui lui transmet sans délai le dossier.
+
+
+###### Article R552-22
+
+Le premier président ou son délégué statue sans délai sur la demande visant à déclarer l'appel suspensif, en fonction des garanties de représentation dont dispose l'étranger ou de la menace grave pour l'ordre public, après que l'étranger ou son conseil a été mis à même de transmettre ses observations, suivant les modalités définies au dernier alinéa de l'article [R. 552-20](#article-r552-20), par une ordonnance motivée rendue contradictoirement, non susceptible de recours.
+
+L'intéressé est maintenu à la disposition de la justice jusqu'à ce que cette ordonnance soit rendue et, si elle donne un effet suspensif à l'appel du ministère public, jusqu'à ce qu'il soit statué au fond.
+
+La décision sur le caractère suspensif de l'appel est portée à la connaissance de l'étranger et de son conseil par le greffe de la cour d'appel et communiquée au procureur de la République, qui veille à son exécution et en informe l'autorité administrative.
+
+Lorsque l'étranger est maintenu à la disposition de la justice, le procureur de la République décide des conditions de ce maintien. Il en informe sans délai l'étranger et l'autorité administrative qui a prononcé la rétention.
+
+
+###### Article R552-23
+
+Selon les modalités définies à l'article [R. 552-15](#article-r552-15), les parties sont entendues ou appelées, le premier président ou son délégué statue au fond et l'ordonnance est notifiée.
+
+
+###### Sous-section 3 : Pourvoi en cassation
+
+###### Article R552-24
+
+L'ordonnance du premier président ou de son délégué n'est pas susceptible d'opposition. Le pourvoi en cassation est ouvert à l'étranger, à l'autorité administrative qui a prononcé la rétention et au ministère public.
 
 
 #### Chapitre III : Conditions de la rétention
@@ -6815,11 +6865,46 @@ Pendant la durée de leur séjour en rétention, les étrangers sont hébergés 
 Les étrangers placés ou maintenus dans un centre de rétention administrative bénéficient d'actions d'accueil, d'information, de soutien moral et psychologique et d'aide pour préparer les conditions matérielles de leur départ, qui portent notamment sur la récupération des bagages des personnes retenues, la réalisation de formalités administratives, l'achat de produits de vie courante et, le cas échéant, les liens avec le pays d'origine, notamment la famille. Pour la conduite de ces actions, l'Etat a recours à l'Agence nationale de l'accueil des étrangers et des migrations. Une convention détermine les conditions d'affectation et d'intervention des agents de cet établissement public.
 
 
-##### Article R553-14
+##### Section 2 bis : Intervention des personnes morales
 
-Pour permettre l'exercice effectif de leurs droits par les étrangers maintenus dans un centre de rétention administrative, l'Etat passe une convention avec une association à caractère national ayant pour objet d'informer les étrangers et de les aider à exercer leurs droits. L'association assure à cette fin, dans chaque centre des prestations d'information, par l'organisation de permanences et la mise à disposition de documentation. Les étrangers retenus bénéficient de ces prestations sans formalité dans les conditions prévues par le règlement intérieur.
+###### Sous-section 1 : Cas des centres de rétention administrative
 
-Les étrangers maintenus dans les locaux de rétention mentionnés à l'article [R. 551-3](#article-r551-3) peuvent bénéficier du concours d'une association ayant pour objet d'informer les étrangers et de les aider à exercer leurs droits, à leur demande ou à l'initiative de celle-ci, dans des conditions définies par convention.
+###### Article R553-14
+
+Pour permettre l'exercice effectif de leurs droits par les étrangers maintenus dans un centre de rétention administrative, le ministre chargé de l'immigration conclut une convention avec une ou plusieurs personnes morales ayant pour mission d'informer les étrangers et de les aider à exercer leurs droits. A cette fin, la personne morale assure, dans chaque centre dans lequel elle est chargée d'intervenir, des prestations d'information, par l'organisation de permanences et la mise à disposition de documentation. Ces prestations sont assurées par une seule personne morale par centre. Les étrangers retenus en bénéficient sans formalité dans les conditions prévues par le règlement intérieur.
+
+
+###### Article R553-14-1
+
+L'accès aux centres de rétention administrative des représentants des personnes morales ayant conclu une convention en application de l'article [R. 553-14](#article-r553-14) est subordonné à un agrément individuel accordé pour une durée de trois ans par le préfet ou, à Paris, par le préfet de police, sur proposition de chacune des personnes morales avec lesquelles le ministre chargé de l'immigration a conclu une convention.
+
+Les conventions mentionnées à l'article [R. 553-14](#article-r553-14) déterminent le nombre des agréments individuels propres à chaque centre pour lequel la personne morale est chargée d'intervenir.
+
+Les conventions mentionnées à l'article [R. 553-14](#article-r553-14) déterminent en outre le nombre des agréments individuels permettant l'accès à tous les centres dans lesquels la personne morale est chargée d'intervenir.
+
+Ces agréments sont délivrés par le ministre chargé de l'immigration.
+
+Les agréments individuels sont renouvelables.
+
+Une personne physique ne peut représenter plus d'une personne morale.
+
+
+###### Sous-section 2 : Cas des locaux de rétention administrative
+
+###### Article R553-14-2
+
+Pour permettre l'exercice effectif de leurs droits, les étrangers maintenus dans un des locaux de rétention mentionnés à l'article [R. 551-3](#article-r551-3) peuvent bénéficier du concours d'une personne morale, à leur demande ou à l'initiative de celle-ci, dans des conditions définies par convention conclue par le préfet ou, à Paris, par le préfet de police. Dans chaque local de rétention, ce concours est assuré par une seule personne morale.
+
+
+###### Article R553-14-3
+
+L'accès à un local de rétention administrative des représentants des personnes morales ayant conclu une convention en application de l'article [R. 553-14-2](#article-r553-14-2) est subordonné à un agrément individuel accordé pour une durée de trois ans par le préfet ou, à Paris, par le préfet de police, sur proposition de chacune des personnes morales avec lesquelles il a passé une convention.
+
+Les conventions mentionnées à l'article [R. 553-14-2](#article-r553-14-2) déterminent le nombre des agréments individuels propres à chaque local dans lequel la personne morale est chargée d'intervenir.
+
+Cet agrément est renouvelable.
+
+Une personne physique ne peut représenter plus d'une personne morale.
 
 
 ##### Section 3 : Demandes d'asile formulées par des étrangers retenus.
@@ -7309,7 +7394,7 @@ La finalité de ce dispositif est d'améliorer la vérification de l'authenticit
 
 L'entreprise de transport crée préalablement à l'embarquement une image numérisée du document de voyage et, s'il est requis, du visa présentés par chaque passager relevant du champ d'application de l'article [L. 625-1](#article-l625-1) du code de l'entrée et du séjour des étrangers et du droit d'asile.
 
-Ces images sont stockées sur un CD-Rom d'une capacité usuelle selon des modalités techniques définies par arrêté du ministre de l'intérieur et du ministre chargé des transports.
+Ces images sont stockées sur un CD-Rom d'une capacité usuelle selon des modalités techniques définies par arrêté du ministre chargé de l'immigration et du ministre chargé des transports.
 
 
 ##### Article R625-7
