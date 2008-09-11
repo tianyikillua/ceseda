@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 24 août 2008
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20080824)
+- Date de consolidation : 11 septembre 2008
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20080911)
 
 
 # Partie législative
@@ -3232,6 +3232,21 @@ Les décisions prises en vertu du présent article ne peuvent donner lieu qu'à 
 Dans le mois de l'achèvement de chaque mission, l'administrateur ad hoc transmet au procureur de la République un rapport détaillant les démarches effectuées et, le cas échéant, aux fins d'assurer au mieux sa protection, les éléments d'information recueillis sur le mineur.
 
 
+##### Article R111-20
+
+En sus du remboursement de ses frais de déplacement, calculés dans les conditions fixées pour les déplacements des personnels civils de l'Etat pour le ministère de la justice, il est alloué à chaque personne désignée en qualité d'administrateur ad hoc lorsqu'elle figure sur la liste prévue à l'article [R. 111-13](#article-r111-13) :
+
+1. Une indemnité au titre des frais exposés pour l'assistance du mineur durant son maintien en zone d'attente et sa représentation dans toutes les procédures administratives et juridictionnelles relatives à ce maintien ainsi que celles afférentes à son entrée sur le territoire national en vertu des dispositions du titre II du livre II et de l'article [L. 624-1](#article-l624-1) du présent code et des articles [L. 521-1](#article-l521-1), [L. 521-2](#article-l521-2) et [L. 521-3](#article-l521-3) du code de justice administrative ;
+
+2. Une indemnité au titre des frais exposés pour l'assistance du mineur et sa représentation dans la procédure relative à l'examen de sa demande d'asile par l'Office français de protection des réfugiés et des apatrides en application des dispositions du livre VII du présent code ;
+
+3. Une indemnité au titre des frais exposés pour l'assistance du mineur et sa représentation dans les procédures relatives à l'examen de sa demande d'asile devant la Cour nationale du droit d'asile et devant le Conseil d'Etat, en application des dispositions du livre VII du présent code.
+
+Une indemnité de carence est allouée lorsque la mission n'a pu être réalisée pour une cause étrangère à l'administrateur ad hoc, sur la base d'un rapport indiquant les diligences accomplies, dans les conditions définies à l'article R. 53-8 du code de procédure pénale.
+
+Le montant des indemnités est fixé par arrêté du garde des sceaux, ministre de la justice, et du ministre chargé du budget.
+
+
 ##### Article R111-22
 
 Les indemnités forfaitaires des administrateurs ad hoc sont à la charge de l'Etat.
@@ -3241,7 +3256,7 @@ Les indemnités forfaitaires des administrateurs ad hoc sont à la charge de l'E
 
 Lorsque, dans le ressort de la cour d'appel, il n'est pas possible de désigner l'une des personnes figurant sur la liste prévue à l'article [R. 111-13](#article-r111-13) ou que cette liste n'a pas été encore constituée, la désignation d'un administrateur ad hoc en application des dispositions de l'article [L. 221-5](#article-l221-5) ou de celles de l'article [L. 751-1](#article-l751-1) est faite, à titre provisoire et jusqu'à l'établissement ou la mise à jour annuelle de la liste, parmi les personnes physiques ou morales remplissant les conditions définies aux articles [R. 111-14](#article-r111-14) et [R. 111-15](#article-r111-15) ou parmi les personnes figurant sur la liste prévue à l'article R. 53 du code de procédure pénale.
 
-Il est alloué aux personnes ainsi désignées l'indemnité prévue aux articles R. 111-20 et R. 111-21.
+Il est alloué aux personnes ainsi désignées l'indemnité prévue aux articles [R. 111-20](#article-r111-20) et R. 111-21.
 
 
 ##### Section 3 : Commission nationale de contrôle des centres et locaux de rétention et des zones d'attente
