@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 29 décembre 2008
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20081229)
+- Date de consolidation : 1er janvier 2009
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20090101)
 
 
 # Partie législative
@@ -7201,7 +7201,7 @@ II.-Peuvent en outre accéder aux données mentionnées à l'article [D. 611-2](
 
 -les agents des services de renseignement du ministère de la défense chargés des missions de prévention des actes de terrorisme.
 
-III.-Les dispositions du II sont applicables jusqu'au 31 décembre 2008.
+III.-Les dispositions du II sont applicables jusqu'au 31 décembre 2012.
 
 
 ##### Article D611-4
@@ -7300,7 +7300,7 @@ III. - Peuvent également accéder aux données à caractère personnel enregist
 
 2. Les agents des services de renseignement du ministère de la défense, chargés des missions de prévention des actes de terrorisme, individuellement désignés et spécialement habilités par le directeur général de la sécurité extérieure, le directeur de la protection et de la sécurité de la défense ou le directeur du renseignement militaire.
 
-IV. - Les dispositions du III sont applicables jusqu'au 31 décembre 2008.
+IV. - Les dispositions du III sont applicables jusqu'au 31 décembre 2012.
 
 
 ##### Article R611-13
@@ -7371,7 +7371,7 @@ II. - Peuvent également accéder aux données mentionnées au I, dans les condi
 
 2. Les agents des services de renseignement du ministère de la défense, chargés des missions de prévention des actes de terrorisme, individuellement désignés et spécialement habilités par le directeur général de la sécurité extérieure, le directeur de la protection et de la sécurité de la défense ou le directeur du renseignement militaire.
 
-III. - Les dispositions du II sont applicables jusqu'au 31 décembre 2008.
+III. - Les dispositions du II sont applicables jusqu'au 31 décembre 2012.
 
 IV. - Les destinataires des informations mentionnées à l'annexe 6-6 sont les agents mentionnés au I.
 
@@ -7746,8 +7746,6 @@ Il étudie et propose au Gouvernement toutes mesures propres à améliorer le so
 
 Il adresse chaque année le rapport d'activité aux ministres intéressés.
 
-Avant que le conseil d'administration délibère sur le budget, le directeur général recueille les propositions du président de la Cour nationale du droit d'asile sur les moyens à affecter au fonctionnement de cette dernière.
-
 
 ##### Article R722-3
 
@@ -7832,7 +7830,7 @@ Les dépenses de l'office comprennent :
 
 2. Les frais de fonctionnement et d'équipement ;
 
-3. De façon générale, toutes dépenses nécessaires à l'activité de l'office et de la Cour nationale du droit d'asile.
+3. De façon générale, toutes dépenses nécessaires à l'activité de l'office.
 
 
 #### Chapitre III : Examen des demandes d'asile.
@@ -7899,30 +7897,36 @@ Lorsqu'une demande d'asile est rejetée, le directeur général de l'office tran
 
 Le président de la Cour nationale du droit d'asile est nommé pour une durée de cinq ans, renouvelable.
 
-Il est responsable de l'organisation et du fonctionnement de la cour. Il prend notamment les mesures nécessaires à la constitution et au fonctionnement des sections.
+Il est responsable de l'organisation et du fonctionnement de la juridiction qu'il préside. Il assure la direction des services de cette juridiction et le maintien de la discipline intérieure.
+
+Il détermine la composition des sections, la répartition des affaires entre chacune d'elles ainsi que l'affectation de leurs membres.
 
 Il peut présider chacune des sections.
 
 Il est assisté de vice-présidents qu'il désigne chaque année parmi les présidents de section.
 
-Pour les actes de gestion et d'administration courante, le président peut déléguer sa signature au secrétaire général et aux secrétaires généraux adjoints.
+Pour les actes de gestion et d'administration courante, le président peut déléguer sa signature au secrétaire général et aux secrétaires généraux adjoints ainsi qu'aux fonctionnaires appartenant à un corps de catégorie A et aux agents contractuels chargés de fonctions d'un niveau équivalent.
 
 
 #### Article R732-2
 
-Le secrétariat de la Cour nationale du droit d'asile est assuré par un secrétaire général nommé par le président de la cour.
+Le secrétariat de la Cour nationale du droit d'asile est assuré par un secrétaire général nommé par le vice-président du Conseil d'Etat sur proposition du président de la cour.
 
-Le secrétaire général est assisté de secrétaires généraux adjoints. Il a également sous son autorité des chefs de service chargés de la mise en état des affaires en vue de leur jugement et de l'expédition des décisions rendues.
+Sous l'autorité du président de la cour, le secrétaire général encadre les services de la juridiction et veille à leur bon fonctionnement. Il est assisté par des secrétaires généraux adjoints.
 
 
 #### Article R732-3
 
-Le directeur général de l'office met à la disposition de la cour les moyens nécessaires au fonctionnement de celle-ci. L'affectation du personnel mis à disposition est décidée par le président de la cour.
+Le vice-président du Conseil d'Etat ordonnance les dépenses de la Cour nationale du droit d'asile.
+
+Il peut, à cet effet, déléguer sa signature au secrétaire général et aux secrétaires généraux adjoints du Conseil d'Etat. Délégation peut également être donnée, aux mêmes fins, aux chefs de service du Conseil d'Etat et aux fonctionnaires du secrétariat général appartenant à un corps de catégorie A ainsi qu'aux agents contractuels chargés de fonctions d'un niveau équivalent.
+
+Le président de la Cour nationale du droit d'asile est institué ordonnateur secondaire des dépenses de fonctionnement de la juridiction qu'il préside. Il peut déléguer sa signature au secrétaire général et aux secrétaires généraux adjoints de la cour.
 
 
 #### Article R732-4
 
-Les membres des formations de jugement de la cour sont nommés pour une période de cinq ans, renouvelable.
+Les membres des formations de jugement de la cour sont nommés pour une période de trois ans, renouvelable.
 
 
 #### Article R732-5
@@ -7932,6 +7936,18 @@ La formation de sections réunies comprend la section saisie du recours et deux 
 Elle est présidée par le président de la cour et, en cas d'empêchement, par le plus ancien des présidents de section.
 
 Le moins ancien des présidents de section, autre que le président de la section saisie du recours, ne siège pas.
+
+
+#### Article R732-6
+
+Chaque année, avant le 1er février, le président de la cour adresse au vice-président du Conseil d'Etat un rapport d'activité de la juridiction qu'il préside.
+
+Le président de la cour joint à ce rapport toutes observations utiles au sujet des questions d'intérêt général se rapportant aux travaux de la juridiction qu'il préside.
+
+
+#### Article R732-7
+
+L'assemblée générale des présidents de section se réunit au moins une fois par an. Le président de la cour la convoque pour la consulter sur les sujets d'intérêt commun qu'il détermine.
 
 
 #### Chapitre III : Examen des recours
@@ -7950,7 +7966,7 @@ La procédure devant la cour est gratuite et sans frais.
 
 ##### Article R733-3
 
-Les rapporteurs chargés de l'instruction des affaires peuvent être pris en dehors du personnel affecté à la cour ; ils sont alors désignés par arrêté du ministre chargé de l'asile.
+Les rapporteurs chargés de l'instruction des affaires peuvent être pris en dehors du personnel affecté à la cour ; ils sont alors désignés par arrêté du vice-président du Conseil d'Etat, sur proposition du président de la cour.
 
 
 ##### Article R733-4
