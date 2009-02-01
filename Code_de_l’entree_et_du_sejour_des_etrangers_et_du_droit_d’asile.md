@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 5 janvier 2009
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20090105)
+- Date de consolidation : 1er février 2009
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20090201)
 
 
 # Partie législative
@@ -6375,7 +6375,7 @@ Les modalités selon lesquelles le tribunal administratif examine les recours en
 
 " Art.R. 776-2 du code de justice administrative :
 
-" Les jugements sont rendus par le président du tribunal administratif ou le magistrat qu'il délègue, sans conclusions du commissaire du Gouvernement.
+" Les jugements sont rendus par le président du tribunal administratif ou le magistrat qu'il délègue, sans conclusions du rapporteur public.
 
 " Art.R. 776-2-1 du code de justice administrative :
 
