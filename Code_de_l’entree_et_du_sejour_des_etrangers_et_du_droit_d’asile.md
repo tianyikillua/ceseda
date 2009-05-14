@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 3 avril 2009
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20090403)
+- Date de consolidation : 14 mai 2009
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20090514)
 
 
 # Partie législative
@@ -2086,9 +2086,9 @@ La libération conditionnelle des étrangers condamnés à une peine privative d
 
 " Art. 729-2 du code de procédure pénale.
 
-" Lorsqu'un étranger condamné à une peine privative de liberté est l'objet d'une mesure d'interdiction du territoire français, de reconduite à la frontière, d'expulsion ou d'extradition, sa libération conditionnelle est subordonnée à la condition que cette mesure soit exécutée. Elle peut être décidée sans son consentement.
+" Lorsqu'un étranger condamné à une peine privative de liberté est l'objet d'une mesure d'interdiction du territoire français, de reconduite à la frontière, d'expulsion, d'extradition ou de remise sur le fondement d'un mandat d'arrêt européen, sa libération conditionnelle est subordonnée à la condition que cette mesure soit exécutée. Elle peut être décidée sans son consentement.
 
-" Par exception aux dispositions de l'alinéa précédent, le juge de l'application des peines, ou le tribunal de l'application des peines, peut également accorder une libération conditionnelle à un étranger faisant l'objet d'une peine complémentaire d'interdiction du territoire français en ordonnant la suspension de l'exécution de cette peine pendant la durée des mesures d'assistance et de contrôle prévue à l'article 732.A l'issue de cette durée, si la décision de mise en liberté conditionnelle n'a pas été révoquée, l'étranger est relevé de plein droit de la mesure d'interdiction du territoire français. Dans le cas contraire, la mesure redevient exécutoire. "
+Par exception aux dispositions de l'alinéa précédent, le juge de l'application des peines, ou le tribunal de l'application des peines, peut également accorder une libération conditionnelle à un étranger faisant l'objet d'une peine complémentaire d'interdiction du territoire français en ordonnant la suspension de l'exécution de cette peine pendant la durée des mesures d'assistance et de contrôle prévue à l'article 732. A l'issue de cette durée, si la décision de mise en liberté conditionnelle n'a pas été révoquée, l'étranger est relevé de plein droit de la mesure d'interdiction du territoire français. Dans le cas contraire, la mesure redevient exécutoire. "
 
 
 #### Article L561-2
@@ -2266,13 +2266,7 @@ Les étrangers condamnés au titre de l'un des délits prévus à l'article [L. 
 
 #### Article L622-8
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions prévues aux articles [L. 622-1](#article-l622-1) et [L. 622-5](#article-l622-5).
-
-Les peines encourues par les personnes morales sont :
-
-1. L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2. Les peines mentionnées aux 1°, 2°, 3°, 4°, 5°, 8° et 9° de l'article 131-39 du code pénal.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions définies aux articles [L. 622-1](#article-l622-1) et [L. 622-5](#article-l622-5) encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal, les peines prévues par les 1° à 5°, 8° et 9° de l'article 131-39 du même code.
 
 L'interdiction visée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
 
@@ -2315,13 +2309,7 @@ Les personnes physiques condamnées au titre de l'infraction visée au troisièm
 
 #### Article L623-3
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions prévues aux deuxième et troisième alinéas de l'article [L. 623-1](#article-l623-1).
-
-Les peines encourues par les personnes morales sont :
-
-1. L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2. Les peines mentionnées aux 1°, 2°, 3°, 4°, 5° et 9° de l'article 131-39 du code pénal.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions définies aux deuxième et troisième alinéas de l'article [L. 623-1](#article-l623-1) encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal, les peines prévues par les 1° à 5° et 9° de l'article 131-39 du même code.
 
 L'interdiction visée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
 
