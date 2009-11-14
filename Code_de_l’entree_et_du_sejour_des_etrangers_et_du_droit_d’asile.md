@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 31 octobre 2009
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20091031)
+- Date de consolidation : 14 novembre 2009
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20091114)
 
 
 # Partie législative
@@ -5105,7 +5105,7 @@ Cette convention atteste que le scientifique bénéficie de ressources suffisant
 
 Pour l'application de l'article [L. 313-9](#article-l313-9), l'étranger artiste-interprète ou auteur d'oeuvre littéraire ou artistique présente à l'appui de sa demande un contrat d'une durée supérieure à trois mois conclu avec une entreprise ou un établissement dont l'activité principale comporte la création ou l'exploitation d'oeuvres de l'esprit. Ce contrat est visé :
 
-1. S'il s'agit d'un contrat de travail, par le directeur départemental du travail, de l'emploi et de la formation professionnelle du lieu de résidence de l'étranger ;
+1. S'il s'agit d'un contrat de travail, par le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du lieu de résidence de l'étranger ;
 
 2. Dans les autres cas, par le directeur régional des affaires culturelles du lieu où est situé l'entreprise ou l'établissement signataire du contrat. L'appréciation préalable à la délivrance du visa porte, d'une part, sur l'objet et la réalité de l'activité de l'entreprise ou de l'établissement et, d'autre part, sur l'objet du contrat.
 
