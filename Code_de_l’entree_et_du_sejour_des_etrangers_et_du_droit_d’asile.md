@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 5 mars 2010
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20100305)
+- Date de consolidation : 11 mars 2010
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20100311)
 
 
 # Partie législative
@@ -693,7 +693,7 @@ L'article [L. 311-13](#article-l311-13) est applicable à la délivrance, au ren
 
 ##### Article L311-15
 
-Tout employeur qui embauche un travailleur étranger acquitte, lors de la première entrée en France de cet étranger ou lors de sa première admission au séjour en qualité de salarié, une taxe au profit de l'Office français de l'immigration et de l'intégration ou de l'établissement public appelé à lui succéder.
+Tout employeur qui embauche un travailleur étranger ou qui accueille un salarié détaché temporairement par une entreprise non établie en France dans les conditions prévues au titre VI du livre II de la première partie du code du travail acquitte, lors de la première entrée en France de cet étranger ou lors de sa première admission au séjour en qualité de salarié, une taxe au profit de l'Office français de l'immigration et de l'intégration ou de l'établissement public appelé à lui succéder.
 
 Lorsque l'embauche intervient pour une durée supérieure ou égale à douze mois, le montant de cette taxe est de :
 
