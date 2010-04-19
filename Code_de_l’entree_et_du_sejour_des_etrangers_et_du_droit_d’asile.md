@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 1er avril 2010
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20100401)
+- Date de consolidation : 19 avril 2010
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20100419)
 
 
 # Partie législative
@@ -7141,7 +7141,7 @@ Un exemplaire en langue française et traduit dans les langues prévues à l'ali
 
 ###### Article R553-5
 
-Les locaux mentionnés à l'article [R. 551-3](#article-r551-3) sont créés, à titre permanent ou pour une durée déterminée, par arrêté préfectoral. Une copie de cet arrêté est transmise sans délai au procureur de la République, au directeur départemental des affaires sanitaires et sociales et au président de la Commission nationale de contrôle des centres et locaux de rétention administrative et des zones d'attente.
+Les locaux mentionnés à l'article [R. 551-3](#article-r551-3) sont créés, à titre permanent ou pour une durée déterminée, par arrêté préfectoral. Une copie de cet arrêté est transmise sans délai au procureur de la République, au directeur départemental des affaires sanitaires et sociales et au Contrôleur général des lieux de privation de liberté.
 
 
 ###### Article R553-6
@@ -7173,11 +7173,6 @@ Un local réservé aux avocats et permettant de préserver la confidentialité d
 Dans les conditions prévues aux articles [R. 553-3](#article-r553-3) et [R. 553-6](#article-r553-6), des locaux et des moyens matériels adaptés doivent permettre au personnel de santé de donner des consultations et de dispenser des soins dans les centres et locaux de rétention.
 
 Les conditions dans lesquelles le service public hospitalier intervient au bénéfice des personnes retenues, en application des articles L. 6112-1 et L. 6112-8 du code de la santé publique, sont précisées par voie de convention passée entre le préfet territorialement compétent et un établissement public hospitalier selon des modalités définies par arrêté conjoint du ministre chargé de l'immigration, du ministre chargé des affaires sociales et du ministre chargé de la santé. Pour les centres de rétention administrative, cet arrêté précise notamment les conditions de présence et de qualification des personnels de santé ainsi que les dispositions sanitaires applicables en dehors de leurs heures de présence au centre.
-
-
-###### Article R553-9
-
-Les crédits relatifs à la construction et à l'entretien immobilier des centres et locaux de rétention sont inscrits aux budgets des ministères de l'intérieur et de la défense, chacun en ce qui le concerne.
 
 
 ##### Section 2 : Droits des étrangers retenus
