@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 19 avril 2010
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20100419)
+- Date de consolidation : 13 juin 2010
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20100613)
 
 
 # Partie législative
@@ -7405,7 +7405,13 @@ La mise en oeuvre de cette application dans les services de l'Etat dans un dépa
 
 Est autorisée la création, sur le fondement de l'article [L. 611-6](#article-l611-6), d'un traitement automatisé de données à caractère personnel dénommé VISABIO, relevant du ministère des affaires étrangères et du ministère chargé de l'immigration.
 
-Ce traitement a pour finalité de mieux garantir le droit au séjour des personnes en situation régulière et de lutter contre l'entrée et le séjour irréguliers des étrangers en France, en prévenant les fraudes documentaires et les usurpations d'identité. Il vise :
+Ce traitement a pour finalité :
+
+-de mieux garantir le droit au séjour des personnes en situation régulière et de lutter contre l'entrée et le séjour irréguliers des étrangers en France, en prévenant les fraudes documentaires et les usurpations d'identité ;
+
+-de permettre l'instruction des demandes de visas en procédant notamment à l'échange d'informations, d'une part, avec des autorités nationales, d'autre part, avec les autorités des Etats Schengen au travers du système d'information sur les visas (VIS) pour les données biométriques se rapportant aux visas pour un séjour d'une durée inférieure à trois mois délivrés par les autorités françaises.
+
+Il vise :
 
 1. A améliorer les conditions de délivrance des visas en permettant de déceler les demandes présentées par la même personne sous plusieurs identités ;
 
@@ -7422,7 +7428,7 @@ Les données à caractère personnel enregistrées dans le traitement automatis�
 
 1. Les images numérisées de la photographie et des empreintes digitales des dix doigts des demandeurs de visas, collectées par les chancelleries consulaires et les consulats français équipés du dispositif requis.
 
-Les empreintes digitales des mineurs de six ans ne sont pas collectées.
+Les empreintes digitales des mineurs de douze ans ne sont pas collectées.
 
 L'impossibilité de collecte totale ou partielle des empreintes digitales sera mentionnée dans le traitement.
 
@@ -7437,7 +7443,11 @@ Les données mentionnées aux 1° et 2° peuvent également être enregistrées 
 
 ##### Article R611-10
 
-Les données à caractère personnel mentionnées au 1° de l'article [R. 611-9](#article-r611-9) peuvent également être collectées par les chancelleries consulaires et les consulats des Etats membres de l'Union européenne, à la condition que la collecte présente un niveau de protection et des garanties équivalents à ceux du droit interne.
+Les données à caractère personnel mentionnées au 1° de l'article [R. 611-9](#article-r611-9) peuvent également être collectées, à la condition que la collecte présente un niveau de protection et des garanties équivalents à ceux du droit interne :
+
+1. Par les chancelleries consulaires et les consulats des autres Etats membres de l'Union européenne ;
+
+2. A titre expérimental pour les demandes de visa déposées auprès des consulats généraux de France à Alger (République algérienne démocratique et populaire), Istanbul (République de Turquie) et Londres (Royaume-Uni), par des prestataires agréés par les autorités chargées de la délivrance des visas et sous la responsabilité de ces dernières, dans le respect des garanties prévues par le règlement (CE) n° 390-2009 du Parlement européen et du Conseil du 23 avril 2009 ; les personnels des prestataires agréés chargés de cette collecte sont individuellement habilités par ces mêmes autorités. La présente expérimentation est autorisée pour une durée d'un an à compter du 1er décembre 2010.
 
 
 ##### Article R611-11
@@ -7447,7 +7457,7 @@ La durée de conservation des données à caractère personnel mentionnées à l
 
 ##### Article R611-12
 
-I. - Les destinataires des données à caractère personnel enregistrées dans le traitement automatisé prévu à l'article [R. 611-8](#article-r611-8) sont :
+I.-Les destinataires des données à caractère personnel enregistrées dans le traitement automatisé prévu à l'article [R. 611-8](#article-r611-8) sont :
 
 1. Les agents du ministère des affaires étrangères et du ministère chargé de l'immigration participant à l'instruction des demandes de visa, individuellement désignés et spécialement habilités par le ministre dont ils relèvent ;
 
@@ -7455,22 +7465,24 @@ I. - Les destinataires des données à caractère personnel enregistrées dans l
 
 3. Les agents du ministère de l'intérieur et du ministère chargé du budget, individuellement désignés et spécialement habilités par le chef du service de la police nationale ou des douanes chargé du contrôle aux frontières ;
 
-4. Les officiers de police judiciaire des services de la police et de la gendarmerie nationales, individuellement désignés et spécialement habilités par le préfet de police, le directeur départemental de sécurité publique ou le commandant du groupement de gendarmerie concernés, ainsi que les officiers de police judiciaire relevant de la direction centrale de la police judiciaire ou de la direction générale de la gendarmerie nationale, pour des missions de vérification d'identité prévues par l'article 78-3 du code de procédure pénale.
+4. Les officiers de police judiciaire des services de la police et de la gendarmerie nationales, individuellement désignés et spécialement habilités par le préfet de police, le directeur départemental de sécurité publique, le directeur départemental de la police aux frontières ou le commandant du groupement de gendarmerie concernés, ainsi que les officiers de police judiciaire relevant de la direction centrale de la police judiciaire, de la direction centrale de la police aux frontières ou de la direction générale de la gendarmerie nationale, pour des missions de vérification d'identité prévues par l'article 78-3 du code de procédure pénale.
 
-II. - Pour des missions de contrôle de l'authenticité des visas et de régularité du séjour, les officiers de police judiciaire des services de la police et de la gendarmerie nationales individuellement désignés et spécialement habilités dans les conditions prévues au 4° du I peuvent accéder aux données à caractère personnel enregistrées dans le traitement automatisé, à l'exclusion des images numérisées des empreintes digitales.
+II.-Pour des missions de contrôle de l'authenticité des visas et de régularité du séjour, les officiers de police judiciaire des services de la police et de la gendarmerie nationales individuellement désignés et spécialement habilités dans les conditions prévues au 4° du I peuvent accéder aux données à caractère personnel enregistrées dans le traitement automatisé, à l'exclusion des images numérisées des empreintes digitales.
 
-III. - Peuvent également accéder aux données à caractère personnel enregistrées dans le traitement automatisé, dans les conditions fixées aux articles 9 et 33 de la loi n° 2006-64 du 23 janvier 2006 :
+III.-Peuvent également accéder aux données à caractère personnel enregistrées dans le traitement automatisé, dans les conditions fixées aux articles 9 et 33 de la loi n° 2006-64 du 23 janvier 2006 :
 
 1. Les agents des services de la direction générale de la police nationale et de la direction générale de la gendarmerie nationale chargés des missions de prévention et de répression des actes de terrorisme, individuellement désignés et spécialement habilités respectivement par le directeur général de la police nationale et le directeur général de la gendarmerie nationale ;
 
 2. Les agents des services de renseignement du ministère de la défense, chargés des missions de prévention des actes de terrorisme, individuellement désignés et spécialement habilités par le directeur général de la sécurité extérieure, le directeur de la protection et de la sécurité de la défense ou le directeur du renseignement militaire.
 
-IV. - Les dispositions du III sont applicables jusqu'au 31 décembre 2012.
+IV.-Les dispositions du III sont applicables jusqu'au 31 décembre 2012.
 
 
 ##### Article R611-13
 
-Les droits d'accès et de rectification, prévus par les articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978, s'exercent auprès du ministère de l'intérieur (direction centrale de la police aux frontières), du ministère des affaires étrangères (direction des Français à l'étranger et des étrangers en France), du ministère chargé de l'immigration ou du service où la demande de visa a été déposée.
+Les droits d'accès et de rectification, prévus par les articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978, s'exercent auprès, du ministère des affaires étrangères (direction des Français à l'étranger et de l'administration consulaire), du ministère chargé de l'immigration (direction de l'immigration) ou du service où la demande de visa a été déposée.
+
+Les services ci-dessus mentionnés, saisis de demandes tendant à l'exercice du droit de rectification, informent par écrit et sans frais leur auteur des éventuelles rectifications auxquelles ils ont procédé.
 
 
 ##### Article R611-14
@@ -7481,6 +7493,8 @@ Le droit d'opposition prévu à l'article 38 de la loi du 6 janvier 1978 susment
 ##### Article R611-15
 
 Il est procédé tous les trois ans, par les ministères mentionnés à l'article [R. 611-8](#article-r611-8), à une évaluation du traitement VISABIO donnant lieu à un rapport communiqué à la Commission nationale de l'informatique et des libertés.
+
+Ces mêmes ministères font réaliser, au cours de l'expérimentation prévue au 2° de l'article [R. 611-10](#article-r611-10), une évaluation donnant lieu à un rapport communiqué à la Commission nationale de l'informatique et des libertés.
 
 
 ##### Section 3 : Traitement automatisé de données à caractère personnel des ressortissants étrangers qui, ayant été contrôlés à l'occasion du franchissement de la frontière, ne remplissent pas les conditions d'entrée requises
