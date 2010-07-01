@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 26 juin 2010
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20100626)
+- Date de consolidation : 1er juillet 2010
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20100701)
 
 
 # Partie législative
@@ -8386,7 +8386,7 @@ La cour formule un avis motivé sur le maintien ou l'annulation de la mesure qui
 
 #### Chapitre Ier : Admission au séjour.
 
-#### Article R741-1
+#### Article R*741-1
 
 Lorsqu'un étranger, se trouvant à l'intérieur du territoire français, demande à bénéficier de l'asile, l'examen de sa demande d'admission au séjour relève du préfet de département et, à Paris, du préfet de police.
 
