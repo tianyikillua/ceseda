@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 11 juillet 2010
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20100711)
+- Date de consolidation : 31 juillet 2010
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20100731)
 
 
 # Partie législative
@@ -5629,7 +5629,7 @@ La Commission nationale des compétences et des talents est placée auprès du m
 
 3. Un sénateur ;
 
-4. Un membre du Conseil économique et social ;
+4. Un membre du Conseil économique, social et environnemental ;
 
 5. Le secrétaire général du comité interministériel de contrôle de l'immigration ;
 
