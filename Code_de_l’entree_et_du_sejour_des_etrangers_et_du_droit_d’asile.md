@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 31 juillet 2010
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20100731)
+- Date de consolidation : 1er octobre 2010
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20101001)
 
 
 # Partie législative
@@ -963,7 +963,9 @@ V.-Un décret en Conseil d'Etat précise les conditions d'application du présen
 
 La carte délivrée au titre de l'article [L. 313-11](#article-l313-11) donne droit à l'exercice d'une activité professionnelle.
 
-Le renouvellement de la carte de séjour délivrée au titre du 4° de l'article [L. 313-11](#article-l313-11) est subordonné au fait que la communauté de vie n'ait pas cessé. Toutefois, lorsque la communauté de vie a été rompue en raison de violences conjugales qu'il a subies de la part de son conjoint, l'autorité administrative ne peut procéder au retrait du titre de séjour de l'étranger et peut en accorder le renouvellement. En cas de violence commise après l'arrivée en France du conjoint étranger mais avant la première délivrance de la carte de séjour temporaire, le conjoint étranger se voit délivrer, sauf si sa présence constitue une menace pour l'ordre public, une carte de séjour temporaire portant la mention "vie privée et familiale".
+Le renouvellement de la carte de séjour délivrée au titre du 4° de l'article [L. 313-11](#article-l313-11) est subordonné au fait que la communauté de vie n'ait pas cessé. Toutefois, lorsque la communauté de vie a été rompue en raison de violences conjugales qu'il a subies de la part de son conjoint, l'autorité administrative ne peut procéder au retrait du titre de séjour de l'étranger et peut en accorder le renouvellement. En cas de violence commise après l'arrivée en France du conjoint étranger mais avant la première délivrance de la carte de séjour temporaire, le conjoint étranger se voit délivrer, sauf si sa présence constitue une menace pour l'ordre public, une carte de séjour temporaire portant la mention " vie privée et familiale ".
+
+Sauf si sa présence constitue une menace pour l'ordre public, l'autorité administrative accorde, dans les plus brefs délais, la délivrance ou le renouvellement du titre de séjour de l'étranger qui bénéficie d'une ordonnance de protection en vertu de l'article 515-9 du code civil en raison des violences commises par son conjoint, son partenaire lié par un pacte civil de solidarité ou son concubin.
 
 L'accès de l'enfant français à la majorité ne fait pas obstacle au renouvellement de la carte de séjour délivrée au titre du 6° de l'article [L. 313-11](#article-l313-11).
 
@@ -1203,7 +1205,7 @@ La carte de séjour mentionnée à l'article [L. 315-1](#article-l315-1) peut ê
 Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
 
 
-#### Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions ou témoigné dans une procédure pénale.
+#### Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions, témoigné dans une procédure pénale ou bénéficiant de mesures de protection
 
 #### Article L316-1
 
@@ -1215,6 +1217,16 @@ En cas de condamnation définitive de la personne mise en cause, une carte de r�
 #### Article L316-2
 
 Un décret en Conseil d'Etat précise les conditions d'application de l'article [L. 316-1](#article-l316-1). Il détermine notamment les conditions de la délivrance, du renouvellement et du retrait de la carte de séjour temporaire mentionnée au premier alinéa de l'article [L. 316-1](#article-l316-1) et les modalités de protection, d'accueil et d'hébergement de l'étranger auquel cette carte est accordée.
+
+
+#### Article L316-3
+
+Sauf si sa présence constitue une menace à l'ordre public, une carte de séjour temporaire portant la mention vie privée et familiale est délivrée à l'étranger qui bénéficie d'une ordonnance de protection en vertu de l'article 515-9 du code civil. La condition prévue à l'article [L. 311-7](#article-l311-7) du présent code n'est pas exigée. Cette carte de séjour temporaire ouvre droit à l'exercice d'une activité professionnelle.
+
+
+#### Article L316-4
+
+En cas de condamnation définitive de la personne mise en cause, une carte de résident peut être délivrée à l'étranger ayant déposé plainte pour une infraction mentionnée au premier alinéa de l'article 132-80 du code pénal.
 
 
 #### Chapitre VII : La carte de séjour portant la mention "retraité"
@@ -1444,7 +1456,9 @@ Lorsque la rupture de la vie commune est antérieure à la demande de titre, l'a
 
 Les dispositions du premier alinéa ne s'appliquent pas si un ou plusieurs enfants sont nés de cette union, lorsque l'étranger est titulaire de la carte de résident et qu'il établit contribuer effectivement, depuis la naissance, à l'entretien et à l'éducation du ou des enfants dans les conditions prévues à l'article 371-2 du code civil.
 
-En outre, lorsque la communauté de vie a été rompue en raison de violences conjugales qu'il a subies de la part de son conjoint, l'autorité administrative ne peut procéder au retrait du titre de séjour de l'étranger admis au séjour au titre du regroupement familial et peut en accorder le renouvellement. En cas de violence commise après l'arrivée en France du conjoint mais avant la première délivrance de la carte de séjour temporaire, le conjoint se voit délivrer, sauf si sa présence constitue une menace pour l'ordre public, une carte de séjour temporaire portant la mention "vie privée et familiale".
+En outre, lorsque la communauté de vie a été rompue en raison de violences conjugales qu'il a subies de la part de son conjoint, l'autorité administrative ne peut procéder au retrait du titre de séjour de l'étranger admis au séjour au titre du regroupement familial et peut en accorder le renouvellement. En cas de violence commise après l'arrivée en France du conjoint mais avant la première délivrance de la carte de séjour temporaire, le conjoint se voit délivrer, sauf si sa présence constitue une menace pour l'ordre public, une carte de séjour temporaire portant la mention " vie privée et familiale ".
+
+Sauf si sa présence constitue une menace pour l'ordre public, l'autorité administrative accorde, dans les plus brefs délais, la délivrance ou le renouvellement de la carte de séjour temporaire de l'étranger qui bénéfice d'une ordonnance de protection en vertu de l'application de l'article 515-9 du code civil en raison des violences commises par son conjoint, son partenaire lié par un pacte civil de solidarité ou son concubin.
 
 
 #### Article L431-3
