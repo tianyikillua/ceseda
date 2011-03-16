@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 12 février 2011
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20110212)
+- Date de consolidation : 16 mars 2011
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20110316)
 
 
 # Partie législative
@@ -1621,7 +1621,7 @@ Lorsque la décision fixant le pays de renvoi vise à exécuter une mesure de re
 
 #### Article L513-4
 
-L'étranger qui est obligé de quitter le territoire français ou qui doit être reconduit à la frontière et qui justifie être dans l'impossibilité de quitter le territoire français en établissant qu'il ne peut ni regagner son pays d'origine, ni se rendre dans aucun autre pays peut, par dérogation aux dispositions du titre V du présent livre, être astreint à résider dans les lieux qui lui sont fixés, dans lesquels il doit se présenter périodiquement aux services de police et de gendarmerie. Le non-respect des prescriptions liées à l'assignation à résidence est sanctionné dans les conditions prévues à l'article [L. 624-4](#article-l624-4).
+L'étranger qui est obligé de quitter le territoire français ou qui doit être reconduit à la frontière et qui justifie être dans l'impossibilité de quitter le territoire français en établissant qu'il ne peut ni regagner son pays d'origine, ni se rendre dans aucun autre pays peut, par dérogation aux dispositions du titre V du présent livre, être astreint à résider dans les lieux qui lui sont fixés, dans lesquels il doit se présenter périodiquement aux services de police et de gendarmerie. Si l'étranger présente une menace d'une particulière gravité pour l'ordre public, l'autorité administrative peut le faire conduire par les services de police ou de gendarmerie jusqu'aux lieux d'assignation. Le non-respect des prescriptions liées à l'assignation à résidence est sanctionné dans les conditions prévues à l'article [L. 624-4](#article-l624-4).
 
 
 #### Chapitre IV : Dispositions propres à la Guyane et à la Guadeloupe.
@@ -1746,7 +1746,7 @@ Peut également faire l'objet d'un arrêté d'assignation à résidence l'étran
 
 #### Article L523-5
 
-Peut également faire l'objet d'un arrêté d'assignation à résidence, à titre probatoire et exceptionnel, l'étranger qui fait l'objet d'une mesure d'expulsion prononcée en application de l'article [L. 521-2](#article-l521-2). Cette mesure est assortie d'une autorisation de travail. Elle peut être abrogée à tout moment en cas de faits nouveaux constitutifs d'un comportement préjudiciable à l'ordre public. Les obligations de présentation aux services de police et aux unités de gendarmerie prévues à l'article [L. 513-4](#article-l513-4) ainsi que les sanctions en cas de non-respect des prescriptions liées à l'assignation à résidence prévues à l'article [L. 624-4](#article-l624-4) sont applicables.
+Peut également faire l'objet d'un arrêté d'assignation à résidence, à titre probatoire et exceptionnel, l'étranger qui fait l'objet d'une mesure d'expulsion prononcée en application de l'article [L. 521-2](#article-l521-2). Cette mesure est assortie d'une autorisation de travail. Les obligations de présentation aux services de police et aux unités de gendarmerie prévues à l'article [L. 513-4](#article-l513-4) ainsi que les sanctions en cas de manquement aux prescriptions liées à l'assignation à résidence prévues à l'article [L. 624-4](#article-l624-4) sont applicables. La mesure peut être abrogée à tout moment en cas de manquement à ces obligations et prescriptions ou de faits nouveaux constitutifs d'un comportement préjudiciable à l'ordre public.
 
 
 #### Chapitre IV : Abrogation des arrêtés d'expulsion
@@ -2115,6 +2115,21 @@ Par exception aux dispositions de l'alinéa précédent, le juge de l'applicatio
 Sont applicables sur le territoire défini à l'article [L. 111-3](#article-l111-3) les mesures d'interdiction du territoire prononcées par toute juridiction siégeant à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie ainsi que les mesures de reconduite à la frontière et d'expulsion prononcées par le représentant de l'Etat à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.
 
 
+#### Article L561-3
+
+L'autorité administrative peut ordonner le placement sous surveillance électronique mobile de l'étranger astreint à résider dans les lieux qui lui sont fixés en application des articles [L. 523-3](#article-l523-3), [L. 523-4](#article-l523-4) ou [L. 541-3](#article-l541-3) s'il a été condamné à une peine d'interdiction du territoire pour des actes de terrorisme prévus par le titre II du livre IV du code pénal ou si une mesure d'expulsion a été prononcée à son encontre pour un comportement lié à des activités à caractère terroriste.
+
+Ce placement est prononcé, après accord de l'étranger, pour une durée de trois mois qui peut être prolongée pour une même durée sans que la durée totale du placement dépasse deux ans. A défaut de prolongation, il est mis fin au placement sous surveillance électronique mobile.
+
+L'étranger est astreint au port, pendant toute la durée du placement, d'un dispositif intégrant un émetteur permettant à tout moment de déterminer à distance sa localisation sur l'ensemble du territoire national.
+
+La mise en œuvre du dispositif technique permettant le contrôle à distance peut être confiée à une personne de droit privé habilitée dans des conditions fixées par décret en Conseil d'Etat.
+
+Pendant la durée du placement, l'autorité administrative peut, d'office ou à la demande de l'étranger, modifier ou compléter les obligations résultant dudit placement.
+
+Le manquement aux prescriptions liées au placement sous surveillance électronique est sanctionné dans les conditions prévues à l'article [L. 624-4](#article-l624-4).
+
+
 ## LIVRE VI : CONTRÔLES ET SANCTIONS
 
 ### TITRE Ier : CONTRÔLES
@@ -2363,6 +2378,10 @@ L'interdiction du territoire emporte de plein droit reconduite à la frontière 
 #### Article L624-4
 
 Les étrangers qui n'auront pas rejoint dans les délais prescrits la résidence qui leur est assignée en application des articles [L. 513-4](#article-l513-4), [L. 523-3](#article-l523-3), [L. 523-4](#article-l523-4) ou [L. 523-5](#article-l523-5) ou qui, ultérieurement, ont quitté cette résidence sans autorisation de l'autorité administrative, sont passibles d'une peine d'emprisonnement de trois ans.
+
+Les étrangers visés à l'article [L. 561-3](#article-l561-3) qui n'ont pas respecté les prescriptions liées au placement sous surveillance électronique sont passibles d'une peine d'emprisonnement d'un an.
+
+Les étrangers astreints à résider dans les lieux qui leur sont fixés en application des articles [L. 523-3](#article-l523-3), [L. 523-4](#article-l523-4), [L. 523-5](#article-l523-5) ou [L. 541-3](#article-l541-3) et qui n'ont pas respecté les obligations de présentation aux services de police et aux unités de gendarmerie prévues à l'article [L. 513-4](#article-l513-4) sont passibles d'une peine d'emprisonnement d'un an.
 
 
 #### Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport
@@ -3030,7 +3049,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent titre
 
 #### Article L821-1
 
-A titre expérimental, dans les conditions prévues par le code des marchés publics, l'Etat peut passer des marchés relatifs aux transports de personnes retenues en centres de rétention ou maintenues en zones d'attente avec des personnes de droit public ou des personnes de droit privé bénéficiant d'un agrément délivré en application de la loi n° 83-629 du 12 juillet 1983 réglementant les activités privées de sécurité.
+Dans les conditions prévues par le code des marchés publics, l'Etat peut passer des marchés relatifs aux transports de personnes retenues en centres de rétention ou maintenues en zones d'attente avec des personnes de droit public ou des personnes de droit privé bénéficiant d'un agrément délivré en application de la loi n° 83-629 du 12 juillet 1983 réglementant les activités privées de sécurité.
 
 
 #### Article L821-2
@@ -3055,11 +3074,6 @@ Dans le cadre de tout marché visé au présent article, l'autorité publique pe
 #### Article L821-5
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent chapitre ainsi que les conditions dans lesquelles les agents de sécurité privée investis des missions qu'il prévoit peuvent, le cas échéant, être armés.
-
-
-#### Article L821-6
-
-Les marchés prévus à l'article [L. 821-1](#article-l821-1) peuvent être passés à compter de la promulgation de la loi n° 2006-911 du 24 juillet 2006 relative à l'immigration et à l'intégration dans un délai de deux ans et pour une durée n'excédant pas deux ans.
 
 
 ### TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON
