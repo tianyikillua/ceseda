@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 11 juin 2011
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20110611)
+- Date de consolidation : 18 juin 2011
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20110618)
 
 
 # Partie législative
@@ -19,7 +19,7 @@ Sont considérées comme étrangers au sens du présent code les personnes qui n
 
 #### Article L111-2
 
-Le présent code régit l'entrée et le séjour des étrangers en France métropolitaine, dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon.
+Le présent code régit l'entrée et le séjour des étrangers en France métropolitaine, dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon, à Saint-Barthélemy et à Saint-Martin.
 
 Il régit l'exercice du droit d'asile sur l'ensemble du territoire de la République.
 
@@ -40,7 +40,7 @@ Les conditions d'entrée et de séjour des étrangers à Mayotte, dans les îles
 
 #### Article L111-3
 
-Au sens des dispositions du présent code, l'expression "en France" s'entend de la France métropolitaine, des départements d'outre-mer et de Saint-Pierre-et-Miquelon.
+Au sens des dispositions du présent code, l'expression "en France" s'entend de la France métropolitaine, des départements d'outre-mer, de Saint-Pierre-et-Miquelon, de Saint-Barthélemy et de Saint-Martin.
 
 
 #### Article L111-4
@@ -179,6 +179,11 @@ S'il est âgé de plus de dix-huit ans ou d'au moins seize ans lorsqu'il veut ex
 Tout citoyen de l'Union européenne, tout ressortissant d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ou les membres de sa famille qui ne peuvent justifier d'un droit au séjour en application de l'article [L. 121-1](#article-l121-1) ou de l'article [L. 121-3](#article-l121-3) ou dont la présence constitue une menace à l'ordre public peut faire l'objet, selon le cas, d'une décision de refus de séjour, d'un refus de délivrance ou de renouvellement d'une carte de séjour ou d'un retrait de celle-ci ainsi que d'une mesure d'éloignement prévue au livre V.
 
 
+#### Article L121-4-1
+
+Tant qu'ils ne deviennent pas une charge déraisonnable pour le système d'assistance sociale, les citoyens de l'Union européenne, les ressortissants d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse, ainsi que les membres de leur famille tels que définis aux 4° et 5° de l'article [L. 121-1](#article-l121-1), ont le droit de séjourner en France pour une durée maximale de trois mois, sans autre condition ou formalité que celles prévues pour l'entrée sur le territoire français.
+
+
 #### Article L121-5
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre.
@@ -232,7 +237,7 @@ Par dérogation aux dispositions de la loi n° 79-587 du 11 juillet 1979 relativ
 
 1. Membres de la famille de ressortissants des Etats membres de l'Union européenne et des autres Etats parties à l'accord sur l'Espace économique européen qui ne sont pas ressortissants de l'un de ces Etats, appartenant à des catégories définies par décret en Conseil d'Etat ;
 
-2. Conjoints, enfants de moins de vingt et un ans ou à charge, et ascendants de ressortissants français ;
+2. Conjoints, enfants de moins de vingt et un ans ou à charge, ascendants de ressortissants français et partenaires liés à un ressortissant français par un pacte civil de solidarité ;
 
 3. Enfants mineurs ayant fait l'objet, à l'étranger, d'une décision d'adoption plénière au profit de personnes titulaires d'un agrément pour adoption délivré par les autorités françaises ;
 
@@ -361,7 +366,7 @@ La décision prononçant le refus d'entrée peut être exécutée d'office par l
 
 #### Article L213-3
 
-Les dispositions de l'article [L. 213-2](#article-l213-2) sont applicables à l'étranger qui n'est pas ressortissant d'un Etat membre de l'Union européenne à qui l'entrée sur le territoire métropolitain a été refusée en application de l'article 5 de la convention signée à Schengen le 19 juin 1990.
+Les dispositions de l'article [L. 213-2](#article-l213-2) sont applicables à l'étranger qui n'est pas ressortissant d'un Etat membre de l'Union européenne à qui l'entrée sur le territoire métropolitain a été refusée en application de l'article 5 du règlement (CE) n° 562/2006 du Parlement européen et du Conseil, du 15 mars 2006, établissant un code communautaire relatif au régime de franchissement des frontières par les personnes (code frontières Schengen).
 
 
 #### Article L213-4
@@ -430,10 +435,14 @@ L'étranger qui arrive en France par la voie ferroviaire, maritime ou aérienne 
 
 Les dispositions du présent titre s'appliquent également à l'étranger qui se trouve en transit dans une gare, un port ou un aéroport si l'entreprise de transport qui devait l'acheminer dans le pays de destination ultérieure refuse de l'embarquer ou si les autorités du pays de destination lui ont refusé l'entrée et l'ont renvoyé en France.
 
+Le présent titre s'applique également à l'étranger qui arrive en Guyane par la voie fluviale ou terrestre.
+
 
 #### Article L221-2
 
 La zone d'attente est délimitée par l'autorité administrative compétente. Elle s'étend des points d'embarquement et de débarquement à ceux où sont effectués les contrôles des personnes. Elle peut inclure, sur l'emprise, ou à proximité, de la gare, du port ou de l'aéroport ou à proximité du lieu de débarquement, un ou plusieurs lieux d'hébergement assurant aux étrangers concernés des prestations de type hôtelier. Dans ces lieux d'hébergement, un espace permettant aux avocats de s'entretenir confidentiellement avec les étrangers est prévu. A cette fin, sauf en cas de force majeure, il est accessible en toutes circonstances sur demande de l'avocat.
+
+Lorsqu'il est manifeste qu'un groupe d'au moins dix étrangers vient d'arriver en France en dehors d'un point de passage frontalier, en un même lieu ou sur un ensemble de lieux distants d'au plus dix kilomètres, la zone d'attente s'étend, pour une durée maximale de vingt-six jours, du ou des lieux de découverte des intéressés jusqu'au point de passage frontalier le plus proche.
 
 La zone d'attente s'étend, sans qu'il soit besoin de prendre une décision particulière, aux lieux dans lesquels l'étranger doit se rendre soit dans le cadre de la procédure en cours, soit en cas de nécessité médicale.
 
@@ -450,6 +459,8 @@ Cette décision est inscrite sur un registre mentionnant l'état civil de l'int�
 #### Article L221-4
 
 L'étranger maintenu en zone d'attente est informé, dans les meilleurs délais, qu'il peut demander l'assistance d'un interprète et d'un médecin, communiquer avec un conseil ou toute personne de son choix et quitter à tout moment la zone d'attente pour toute destination située hors de France. Ces informations lui sont communiquées dans une langue qu'il comprend. Mention en est faite sur le registre mentionné au deuxième alinéa de l'article [L. 221-3](#article-l221-3), qui est émargé par l'intéressé.
+
+En cas de maintien simultané en zone d'attente d'un nombre important d'étrangers, la notification des droits mentionnés au premier alinéa s'effectue dans les meilleurs délais, compte tenu du nombre d'agents de l'autorité administrative et d'interprètes disponibles. De même, dans ces mêmes circonstances particulières, les droits notifiés s'exercent dans les meilleurs délais.
 
 Lorsque l'étranger ne parle pas le français, il est fait application de l'article [L. 111-7](#article-l111-7).
 
@@ -485,9 +496,13 @@ Lorsqu'un étranger dont l'entrée sur le territoire français au titre de l'asi
 
 L'autorité administrative expose dans sa saisine les raisons pour lesquelles l'étranger n'a pu être rapatrié ou, s'il a demandé l'asile, admis, et le délai nécessaire pour assurer son départ de la zone d'attente.
 
-Le juge des libertés et de la détention statue par ordonnance, après audition de l'intéressé, ou de son conseil s'il en a un, ou celui-ci dûment averti.
+Le juge des libertés et de la détention statue dans les vingt-quatre heures de sa saisine ou, lorsque les nécessités de l'instruction l'imposent, dans les quarante-huit heures de celle-ci par ordonnance, après audition de l'intéressé, ou de son conseil s'il en a un, ou celui-ci dûment averti.
+
+L'existence de garanties de représentation de l'étranger n'est pas à elle seule susceptible de justifier le refus de prolongation de son maintien en zone d'attente.
 
 L'étranger peut demander au juge des libertés et de la détention qu'il lui soit désigné un conseil d'office. Le mineur est assisté d'un avocat choisi par l'administrateur ad hoc ou, à défaut, commis d'office. L'étranger ou, dans le cas du mineur mentionné à l'article [L. 221-5](#article-l221-5), l'administrateur ad hoc peut également demander au juge des libertés et de la détention le concours d'un interprète et la communication de son dossier.
+
+A peine d'irrecevabilité, prononcée d'office, aucune irrégularité antérieure à l'audience relative à la première prolongation du maintien en zone d'attente ne peut être soulevée lors de l'audience relative à la seconde prolongation.
 
 
 ##### Article L222-4
@@ -500,10 +515,12 @@ Par décision du juge prise sur une proposition de l'autorité administrative à
 
 Sous réserve de l'application de l'article 435 du code de procédure civile, le juge des libertés et de la détention statue publiquement.
 
+L'étranger est maintenu à disposition de la justice dans des conditions fixées par le procureur de la République pendant le temps strictement nécessaire à la tenue de l'audience et au prononcé de l'ordonnance.
+
 
 ##### Article L222-5
 
-Si l'ordonnance met fin au maintien en zone d'attente, elle est immédiatement notifiée au procureur de la République. A moins que le procureur de la République n'en dispose autrement, l'étranger est alors maintenu à la disposition de la justice pendant un délai de quatre heures à compter de la notification de l'ordonnance au procureur de la République.
+Si l'ordonnance met fin au maintien en zone d'attente, elle est immédiatement notifiée au procureur de la République. A moins que le procureur de la République n'en dispose autrement, l'étranger est alors maintenu à la disposition de la justice pendant un délai de six heures à compter de la notification de l'ordonnance au procureur de la République.
 
 
 ##### Section 2 : Voies de recours
@@ -512,7 +529,7 @@ Si l'ordonnance met fin au maintien en zone d'attente, elle est immédiatement n
 
 L'ordonnance est susceptible d'appel devant le premier président de la cour d'appel ou son délégué. Celui-ci est saisi sans forme et doit statuer dans les quarante-huit heures de sa saisine. Par décision du premier président de la cour d'appel ou de son délégué, prise sur une proposition de l'autorité administrative à laquelle l'étranger dûment informé dans une langue qu'il comprend ne s'est pas opposé, l'audience peut se dérouler avec l'utilisation de moyens de télécommunication audiovisuelle dans les conditions prévues au troisième alinéa de l'article [L. 222-4](#article-l222-4). Le droit d'appel appartient à l'intéressé, au ministère public et au représentant de l'Etat dans le département. L'appel n'est pas suspensif.
 
-Toutefois, le ministère public peut demander au premier président de la cour d'appel ou à son délégué de déclarer son recours suspensif. Dans ce cas, l'appel, accompagné de la demande, est formé dans un délai de quatre heures à compter de la notification de l'ordonnance au procureur de la République et transmis au premier président de la cour d'appel ou à son délégué. Celui-ci décide, sans délai, s'il y a lieu, au vu des pièces du dossier, de donner à cet appel un effet suspensif. Il statue par une ordonnance motivée rendue contradictoirement qui n'est pas susceptible de recours. L'intéressé est maintenu à la disposition de la justice jusqu'à ce que cette ordonnance soit rendue et, si elle donne un effet suspensif à l'appel du ministère public, jusqu'à ce qu'il soit statué sur le fond
+Toutefois, le ministère public peut demander au premier président de la cour d'appel ou à son délégué de déclarer son recours suspensif. Dans ce cas, l'appel, accompagné de la demande, est formé dans un délai de six heures à compter de la notification de l'ordonnance au procureur de la République et transmis au premier président de la cour d'appel ou à son délégué. Celui-ci décide, sans délai, s'il y a lieu, au vu des pièces du dossier, de donner à cet appel un effet suspensif. Il statue par une ordonnance motivée rendue contradictoirement qui n'est pas susceptible de recours. L'intéressé est maintenu à la disposition de la justice jusqu'à ce que cette ordonnance soit rendue et, si elle donne un effet suspensif à l'appel du ministère public, jusqu'à ce qu'il soit statué sur le fond.
 
 
 ##### Section 3 : Dispositions communes
@@ -522,13 +539,18 @@ Toutefois, le ministère public peut demander au premier président de la cour d
 Sont à la charge de l'Etat et sans recours contre l'étranger, dans les conditions prévues pour les frais de justice criminelle, correctionnelle ou de police, les honoraires et indemnités des interprètes désignés pour l'assister au cours de la procédure juridictionnelle de maintien en zone d'attente prévue par le présent titre.
 
 
+##### Article L222-8
+
+En cas de violation des formes prescrites par la loi à peine de nullité ou d'inobservation des formalités substantielles, toute juridiction, y compris la Cour de cassation, qui est saisie d'une demande d'annulation ou qui relève d'office une telle irrégularité ne peut prononcer la mainlevée de la mesure de maintien en zone d'attente que lorsque celle-ci a eu pour effet de porter atteinte aux droits de l'étranger.
+
+
 #### Chapitre III : Contrôle des droits des étrangers maintenus en zone d'attente
 
 #### Article L223-1
 
 Pendant toute la durée du maintien en zone d'attente, l'étranger dispose des droits qui lui sont reconnus à l'article [L. 221-4](#article-l221-4). Le procureur de la République ainsi que, à l'issue des quatre premiers jours, le juge des libertés et de la détention peuvent se rendre sur place pour vérifier les conditions de ce maintien et se faire communiquer le registre mentionné à l'article [L. 221-3](#article-l221-3). Le procureur de la République visite les zones d'attente chaque fois qu'il l'estime nécessaire et au moins une fois par an. Tout administrateur ad hoc désigné en application des dispositions de l'article [L. 221-5](#article-l221-5) doit, pendant la durée du maintien en zone d'attente du mineur qu'il assiste, se rendre sur place.
 
-Un décret en Conseil d'Etat détermine les conditions d'accès du délégué du haut-commissariat des Nations unies pour les réfugiés ou de ses représentants ainsi que des associations humanitaires à la zone d'attente.
+Un décret en Conseil d'Etat détermine les conditions d'accès du délégué du haut-commissariat des Nations unies pour les réfugiés ou de ses représentants ainsi que des associations humanitaires aux zones d'attente.
 
 
 #### Chapitre IV : Sortie de la zone d'attente
@@ -646,7 +668,7 @@ L'étranger admis au séjour en France et, le cas échéant, son conjoint prépa
 
 En cas de non-respect des stipulations de ce contrat, manifesté par une volonté caractérisée de l'étranger ou de son conjoint, le préfet peut saisir le président du conseil général en vue de la mise en oeuvre du contrat de responsabilité parentale prévue à l'article L. 222-4-1 du code de l'action sociale et des familles.
 
-Lors du renouvellement de leur carte de séjour, l'autorité administrative tient compte du non-respect manifesté par une volonté caractérisée, par l'étranger et son conjoint, des stipulations du contrat d'accueil et d'intégration pour la famille et, le cas échéant, des mesures prises en application du deuxième alinéa.
+Lors du renouvellement de la carte de séjour intervenant au cours de l'exécution du contrat d'accueil et d'intégration pour la famille, ou lors du premier renouvellement consécutif à cette exécution, l'autorité administrative tient compte du non-respect manifesté par une volonté caractérisée, par l'étranger et son conjoint, des stipulations du contrat d'accueil et d'intégration pour la famille et, le cas échéant, des mesures prises en application du deuxième alinéa.
 
 Les conditions d'application de ces dispositions sont fixées par décret en Conseil d'Etat.
 
@@ -764,11 +786,11 @@ La carte de séjour temporaire peut être refusée à tout étranger dont la pr�
 
 ##### Article L313-4
 
-Par dérogation aux articles [L. 311-2](#article-l311-2) et [L. 313-1](#article-l313-1), l'étranger titulaire d'une carte de séjour temporaire au titre des articles [L. 313-7](#article-l313-7) ou [L. 313-8](#article-l313-8) depuis au moins un an peut, à l'échéance de la validité de cette carte, en solliciter le renouvellement pour une durée supérieure à un an et ne pouvant excéder quatre ans.
+Par dérogation aux articles [L. 311-2](#article-l311-2) et [L. 313-1](#article-l313-1), l'étranger titulaire d'une carte de séjour temporaire au titre des articles [L. 313-7](#article-l313-7) ou [L. 313-8](#article-l313-8) depuis au moins un an ou, pour l'étranger demandant une carte de séjour temporaire au titre de l'article [L. 313-8](#article-l313-8), d'un visa délivré pour un séjour d'une durée supérieure à trois mois octroyant à son titulaire les droits attachés à la carte de séjour temporaire susmentionnée peut, à l'échéance de la validité de ce titre, en solliciter le renouvellement pour une durée supérieure à un an et ne pouvant excéder quatre ans.
 
 Cette dérogation est accordée à l'étudiant étranger admis à suivre, dans un établissement d'enseignement supérieur habilité au plan national, une formation en vue de l'obtention d'un diplôme au moins équivalent au master.
 
-Elle peut également être accordée au titulaire de la carte de séjour temporaire portant la mention "scientifique" en tenant compte de la durée de ses travaux de recherche.
+Elle peut également être accordée au titulaire de la carte de séjour temporaire portant la mention " scientifique-chercheur ” en tenant compte de la durée de ses travaux de recherche.
 
 Un décret en Conseil d'Etat précise les conditions d'application de ces dispositions.
 
@@ -777,13 +799,13 @@ Un décret en Conseil d'Etat précise les conditions d'application de ces dispos
 
 L'étranger titulaire de la carte de résident de longue durée-CE définie par les dispositions communautaires applicables en cette matière et accordée dans un autre Etat membre de l'Union européenne qui justifie de ressources stables et suffisantes pour subvenir à ses besoins et, le cas échéant, à ceux de sa famille ainsi que d'une assurance maladie obtient, sous réserve qu'il en fasse la demande dans les trois mois qui suivent son entrée en France et sans que la condition prévue à l'article [L. 311-7](#article-l311-7) soit exigée :
 
-1. Une carte de séjour temporaire portant la mention "visiteur" s'il remplit les conditions définies à l'article [L. 313-6](#article-l313-6) ;
+1. Une carte de séjour temporaire portant la mention " visiteur " s'il remplit les conditions définies à l'article [L. 313-6](#article-l313-6) ;
 
-2. Une carte de séjour temporaire portant la mention "étudiant" s'il remplit les conditions définies au I et aux 2°, 3° ou 5° du II de l'article [L. 313-7](#article-l313-7) ;
+2. Une carte de séjour temporaire portant la mention " étudiant " s'il remplit les conditions définies au I et aux 2°, 3° ou 5° du II de l'article [L. 313-7](#article-l313-7) ;
 
-3. Une carte de séjour temporaire portant la mention "scientifique" s'il remplit les conditions définies à l'article [L. 313-8](#article-l313-8) ;
+3. Une carte de séjour temporaire portant la mention " scientifique-chercheur ” s'il remplit les conditions définies à l'article [L. 313-8](#article-l313-8) ;
 
-4. Une carte de séjour temporaire portant la mention "profession artistique et culturelle" s'il remplit les conditions définies à l'article [L. 313-9](#article-l313-9) ;
+4. Une carte de séjour temporaire portant la mention " profession artistique et culturelle " s'il remplit les conditions définies à l'article [L. 313-9](#article-l313-9) ;
 
 5. Une carte de séjour temporaire portant la mention de l'activité professionnelle pour laquelle il a obtenu l'autorisation préalable requise, dans les conditions définies, selon le cas, aux 1°, 2° ou 3° de l'article [L. 313-10](#article-l313-10).
 
@@ -850,15 +872,17 @@ L'association qui procède au placement d'un étranger désireux de venir en Fra
 Un décret en Conseil d'Etat fixe les conditions d'application des dispositions du présent article, et notamment les modalités d'agrément des associations par arrêté ministériel.
 
 
-###### Sous-section 3 : La carte de séjour temporaire portant la mention "scientifique".
+###### Sous-section 3 : La carte de séjour temporaire portant la mention "scientifique-chercheur”
 
 ###### Article L313-8
 
-La carte de séjour temporaire délivrée à l'étranger aux fins de mener des travaux de recherche ou de dispenser un enseignement de niveau universitaire dans le cadre d'une convention d'accueil signée avec un organisme public ou privé ayant une mission de recherche ou d'enseignement supérieur préalablement agréé dans les conditions définies par décret en Conseil d'Etat porte la mention "scientifique".
+La carte de séjour temporaire délivrée à l'étranger aux fins de mener des travaux de recherche ou de dispenser un enseignement de niveau universitaire dans le cadre d'une convention d'accueil signée avec un organisme public ou privé ayant une mission de recherche ou d'enseignement supérieur préalablement agréé dans les conditions définies par décret en Conseil d'Etat porte la mention " scientifique-chercheur ”.
 
 L'étranger ayant été admis dans un autre Etat membre de l'Union européenne conformément aux dispositions de la directive 2005/71/CE du Conseil du 12 octobre 2005 relative à une procédure d'admission spécifique des ressortissants de pays tiers aux fins de recherche scientifique, peut mener une partie de ses travaux en France sur la base de la convention d'accueil conclue dans le premier Etat membre s'il séjourne en France pour une durée inférieure ou égale à trois mois, pour autant qu'il dispose de ressources suffisantes. S'il séjourne en France pour une durée supérieure à trois mois, il doit justifier remplir les conditions définies au premier alinéa.
 
 Lorsque l'étranger mentionné au deuxième alinéa poursuit les mêmes travaux au-delà de trois mois, la condition prévue à l'article [L. 311-7](#article-l311-7) n'est pas exigée.
+
+Le conjoint, s'il est âgé d'au moins dix-huit ans, et les enfants entrés mineurs en France dans l'année qui suit leur dix-huitième anniversaire ou remplissant les conditions prévues par l'article [L. 311-3](#article-l311-3) d'un étranger titulaire d'une carte " scientifique-chercheur ” bénéficient de plein droit de la carte de séjour mentionnée au 3° de l'article [L. 313-11](#article-l313-11). La carte de séjour ainsi accordée est renouvelée de plein droit durant la période de validité restant à courir de la carte " scientifique-chercheur ” susmentionnée.
 
 
 ###### Sous-section 4 : La carte de séjour temporaire portant la mention "profession artistique et culturelle"
@@ -917,11 +941,13 @@ Sauf si sa présence constitue une menace pour l'ordre public, la carte de séjo
 
 2. bis A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant dans les prévisions de l'article [L. 311-3](#article-l311-3), qui a été confié, depuis qu'il a atteint au plus l'âge de seize ans, au service de l'aide sociale à l'enfance et sous réserve du caractère réel et sérieux du suivi de la formation, de la nature de ses liens avec la famille restée dans le pays d'origine et de l'avis de la structure d'accueil sur l'insertion de cet étranger dans la société française. La condition prévue à l'article [L. 311-7](#article-l311-7) n'est pas exigée ;
 
-3. A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant dans les prévisions de l'article [L. 311-3](#article-l311-3), dont l'un des parents est titulaire de la carte de séjour " compétences et talents " ou de la carte de séjour temporaire portant la mention " salarié en mission ", ainsi qu'à l'étranger dont le conjoint est titulaire de l'une de ces cartes. Le titulaire de la carte de séjour temporaire portant la mention " salarié en mission " doit résider en France dans les conditions définies au dernier alinéa du 5° de l'article [L. 313-10](#article-l313-10) ;
+3. A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant dans les prévisions de l'article [L. 311-3](#article-l311-3), dont l'un des parents est titulaire de la carte de séjour " compétences et talents " ou de la carte de séjour temporaire portant la mention " salarié en mission ", ainsi qu'à l'étranger dont le conjoint est titulaire de l'une de ces cartes. Le titulaire de la carte de séjour temporaire portant la mention " salarié en mission " doit résider en France dans les conditions définies au dernier alinéa du 5° de l'article [L. 313-10](#article-l313-10).
+
+La carte de séjour temporaire portant la mention " vie privée et familiale " délivrée dans les conditions prévues à l'alinéa précédent a une durée de validité identique à la durée de la carte de séjour du parent ou du conjoint titulaire d'une carte de séjour portant la mention " carte bleue européenne ", " compétences et talents " ou " salarié en mission ". La carte de séjour est renouvelée dès lors que son titulaire continue à remplir les conditions définies par le présent code ;
 
 4. A l'étranger ne vivant pas en état de polygamie, marié avec un ressortissant de nationalité française, à condition que la communauté de vie n'ait pas cessé depuis le mariage, que le conjoint ait conservé la nationalité française et, lorsque le mariage a été célébré à l'étranger, qu'il ait été transcrit préalablement sur les registres de l'état civil français ;
 
-5. A l'étranger ne vivant pas en état de polygamie, marié à un ressortissant étranger titulaire d'une carte de séjour temporaire portant la mention " scientifique " ;
+5. (Abrogé) ;
 
 6. A l'étranger ne vivant pas en état de polygamie, qui est père ou mère d'un enfant français mineur résidant en France, à la condition qu'il établisse contribuer effectivement à l'entretien et à l'éducation de l'enfant dans les conditions prévues par l'article 371-2 du code civil depuis la naissance de celui-ci ou depuis au moins deux ans, sans que la condition prévue à l'article [L. 311-7](#article-l311-7) soit exigée ;
 
@@ -933,7 +959,7 @@ Sauf si sa présence constitue une menace pour l'ordre public, la carte de séjo
 
 10. A l'étranger qui a obtenu le statut d'apatride en application du livre VII du présent code, ainsi qu'à son conjoint et à ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article [L. 311-3](#article-l311-3), lorsque le mariage est antérieur à la date de cette obtention ou, à défaut, lorsqu'il a été célébré depuis au moins un an, sous réserve d'une communauté de vie effective entre les époux, sans que la condition prévue à l'article [L. 311-7](#article-l311-7) soit exigée ;
 
-11. A l'étranger résidant habituellement en France dont l'état de santé nécessite une prise en charge médicale dont le défaut pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve qu'il ne puisse effectivement bénéficier d'un traitement approprié dans le pays dont il est originaire, sans que la condition prévue à l'article [L. 311-7](#article-l311-7) soit exigée. La décision de délivrer la carte de séjour est prise par l'autorité administrative, après avis du médecin de l'agence régionale de santé de la région de résidence de l'intéressé, désigné par le directeur général de l'agence, ou, à Paris, du médecin, chef du service médical de la préfecture de police. Le médecin de l'agence régionale de santé ou, à Paris, le chef du service médical de la préfecture de police peut convoquer le demandeur pour une consultation médicale devant une commission médicale régionale dont la composition est fixée par décret en Conseil d'Etat.
+11. A l'étranger résidant habituellement en France dont l'état de santé nécessite une prise en charge médicale dont le défaut pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve de l'absence d'un traitement approprié dans le pays dont il est originaire, sauf circonstance humanitaire exceptionnelle appréciée par l'autorité administrative après avis du directeur général de l'agence régionale de santé, sans que la condition prévue à l'article [L. 311-7](#article-l311-7) soit exigée. La décision de délivrer la carte de séjour est prise par l'autorité administrative, après avis du médecin de l'agence régionale de santé de la région de résidence de l'intéressé, désigné par le directeur général de l'agence, ou, à Paris, du médecin, chef du service médical de la préfecture de police. Le médecin de l'agence régionale de santé ou, à Paris, le chef du service médical de la préfecture de police peut convoquer le demandeur pour une consultation médicale devant une commission médicale régionale dont la composition est fixée par décret en Conseil d'Etat.
 
 
 ###### Article L313-11-1
@@ -961,9 +987,7 @@ V.-Un décret en Conseil d'Etat précise les conditions d'application du présen
 
 La carte délivrée au titre de l'article [L. 313-11](#article-l313-11) donne droit à l'exercice d'une activité professionnelle.
 
-Le renouvellement de la carte de séjour délivrée au titre du 4° de l'article [L. 313-11](#article-l313-11) est subordonné au fait que la communauté de vie n'ait pas cessé. Toutefois, lorsque la communauté de vie a été rompue en raison de violences conjugales qu'il a subies de la part de son conjoint, l'autorité administrative ne peut procéder au retrait du titre de séjour de l'étranger et peut en accorder le renouvellement. En cas de violence commise après l'arrivée en France du conjoint étranger mais avant la première délivrance de la carte de séjour temporaire, le conjoint étranger se voit délivrer, sauf si sa présence constitue une menace pour l'ordre public, une carte de séjour temporaire portant la mention " vie privée et familiale ".
-
-Sauf si sa présence constitue une menace pour l'ordre public, l'autorité administrative accorde, dans les plus brefs délais, la délivrance ou le renouvellement du titre de séjour de l'étranger qui bénéficie d'une ordonnance de protection en vertu de l'article 515-9 du code civil en raison des violences commises par son conjoint, son partenaire lié par un pacte civil de solidarité ou son concubin.
+Le renouvellement de la carte de séjour délivrée au titre du 4° de l'article [L. 313-11](#article-l313-11) est subordonné au fait que la communauté de vie n'ait pas cessé, sauf si elle résulte du décès du conjoint français. Toutefois, lorsque la communauté de vie a été rompue en raison de violences conjugales qu'il a subies de la part de son conjoint, l'autorité administrative ne peut procéder au retrait du titre de séjour de l'étranger et peut en accorder le renouvellement. En cas de violence commise après l'arrivée en France du conjoint étranger mais avant la première délivrance de la carte de séjour temporaire, le conjoint étranger se voit délivrer, sauf si sa présence constitue une menace pour l'ordre public, une carte de séjour temporaire portant la mention " vie privée et familiale ".
 
 L'accès de l'enfant français à la majorité ne fait pas obstacle au renouvellement de la carte de séjour délivrée au titre du 6° de l'article [L. 313-11](#article-l313-11).
 
@@ -983,15 +1007,15 @@ La carte délivrée au titre du présent article donne droit à l'exercice d'une
 
 ###### Article L313-14
 
-La carte de séjour temporaire mentionnée à l'article [L. 313-11](#article-l313-11) ou la carte de séjour temporaire mentionnée au 1° de l'article [L. 313-10](#article-l313-10) sur le fondement du troisième alinéa de cet article peut être délivrée, sauf si sa présence constitue une menace pour l'ordre public, à l'étranger ne vivant pas en état de polygamie dont l'admission au séjour répond à des considérations humanitaires ou se justifie au regard des motifs exceptionnels qu'il fait valoir, sans que soit opposable la condition prévue à l'article [L. 311-7](#article-l311-7).
-
-La Commission nationale de l'admission exceptionnelle au séjour exprime un avis sur les critères d'admission exceptionnelle au séjour mentionnés au premier alinéa.
-
-Cette commission présente chaque année un rapport évaluant les conditions d'application en France de l'admission exceptionnelle au séjour. Ce rapport est annexé au rapport mentionné à l'article [L. 111-10](#article-l111-10).
+La carte de séjour temporaire mentionnée à l'article [L. 313-11](#article-l313-11) ou la carte de séjour temporaire mentionnée au 1° de l'article [L. 313-10](#article-l313-10) peut être délivrée, sauf si sa présence constitue une menace pour l'ordre public, à l'étranger ne vivant pas en état de polygamie dont l'admission au séjour répond à des considérations humanitaires ou se justifie au regard des motifs exceptionnels qu'il fait valoir, sans que soit opposable la condition prévue à l'article [L. 311-7](#article-l311-7).
 
 L'autorité administrative est tenue de soumettre pour avis à la commission mentionnée à l'article [L. 312-1](#article-l312-1) la demande d'admission exceptionnelle au séjour formée par l'étranger qui justifie par tout moyen résider en France habituellement depuis plus de dix ans.
+Un décret en Conseil d'Etat définit les modalités d'application du présent article.
 
-Un décret en Conseil d'Etat définit les modalités d'application du présent article et en particulier la composition de la commission, ses modalités de fonctionnement ainsi que les conditions dans lesquelles l'autorité administrative, saisie d'un recours hiérarchique contre un refus d'admission exceptionnelle au séjour, peut prendre l'avis de la commission.
+
+###### Article L313-15
+
+A titre exceptionnel et sauf si sa présence constitue une menace pour l'ordre public, la carte de séjour temporaire prévue au 1° de l'article [L. 313-10](#article-l313-10) portant la mention " salarié ” ou la mention " travailleur temporaire ” peut être délivrée, dans l'année qui suit son dix-huitième anniversaire, à l'étranger qui a été confié à l'aide sociale à l'enfance entre l'âge de seize ans et l'âge de dix-huit ans et qui justifie suivre depuis au moins six mois une formation destinée à lui apporter une qualification professionnelle, sous réserve du caractère réel et sérieux du suivi de cette formation, de la nature de ses liens avec sa famille restée dans le pays d'origine et de l'avis de la structure d'accueil sur l'insertion de cet étranger dans la société française. Le respect de la condition prévue à l'article [L. 311-7](#article-l311-7) n'est pas exigé.
 
 
 #### Chapitre IV : La carte de résident
@@ -1012,7 +1036,7 @@ Les dispositions de la présente section s'appliquent à la carte de résident e
 
 Lorsque des dispositions législatives du présent code le prévoient, la délivrance d'une première carte de résident est subordonnée à l'intégration républicaine de l'étranger dans la société française, appréciée en particulier au regard de son engagement personnel à respecter les principes qui régissent la République française, du respect effectif de ces principes et de sa connaissance suffisante de la langue française dans des conditions définies par décret en Conseil d'Etat.
 
-Pour l'appréciation de la condition d'intégration, l'autorité administrative tient compte de la souscription et du respect, par l'étranger, de l'engagement défini à l'article [L. 311-9](#article-l311-9) et saisit pour avis le maire de la commune dans laquelle il réside. Cet avis est réputé favorable à l'expiration d'un délai de deux mois à compter de la saisine du maire par l'autorité administrative.
+Pour l'appréciation de la condition d'intégration, l'autorité administrative tient compte, lorsqu'il a été souscrit, du respect, par l'étranger, de l'engagement défini à l'article [L. 311-9](#article-l311-9) et saisit pour avis le maire de la commune dans laquelle il réside. Cet avis est réputé favorable à l'expiration d'un délai de deux mois à compter de la saisine du maire par l'autorité administrative.
 
 Les étrangers âgés de plus de soixante-cinq ans ne sont pas soumis à la condition relative à la connaissance de la langue française.
 
@@ -1066,7 +1090,7 @@ En outre, est périmée la carte de résident portant la mention "résident de l
 
 ###### Article L314-8
 
-Tout étranger qui justifie d'une résidence ininterrompue d'au moins cinq années en France, conforme aux lois et règlements en vigueur, sous couvert de l'une des cartes de séjour mentionnées aux articles [L. 313-6](#article-l313-6), [L. 313-8](#article-l313-8) et [L. 313-9](#article-l313-9), aux 1°, 2° et 3° de l'article [L. 313-10](#article-l313-10), aux articles [L. 313-11](#article-l313-11), [L. 313-11-1](#article-l313-11-1), [L. 313-14](#article-l313-14) et [L. 314-9](#article-l314-9), aux 2°, 3°, 4°, 5°, 6°, 7° et 9° de l'article [L. 314-11](#article-l314-11) et aux articles [L. 314-12](#article-l314-12) et [L. 315-1](#article-l315-1) peut obtenir une carte de résident portant la mention "résident de longue durée-CE" s'il dispose d'une assurance maladie. La décision d'accorder ou de refuser cette carte est prise en tenant compte des faits qu'il peut invoquer à l'appui de son intention de s'établir durablement en France, notamment au regard des conditions de son activité professionnelle s'il en a une, et de ses moyens d'existence.
+Tout étranger qui justifie d'une résidence ininterrompue d'au moins cinq années en France, conforme aux lois et règlements en vigueur, sous couvert de l'une des cartes de séjour mentionnées aux articles [L. 313-6](#article-l313-6), [L. 313-8](#article-l313-8) et [L. 313-9](#article-l313-9), aux 1°, 2° et 3° de l'article [L. 313-10](#article-l313-10), aux articles [L. 313-11](#article-l313-11), [L. 313-11-1](#article-l313-11-1), [L. 313-14](#article-l313-14) et [L. 314-9](#article-l314-9), aux 2°, 3°, 4°, 5°, 6°, 7° et 9° de l'article [L. 314-11](#article-l314-11) et aux articles [L. 314-12](#article-l314-12) et [L. 315-1](#article-l315-1) peut obtenir une carte de résident portant la mention " résident de longue durée-CE " s'il dispose d'une assurance maladie. Les années de résidence, sous couvert d'une carte de séjour temporaire portant la mention " vie privée et familiale ” retirée par l'autorité administrative sur le fondement d'un mariage ayant eu pour seules fins d'obtenir un titre de séjour ou d'acquérir la nationalité française, ne peuvent être prises en compte pour obtenir la carte de résident. La décision d'accorder ou de refuser cette carte est prise en tenant compte des faits qu'il peut invoquer à l'appui de son intention de s'établir durablement en France, notamment au regard des conditions de son activité professionnelle s'il en a une, et de ses moyens d'existence.
 
 Les moyens d'existence du demandeur sont appréciés au regard de ses ressources qui doivent être stables et suffisantes pour subvenir à ses besoins. Sont prises en compte toutes les ressources propres du demandeur indépendamment des prestations familiales et des allocations prévues aux articles L. 262-1 du code de l'action sociale et des familles et L. 351-9, L. 351-10 et L. 351-10-1 du code du travail. Ces ressources doivent atteindre un montant au moins égal au salaire minimum de croissance et sont appréciées au regard des conditions de logement.
 
@@ -1083,7 +1107,7 @@ La carte de résident peut être accordée :
 
 L'enfant visé au présent article s'entend de l'enfant ayant une filiation légalement établie, y compris l'enfant adopté, en vertu d'une décision d'adoption, sous réserve de la vérification par le ministère public de la régularité de cette décision lorsqu'elle a été prononcée à l'étranger ;
 
-3. A l'étranger marié depuis au moins trois ans avec un ressortissant de nationalité française, à condition que la communauté de vie entre les époux n'ait pas cessé depuis le mariage, que le conjoint ait conservé la nationalité française et, lorsque le mariage a été célébré à l'étranger, qu'il ait été transcrit préalablement sur les registres de l'état civil français.
+3. A l'étranger marié depuis au moins trois ans avec un ressortissant de nationalité française, à condition qu'il séjourne régulièrement en France, que la communauté de vie entre les époux n'ait pas cessé depuis le mariage, que le conjoint ait conservé la nationalité française et, lorsque le mariage a été célébré à l'étranger, qu'il ait été transcrit préalablement sur les registres de l'état civil français.
 
 
 ###### Article L314-10
@@ -1149,7 +1173,7 @@ Lorsque la carte de résident permanent est retirée à un ressortissant étrang
 
 L'étranger qui apporte une contribution économique exceptionnelle à la France peut, sous réserve de la régularité du séjour, se voir délivrer la carte de résident.
 
-Un décret en Conseil d'Etat définit les modalités d'application du présent article. Il détermine notamment les motifs pour lesquels la carte peut être retirée.
+Le conjoint, s'il est âgé d'au moins dix-huit ans, d'un étranger titulaire du titre de séjour mentionné au premier alinéa bénéficie de plein droit de la carte de résident susmentionnée.Un décret en Conseil d'Etat définit les modalités d'application du présent article. Il détermine notamment les motifs pour lesquels la carte peut être retirée.
 
 
 #### Chapitre V : La carte de séjour portant la mention "compétences et talents"
@@ -1171,21 +1195,9 @@ La carte mentionnée à l'article [L. 315-1](#article-l315-1) est attribuée au 
 Lorsque l'étranger souhaitant bénéficier d'une carte " compétences et talents " réside régulièrement en France, il présente sa demande auprès du représentant de l'Etat dans le département. Lorsque l'étranger réside hors de France, il présente sa demande auprès des autorités diplomatiques et consulaires françaises territorialement compétentes.
 
 
-#### Article L315-4
-
-Il est tenu compte, pour l'appréciation des conditions mentionnées à l'article [L. 315-3](#article-l315-3), de critères déterminés annuellement par la Commission nationale des compétences et des talents.
-
-
 #### Article L315-5
 
 La carte de séjour mentionnée à l'article [L. 315-1](#article-l315-1) permet à son titulaire d'exercer toute activité professionnelle de son choix, dans le cadre du projet mentionné à l'article [L. 315-3](#article-l315-3).
-
-
-#### Article L315-6
-
-Lorsque le titulaire de la carte de séjour "compétences et talents" est ressortissant d'un pays de la zone de solidarité prioritaire, il apporte son concours, pendant la durée de validité de cette carte, à une action de coopération ou d'investissement économique définie par la France avec le pays dont il a la nationalité.
-
-Lors du premier renouvellement de cette carte, il est tenu compte du non-respect de cette obligation.
 
 
 #### Article L315-7
@@ -1219,7 +1231,9 @@ Un décret en Conseil d'Etat précise les conditions d'application de l'article 
 
 #### Article L316-3
 
-Sauf si sa présence constitue une menace à l'ordre public, une carte de séjour temporaire portant la mention vie privée et familiale est délivrée à l'étranger qui bénéficie d'une ordonnance de protection en vertu de l'article 515-9 du code civil. La condition prévue à l'article [L. 311-7](#article-l311-7) du présent code n'est pas exigée. Cette carte de séjour temporaire ouvre droit à l'exercice d'une activité professionnelle.
+Sauf si sa présence constitue une menace à l'ordre public, l'autorité administrative délivre dans les plus brefs délais une carte de séjour temporaire portant la mention " vie privée et familiale " à l'étranger qui bénéficie d'une ordonnance de protection en vertu de l'article 515-9 du code civil, en raison des violences commises par son conjoint, son partenaire lié par un pacte civil de solidarité ou son concubin. La condition prévue à l'article [L. 311-7](#article-l311-7) du présent code n'est pas exigée. Cette carte de séjour temporaire ouvre droit à l'exercice d'une activité professionnelle.
+
+Le titre de séjour arrivé à expiration de l'étranger qui bénéficie d'une ordonnance de protection en vertu de l'article 515-9 du code civil, en raison des violences commises par son conjoint, son partenaire lié par un pacte civil de solidarité ou son concubin, est renouvelé.
 
 
 #### Article L316-4
@@ -1402,8 +1416,6 @@ Les dispositions du premier alinéa ne s'appliquent pas si un ou plusieurs enfan
 
 En outre, lorsque la communauté de vie a été rompue en raison de violences conjugales qu'il a subies de la part de son conjoint, l'autorité administrative ne peut procéder au retrait du titre de séjour de l'étranger admis au séjour au titre du regroupement familial et peut en accorder le renouvellement. En cas de violence commise après l'arrivée en France du conjoint mais avant la première délivrance de la carte de séjour temporaire, le conjoint se voit délivrer, sauf si sa présence constitue une menace pour l'ordre public, une carte de séjour temporaire portant la mention " vie privée et familiale ".
 
-Sauf si sa présence constitue une menace pour l'ordre public, l'autorité administrative accorde, dans les plus brefs délais, la délivrance ou le renouvellement de la carte de séjour temporaire de l'étranger qui bénéfice d'une ordonnance de protection en vertu de l'application de l'article 515-9 du code civil en raison des violences commises par son conjoint, son partenaire lié par un pacte civil de solidarité ou son concubin.
-
 
 #### Article L431-3
 
@@ -1547,9 +1559,9 @@ L'arrêté de reconduite à la frontière qui n'a pas été contesté devant le 
 
 #### Article L513-2
 
-L'étranger qui est obligé de quitter le territoire français ou qui doit être reconduit à la frontière est éloigné :
+L'étranger qui fait l'objet d'une mesure d'éloignement est éloigné :
 
-1. A destination du pays dont il a la nationalité, sauf si l'Office français de protection des réfugiés et apatrides ou la Cour nationale du droit d'asile lui a reconnu le statut de réfugié ou s'il n'a pas encore été statué sur sa demande d'asile ;
+1. A destination du pays dont il a la nationalité, sauf si l'Office français de protection des réfugiés et apatrides ou la Cour nationale du droit d'asile lui a reconnu le statut de réfugié ou lui a accordé le bénéfice de la protection subsidiaire ou s'il n'a pas encore été statué sur sa demande d'asile ;
 
 2. Ou à destination du pays qui lui a délivré un document de voyage en cours de validité ;
 
@@ -1570,7 +1582,7 @@ Lorsque la décision fixant le pays de renvoi vise à exécuter une mesure de re
 L'étranger qui est obligé de quitter le territoire français ou qui doit être reconduit à la frontière et qui justifie être dans l'impossibilité de quitter le territoire français en établissant qu'il ne peut ni regagner son pays d'origine, ni se rendre dans aucun autre pays peut, par dérogation aux dispositions du titre V du présent livre, être astreint à résider dans les lieux qui lui sont fixés, dans lesquels il doit se présenter périodiquement aux services de police et de gendarmerie. Si l'étranger présente une menace d'une particulière gravité pour l'ordre public, l'autorité administrative peut le faire conduire par les services de police ou de gendarmerie jusqu'aux lieux d'assignation. Le non-respect des prescriptions liées à l'assignation à résidence est sanctionné dans les conditions prévues à l'article [L. 624-4](#article-l624-4).
 
 
-#### Chapitre IV : Dispositions propres à la Guyane et à la Guadeloupe.
+#### Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Saint-Barthélemy et à Saint-Martin
 
 #### Article L514-1
 
@@ -1605,7 +1617,7 @@ Ne peuvent faire l'objet d'une mesure d'expulsion que si cette mesure constitue 
 
 2. L'étranger marié depuis au moins trois ans avec un conjoint de nationalité française, à condition que la communauté de vie n'ait pas cessé depuis le mariage et que le conjoint ait conservé la nationalité française ;
 
-3. (Abrogé)
+3. (Abrogé) ;
 
 4. L'étranger qui réside régulièrement en France depuis plus de dix ans, sauf s'il a été, pendant toute cette période, titulaire d'une carte de séjour temporaire portant la mention " étudiant " ;
 
@@ -1613,7 +1625,7 @@ Ne peuvent faire l'objet d'une mesure d'expulsion que si cette mesure constitue 
 
 6. Le ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse qui séjourne régulièrement en France depuis dix ans.
 
-Par dérogation aux dispositions du présent article, l'étranger peut faire l'objet d'un arrêté d'expulsion en application de l'article [L. 521-1](#article-l521-1) s'il a été condamné définitivement à une peine d'emprisonnement ferme au moins égale à cinq ans.
+Par dérogation aux dispositions du présent article, l'étranger visé aux 1° à 5° peut faire l'objet d'un arrêté d'expulsion en application de l'article [L. 521-1](#article-l521-1) s'il a été condamné définitivement à une peine d'emprisonnement ferme au moins égale à cinq ans.
 
 
 #### Article L521-3
@@ -1638,6 +1650,13 @@ Les étrangers mentionnés au présent article bénéficient de ses dispositions
 #### Article L521-4
 
 L'étranger mineur de dix-huit ans ne peut faire l'objet d'une mesure d'expulsion.
+
+
+#### Article L521-5
+
+Les mesures d'expulsion prévues aux articles [L. 521-1](#article-l521-1) à [L. 521-3](#article-l521-3) peuvent être prises à l'encontre des ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse, ou d'un membre de leur famille, si leur comportement personnel représente une menace réelle, actuelle et suffisamment grave pour un intérêt fondamental de la société.
+
+Pour prendre de telles mesures, l'autorité administrative tient compte de l'ensemble des circonstances relatives à leur situation, notamment la durée de leur séjour sur le territoire national, leur âge, leur état de santé, leur situation familiale et économique, leur intégration sociale et culturelle dans la société française ainsi que l'intensité des liens avec leur pays d'origine.
 
 
 #### Chapitre II : Procédure administrative
@@ -1873,11 +1892,11 @@ Le placement en rétention d'un étranger dans des locaux ne relevant pas de l'a
 
 #### Article L551-2
 
-La décision de placement est prise par l'autorité administrative, après l'interpellation de l'étranger et, le cas échéant, à l'expiration de sa garde à vue, ou à l'issue de sa période d'incarcération en cas de détention. Elle est écrite et motivée. Un double en est remis à l'intéressé. Le procureur de la République en est informé immédiatement.
+La décision de placement est prise par l'autorité administrative, après l'interpellation de l'étranger et, le cas échéant, à l'expiration de sa garde à vue, ou à l'issue de sa période d'incarcération en cas de détention. Elle est écrite et motivée. Elle prend effet à compter de sa notification à l'intéressé. Le procureur de la République en est informé immédiatement.
 
-L'étranger est informé dans une langue qu'il comprend et dans les meilleurs délais que, pendant toute la période de la rétention, il peut demander l'assistance d'un interprète, d'un conseil ainsi que d'un médecin. Il est également informé qu'il peut communiquer avec son consulat et avec une personne de son choix. Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités selon lesquelles s'exerce l'assistance de ces intervenants.
+L'étranger est informé dans une langue qu'il comprend et dans les meilleurs délais qu'à compter de son arrivée au lieu de rétention, il peut demander l'assistance d'un interprète, d'un conseil ainsi que d'un médecin. Il est également informé qu'il peut communiquer avec son consulat et avec une personne de son choix. Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités selon lesquelles s'exerce l'assistance de ces intervenants.
 
-Lorsque l'étranger ne parle pas le français, il est fait application des dispositions de l'article [L. 111-7](#article-l111-7).
+Les meilleurs délais, au sens du deuxième alinéa, s'entendent compte tenu du temps requis pour informer chaque étranger de ses droits lorsqu'un nombre important d'étrangers doivent être simultanément placés en rétention. Lorsque l'étranger ne parle pas le français, il est fait application des dispositions de l'article [L. 111-7](#article-l111-7).
 
 
 #### Article L551-3
@@ -1896,7 +1915,7 @@ Quand un délai de quarante-huit heures s'est écoulé depuis la décision de pl
 
 ##### Article L552-2
 
-Le juge rappelle à l'étranger les droits qui lui sont reconnus pendant la rétention et s'assure, d'après les mentions figurant au registre prévu à l'article [L. 553-1](#article-l553-1) émargé par l'intéressé, que celui-ci a été, au moment de la notification de la décision de placement, pleinement informé de ses droits et placé en état de les faire valoir. Il l'informe des possibilités et des délais de recours contre toutes les décisions le concernant. L'intéressé est maintenu à la disposition de la justice, pendant le temps strictement nécessaire à la tenue de l'audience et au prononcé de l'ordonnance.
+Le juge rappelle à l'étranger les droits qui lui sont reconnus et s'assure, d'après les mentions figurant au registre prévu à l'article [L. 553-1](#article-l553-1) émargé par l'intéressé, que celui-ci a été, dans les meilleurs délais suivant la notification de la décision de placement en rétention, pleinement informé de ses droits et placé en état de les faire valoir à compter de son arrivée au lieu de rétention. Le juge tient compte des circonstances particulières liées notamment au placement en rétention simultané d'un nombre important d'étrangers pour l'appréciation des délais relatifs à la notification de la décision, à l'information des droits et à leur prise d'effet. Il informe l'étranger des possibilités et des délais de recours contre toutes les décisions le concernant. L'intéressé est maintenu à disposition de la justice, dans des conditions fixées par le procureur de la République, pendant le temps strictement nécessaire à la tenue de l'audience et au prononcé de l'ordonnance.
 
 
 ##### Article L552-3
@@ -1963,11 +1982,16 @@ L'intéressé peut bénéficier de l'aide juridictionnelle.
 Par décision du juge prise sur une proposition de l'autorité administrative à laquelle l'étranger dûment informé dans une langue qu'il comprend ne s'est pas opposé, les audiences prévues au présent chapitre peuvent se dérouler avec l'utilisation de moyens de télécommunication audiovisuelle garantissant la confidentialité de la transmission. Il est alors dressé, dans chacune des deux salles d'audience ouvertes au public, un procès-verbal des opérations effectuées.
 
 
+##### Article L552-13
+
+En cas de violation des formes prescrites par la loi à peine de nullité ou d'inobservation des formalités substantielles, toute juridiction, y compris la Cour de cassation, qui est saisie d'une demande d'annulation ou qui relève d'office une telle irrégularité ne peut prononcer la mainlevée de la mesure de placement en rétention que lorsque celle-ci a eu pour effet de porter atteinte aux droits de l'étranger.
+
+
 #### Chapitre III : Conditions de la rétention
 
 #### Article L553-1
 
-Il est tenu, dans tous les lieux recevant des personnes placées ou maintenues au titre du présent titre, un registre mentionnant l'état civil de ces personnes ainsi que les conditions de leur placement ou de leur maintien.
+Il est tenu, dans tous les lieux recevant des personnes placées ou maintenues au titre du présent titre, un registre mentionnant l'état civil de ces personnes ainsi que les conditions de leur placement ou de leur maintien. Le registre mentionne également l'état civil des enfants mineurs accompagnant ces personnes ainsi que les conditions de leur accueil.
 
 L'autorité administrative tient à la disposition des personnes qui en font la demande les éléments d'information concernant les date et heure du début du placement de chaque étranger en rétention, le lieu exact de celle-ci ainsi que les date et heure des décisions de prolongation.
 
@@ -1980,6 +2004,8 @@ En cas de nécessité et pendant toute la durée de la rétention, l'autorité a
 #### Article L553-3
 
 Pendant toute la durée de la rétention, le procureur de la République ou le juge des libertés et de la détention peut se transporter sur les lieux, vérifier les conditions du maintien et se faire communiquer le registre prévu à l'article [L. 553-1](#article-l553-1). Le procureur de la République visite les lieux de rétention chaque fois qu'il l'estime nécessaire et au moins une fois par an.
+
+Un décret en Conseil d'Etat détermine les conditions d'exercice du droit d'accès des associations humanitaires aux lieux de rétention.
 
 
 #### Article L553-4
@@ -2089,16 +2115,16 @@ A la suite d'un contrôle d'identité effectué en application des articles 78-1
 
 ### Article L611-2
 
-Les services de police et les unités de gendarmerie sont habilités à retenir le passeport ou le document de voyage des personnes de nationalité étrangère en situation irrégulière. Ils leur remettent en échange un récépissé valant justification de leur identité et sur lequel sont mentionnées la date de retenue et les modalités de restitution du document retenu.
+L'autorité administrative compétente, les services de police et les unités de gendarmerie sont habilités à retenir le passeport ou le document de voyage des personnes de nationalité étrangère en situation irrégulière. Ils leur remettent en échange un récépissé valant justification de leur identité et sur lequel sont mentionnées la date de retenue et les modalités de restitution du document retenu.
 
 
 ### Article L611-3
 
 Afin de mieux garantir le droit au séjour des personnes en situation régulière et de lutter contre l'entrée et le séjour irréguliers des étrangers en France, les empreintes digitales ainsi qu'une photographie des ressortissants étrangers, non ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse, qui sollicitent la délivrance d'un titre de séjour en application de l'article [L. 311-1](#article-l311-1) peuvent être relevées, mémorisées et faire l'objet d'un traitement automatisé dans les conditions fixées par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
-Il en est de même de ceux qui sont en situation irrégulière en France, qui font l'objet d'une mesure d'éloignement du territoire français ou qui, ayant été contrôlés à l'occasion du franchissement de la frontière en provenance d'un pays tiers aux Etats parties à la convention signée à Schengen le 19 juin 1990, ne remplissent pas les conditions d'entrée prévues à l'article 5 de cette convention ou à l'article [L. 211-1](#article-l211-1).
+Il en est de même de ceux qui sont en situation irrégulière en France, qui font l'objet d'une mesure d'éloignement du territoire français ou qui, ayant été contrôlés à l'occasion du franchissement de la frontière en provenance d'un pays tiers aux Etats parties à la convention signée à Schengen le 19 juin 1990, ne remplissent pas les conditions d'entrée prévues à l'article 5 du règlement (CE) n° 562/2006 du Parlement européen et du Conseil, du 15 mars 2006, établissant un code communautaire relatif au régime de franchissement des frontières par les personnes (code frontières Schengen) ou à l'article [L. 211-1](#article-l211-1).
 
-Il en est de même des bénéficiaires de l'aide au retour mentionnée au dernier alinéa du I de l'article [L. 511-1](#article-l511-1).
+Il en est de même des étrangers bénéficiaires de l'aide au retour mentionnée à l'article L. 512-5.
 
 
 ### Article L611-4
@@ -2144,7 +2170,9 @@ Les dispositions des articles [L. 611-8](#article-l611-8) et [L. 611-9](#article
 
 ### Article L611-11
 
-Pendant cinq ans à compter de la publication de la loi n° 2006-911 du 24 juillet 2006 relative à l'immigration et à l'intégration, les dispositions des articles [L. 611-8](#article-l611-8) et [L. 611-9](#article-l611-9) sont applicables, en Guadeloupe, dans une zone comprise entre le littoral et une ligne tracée à un kilomètre en deçà, ainsi que sur les routes nationales 1 et 4.
+Les articles [L. 611-8](#article-l611-8) et [L. 611-9](#article-l611-9) sont applicables en Guadeloupe dans une zone comprise entre le littoral et une ligne tracée à un kilomètre en deçà, ainsi que sur les routes nationales 1 et 4.
+
+Il en est de même à Saint-Barthélemy et Saint-Martin dans une zone comprise entre le littoral et une ligne tracée à un kilomètre en deçà.
 
 
 ### TITRE II : SANCTIONS
@@ -2162,9 +2190,9 @@ La juridiction pourra, en outre, interdire à l'étranger condamné, pendant une
 
 Les peines prévues à l'article [L. 621-1](#article-l621-1) sont applicables à l'étranger qui n'est pas ressortissant d'un Etat membre de l'Union européenne :
 
-1. S'il a pénétré sur le territoire métropolitain sans remplir les conditions mentionnées aux points a, b ou c du paragraphe 1 de l'article 5 de la convention signée à Schengen le 19 juin 1990, et sans avoir été admis sur le territoire en application des stipulations des paragraphes 2 ou 3 de l'article 5 de ladite convention ; il en est de même lorsque l'étranger fait l'objet d'un signalement aux fins de non-admission en application d'une décision exécutoire prise par un autre Etat partie à ladite convention ;
+1. S'il a pénétré sur le territoire métropolitain sans remplir les conditions mentionnées aux points a, b ou c du paragraphe 1 de l'article 5 du règlement (CE) n° 562/2006 du Parlement européen et du Conseil, du 15 mars 2006, établissant un code communautaire relatif au régime de franchissement des frontières par les personnes (code frontières Schengen) et sans avoir été admis sur le territoire en application des points a et c du paragraphe 4 de l'article 5 de ce même règlement ; il en est de même lorsque l'étranger fait l'objet d'un signalement aux fins de non-admission en application d'une décision exécutoire prise par un autre Etat partie à la convention signée à Schengen le 19 juin 1990 ;
 
-2. Ou si, en provenance directe du territoire d'un Etat partie à cette convention, il est entré ou a séjourné sur le territoire métropolitain sans se conformer aux stipulations de ses articles 19, paragraphe 1 ou 2, 20, paragraphe 1, et 21, paragraphe 1 ou 2, à l'exception des conditions mentionnées au point e du paragraphe 1 de l'article 5 et au point d lorsque le signalement aux fins de non-admission ne résulte pas d'une décision exécutoire prise par un autre Etat partie à la convention.
+2. Ou si, en provenance directe du territoire d'un Etat partie à cette convention, il est entré ou a séjourné sur le territoire métropolitain sans se conformer aux stipulations de ses articles 19, paragraphe 1 ou 2,20, paragraphe 1, et 21, paragraphe 1 ou 2, à l'exception des conditions mentionnées au point e du paragraphe 1 de l'article 5 du règlement (CE) n° 562/2006 du Parlement européen et du Conseil, du 15 mars 2006, précité et au point d lorsque le signalement aux fins de non-admission ne résulte pas d'une décision exécutoire prise par un autre Etat partie à la convention.
 
 
 #### Chapitre II : Aide à l'entrée et au séjour irréguliers
@@ -2214,7 +2242,7 @@ Sans préjudice des articles [L. 621-1](#article-l621-1), [L. 621-2](#article-l6
 
 2. Du conjoint de l'étranger, sauf si les époux sont séparés de corps, ont été autorisés à résider séparément ou si la communauté de vie a cessé, ou de la personne qui vit notoirement en situation maritale avec lui ;
 
-3. De toute personne physique ou morale, lorsque l'acte reproché était, face à un danger actuel ou imminent, nécessaire à la sauvegarde de la vie ou de l'intégrité physique de l'étranger, sauf s'il y a disproportion entre les moyens employés et la gravité de la menace ou s'il a donné lieu à une contrepartie directe ou indirecte.
+3. De toute personne physique ou morale, lorsque l'acte reproché était, face à un danger actuel ou imminent, nécessaire à la sauvegarde de la personne de l'étranger, sauf s'il y a disproportion entre les moyens employés et la gravité de la menace ou s'il a donné lieu à une contrepartie directe ou indirecte.
 
 Les exceptions prévues aux 1° et 2° ne s'appliquent pas lorsque l'étranger bénéficiaire de l'aide au séjour irrégulier vit en état de polygamie ou lorsque cet étranger est le conjoint d'une personne polygame résidant en France avec le premier conjoint.
 
@@ -2258,16 +2286,16 @@ En cas de condamnation pour les infractions prévues à l'article [L. 622-5](#ar
 
 #### Article L622-10
 
-I. - En Guyane, le procureur de la République peut ordonner la destruction des embarcations fluviales non immatriculées qui ont servi à commettre les infractions visées aux articles [L. 622-1](#article-l622-1) et [L. 622-2](#article-l622-2), constatées par procès-verbal, lorsqu'il n'existe pas de mesures techniques raisonnablement envisageables pour empêcher définitivement le renouvellement de ces infractions.
+I.-En Guyane, le procureur de la République peut ordonner la destruction des embarcations fluviales non immatriculées qui ont servi à commettre les infractions visées aux articles [L. 622-1](#article-l622-1) et [L. 622-2](#article-l622-2), constatées par procès-verbal, lorsqu'il n'existe pas de mesures techniques raisonnablement envisageables pour empêcher définitivement le renouvellement de ces infractions.
 
-II. - En Guadeloupe et en Guyane, le procureur de la République peut ordonner l'immobilisation des véhicules terrestres et des aéronefs qui ont servi à commettre les infractions visées aux articles [L. 622-1](#article-l622-1) et [L. 622-2](#article-l622-2), constatées par procès-verbal, par la neutralisation de tout moyen indispensable à leur fonctionnement, lorsqu'il n'existe pas de mesures techniques raisonnablement envisageables pour empêcher définitivement le renouvellement de ces infractions.
+II.-En Guadeloupe, à Saint-Barthélemy, à Saint-Martin et en Guyane, le procureur de la République peut ordonner l'immobilisation des véhicules terrestres et des aéronefs qui ont servi à commettre les infractions visées aux articles [L. 622-1](#article-l622-1) et [L. 622-2](#article-l622-2), constatées par procès-verbal, par la neutralisation de tout moyen indispensable à leur fonctionnement, lorsqu'il n'existe pas de mesures techniques raisonnablement envisageables pour empêcher définitivement le renouvellement de ces infractions.
 
 
 #### Chapitre III : Reconnaissance d'enfant et mariage contracté à seule fin d'obtenir ou de faire obtenir un titre de séjour ou la nationalité française
 
 #### Article L623-1
 
-Le fait de contracter un mariage ou de reconnaître un enfant aux seules fins d'obtenir, ou de faire obtenir, un titre de séjour ou le bénéfice d'une protection contre l'éloignement, ou aux seules fins d'acquérir, ou de faire acquérir, la nationalité française est puni de cinq ans d'emprisonnement et de 15 000 Euros d'amende.
+Le fait de contracter un mariage ou de reconnaître un enfant aux seules fins d'obtenir, ou de faire obtenir, un titre de séjour ou le bénéfice d'une protection contre l'éloignement, ou aux seules fins d'acquérir, ou de faire acquérir, la nationalité française est puni de cinq ans d'emprisonnement et de 15 000 Euros d'amende. Ces peines sont également encourues lorsque l'étranger qui a contracté mariage a dissimulé ses intentions à son conjoint.
 
 Ces mêmes peines sont applicables en cas d'organisation ou de tentative d'organisation d'un mariage ou d'une reconnaissance d'enfant aux mêmes fins.
 
@@ -2300,7 +2328,7 @@ Les personnes morales condamnées au titre de l'infraction visée au troisième 
 
 #### Article L624-1
 
-Tout étranger qui se sera soustrait ou qui aura tenté de se soustraire à l'exécution d'une mesure de refus d'entrée en France, d'un arrêté d'expulsion, d'une mesure de reconduite à la frontière ou d'une obligation de quitter le territoire français ou qui, expulsé ou ayant fait l'objet d'une interdiction du territoire ou d'un arrêté de reconduite à la frontière pris, moins d'un an auparavant, sur le fondement du 8° du II de l'article [L. 511-1](#article-l511-1) et notifié à son destinataire après la publication de la loi n° 2006-911 du 24 juillet 2006 relative à l'immigration et à l'intégration, aura pénétré de nouveau sans autorisation en France, sera puni d'une peine de trois ans d'emprisonnement.
+Tout étranger qui se sera soustrait ou qui aura tenté de se soustraire à l'exécution d'une mesure de refus d'entrée en France, d'un arrêté d'expulsion, d'une mesure de reconduite à la frontière ou d'une obligation de quitter le territoire français ou qui, expulsé ou ayant fait l'objet d'une interdiction judiciaire du territoire, d'une interdiction de retour sur le territoire français ou d'un arrêté de reconduite à la frontière pris moins de trois ans auparavant en application de l'article L. 533-1, aura pénétré de nouveau sans autorisation en France sera puni d'une peine de trois ans d'emprisonnement.
 
 La même peine sera applicable à tout étranger qui n'aura pas présenté à l'autorité administrative compétente les documents de voyage permettant l'exécution de l'une des mesures mentionnées au premier alinéa ou qui, à défaut de ceux-ci, n'aura pas communiqué les renseignements permettant cette exécution ou aura communiqué des renseignements inexacts sur son identité.
 
@@ -2583,7 +2611,9 @@ La Cour nationale du droit d'asile est une juridiction administrative, placée s
 
 La Cour nationale du droit d'asile statue sur les recours formés contre les décisions de l'Office français de protection des réfugiés et apatrides, prises en application des articles [L. 711-1](#article-l711-1), [L. 712-1](#article-l712-1) à [L. 712-3](#article-l712-3) et [L. 723-1](#article-l723-1) à [L. 723-3](#article-l723-3). A peine d'irrecevabilité, ces recours doivent être exercés dans le délai d'un mois à compter de la notification de la décision de l'office.
 
-Le bénéfice de l'aide juridictionnelle peut être demandé au plus tard dans le délai d'un mois à compter de la réception par le requérant de l'avis de réception de son recours, lequel l'informe des modalités de cette demande.
+Le bénéfice de l'aide juridictionnelle peut être demandé au plus tard dans le délai d'un mois à compter de la réception par le requérant de l'avis de réception de son recours, lequel l'informe dans une langue dont il est raisonnable de supposer qu'il la comprend des modalités de cette demande.
+
+Le bénéfice de l'aide juridictionnelle ne peut pas être demandé dans le cadre d'un recours dirigé contre une décision de l'Office français de protection des réfugiés et apatrides rejetant une demande de réexamen lorsque le requérant a, à l'occasion d'une précédente demande, été entendu par l'office ainsi que par la Cour nationale du droit d'asile, assisté d'un avocat désigné au titre de l'aide juridictionnelle.
 
 
 #### Article L731-3
@@ -2616,10 +2646,21 @@ c) Soit par le garde des sceaux, ministre de la justice, parmi les magistrats du
 
 Les intéressés peuvent présenter leurs explications à la Cour nationale du droit d'asile et s'y faire assister d'un conseil et d'un interprète.
 
+Afin d'assurer une bonne administration de la justice et de faciliter la possibilité ouverte aux intéressés de présenter leurs explications à la cour, le président de cette juridiction peut prévoir que la salle d'audience de la cour est reliée, en direct, par un moyen de communication audiovisuelle qui garantit la confidentialité de la transmission avec une salle d'audience spécialement aménagée à cet effet ouverte au public et située dans des locaux relevant du ministère de la justice plus aisément accessibles par le demandeur, dans des conditions respectant les droits de l'intéressé prévus par le premier alinéa. Une copie de l'intégralité du dossier est mise à sa disposition. Si l'intéressé est assisté d'un conseil, ce dernier est physiquement présent auprès de lui. Ces opérations donnent lieu à l'établissement d'un procès-verbal dans chacune des salles d'audience ou à un enregistrement audiovisuel ou sonore. Le requérant qui, séjournant en France métropolitaine, refuse d'être entendu par un moyen de communication audiovisuelle est convoqué, à sa demande, dans les locaux de la cour.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du deuxième alinéa.
+
 
 #### Article L733-2
 
 Le président et les présidents de section peuvent, par ordonnance, régler les affaires dont la nature ne justifie pas l'intervention d'une formation collégiale.
+
+
+#### Article L733-3
+
+Avant de statuer sur un recours soulevant une question de droit nouvelle, présentant une difficulté sérieuse et se posant dans de nombreux litiges, la Cour nationale du droit d'asile peut, par une décision qui n'est susceptible d'aucun recours, transmettre le dossier de l'affaire au Conseil d'Etat qui examine dans un délai de trois mois la question soulevée. Il est sursis à toute décision au fond jusqu'à l'avis du Conseil d'Etat ou, à défaut, jusqu'à l'expiration de ce délai.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
 
 ### TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE
@@ -2651,14 +2692,14 @@ Sous réserve du respect des stipulations de l'article 33 de la convention de Ge
 
 3. La présence en France de l'étranger constitue une menace grave pour l'ordre public, la sécurité publique ou la sûreté de l'Etat ;
 
-4. La demande d'asile repose sur une fraude délibérée ou constitue un recours abusif aux procédures d'asile ou n'est présentée qu'en vue de faire échec à une mesure d'éloignement prononcée ou imminente. Constitue, en particulier, un recours abusif aux procédures d'asile la présentation frauduleuse de plusieurs demandes d'admission au séjour au titre de l'asile sous des identités différentes. Constitue également un recours abusif aux procédures d'asile la demande d'asile présentée dans une collectivité d'outre-mer s'il apparaît qu'une même demande est en cours d'instruction dans un autre Etat membre de l'Union européenne.
+4. La demande d'asile repose sur une fraude délibérée ou constitue un recours abusif aux procédures d'asile ou n'est présentée qu'en vue de faire échec à une mesure d'éloignement prononcée ou imminente. Constitue, en particulier, un recours abusif aux procédures d'asile la présentation frauduleuse de plusieurs demandes d'admission au séjour au titre de l'asile sous des identités différentes. Constitue également un recours abusif aux procédures d'asile la demande d'asile présentée dans une collectivité d'outre-mer s'il apparaît qu'une même demande est en cours d'instruction dans un autre Etat membre de l'Union européenne. Constitue une demande d'asile reposant sur une fraude délibérée la demande présentée par un étranger qui fournit de fausses indications, dissimule des informations concernant son identité, sa nationalité ou les modalités de son entrée en France afin d'induire en erreur les autorités.
 
 Les dispositions du présent article ne font pas obstacle au droit souverain de l'Etat d'accorder l'asile à toute personne qui se trouverait néanmoins dans l'un des cas mentionnés aux 1° à 4°.
 
 
 #### Article L741-5
 
-Le 1° de l'article [L. 741-4](#article-l741-4) n'est pas applicable dans les départements d'outre-mer ni à Saint-Pierre-et-Miquelon.
+Le 1° de l'article [L. 741-4](#article-l741-4) n'est pas applicable dans les départements d'outre-mer ni à Saint-Pierre-et-Miquelon, Saint-Barthélemy et Saint-Martin.
 
 
 #### Chapitre II : Durée du maintien sur le territoire français.
@@ -2926,6 +2967,82 @@ L'étranger qui, arrivant ou séjournant dans les Terres australes et antarctiqu
 L'intéressé est ensuite invité à quitter sans délai les Terres australes et antarctiques françaises et à rejoindre La Réunion, où sa demande sera traitée dans les conditions prévues par le présent livre.
 
 Si l'étranger n'est pas en mesure de se rendre à La Réunion par ses propres moyens, il y est conduit, sur décision de l'administrateur supérieur, soit par la personne qui l'a acheminé dans le territoire, soit par un navire de la marine nationale, soit par un navire ou un aéronef affrété pour le compte du territoire. Dans l'attente, il est autorisé à se maintenir sur le territoire.
+
+
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy et à Saint-Martin
+
+#### Article L766-1
+
+Le présent livre est applicable à Saint-Barthélemy sous réserve des adaptations suivantes :
+
+1. A l'article [L. 741-1](#article-l741-1), les mots : " sur le territoire français " et " en France ", deux fois, sont respectivement remplacés par les mots : " sur le territoire de Saint-Barthélemy " et " dans la collectivité de Saint-Barthélemy " ;
+
+2. A l'article [L. 741-2](#article-l741-2), les mots : " à l'intérieur du territoire français " sont remplacés par les mots : " sur le territoire de Saint-Barthélemy " ;
+
+3. A l'article [L. 741-4](#article-l741-4) :
+
+a) Au premier alinéa, les mots : " en France " sont remplacés par les mots : " dans la collectivité de Saint-Barthélemy " ;
+
+b) Le 1° n'est pas applicable ;
+
+c) Aux 3° et 4°, les mots : " en France " sont remplacés par les mots : " sur le territoire de la République " ;
+
+4. A la première phrase de l'article [L. 742-1](#article-l742-1), les mots : " en France " sont remplacés par les mots : " dans la collectivité de Saint-Barthélemy " ;
+
+5. A la première phrase de l'article [L. 742-3](#article-l742-3), les mots : " en France " sont remplacés par les mots : " dans la collectivité de Saint-Barthélemy " et les mots : " s'y maintenir " sont remplacés par les mots : " se maintenir sur le territoire de Saint-Barthélemy " ;
+
+6. A l'article [L. 742-6](#article-l742-6) :
+
+a) A la première phrase du premier alinéa, les mots : " sur le territoire français " et " en France " sont respectivement remplacés par les mots : " sur le territoire de Saint-Barthélemy " et " dans la collectivité de Saint-Barthélemy " ;
+
+b) Le même alinéa est complété par une phrase ainsi rédigée :
+
+" Si l'office décide d'entendre le demandeur d'asile hors de la collectivité de Saint-Barthélemy, celui-ci reçoit les autorisations nécessaires. " ;
+
+c) La seconde phrase du second alinéa est ainsi rédigée :
+
+" Elle délivre sans délai un titre de séjour dans les conditions prévues par le titre Ier du livre III du présent code ou la carte de séjour temporaire prévue par le 10° de l'article [L. 313-11](#article-l313-11). " ;
+
+7. A l'article [L. 742-7](#article-l742-7), les mots : " le territoire français " sont remplacés par les mots : " la collectivité de Saint-Barthélemy " ;
+
+8. A la première phrase du premier alinéa de l'article [L. 751-1](#article-l751-1), les mots : " sur le territoire français " sont remplacés par les mots : " sur le territoire de Saint-Barthélemy ".
+
+
+#### Article L766-2
+
+Le présent livre est applicable à Saint-Martin sous réserve des adaptations suivantes :
+
+1. A l'article [L. 741-1](#article-l741-1), les mots : " sur le territoire français " et " en France " sont respectivement remplacés par les mots : " sur le territoire de Saint-Martin " et " dans la collectivité de Saint-Martin " ;
+
+2. A l'article [L. 741-2](#article-l741-2), les mots : " à l'intérieur du territoire français " sont remplacés par les mots : " sur le territoire de Saint-Martin " ;
+
+3. A l'article [L. 741-4](#article-l741-4) :
+
+a) Au premier alinéa, les mots : " en France " sont remplacés par les mots : " dans la collectivité de Saint-Martin " ;
+
+b) Le 1° n'est pas applicable ;
+
+c) Aux 3° et 4°, les mots : " en France " sont remplacés par les mots : " sur le territoire de la République " ;
+
+4. A la première phrase de l'article [L. 742-1](#article-l742-1), les mots : " en France " sont remplacés par les mots : " dans la collectivité de Saint-Martin " ;
+
+5. A la première phrase de l'article [L. 742-3](#article-l742-3), les mots : " en France " sont remplacés par les mots : " dans la collectivité de Saint-Martin " et les mots : " s'y maintenir " sont remplacés par les mots : " se maintenir sur le territoire de Saint-Martin " ;
+
+6. A l'article [L. 742-6](#article-l742-6) :
+
+a) A la première phrase du premier alinéa, les mots : " sur le territoire français " et " en France " sont respectivement remplacés par les mots : " sur le territoire de Saint-Martin " et " dans la collectivité de Saint-Martin " ;
+
+b) Le même alinéa est complété par une phrase ainsi rédigée :
+
+" Si l'office décide d'entendre le demandeur d'asile hors de la collectivité de Saint-Martin, celui-ci reçoit les autorisations nécessaires. " ;
+
+c) La seconde phrase du second alinéa est ainsi rédigée :
+
+" Elle délivre sans délai un titre de séjour dans les conditions prévues par le titre Ier du livre III du présent code ou la carte de séjour temporaire prévue par le 10° de l'article [L. 313-11](#article-l313-11). " ;
+
+7. A l'article [L. 742-7](#article-l742-7), les mots : " le territoire français " sont remplacés par les mots : " la collectivité de Saint-Martin " ;
+
+8. A la première phrase du premier alinéa de l'article [L. 751-1](#article-l751-1), les mots : " sur le territoire français " sont remplacés par les mots : " sur le territoire de Saint-Martin ".
 
 
 ## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES
@@ -5620,7 +5737,7 @@ Toutefois, lorsqu'il estime que la contribution économique réalisée par le de
 
 #### Article R315-1
 
-La Commission nationale des compétences et des talents prévue à l'article [L. 315-4](#article-l315-4) détermine, pour la délivrance de la carte de séjour portant la mention " compétences et talents ", la nature et l'importance relative des critères d'évaluation, d'une part, du projet de l'étranger qui sollicite la délivrance de cette carte, compte tenu notamment de sa localisation, du secteur d'activité en cause, des créations d'emplois envisagées et, d'autre part, de son aptitude à le réaliser, compte tenu notamment de son niveau d'études, de ses qualifications ou de son expérience professionnelles et, le cas échéant, des investissements prévus.
+La Commission nationale des compétences et des talents prévue à l'article L. 315-4 détermine, pour la délivrance de la carte de séjour portant la mention " compétences et talents ", la nature et l'importance relative des critères d'évaluation, d'une part, du projet de l'étranger qui sollicite la délivrance de cette carte, compte tenu notamment de sa localisation, du secteur d'activité en cause, des créations d'emplois envisagées et, d'autre part, de son aptitude à le réaliser, compte tenu notamment de son niveau d'études, de ses qualifications ou de son expérience professionnelles et, le cas échéant, des investissements prévus.
 
 La commission fait toutes propositions au ministre chargé de l'immigration et au ministre des affaires étrangères pour favoriser l'attractivité de cette carte.
 
