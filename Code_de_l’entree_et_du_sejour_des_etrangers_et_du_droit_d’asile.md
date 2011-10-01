@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 30 septembre 2011
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20110930)
+- Date de consolidation : 1er octobre 2011
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20111001)
 
 
 # Partie législative
@@ -737,6 +737,11 @@ Lorsque l'embauche intervient pour un jeune professionnel recruté dans le cadre
 La taxe prévue au présent article est perçue comme en matière de recettes des établissements publics nationaux à caractère administratif.
 
 Les modalités d'application du présent article sont précisées, en tant que de besoin, par décret.
+
+
+##### Article L311-16
+
+Sans préjudice des taxes prévues aux articles [L. 311-13](#article-l311-13) et [L. 311-14](#article-l311-14), la délivrance, le renouvellement, le duplicata ou le changement d'une carte de séjour ou d'un titre équivalent prévu par les traités ou accords internationaux sont soumis à un droit de timbre d'un montant de 19 €.
 
 
 #### Chapitre II : La commission du titre de séjour
