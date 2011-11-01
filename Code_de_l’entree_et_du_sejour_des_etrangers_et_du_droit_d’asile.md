@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 1er octobre 2011
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20111001)
+- Date de consolidation : 1er novembre 2011
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20111101)
 
 
 # Partie législative
@@ -8416,7 +8416,7 @@ Dans le cadre des fonctions plus spécialement dévolues à l'office par l'artic
 
 Le directeur général prépare et exécute les délibérations du conseil d'administration.
 
-Dans le cadre des orientations définies par le conseil, le directeur général dirige l'office dont les services sont placés sous son autorité.A ce titre, il exerce notamment les compétences suivantes :
+Dans le cadre des orientations définies par le conseil, le directeur général dirige l'office dont les services sont placés sous son autorité. A ce titre, il exerce notamment les compétences suivantes :
 
 1. Il est l'ordonnateur des recettes et des dépenses ;
 
@@ -8424,7 +8424,7 @@ Dans le cadre des orientations définies par le conseil, le directeur général 
 
 3. Il pourvoit aux emplois et gère le personnel, notamment en affectant les agents titulaires de l'office et en recrutant les agents contractuels ;
 
-4. Il préside le comité technique paritaire et le comité d'hygiène et de sécurité ;
+4. Il préside le comité technique et le comité d'hygiène et de sécurité ;
 
 5. Il conclut les contrats et conventions engageant l'établissement. Il est la personne responsable des marchés ;
 
@@ -8432,7 +8432,7 @@ Dans le cadre des orientations définies par le conseil, le directeur général 
 
 7. Il rend compte de sa gestion au conseil d'administration.
 
-Le directeur général est assisté d'un directeur général adjoint, d'un secrétaire général, d'un secrétaire général adjoint et de chefs de division.S'agissant de la nomination du directeur général adjoint, le directeur général consulte au préalable le ministre des affaires étrangères et le ministre chargé de l'asile.
+Le directeur général est assisté d'un directeur général adjoint, d'un secrétaire général, d'un secrétaire général adjoint et de chefs de division. S'agissant de la nomination du directeur général adjoint, le directeur général consulte au préalable le ministre des affaires étrangères et le ministre chargé de l'asile.
 
 
 ##### Article R722-6
