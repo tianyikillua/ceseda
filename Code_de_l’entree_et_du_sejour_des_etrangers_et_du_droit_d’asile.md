@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 12 novembre 2011
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20111112)
+- Date de consolidation : 2 décembre 2011
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20111202)
 
 
 # Partie législative
@@ -7470,6 +7470,8 @@ Le règlement intérieur est établi par le chef de centre et approuvé par le p
 Il est traduit dans les langues les plus couramment utilisées désignées par un arrêté du ministre chargé de l'immigration.
 
 Un exemplaire en langue française et traduit dans les langues prévues à l'alinéa précédent est affiché dans les parties communes du centre.
+
+Les informations mentionnées à l'article R. 8252-2 du code du travail sont affichées dans les parties communes du centre de rétention administrative. Elles sont disponibles en langue française et traduites dans les langues étrangères désignées par le ministre chargé de l'immigration.
 
 
 ###### Sous-section 2 : Locaux de rétention administrative
