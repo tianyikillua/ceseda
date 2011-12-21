@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 2 décembre 2011
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20111202)
+- Date de consolidation : 21 décembre 2011
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20111221)
 
 
 # Partie législative
@@ -4516,14 +4516,14 @@ Les recours contre les ordonnances du juge des libertés et de la détention s'e
 
 ##### Article R223-1
 
-Le délégué du Haut-Commissariat des Nations unies pour les réfugiés ou ses représentants et les associations humanitaires ont accès, dans les conditions fixées par les sections 2 et 3 du présent chapitre à la zone d'attente définie à l'article [L. 221-1](#article-l221-1).
+Le délégué du Haut-Commissariat des Nations unies pour les réfugiés ou ses représentants et les associations humanitaires ont accès, dans les conditions fixées par les sections 2 et 3 du présent chapitre, à la zone d'attente définie à l'article [L. 221-1](#article-l221-1).
 
 Cet accès ne doit pas entraver le fonctionnement de la zone d'attente et les activités qu'y exercent les services de l'Etat, les entreprises de transport et les exploitants d'infrastructures.
 
 Il s'exerce dans le respect des opinions politiques, philosophiques ou religieuses des étrangers maintenus.
 
 
-##### Section 2 : Conditions d'accès du délégué du Haut-Commissariat des Nations unies pour les réfugiés ou de ses représentants.
+##### Section 2 : Conditions d'accès du délégué du Haut-Commissariat des Nations unies pour les réfugiés ou de ses représentants
 
 ##### Article R223-2
 
@@ -4532,7 +4532,7 @@ Le délégué du Haut-Commissariat des Nations unies pour les réfugiés ou ses 
 
 ##### Article R223-3
 
-L'accès des représentants du Haut-Commissariat des Nations unies pour les réfugiés à la zone d'attente est subordonné à un agrément individuel.
+L'accès des représentants du haut-commissariat des Nations unies pour les réfugiés à la zone d'attente est subordonné à un agrément individuel.
 
 Cet agrément est délivré pour une durée de trois mois par l'autorité administrative compétente.
 
@@ -4540,9 +4540,9 @@ Il est renouvelable pour la même durée.
 
 Il est matérialisé par la remise d'une carte nominative permettant d'obtenir lors de chaque visite une autorisation d'accès à la zone d'attente.
 
-L'autorité administrative compétente peut, après consultation du délégué du Haut-Commissariat des Nations unies pour les réfugiés, retirer son agrément à un représentant agréé de ce délégué. Ce retrait est motivé.
+L'autorité administrative compétente peut, après consultation du délégué du haut-commissariat des Nations unies pour les réfugiés, retirer son agrément à un représentant agréé de ce délégué. Ce retrait est motivé.
 
-L'agrément est également retiré sur demande du délégué du Haut-Commissariat.
+L'agrément est également retiré sur demande du délégué du haut-commissariat.
 
 
 ##### Article R*223-4
@@ -9421,7 +9421,7 @@ Ces informations comprennent au moins l'un des documents ou l'une des données s
 
 ###### Article R811-14
 
-Le ministre chargé de l'immigration informe la Commission de l'Union européenne et le Haut-Commissariat des Nations unies pour les réfugiés des demandes de transfert.
+Le ministre chargé de l'immigration informe la Commission de l'Union européenne et le Haut-Commissariat des Nations Unies pour les réfugiés des demandes de transfert.
 
 
 ##### Section 3 : Dispositions diverses
