@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 21 décembre 2011
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20111221)
+- Date de consolidation : 30 décembre 2011
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20111230)
 
 
 # Partie législative
@@ -698,30 +698,9 @@ L'autorisation provisoire de séjour mentionnée au premier alinéa, qui ne peut
 
 ##### Section 4 : Dispositions fiscales
 
-##### Article L311-13
-
-A.-La délivrance d'un premier titre de séjour figurant parmi ceux mentionnés aux 1° à 3° de l'article [L. 311-2](#article-l311-2) donne lieu à la perception, au profit de l'Office français de l'immigration et de l'intégration, d'une taxe dont le montant est fixé par décret entre 200 euros et 385 euros. Ces limites sont respectivement ramenées à 55 euros et 70 euros pour les étrangers auxquels est délivrée une carte de séjour au titre des articles [L. 313-7](#article-l313-7) et [L. 313-7-1](#article-l313-7-1), du 9° de l'article [L. 313-11](#article-l313-11), du 3° de l'article [L. 314-11](#article-l314-11), ainsi que la carte de séjour portant la mention " salarié " ou " salarié en mission " prévue aux 1° et 5° de l'article [L. 313-10](#article-l313-10). Elles sont ramenées à 100 euros et 170 euros pour les étrangers entrés en France au titre du regroupement familial en tant qu'enfants mineurs.
-
-Ces dispositions ne sont pas applicables aux étrangers qui sollicitent un titre de séjour au titre des 10° et 11° de l'article [L. 313-11](#article-l313-11), de l'article [L. 313-13](#article-l313-13) et des 4°, 5°, 6°, 8° et 9° de l'article [L. 314-11](#article-l314-11) ni aux travailleurs temporaires et saisonniers mentionnés aux 1° et 4° de l'article [L. 313-10](#article-l313-10), ni aux titulaires de la carte de séjour mentionnée au 6° du même article [L. 313-10](#article-l313-10). La délivrance d'un visa de long séjour valant ou dispensant de titre de séjour donne lieu, outre les droits de visa prévus par la réglementation en vigueur, à la perception, au profit de l'Agence nationale de l'accueil des étrangers et des migrations ou de l'établissement public appelé à lui succéder, de la taxe correspondant au titre de séjour que ce visa remplace.
-
-B.-Le renouvellement des titres de séjour ainsi que la fourniture de duplicata donnent lieu à la perception, au profit de l'Office français de l'immigration et de l'intégration, d'une taxe dont le montant est fixé par décret, selon la nature et la durée du titre, entre un minimum égal à 55 euros et un maximum égal à 220 euros. Ces limites sont respectivement ramenées à 15 euros et 30 euros pour les étrangers auxquels est délivrée une carte de séjour d'une durée d'un an au plus au titre de l'article [L. 313-7](#article-l313-7). La taxe de renouvellement n'est acquittée qu'une fois par période d'un an.
-
-C.-La délivrance, le renouvellement et la fourniture de duplicata des documents de circulation délivrés aux étrangers mineurs au titre des articles [L. 321-3](#article-l321-3) et [L. 321-4](#article-l321-4) donnent lieu à la perception, au profit de l'Office français de l'immigration et de l'intégration, d'une taxe dont le montant est de 45 euros.
-
-D. ― Sans préjudice des dispositions de l'article [L. 311-7](#article-l311-7), préalablement à la délivrance d'un premier titre de séjour, l'étranger qui n'est pas entré en France muni des documents et visas exigés par les conventions internationales et les règlements en vigueur ou qui, âgé de plus de dix-huit ans, n'a pas, après l'expiration depuis son entrée en France d'un délai de trois mois ou d'un délai supérieur fixé par décret en Conseil d'Etat, été muni d'une carte de séjour, acquitte au profit de l'Office français de l'immigration et de l'intégration un droit de visa de régularisation d'un montant égal à 220 €.
-
-Cette disposition n'est pas applicable aux réfugiés, apatrides et bénéficiaires de la protection subsidiaire et aux étrangers mentionnés au 2° bis de l'article [L. 313-11](#article-l313-11), aux 4° à 7° de l'article [L. 314-11](#article-l314-11) et à l'article [L. 314-12](#article-l314-12).
-
-Le visa mentionné au premier alinéa du présent D tient lieu du visa de long séjour prévu à l'avant-dernier alinéa de l'article [L. 211-2-1](#article-l211-2-1) si les conditions pour le demander sont réunies.
-
-E.-Les taxes prévues aux A, B, C et D sont acquittées soit au moyen de timbres mobiles d'un modèle spécial à l'Office français de l'immigration et de l'intégration, soit par la voie électronique au moyen d'un timbre dématérialisé, dans les conditions prévues au chapitre II du titre IV de la première partie du livre Ier du code général des impôts.
-
-F.-Les modalités d'application du présent article sont précisées, en tant que de besoin, par décret.
-
-
 ##### Article L311-14
 
-L'article [L. 311-13](#article-l311-13) est applicable à la délivrance, au renouvellement et à la fourniture de duplicata des titres de séjour et des documents de circulation pour étrangers mineurs prévus par les traités ou accords internationaux, sauf stipulations contraires prévues par ces traités ou accords.
+L'article L. 311-13 est applicable, selon les cas, à la demande, à la délivrance, au renouvellement et à la fourniture de duplicata des titres de séjour et des documents de circulation pour étrangers mineurs prévus par les traités ou accords internationaux, sauf stipulations contraires prévues par ces traités ou accords.
 
 
 ##### Article L311-15
@@ -741,7 +720,7 @@ Les modalités d'application du présent article sont précisées, en tant que d
 
 ##### Article L311-16
 
-Sans préjudice des taxes prévues aux articles [L. 311-13](#article-l311-13) et [L. 311-14](#article-l311-14), la délivrance, le renouvellement, le duplicata ou le changement d'une carte de séjour ou d'un titre équivalent prévu par les traités ou accords internationaux sont soumis à un droit de timbre d'un montant de 19 €.
+Sans préjudice des taxes prévues aux articles L. 311-13 et [L. 311-14](#article-l311-14), la délivrance, le renouvellement, le duplicata ou le changement d'une carte de séjour ou d'un titre équivalent prévu par les traités ou accords internationaux sont soumis à un droit de timbre d'un montant de 19 €.
 
 
 #### Chapitre II : La commission du titre de séjour
@@ -1322,7 +1301,7 @@ Sous réserve des conventions internationales, les étrangers mineurs de dix-hui
 
 ##### Article L322-1
 
-Pour exercer en France une activité professionnelle salariée, les étrangers doivent se conformer aux articles L. 1261-1, L. 5221-1 à L. 5221-3, L. 5221-5, L. 5221-7, L. 5523-1 à L. 5523-3 et L. 8323-2 du code du travail ainsi qu'aux articles [L. 311-13](#article-l311-13) et [L. 311-14](#article-l311-14) du présent code.
+Pour exercer en France une activité professionnelle salariée, les étrangers doivent se conformer aux articles L. 1261-1, L. 5221-1 à L. 5221-3, L. 5221-5, L. 5221-7, L. 5523-1 à L. 5523-3 et L. 8323-2 du code du travail ainsi qu'aux articles L. 311-13 et [L. 311-14](#article-l311-14) du présent code.
 
 
 ##### Section 2 : Autres activités professionnelles
@@ -4872,11 +4851,11 @@ Les bénéficiaires de l'aide publique à la réinsertion prévue à l'article [
 
 ###### Article D311-18-1
 
-Les ressortissants étrangers qui bénéficient de la délivrance d'un premier titre de séjour, de son renouvellement ou de la délivrance d'un duplicata versent, au profit de l'Office français de l'immigration et de l'intégration, les taxes mentionnées aux articles [L. 311-13](#article-l311-13) et [L. 311-14](#article-l311-14) selon les modalités suivantes :
+Les ressortissants étrangers qui bénéficient de la délivrance d'un premier titre de séjour, de son renouvellement ou de la délivrance d'un duplicata versent, au profit de l'Office français de l'immigration et de l'intégration, les taxes mentionnées aux articles L. 311-13 et [L. 311-14](#article-l311-14) selon les modalités suivantes :
 
 1. Pour la délivrance d'un premier titre de séjour, le montant de la taxe est fixé comme suit :
 
-a) 340 euros pour la délivrance d'un titre figurant parmi ceux mentionnés aux 1° à 3° de l'article [L. 311-2](#article-l311-2), à l'exception des titres mentionnés à la première phrase du deuxième alinéa du A de l'article [L. 311-13](#article-l311-13) et, jusqu'au 31 décembre 2011, des titres délivrés aux conjoints d'étrangers dont la demande de regroupement familial a été autorisée avant le 28 décembre 2008 et ayant acquitté à ce titre la redevance prévue à l'article [R. 421-29](#article-r421-29) ;
+a) 340 euros pour la délivrance d'un titre figurant parmi ceux mentionnés aux 1° à 3° de l'article [L. 311-2](#article-l311-2), à l'exception des titres mentionnés à la première phrase du deuxième alinéa du A de l'article L. 311-13 et, jusqu'au 31 décembre 2011, des titres délivrés aux conjoints d'étrangers dont la demande de regroupement familial a été autorisée avant le 28 décembre 2008 et ayant acquitté à ce titre la redevance prévue à l'article [R. 421-29](#article-r421-29) ;
 
 b) 55 euros pour la délivrance d'un titre de séjour mentionné aux articles [L. 313-7](#article-l313-7), [L. 313-7-1](#article-l313-7-1), au 9° de l'article [L. 313-11](#article-l313-11) et au 3° de l'article [L. 314-11](#article-l314-11) ;
 
