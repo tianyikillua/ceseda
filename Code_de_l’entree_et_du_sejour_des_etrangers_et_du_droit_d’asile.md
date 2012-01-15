@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 1er janvier 2012
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20120101)
+- Date de consolidation : 15 janvier 2012
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20120115)
 
 
 # Partie législative
@@ -7793,7 +7793,9 @@ Tout dossier qui n'a fait l'objet d'aucune mise à jour dans un délai de cinq a
 
 2. Le dossier d'un étranger qui contient des données relatives à un arrêté d'expulsion ou à une peine d'interdiction définitive du territoire est effacé au terme d'un délai de trente ans après la saisie de la mesure ou de la peine dans le traitement si le dossier n'a fait l'objet d'aucune mise à jour durant les cinq dernières années ;
 
-3. Le dossier d'un étranger qui contient des données relatives à une peine d'interdiction du territoire à temps prononcée à l'encontre de cet étranger est effacé au terme d'un délai de cinq ans à compter de la caducité de la peine si le dossier n'a fait l'objet d'aucune mise à jour durant cette période.
+3. Le dossier d'un étranger qui contient des données relatives à une peine d'interdiction du territoire à temps prononcée à l'encontre de cet étranger est effacé au terme d'un délai de cinq ans à compter de la caducité de la peine si le dossier n'a fait l'objet d'aucune mise à jour durant cette période ;
+
+4. Le dossier d'un étranger qui contient des données relatives à une interdiction de retour sur le territoire français est effacé au terme d'un délai de cinq ans à compter de l'expiration du délai de validité de l'interdiction, si le dossier n'a fait l'objet d'aucune mise à jour durant cette période.
 
 Les mises à jour mentionnées au présent article s'entendent de celles qui sont consécutives à une demande de l'intéressé ou à une modification significative de sa situation.
 
@@ -9545,7 +9547,9 @@ a) Données relatives à la mesure d'éloignement :
 
 9. Abrogation des arrêtés d'expulsion : date de la demande ; indicateur de consultation de la commission d'expulsion ; date de notification de l'engagement de la procédure ; date de la réunion ; sens de l'avis ; date de notification de l'avis ; date, sens et date de notification de la décision ; date et résultat du réexamen quinquennal ;
 
-10. Annulation de la mesure d'expulsion : date, juridiction ; en cas de recours : date, juridiction, décision.
+10. Annulation de la mesure d'expulsion : date, juridiction ; en cas de recours : date, juridiction, décision ;
+
+11. Pour les interdictions de retour, date de la décision, dates de début et de fin de la période d'interdiction, date de demande d'abrogation, date d'abrogation, date d'annulation contentieuse.
 
 b) Données relatives aux procédures juridictionnelles mises en œuvre dans le cadre de l'éloignement :
 
