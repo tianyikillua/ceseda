@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 15 janvier 2012
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20120115)
+- Date de consolidation : 28 janvier 2012
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20120128)
 
 
 # Partie législative
@@ -7248,6 +7248,8 @@ Lorsqu'une ordonnance met fin à la rétention ou assigne à résidence l'étran
 
 Pour la mise en oeuvre de l'article [L. 552-7](#article-l552-7), les règles prévues à la section 1 du présent chapitre sont applicables.
 
+Toutefois, par dérogation à l'article [R. 552-1](#article-r552-1), le juge des libertés et de la détention compétent pour faire application des dispositions du quatrième alinéa de l'article [L. 552-7](#article-l552-7) est celui du tribunal de grande instance de Paris.
+
 
 ##### Section 3 : Voies de recours
 
@@ -7378,6 +7380,8 @@ L'ordonnance du premier président ou de son délégué n'est pas susceptible d'
 
 Les centres de rétention administrative sont créés, sur proposition du ministre chargé de l'immigration, par arrêté conjoint du ministre chargé des affaires sociales, du ministre chargé de l'immigration, du ministre de l'intérieur et du ministre de la justice. Cet arrêté mentionne l'adresse du centre et précise, d'une part, si sa surveillance en est confiée à la police nationale ou à la gendarmerie nationale et, d'autre part, si ce centre est susceptible d'accueillir des familles.
 
+Cet arrêté désigne en outre les centres dans lesquels les étrangers auxquels il est fait application des dispositions du quatrième alinéa de l'article [L. 552-7](#article-l552-7) sont maintenus en rétention.
+
 
 ###### Article R553-2
 
@@ -7430,6 +7434,11 @@ Il est traduit dans les langues les plus couramment utilisées désignées par u
 Un exemplaire en langue française et traduit dans les langues prévues à l'alinéa précédent est affiché dans les parties communes du centre.
 
 Les informations mentionnées à l'article R. 8252-2 du code du travail sont affichées dans les parties communes du centre de rétention administrative. Elles sont disponibles en langue française et traduites dans les langues étrangères désignées par le ministre chargé de l'immigration.
+
+
+###### Article R553-4-1
+
+Les étrangers auxquels il est fait application des dispositions du quatrième alinéa de l'article [L. 552-7](#article-l552-7) sont maintenus en rétention dans un espace qui leur est réservé.
 
 
 ###### Sous-section 2 : Locaux de rétention administrative
@@ -8698,6 +8707,15 @@ Les rapporteurs n'ont pas voix délibérative.
 La cour peut prescrire toute mesure d'instruction qu'elle jugera utile.
 
 Sans préjudice des droits que les intéressés tiennent de l'article [L. 733-1](#article-l733-1), elle peut notamment ordonner la comparution personnelle du requérant ou entendre le directeur général de l'office ou son représentant.
+
+
+###### Article R733-18-1
+
+La décision de renvoi d'une question en application de l'article [L. 733-3](#article-l733-3) est prononcée par la formation visée à l'article [R. 732-5](#article-r732-5).
+
+Elle est adressée au secrétaire du contentieux du Conseil d'Etat, avec le dossier de l'affaire, dans les huit jours de son prononcé. Le requérant et l'office sont avisés de cette transmission par notification qui leur est faite de la décision, par lettre recommandée avec demande d'avis de réception ou par tout autre moyen permettant de faire la preuve de sa réception par les destinataires.
+
+Les dispositions des articles R. 113-2 à R. 113-4 du code de justice administrative sont applicables aux renvois prononcés en application de l'article [L. 733-3](#article-l733-3).
 
 
 ###### Article R733-19
