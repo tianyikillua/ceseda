@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 30 janvier 2012
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20120130)
+- Date de consolidation : 4 mars 2012
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20120304)
 
 
 # Partie législative
@@ -8397,7 +8397,7 @@ Dans le cadre de ses attributions fixées à l'article [L. 722-1](#article-l722-
 
 Il arrête son règlement intérieur.
 
-Il émet un avis sur les nominations aux emplois de directeur général adjoint, de secrétaire général, de secrétaire général adjoint et de chef de division.
+Il émet un avis sur les nominations aux emplois de secrétaire général et de chef de division.
 
 Il étudie et propose au Gouvernement toutes mesures propres à améliorer le sort des réfugiés et le fonctionnement de l'office.
 
@@ -8446,7 +8446,7 @@ Dans le cadre des orientations définies par le conseil, le directeur général 
 
 2. Il représente l'office en justice et dans tous les actes de la vie civile ;
 
-3. Il pourvoit aux emplois et gère le personnel, notamment en affectant les agents titulaires de l'office et en recrutant les agents contractuels ;
+3. Il recrute, nomme et gère les personnels titulaires et non titulaires de l'office ;
 
 4. Il préside le comité technique et le comité d'hygiène et de sécurité ;
 
@@ -8456,7 +8456,9 @@ Dans le cadre des orientations définies par le conseil, le directeur général 
 
 7. Il rend compte de sa gestion au conseil d'administration.
 
-Le directeur général est assisté d'un directeur général adjoint, d'un secrétaire général, d'un secrétaire général adjoint et de chefs de division. S'agissant de la nomination du directeur général adjoint, le directeur général consulte au préalable le ministre des affaires étrangères et le ministre chargé de l'asile.
+Le directeur général est assisté d'un secrétaire général et de chefs de division.
+
+En cas d'absence ou d'empêchement du directeur général, le secrétaire général le supplée et assure son intérim en cas de besoin.
 
 
 ##### Article R722-6
