@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 4 mars 2012
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20120304)
+- Date de consolidation : 10 mars 2012
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20120310)
 
 
 # Partie législative
@@ -6858,6 +6858,21 @@ La notification de l'obligation de quitter le territoire français prononcée en
 ##### Article R512-1-1
 
 L'étranger auquel un délai de départ volontaire est imparti peut demander que les principaux éléments des décisions qui lui sont notifiées en application de l'article [L. 511-1](#article-l511-1) lui soient communiqués dans une langue qu'il comprend ou dont il est raisonnable de supposer qu'il la comprend.
+
+
+##### Article R512-1-2
+
+Les conditions d'octroi et le montant de l'aide au retour mentionnée à l'article [L. 512-5](#article-l512-5) sont déterminés par le ministre chargé de l'immigration, après avis du conseil d'administration de l'Office français de l'immigration et de l'intégration.
+
+La mise en œuvre de l'aide est assurée par ce dernier.
+
+L'aide peut comprendre :
+
+1. La prise en charge des frais de réacheminement ;
+
+2. Une allocation destinée à faciliter la réinsertion dans le pays de retour ;
+
+3. Le cas échéant, une aide technique et un suivi de projet.
 
 
 ##### Section 2 : Procédure contentieuse
