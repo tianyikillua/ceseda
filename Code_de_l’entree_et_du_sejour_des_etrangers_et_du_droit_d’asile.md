@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 20 juin 2012
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20120620)
+- Date de consolidation : 11 novembre 2012
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20121111)
 
 
 # Partie législative
@@ -8230,7 +8230,7 @@ Le dossier est mis à sa disposition pendant ce délai. L'entreprise peut se fai
 
 L'autorité mentionnée à l'article [R\*. 625-2](#article-r625-2) arrête sa décision après l'expiration du délai d'un mois, au vu des observations qui ont pu être produites. La décision écrite et motivée est notifiée à l'entreprise de transport par lettre recommandée avec accusé de réception.
 
-L'amende est recouvrée dans les conditions prévues pour les créances de l'Etat mentionnées à l'article 80 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique.
+L'amende est recouvrée dans les conditions prévues pour les créances de l'Etat mentionnées aux articles 112 à 124 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 
 ##### Article R625-4
