@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 2 janvier 2013
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20130102)
+- Date de consolidation : 21 février 2013
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20130221)
 
 
 # Partie législative
@@ -7873,9 +7873,11 @@ c) Les agents des préfectures et sous-préfectures compétents, individuellemen
 
 7. Au titre :
 
-a) Du contrôle et de la vérification de l'identité des personnes et de la vérification de la validité et de l'authenticité du titre de séjour, dans les conditions prévues à l'article [L. 611-1](#article-l611-1) du présent code et aux articles 78-2 et 78-3 du code de procédure pénale, les officiers de police judiciaire de la police nationale et de la gendarmerie nationale et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire et agents de police judiciaire adjoints mentionnés aux articles 20 et 21 (1°) du code de procédure pénale, les agents des douanes dans les conditions prévues à l'article 67 quater du code des douanes, individuellement désignés et spécialement habilités, respectivement, par le directeur général de la police nationale, le directeur général de la gendarmerie nationale, ou par les personnels appartenant à la catégorie A ou ayant le rang d'officier sur lesquels ces directeurs ont autorité et auxquels ils ont donné délégation, le directeur régional des douanes ou, le cas échéant, le directeur général des douanes et droits indirects ;
+a) Du contrôle et de la vérification de l'identité des personnes et de la vérification de la validité et de l'authenticité du titre de séjour, dans les conditions prévues à l'article [L. 611-1](#article-l611-1) du présent code et aux articles 78-2 et 78-3 du code de procédure pénale, les officiers de police judiciaire de la police nationale et de la gendarmerie nationale et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire et agents de police judiciaire adjoints mentionnés aux articles 20 et 21 (1°) du code de procédure pénale, les agents des douanes dans les conditions prévues à l'article 67 quater du code des douanes ainsi que les agents des services fiscaux habilités à effectuer des missions de police judiciaire, individuellement désignés et spécialement habilités, respectivement, par le directeur général de la police nationale, le directeur général de la gendarmerie nationale, ou par les personnels appartenant à la catégorie A ou ayant le rang d'officier sur lesquels ces directeurs ont autorité et auxquels ils ont donné délégation, le directeur régional des douanes ou, le cas échéant, le directeur général des douanes et droits indirects et par le magistrat mentionné à l'article 28-2 du code de procédure pénale ;
 
-b) Des procédures confiées par l'autorité judiciaire pour les infractions prévues à l'article 28-1 du code de procédure pénale, les agents des douanes habilités à effectuer des missions de police judiciaire, individuellement désignés et spécialement habilités par le magistrat délégué aux missions judiciaires de la douane ou, le cas échéant, par le directeur général des douanes et droits indirects ;
+b) Des enquêtes ou des procédures confiées par l'autorité judiciaire, les officiers de police judiciaire de la police ou de la gendarmerie nationales et, sous l'ordre et la responsabilité de ceux-ci, les agents de police judiciaire individuellement désignés et spécialement habilités par leur supérieur hiérarchique ;
+
+b bis) Des procédures confiées par l'autorité judiciaire, d'une part, pour les infractions prévues à l'article 28-1 du code de procédure pénale, les agents des douanes habilités à effectuer des missions de police judiciaire, individuellement désignés et spécialement habilités par le magistrat délégué aux missions judiciaires de la douane ou, le cas échéant, par le directeur général des douanes et droits indirects, et, d'autre part, pour les infractions prévues à l'article 28-2 du même code, les agents des services fiscaux habilités à effectuer des missions de police judiciaire, individuellement désignés et spécialement habilités par les magistrats mentionnés à cet article.
 
 c) De la lutte contre l'aide à l'entrée et au séjour irréguliers, les officiers de police judiciaire de l'Office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre et des brigades mobiles de recherche de la direction centrale de la police aux frontières, ainsi que les officiers de police judiciaire des sections de recherche de la gendarmerie nationale, individuellement désignés et spécialement habilités, respectivement, par le directeur central de la police aux frontières et le directeur général de la gendarmerie nationale ;
 
@@ -7978,7 +7980,9 @@ Il vise :
 
 3. A faciliter, sur le territoire national, les vérifications d'identité opérées, en application de l'article 78-3 du code de procédure pénale, par les services de la police et de la gendarmerie nationales ;
 
-4. A faciliter la vérification par les services mentionnés au 3° de l'authenticité des visas et de la régularité du séjour.
+4. A faciliter la vérification par les services mentionnés au 3° de l'authenticité des visas et de la régularité du séjour ;
+
+5. A faciliter l'identification des étrangers en situation irrégulière en vue de leur éloignement.
 
 
 ##### Article R611-9
@@ -8006,7 +8010,7 @@ Les données à caractère personnel mentionnées au 1° de l'article [R. 611-9]
 
 1. Par les chancelleries consulaires et les consulats des autres Etats membres de l'Union européenne ;
 
-2. A titre expérimental pour les demandes de visa déposées auprès des consulats généraux de France à Alger (République algérienne démocratique et populaire), Istanbul (République de Turquie) et Londres (Royaume-Uni), par des prestataires agréés par les autorités chargées de la délivrance des visas et sous la responsabilité de ces dernières, dans le respect des garanties prévues par le règlement (CE) n° 390-2009 du Parlement européen et du Conseil du 23 avril 2009 ; les personnels des prestataires agréés chargés de cette collecte sont individuellement habilités par ces mêmes autorités. La présente expérimentation est autorisée pour une durée d'un an à compter d'une date qui sera fixée par un arrêté conjoint du ministre des affaires étrangères et du ministre chargé de l'immigration et au plus tard le 1er janvier 2012.
+2. Par des prestataires agréés par les autorités chargées de la délivrance des visas et sous la responsabilité de ces dernières, dans le respect des garanties prévues par le règlement (CE) n° 390-2009 du Parlement européen et du Conseil du 23 avril 2009 ; les personnels des prestataires agréés chargés de cette collecte sont individuellement habilités par ces mêmes autorités.
 
 
 ##### Article R611-11
@@ -8020,21 +8024,25 @@ I.-Les destinataires des données à caractère personnel enregistrées dans le 
 
 1. Les agents du ministère des affaires étrangères et du ministère chargé de l'immigration participant à l'instruction des demandes de visa, individuellement désignés et spécialement habilités par le ministre dont ils relèvent ;
 
-2. Les agents des préfectures compétents en matière de délivrance et de prorogation des visas, individuellement désignés et spécialement habilités par le préfet ;
+2. Les agents des préfectures et ceux chargés de l'application de la réglementation relative à la délivrance des titres de séjour, au traitement des demandes d'asile et à la préparation et à la mise en œuvre des mesures d'éloignement individuellement désignés et spécialement habilités par le préfet ;
 
-3. Les agents du ministère de l'intérieur et du ministère chargé du budget, individuellement désignés et spécialement habilités par le chef du service de la police nationale ou des douanes chargé du contrôle aux frontières ;
+3. Les agents chargés du contrôle aux frontières de la police et de la gendarmerie nationales et des douanes, individuellement désignés et spécialement habilités par le chef de service dont ils relèvent ;
 
-4. Les officiers de police judiciaire des services de la police et de la gendarmerie nationales, individuellement désignés et spécialement habilités par le préfet de police, le directeur départemental de sécurité publique, le directeur départemental de la police aux frontières ou le commandant du groupement de gendarmerie concernés, ainsi que les officiers de police judiciaire relevant de la direction centrale de la police judiciaire, de la direction centrale de la police aux frontières ou de la direction générale de la gendarmerie nationale, pour des missions de vérification d'identité prévues par l'article 78-3 du code de procédure pénale.
+3. bis Les agents du ministère de l'intérieur, individuellement désignés et spécialement habilités par le chef du service de police nationale ou par le commandant du groupement de gendarmerie, chargés de l'éloignement des étrangers ;
 
-II.-Pour des missions de contrôle de l'authenticité des visas et de régularité du séjour, les officiers de police judiciaire des services de la police et de la gendarmerie nationales individuellement désignés et spécialement habilités dans les conditions prévues au 4° du I peuvent accéder aux données à caractère personnel enregistrées dans le traitement automatisé, à l'exclusion des images numérisées des empreintes digitales.
+4. Les officiers de police judiciaire des services de la police et de la gendarmerie nationales, individuellement désignés et spécialement habilités par le préfet de police, le directeur de la sécurité publique, le directeur départemental de la police aux frontières ou le commandant du groupement de gendarmerie concernés, ainsi que les officiers de police judiciaire relevant de la direction centrale de la police judiciaire, de la direction centrale de la police aux frontières ou de la direction générale de la gendarmerie nationale, pour des missions de vérification d'identité prévues par l'article 78-3 du code de procédure pénale ;
 
-III.-Peuvent également accéder aux données à caractère personnel enregistrées dans le traitement automatisé, dans les conditions fixées aux articles 9 et 33 de la loi n° 2006-64 du 23 janvier 2006 :
+5. Les agents des douanes dans les conditions prévues à l'article 67 quater du code des douanes, individuellement désignés et spécialement habilités par le directeur régional des douanes ou, le cas échéant, le directeur général des douanes et droits indirects ;
+
+6. Pour les besoins de la procédure d'attestation visée au treizième alinéa de l'article [R. 311-3](#article-r311-3), les agents de l'Office français de l'immigration et de l'intégration, individuellement désignés et spécialement habilités par le directeur général de l'office, chargés des procédures d'admission au séjour.
+
+II.-Pour des missions de contrôle de l'authenticité des visas et de régularité du séjour, les officiers de police judiciaire et, sur l'ordre et la responsabilité de ceux-ci, les agents de police judiciaire des services de la police et de la gendarmerie nationales individuellement désignés et spécialement habilités dans les conditions prévues au 4° du I peuvent accéder aux données à caractère personnel enregistrées dans le traitement automatisé.
+
+III.-Peuvent également accéder aux données à caractère personnel enregistrées dans le traitement automatisé, dans les conditions fixées à l'article [L. 222-1](#article-l222-1) du code de la sécurité intérieure :
 
 1. Les agents des services de la direction générale de la police nationale et de la direction générale de la gendarmerie nationale chargés des missions de prévention et de répression des actes de terrorisme, individuellement désignés et spécialement habilités respectivement par le directeur général de la police nationale et le directeur général de la gendarmerie nationale ;
 
 2. Les agents des services de renseignement du ministère de la défense, chargés des missions de prévention des actes de terrorisme, individuellement désignés et spécialement habilités par le directeur général de la sécurité extérieure, le directeur de la protection et de la sécurité de la défense ou le directeur du renseignement militaire.
-
-IV.-Les dispositions du III sont applicables jusqu'au 31 décembre 2012.
 
 
 ##### Article R611-13
@@ -8052,8 +8060,6 @@ Le droit d'opposition prévu à l'article 38 de la loi du 6 janvier 1978 susment
 ##### Article R611-15
 
 Il est procédé tous les trois ans, par les ministères mentionnés à l'article [R. 611-8](#article-r611-8), à une évaluation du traitement VISABIO donnant lieu à un rapport communiqué à la Commission nationale de l'informatique et des libertés.
-
-Ces mêmes ministères font réaliser, au cours de l'expérimentation prévue au 2° de l'article [R. 611-10](#article-r611-10), une évaluation donnant lieu à un rapport communiqué à la Commission nationale de l'informatique et des libertés.
 
 
 ##### Section 5 : Traitement automatisé de données à caractère personnel relatives aux étrangers bénéficiaires du dispositif d'aide au retour géré par l'Office français de l'immigration et de l'intégration
@@ -9527,35 +9533,57 @@ Les dispositions des articles [R. 313-23](#article-r313-23) à [R. 313-32](#arti
 
 ## Article Annexe 6.3
 
-1. Identité du demandeur du visa : nom, nom marital, alias ou surnom, prénom(s), date et lieu de naissance, sexe, nationalité, nationalité d'origine et profession.
+Liste des données à caractère personnel communiquées automatiquement par le traitement automatisé de données à caractère personnel dénommé réseau mondial visas 2 (RMV2), enregistrées dans le traitement automatisé prévu à l'article R. 611-8
 
-2. Titre de voyage : type de document de voyage, Etat ou organisme émetteur du document de voyage, numéro perforé ou imprimé sur le document de voyage.
+I.-Données relatives à la demande de visa
 
-3. Décision prise par la chancellerie consulaire ou le consulat de France qui a instruit la demande de visa (accord ou refus du visa).
+a) Données générales :
 
-4. En cas d'accord, caractéristiques du visa délivré :
+Information visa demandé ; numéro de la demande ; lien demande précédente ; nom de l'autorité saisie ; localisation de l'autorité saisie ; indication que l'autorité a été saisie en remplacement d'un autre Etat membre ; lieu et date de la demande ; type de visa ; motif du voyage ; nom ; prénom et adresse de la personne invitante ; nom et adresse de la société ou compagnie invitante (personne morale) ; nom et prénom de la personne à contacter dans la société ou la compagnie invitante ; destination principale ; durée prévue du séjour ; date d'arrivée prévue ; date de départ prévue ; frontière de première entrée prévue ; route de transit prévue ; motif et date du retrait de la demande par le demandeur ;
 
-a) Numéro du visa ;
+b) Données relatives à un groupe de demandeurs de visa :
 
-b) Date et lieu de délivrance du visa ;
+Type de groupe ; lien demande du groupe.
 
-c) Type de visa : A (transit aéroportuaire), B (transit), C (court séjour) ou D (long séjour) ;
+II.-Données relatives au demandeur de visa
 
-d) Validité territoriale du visa : Schengen ou France ;
+a) Données d'état civil :
 
-e) Date de début de validité du visa : date prévue du premier passage (transit aéroportuaire), du premier transit ou de la première entrée (court séjour ou long séjour) ;
+Nom ; nom de naissance ; noms antérieurs ; prénoms ; sexe ; date de naissance ; lieu de naissance ; pays de naissance ; nationalité actuelle ; nationalité de naissance ;
 
-f) Date de fin de validité du visa : date prévue du dernier passage (transit aéroportuaire), du dernier retour (transit ou court séjour) ou de fin du séjour (court séjour ou long séjour) ;
+b) Données relatives aux documents de voyage :
 
-g) Durée de séjour accordée : durée maximale d'un transit ou durée totale de séjour (court séjour) ;
+Type de document ; numéro du document ; autorité de délivrance ; date de délivrance ; date d'expiration ;
 
-h) Durée de validité du visa dans le cas particulier d'un visa de circulation valable de 1 à 5 ans ;
+c) Données biométriques :
 
-i) Nombre de passages (transit aéroportuaire) ou d'entrées accordé (transit ou court séjour) ;
+Photographies ; empreintes digitales du demandeur ;
 
-j) Motif du séjour ;
+d) Autres données :
 
-k) Date de l'annulation du visa.
+Résidence ; nom et prénom du père et de la mère du demandeur ; nom et coordonnées de l'employeur ; nom de l'établissement scolaire ou universitaire (étudiant) ; profession actuelle.
+
+III.-Données relatives au visa
+
+a) Données relatives au visa délivré :
+
+Information visa délivré ; lieu de la décision et date de délivrance du visa ; nom et localisation de l'autorité ayant délivré le visa ; indication que l'autorité a été saisie pour le compte d'un autre Etat membre ; validité territoriale dans laquelle le porteur du visa est autorisé à circuler ; type de visa délivré ; numéro de la vignette visa délivrée ; date de début et de fin de validité du visa ; nombre d'entrées autorisées ; durée de validité du visa ; durée du séjour autorisé ; information visa délivré sur feuillet séparé ;
+
+b) Données relatives à l'abandon d'examen de la demande :
+
+Information indiquant que l'examen de la demande de visa a été interrompu ; Etat membre compétent pour examiner la demande ; nom et localisation de l'autorité ayant interrompu l'examen de la demande ; date et lieu de l'interruption ;
+
+c) Données relatives au refus de visa :
+
+Information visa refusé ; nom et localisation de l'autorité qui a refusé le visa ; date, lieu et motif du refus ;
+
+d) Données relatives à l'annulation, au retrait ou à la réduction de la durée de validité du visa :
+
+Information visa annulé, retiré ou réduit dans sa validité ; nom et localisation de l'autorité ayant pris la décision ; date et lieu de la décision ; nouvelle date d'expiration de la validité du visa ; numéro de la nouvelle vignette ; motifs de la décision d'annulation, de retrait ou de réduction de validité de la vignette ;
+
+e) Données relatives à la prolongation du visa :
+
+Information visa prorogé ; nom et localisation de l'autorité ayant prorogé le visa ; date et lieu de la décision ; date de début et de fin de la période prorogée ; numéro de la nouvelle vignette ; période de prorogation de la durée du séjour, territoire sur lequel le porteur du visa est autorisé à circuler ; type de visa prorogé ; motifs de la prorogation.
 
 
 ## Annexe 6-4 mentionnée à l'article [R. 611-3](#article-r611-3) CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES
