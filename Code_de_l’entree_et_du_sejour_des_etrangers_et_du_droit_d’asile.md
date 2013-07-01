@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 24 mars 2013
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20130324)
+- Date de consolidation : 1er juillet 2013
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20130701)
 
 
 # Partie législative
@@ -6985,7 +6985,7 @@ Dans les départements d'outre-mer, l'autorité compétente dans les cas prévus
 
 #### Article R522-4
 
-Sauf en cas d'urgence absolue, l'étranger à l'encontre duquel une procédure d'expulsion est engagée doit en être avisé au moyen d'un bulletin spécial.
+Sauf en cas d'urgence absolue, l'étranger à l'encontre duquel une procédure d'expulsion est engagée doit en être avisé au moyen d'un bulletin de notification, valant convocation devant la commission prévue aux articles [L. 522-1](#article-l522-1) et [L. 522-2](#article-l522-2).
 
 La notification est effectuée à la diligence du préfet du département où est située la résidence de l'étranger ou, si ce dernier est détenu dans un établissement pénitentiaire, du préfet du département où est situé cet établissement. A Paris, le préfet compétent est le préfet de police.
 
@@ -6998,11 +6998,11 @@ Le bulletin de notification doit :
 
 2. Enoncer les faits motivant cette procédure ;
 
-3. Indiquer la date, l'heure et le lieu de la réunion de la commission prévue aux articles [L. 522-1](#article-l522-1) et [L. 522-2](#article-l522-2) ;
+3. Indiquer la date, l'heure et le lieu de la réunion de la commission prévue aux articles [L. 522-1](#article-l522-1) et [L. 522-2](#article-l522-2) à laquelle il est convoqué ;
 
 4. Préciser que les débats de la commission sont publics ;
 
-5. Porter à la connaissance de l'étranger les dispositions de l'article [R. 522-6](#article-r522-6) ;
+5. Porter à la connaissance de l'étranger les dispositions du quatrième alinéa de l'article [L. 522-2](#article-l522-2) et celles de l'article [R. 522-6](#article-r522-6) ;
 
 6. Faire connaître à l'étranger qu'il peut se présenter seul ou assisté d'un conseil et demander à être entendu avec un interprète ;
 
@@ -7024,14 +7024,19 @@ Si l'étranger a changé de résidence sans en informer l'administration comme l
 
 #### Article R522-7
 
-Si l'étranger convoqué dans les conditions prévues aux articles [R. 522-4](#article-r522-4) à [R. 522-6](#article-r522-6) ne se présente pas personnellement devant la commission à la date prévue, celle-ci émet son avis. Toutefois, elle renvoie l'affaire à une date ultérieure lorsque l'étranger lui a fourni, en temps utile ou au cours de la séance par l'intermédiaire de son conseil, une excuse reconnue valable.
+Si l'étranger convoqué dans les conditions prévues aux articles [R. 522-4](#article-r522-4) à [R. 522-6](#article-r522-6) ne se présente pas personnellement devant la commission à la date prévue, celle-ci émet son avis. Toutefois, elle renvoie l'affaire à une date ultérieure, conformément aux dispositions du quatrième alinéa de l'article [L. 522-2](#article-l522-2), lorsque l'étranger ou son conseil le lui demande pour un motif légitime, dans la période comprise entre la notification du bulletin prévu à l'article [R. 522-4](#article-r522-4) et le début de la séance de la commission. Cette demande de renvoi peut également être formulée au cours de la séance de la commission par l'intermédiaire du conseil de l'étranger.
 
 
 #### Article R522-8
 
 Dans tous les cas, la commission doit émettre son avis dans le délai d'un mois.
 
-Le préfet ou son représentant assure les fonctions de rapporteur ; le directeur départemental de l'action sanitaire et sociale ou son représentant est entendu par la commission. Ces personnes n'assistent pas à la délibération de la commission.
+Le préfet ou son représentant assure les fonctions de rapporteur ; le directeur départemental chargé de la cohésion sociale ou son représentant est entendu par la commission. Ces personnes n'assistent pas à la délibération de la commission.
+
+
+#### Article R522-8-1
+
+Si, à l'issue du délai fixé au quatrième alinéa de l'article [L. 522-2](#article-l522-2), éventuellement prolongé dans les conditions prévues à cet article, la commission n'a pas émis son avis, le préfet informe l'étranger que les formalités de consultation de la commission sont réputées remplies.
 
 
 #### Article R522-9
