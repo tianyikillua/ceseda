@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 1er juillet 2013
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20130701)
+- Date de consolidation : 24 juillet 2013
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20130724)
 
 
 # Partie législative
@@ -640,9 +640,9 @@ Sous réserve des engagements internationaux de la France et des exceptions pré
 
 ##### Article L311-8
 
-La carte de séjour temporaire et la carte de séjour " compétences et talents " sont retirées si leur titulaire cesse de remplir l'une des conditions exigées pour leur délivrance.
+La carte de séjour temporaire et la carte de séjour "compétences et talents" sont retirées si leur titulaire cesse de remplir l'une des conditions exigées pour leur délivrance.
 
-Par dérogation au premier alinéa, la carte de séjour temporaire portant la mention "salarié", "travailleur temporaire" ou "carte bleue européenne" ne peut être retirée au motif que l'étranger s'est trouvé, autrement que de son fait, privé d'emploi.
+Par dérogation au premier alinéa, la carte de séjour temporaire portant la mention "salarié", "travailleur temporaire", "scientifique-chercheur" ou "carte bleue européenne" ne peut être retirée au motif que l'étranger s'est trouvé, autrement que de son fait, privé d'emploi.
 
 
 ##### Section 2 : Dispositions relatives à l'intégration dans la société française
@@ -684,7 +684,7 @@ L'association ou la fondation mentionnées au premier alinéa font l'objet d'un 
 
 ##### Article L311-11
 
-Une autorisation provisoire de séjour d'une durée de validité de six mois non renouvelable est délivrée à l'étranger qui, ayant achevé avec succès, dans un établissement d'enseignement supérieur habilité au plan national, un cycle de formation conduisant à un diplôme au moins équivalent au master, souhaite, dans la perspective de son retour dans son pays d'origine, compléter sa formation par une première expérience professionnelle participant directement ou indirectement au développement économique de la France et du pays dont il a la nationalité. Pendant la durée de cette autorisation, son titulaire est autorisé à chercher et, le cas échéant, à exercer un emploi en relation avec sa formation et assorti d'une rémunération supérieure à un seuil déterminé par décret. A l'issue de cette période de six mois, l'intéressé pourvu d'un emploi ou titulaire d'une promesse d'embauche, satisfaisant aux conditions énoncées ci-dessus, est autorisé à séjourner en France pour l'exercice de l'activité professionnelle correspondant à l'emploi considéré au titre des dispositions du 1° de l'article [L. 313-10](#article-l313-10) du présent code, sans que lui soit opposable la situation de l'emploi sur le fondement de l'article L. 341-2 du code du travail.
+Une autorisation provisoire de séjour d'une durée de validité de douze mois non renouvelable est délivrée à l'étranger qui, ayant achevé avec succès, dans un établissement d'enseignement supérieur habilité au plan national, un cycle de formation conduisant à un diplôme au moins équivalent au master, souhaite compléter sa formation par une première expérience professionnelle, sans limitation à un seul emploi ou à un seul employeur. Pendant la durée de cette autorisation, son titulaire est autorisé à chercher et, le cas échéant, à exercer un emploi en relation avec sa formation et assorti d'une rémunération supérieure à un seuil déterminé par décret. A l'issue de cette période de douze mois, l'intéressé pourvu d'un emploi ou titulaire d'une promesse d'embauche, satisfaisant aux conditions énoncées ci-dessus, est autorisé à séjourner en France pour l'exercice de l'activité professionnelle correspondant à l'emploi considéré au titre des dispositions du 1° de l'article [L. 313-10](#article-l313-10) du présent code, sans que lui soit opposable la situation de l'emploi sur le fondement de l'article L. 341-2 du code du travail.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
@@ -795,7 +795,7 @@ La carte de séjour temporaire peut être refusée à tout étranger dont la pr�
 
 ##### Article L313-4
 
-Par dérogation aux articles [L. 311-2](#article-l311-2) et [L. 313-1](#article-l313-1), l'étranger titulaire d'une carte de séjour temporaire au titre des articles [L. 313-7](#article-l313-7) ou [L. 313-8](#article-l313-8) depuis au moins un an ou, pour l'étranger demandant une carte de séjour temporaire au titre de l'article [L. 313-8](#article-l313-8), d'un visa délivré pour un séjour d'une durée supérieure à trois mois octroyant à son titulaire les droits attachés à la carte de séjour temporaire susmentionnée peut, à l'échéance de la validité de ce titre, en solliciter le renouvellement pour une durée supérieure à un an et ne pouvant excéder quatre ans.
+Par dérogation aux articles [L. 311-2](#article-l311-2) et [L. 313-1](#article-l313-1), l'étranger titulaire d'une carte de séjour temporaire au titre des articles [L. 313-7](#article-l313-7) ou [L. 313-8](#article-l313-8) depuis au moins un an ou d'un visa délivré pour un séjour d'une durée supérieure à trois mois octroyant à son titulaire les droits attachés aux cartes de séjour temporaire susmentionnées peut, à l'échéance de la validité de ce titre, en solliciter le renouvellement pour une durée supérieure à un an et ne pouvant excéder quatre ans.
 
 Cette dérogation est accordée à l'étudiant étranger admis à suivre, dans un établissement d'enseignement supérieur habilité au plan national, une formation en vue de l'obtention d'un diplôme au moins équivalent au master.
 
