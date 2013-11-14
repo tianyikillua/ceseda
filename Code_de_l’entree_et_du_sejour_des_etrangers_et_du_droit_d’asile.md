@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 2 octobre 2013
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20131002)
+- Date de consolidation : 14 novembre 2013
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20131114)
 
 
 # Partie législative
@@ -1111,6 +1111,11 @@ La période mentionnée ci-dessus peut être prolongée si l'intéressé en a fa
 En outre, est périmée la carte de résident portant la mention "résident de longue durée-CE" accordée par la France lorsque son titulaire a, depuis sa délivrance, acquis ce statut dans un autre Etat membre de l'Union européenne, ou lorsqu'il a résidé en dehors du territoire national pendant une période de six ans consécutifs.
 
 
+##### Article L314-7-1
+
+La carte de résident portant la mention : " résident de longue durée-UE " délivrée à l'étranger en application de l'article [L. 314-8-2](#article-l314-8-2) peut lui être retirée lorsqu'il perd la qualité de réfugié en application du F de l'article 1er de la convention de Genève du 28 juillet 1951 relative au statut des réfugiés ou le bénéfice de la protection subsidiaire en application du second alinéa de l'article [L. 712-3](#article-l712-3). Elle peut également être retirée en cas d'obtention frauduleuse de cette qualité ou de cette protection.
+
+
 ##### Section 2 : Délivrance de la carte de résident
 
 ###### Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier
@@ -1133,6 +1138,15 @@ Les absences du territoire de l'Union européenne ne suspendent pas le calcul de
 L'étranger titulaire de la carte de séjour temporaire prévue au même 6° doit également justifier de son intention de s'établir durablement en France dans les conditions prévues à l'article [L. 314-8](#article-l314-8).
 
 Son conjoint et ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article [L. 311-3](#article-l311-3), admis en France conformément au 6° de l'article [L. 313-10](#article-l313-10), peuvent se voir délivrer une carte de résident portant la mention " résident de longue durée-CE " dans les conditions prévues à l'article [L. 314-8](#article-l314-8).
+
+
+###### Article L314-8-2
+
+L'étranger titulaire de la carte de résident prévue au 8° de l'article [L. 314-11](#article-l314-11), du fait de la reconnaissance de la qualité de réfugié, ou de la carte de séjour temporaire prévue à l'article [L. 313-13](#article-l313-13), du fait de l'octroi du bénéfice de la protection subsidiaire, peut se voir délivrer une carte de résident portant la mention : " résident de longue durée-UE ", dans les conditions prévues à l'article [L. 314-8](#article-l314-8).
+
+Par dérogation au premier alinéa de l'article [L. 314-8](#article-l314-8), est prise en compte, dans le calcul des cinq années de résidence régulière ininterrompue, la période comprise entre la date de dépôt de la demande d'asile, sur la base de laquelle a été reconnue la qualité de réfugié ou accordé le bénéfice de la protection subsidiaire, et la date de délivrance de la carte de résident prévue au 8° de l'article [L. 314-11](#article-l314-11) ou de la carte de séjour temporaire prévue à l'article [L. 313-13](#article-l313-13).
+
+Son conjoint et ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article [L. 311-3](#article-l311-3), admis en France conformément au 8° de l'article [L. 314-11](#article-l314-11) ou à l'article [L. 313-13](#article-l313-13), peuvent se voir délivrer une carte de résident portant la mention : " résident de longue durée-UE ", dans les conditions prévues à l'article [L. 314-8](#article-l314-8).
 
 
 ###### Article L314-9
