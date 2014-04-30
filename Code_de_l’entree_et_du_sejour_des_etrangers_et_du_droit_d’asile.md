@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 9 mars 2014
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20140309)
+- Date de consolidation : 30 avril 2014
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20140430)
 
 
 # Partie législative
@@ -8626,15 +8626,11 @@ Le recours est accompagné de la décision de l'office.
 Il peut lui être annexé toutes pièces de nature à établir le bien-fondé de la demande. Les pièces ainsi transmises font l'objet d'une liste numérotée. Les pièces en langue étrangère doivent être accompagnées d'une traduction en langue française. S'agissant des actes d'état civil ainsi que des actes judiciaires ou de police, cette traduction doit être certifiée conforme à l'original par un traducteur assermenté dans les conditions prévues par les articles [R. 111-1](#article-r111-1) et suivants.
 
 
-###### Article R733-8
+###### Article R733-6
 
-Le recours est adressé au secrétariat de la cour sous pli recommandé avec demande d'avis de réception.
+Un arrêté du ministre de la justice et du ministre chargé de l'asile définit les modes de dépôt ou de transmission des recours, des mémoires et des pièces admis par le secrétariat de la cour. S'agissant des transmissions par voie électronique, cet arrêté fixe les conditions garantissant la fiabilité, l'intégrité, la sécurité et la confidentialité des échanges.
 
-Il peut aussi être adressé par voie de télécopie, dont la réception est assurée par un dispositif technique synchronisé avec un serveur de temps dont l'heure est certifiée. La télécopie est régularisée au plus tard le jour de l'audience, soit par la production sur support papier d'un exemplaire du recours revêtu de la signature manuscrite de l'intéressé, soit par l'apposition, au greffe de la cour, de la signature de l'intéressé au bas du document transmis par voie de télécopie.
-
-Les mémoires et les pièces produites par les parties peuvent être adressés à la cour sous la même forme.
-
-Les recours sont inscrits sur un registre spécial, suivant leur date d'arrivée à la cour.
+Les recours sont enregistrés suivant leur date d'arrivée à la cour.
 
 
 ###### Article R733-8
@@ -8682,37 +8678,36 @@ Les mémoires et pièces produits par l'office dans le cadre de la procédure so
 
 ###### Article R733-11
 
-Lorsque l'affaire est en état, le président de la formation de jugement peut, par une ordonnance, fixer la date à partir de laquelle l'instruction sera close. Cette ordonnance n'est pas motivée et ne peut faire l'objet d'aucun recours.
+Lorsque le requérant est représenté par un avocat, les actes de procédure sont accomplis à l'égard de ce mandataire, à l'exception de la notification de l'avis de réception prévu à l'article [R. 733-8](#article-r733-8), de l'avis d'audience prévu à l'article [R. 733-19](#article-r733-19) et de la décision elle-même, adressés personnellement au requérant par lettre recommandée avec demande d'avis de réception.
 
-Les lettres recommandées avec demande d'avis de réception portant notification de cette ordonnance sont envoyées aux parties quinze jours au moins avant la date de la clôture fixée par l'ordonnance.
-
-
-###### Article R733-11
-
-Lorsque le requérant est représenté par un avocat, les actes de procédure sont accomplis à l'égard de ce mandataire, à l'exception de la notification de l'avis de réception prévu à l'article [R. 733-8](#article-r733-8), de l'avis d'audience prévu à l'article R. 733-19 et de la décision elle-même, adressés personnellement au requérant par lettre recommandée avec demande d'avis de réception.
-
-L'information prévue au deuxième alinéa de l'article R. 733-13 est également adressée personnellement au requérant.
+L'information prévue au deuxième alinéa de l'article [R. 733-13](#article-r733-13) est également adressée personnellement au requérant.
 
 
 ###### Article R733-12
 
-Si le président de la formation de jugement n'a pas pris une ordonnance de clôture, l'instruction est close trois jours francs avant la date de l'audience indiquée dans l'avis d'audience.
+A l'exception de l'avis de clôture de l'instruction, de l'avis de réception prévu à l'article [R. 733-8](#article-r733-8), de l'avis d'audience prévu à l'article [R. 733-19](#article-r733-19) et de la décision elle-même, les communications avec les requérants et les avocats sont faites par lettre simple ou par voie électronique selon un procédé technique garantissant la fiabilité, l'intégrité, la sécurité et la confidentialité des échanges.
 
-Celui-ci est notifié aux parties sept jours au moins avant l'audience.
-
-
-###### Article R733-12
-
-A l'exception de l'avis de clôture de l'instruction, de l'avis de réception prévu à l'article [R. 733-8](#article-r733-8), de l'avis d'audience prévu à l'article R. 733-19 et de la décision elle-même, les communications avec les requérants et les avocats sont faites par lettre simple ou par voie électronique selon un procédé technique garantissant la fiabilité, l'intégrité, la sécurité et la confidentialité des échanges.
-
-Sans préjudice des dispositions du premier alinéa de l'article [R. 733-11](#article-r733-11), l'information prévue à l'article R. 733-16 est adressée au requérant par lettre recommandée avec demande d'avis de réception.
+Sans préjudice des dispositions du premier alinéa de l'article [R. 733-11](#article-r733-11), l'information prévue à l'article [R. 733-16](#article-r733-16) est adressée au requérant par lettre recommandée avec demande d'avis de réception.
 
 Les communications avec l'office sont faites par voie électronique, dans des conditions garantissant la fiabilité, l'intégrité, la sécurité et la confidentialité des échanges.
 
 
+###### Article R733-13
+
+Le président de la formation de jugement ou, avant enrôlement du dossier, le président de la cour peut fixer la date de clôture de l'instruction écrite par une ordonnance notifiée aux parties quinze jours au moins avant cette date. L'ordonnance n'est pas motivée et ne peut faire l'objet d'aucun recours. L'instruction écrite peut être rouverte dans les mêmes formes.
+
+Dans le cas où les parties sont informées de la date de l'audience deux mois au moins avant celle-ci, l'instruction écrite est close dix jours francs avant la date de l'audience. Cette information, qui indique la date de clôture de l'instruction, est valablement faite à l'avocat constitué à la date de son envoi ou, le cas échéant, à l'avocat désigné au titre de l'aide juridictionnelle à cette même date. Elle ne vaut pas avis d'audience au sens de l'article [R. 733-19](#article-r733-19).
+
+S'il n'a pas été fait application du premier ou du deuxième alinéa, l'instruction écrite est close cinq jours francs avant la date de l'audience.
+
+Lorsque l'instruction écrite est close, seule la production des originaux des documents communiqués préalablement en copie demeure recevable jusqu'à la fin de l'audience.
+
+
 ###### Article R733-14
 
-Le président de la formation de jugement peut rouvrir l'instruction par une décision qui n'est pas motivée et ne peut faire l'objet d'aucun recours. Cette décision est notifiée dans les mêmes formes que l'ordonnance de clôture.
+Les mémoires et pièces produits après la clôture de l'instruction ne donnent pas lieu à communication.
+
+Toutefois, en cas de réouverture de l'instruction écrite, les mémoires et les pièces qui auraient été produits dans l'intervalle sont communiqués aux parties.
 
 
 ###### Article R733-15
@@ -8720,6 +8715,15 @@ Le président de la formation de jugement peut rouvrir l'instruction par une dé
 La cour peut prescrire toute mesure d'instruction qu'elle jugera utile.
 
 En cas d'expertise ordonnée par la formation de jugement, le rapport déposé par l'expert désigné par le président de la cour est communiqué aux parties. Le président de la cour fixe également, par ordonnance, les honoraires dus à l'expert et arrête, sur justificatifs, le montant de ses frais et débours. L'ensemble est mis à la charge de la partie perdante sauf si les circonstances particulières de l'affaire justifient qu'il soit mis à la charge de l'autre partie ou partagés entre les parties.
+
+
+###### Article R733-16
+
+La formation de jugement ne peut se fonder sur des éléments d'information extérieurs au dossier relatifs à des circonstances de fait propres au demandeur d'asile ou spécifiques à son récit, sans en avoir préalablement informé les parties.
+
+Les parties sont préalablement informées lorsque la formation de jugement est susceptible de fonder sa décision sur un moyen soulevé d'office, notamment celui tiré de ce que le demandeur relèverait de l'une des clauses d'exclusion figurant aux sections D, E et F de l'article 1er de la convention de Genève du 28 juillet 1951 relative au statut des réfugiés ou à l'article [L. 712-2](#article-l712-2) du code de l'entrée et du séjour des étrangers et du droit d'asile.
+
+Un délai est fixé aux parties pour déposer leurs observations, sans qu'y fasse obstacle la clôture de l'instruction écrite.
 
 
 ###### Sous-section 4 : Audience
@@ -8738,6 +8742,19 @@ En cas de difficulté pour obtenir le concours d'un interprète qualifié prése
 ###### Article R733-18
 
 Le rôle de chaque audience est arrêté par le président de la cour. Il est affiché à la porte de la salle d'audience.
+
+
+###### Article R733-19
+
+L'avis d'audience est adressé aux parties trente jours au moins avant le jour où l'affaire sera appelée à l'audience.
+
+Le conseil du requérant est informé du jour de l'audience par tout moyen. Cette information a lieu sans délai lorsqu'il se constitue après la convocation adressée au requérant.
+
+L'avis d'audience informe les parties de la clôture de l'instruction écrite prévue par l'article [R. 733-13](#article-r733-13).
+
+En cas d'urgence, y compris s'il a été fait application du deuxième alinéa de l'article [R. 733-13](#article-r733-13), le délai de convocation prévu au premier alinéa peut être réduit, sans pouvoir être inférieur à sept jours. Dans ce cas, l'instruction écrite est close cinq jours francs avant l'audience.
+
+Lorsque le président de la formation de jugement fait droit sur le siège à une demande de report de l'audience présentée par le requérant, il peut convoquer les parties, sans conditions de délai, à une audience ultérieure en remettant à l'intéressé ou à son avocat un nouvel avis d'audience. L'office est avisé sans délai.
 
 
 ###### Article R733-20
@@ -8797,6 +8814,21 @@ S'il l'estime utile, en raison des circonstances de l'affaire, notamment lorsqu'
 Les décisions prises sur le fondement des quatrième et sixième alinéas ne sont pas motivées et ne sont pas susceptibles de recours.
 
 
+###### Article R733-25
+
+Le rapporteur donne lecture du rapport, qui analyse l'objet de la demande et les éléments de fait et de droit exposés par les parties, et fait mention des éléments propres à éclairer le débat, sans prendre parti sur le sens de la décision.
+
+Les principaux éléments du rapport sont traduits au requérant, lorsqu'il a besoin de l'assistance d'un interprète.
+
+Après la lecture du rapport, et sauf si le conseil du requérant demande à présenter ses observations, la formation de jugement peut poser aux parties toute question propre à l'éclairer.
+
+Le président de la formation de jugement donne la parole au requérant et au représentant de l'office.
+
+Les parties peuvent présenter oralement toute observation utile propre à éclairer leurs écritures.
+
+La partie qui, moins de sept jours francs avant la clôture de l'instruction écrite, a reçu communication soit d'un mémoire ou de pièces, soit de l'une des informations prévues par l'article [R. 733-16](#article-r733-16), peut présenter à l'audience toute observation orale qu'elle estime utile pour répondre à ce mémoire ou à cette information.
+
+
 ###### Article R733-26
 
 La formation de jugement délibère hors la présence des parties. Le rapporteur n'a pas voix délibérative.
@@ -8825,7 +8857,7 @@ La décision ne peut être contestée devant le juge de cassation qu'à l'occasi
 
 ###### Article R733-28
 
-La formation de jugement se prononce sur le recours, en fonction des pièces du dossier et des observations présentées oralement par les parties, dans les conditions prévues par l'article R. 733-25.
+La formation de jugement se prononce sur le recours, en fonction des pièces du dossier et des observations présentées oralement par les parties, dans les conditions prévues par l'article [R. 733-25](#article-r733-25).
 
 Lorsqu'elle est saisie de recours formés contre les décisions de l'Office français de protection des réfugiés et des apatrides accordant ou refusant le bénéfice de l'asile, elle statue en application de l'article [L. 711-1](#article-l711-1) et, à titre subsidiaire, de l'article [L. 712-1](#article-l712-1).
 
@@ -8919,7 +8951,7 @@ Les dispositions du deuxième alinéa de l'article [R. 733-7](#article-r733-7) s
 
 ##### Article R733-38
 
-Le réfugié auquel il est fait application de l'une des mesures prévues aux articles 31, 32 et 33 de la convention de Genève relative au statut des réfugiés du 28 juillet 1951 peut saisir la Cour nationale du droit d'asile, dans le délai prévu par l'article [L. 731-3](#article-l731-3) et selon l'une des modalités énumérées par l'arrêté du ministre de la justice et du ministre chargé de l'asile auquel renvoie l'article R. 733-6.
+Le réfugié auquel il est fait application de l'une des mesures prévues aux articles 31, 32 et 33 de la convention de Genève relative au statut des réfugiés du 28 juillet 1951 peut saisir la Cour nationale du droit d'asile, dans le délai prévu par l'article [L. 731-3](#article-l731-3) et selon l'une des modalités énumérées par l'arrêté du ministre de la justice et du ministre chargé de l'asile auquel renvoie l'article [R. 733-6](#article-r733-6).
 
 Sa demande mentionne ses nom, prénoms, date et lieu de naissance, nationalité et domicile. Il y est joint une copie de la mesure contestée ainsi qu'une copie de la décision par laquelle le directeur général de l'office l'a placé sous sa protection.
 
