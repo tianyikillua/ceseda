@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 30 avril 2014
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20140430)
+- Date de consolidation : 25 mai 2014
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20140525)
 
 
 # Partie législative
@@ -5011,14 +5011,21 @@ L'étranger signataire du contrat ne peut bénéficier qu'une seule fois de la g
 
 ###### Article R311-26
 
-Le bilan de compétences professionnelles prévu à l'article [L. 311-9](#article-l311-9) est organisé par l'Office français de l'immigration et de l'intégration à l'intention des signataires du contrat d'accueil et d'intégration en vue de leur permettre de connaître et de valoriser leurs qualifications, expériences et compétences professionnelles dans le cadre d'une recherche d'emploi.
+I.-Le bilan de compétences professionnelles prévu à l'article [L. 311-9](#article-l311-9) est organisé par l'Office français de l'immigration et de l'intégration à l'intention des signataires du contrat d'accueil et d'intégration en vue de leur permettre de connaître et de valoriser leurs qualifications, expériences et compétences professionnelles dans le cadre d'une recherche d'emploi.
+
 La durée des opérations concourant à la réalisation de ce bilan est fixée par l'office en fonction des besoins de la personne intéressée.
+
 Le bilan de compétences professionnelles n'est pas proposé :
+
 a) A l'étranger mineur de 18 ans dès lors qu'il est scolarisé ;
+
 b) A l'étranger de plus de 55 ans ;
+
 c) A l'étranger admis au séjour en France sous couvert de l'un des titres mentionnés aux articles [L. 313-8](#article-l313-8), [L. 313-9](#article-l313-9) et [L. 313-10](#article-l313-10) ;
-d) A l'étranger qui déclare à l'office et justifie auprès de lui avoir déjà une activité professionnelle et ne pas être à la recherche d'un emploi.
-II. - L'Office français de l'immigration et de l'intégration et l'institution publique mentionnée à l'article L. 5312-1 du code du travail établissent par convention les modalités de leur action commune pour favoriser l'insertion professionnelle des signataires du contrat d'accueil et d'intégration inscrits comme demandeurs d'emploi. La convention précise les conditions dans lesquelles sont échangées des informations portant sur les personnes concernées (âge, sexe, nationalité, niveau de formation), leur parcours professionnel à l'étranger et en France, les préconisations de leur bilan de compétences professionnelles, leur orientation professionnelle et les prestations d'accompagnement à l'emploi et à la promotion dont elles bénéficient ou ont bénéficié.
+
+d) A l'étranger qui déclare à l'office et justifie auprès d'elle avoir déjà une activité professionnelle et ne pas être à la recherche d'un emploi.
+
+II.-L'Office français de l'immigration et de l'intégration et Pôle emploi établissent par convention les modalités de leur action commune pour favoriser l'insertion professionnelle des signataires du contrat d'accueil et d'intégration inscrits comme demandeurs d'emploi. La convention précise les conditions dans lesquelles sont échangées des informations portant sur les personnes concernées (âge, sexe, nationalité, niveau de formation), leur parcours professionnel à l'étranger et en France, les préconisations de leur bilan de compétences professionnelles, leur orientation professionnelle et les prestations d'accompagnement à l'emploi et à la promotion dont elles bénéficient ou ont bénéficié.
 
 
 ###### Article R311-25
@@ -7824,7 +7831,7 @@ Pour les besoins exclusifs des missions énumérées ci-après, peuvent consulte
 
 a) Les agents des organismes chargés de la gestion d'un régime obligatoire de sécurité sociale, assurant l'affiliation, le versement des prestations ou le recouvrement des cotisations, individuellement désignés et spécialement habilités respectivement par les directeurs de ces organismes, à la seule fin de vérifier que les assurés étrangers satisfont à la condition de régularité de leur situation en France prévue par les articles L. 115-6, L. 115-7, L. 161-16-1, L. 161-18-1, L. 161-25-1, L. 161-25-2, [L. 512-2](#article-l512-2) et [L. 831-1](#article-l831-1) du code de la sécurité sociale ainsi que par l'article L. 262-4 du code de l'action sociale et des familles ;
 
-b) Les agents de l'institution mentionnée à l'article L. 5312-1 du code du travail, individuellement désignés et spécialement habilités par leur directeur, à la seule fin de vérifier, en application de l'article L. 5411-4 du code du travail, que les étrangers disposent lors de l'inscription sur la liste des demandeurs d'emploi des titres de séjour et de travail requis pour exercer une activité professionnelle salariée ;
+b) Les agents de Pôle emploi, individuellement désignés et spécialement habilités par leur directeur, à la seule fin de vérifier, en application de l'article L. 5411-4 du code du travail, que les étrangers disposent lors de l'inscription sur la liste des demandeurs d'emploi des titres de séjour et de travail requis pour exercer une activité professionnelle salariée ;
 
 c) Les agents des préfectures et sous-préfectures compétents, individuellement désignés et spécialement habilités par le préfet et, à Paris, par le préfet de police, à la seule fin d'instruire les demandes de délivrance ou d'échange des permis de conduire ;
 
