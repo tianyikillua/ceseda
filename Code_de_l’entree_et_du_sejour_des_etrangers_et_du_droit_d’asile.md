@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 26 mai 2014
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20140526)
+- Date de consolidation : 30 mai 2014
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20140530)
 
 
 # Partie législative
@@ -5609,7 +5609,7 @@ Un arrêté du ministre chargé de l'immigration et du ministre chargé des fina
 
 ###### Article R313-16-2
 
-Lorsque l'étranger présente un projet tendant à la création d'une activité ou d'une entreprise, l'autorité diplomatique ou consulaire ou le préfet compétent saisit pour avis le trésorier-payeur général du département dans lequel l'étranger souhaite réaliser son projet.
+Lorsque l'étranger présente un projet tendant à la création d'une activité ou d'une entreprise, l'autorité diplomatique ou consulaire ou le préfet compétent saisit pour avis le directeur départemental ou, le cas échéant, régional des finances publiques du département dans lequel l'étranger souhaite réaliser son projet.
 
 
 ###### Article R313-16-3
@@ -8317,7 +8317,7 @@ Les images numérisées des documents de voyage et des visas contenues dans le C
 
 Le montant de la somme consignée en vertu du premier alinéa de l'article [L. 625-4](#article-l625-4) est mentionné sur le procès-verbal prévu à l'article [L. 625-2](#article-l625-2). L'absence de consignation est mentionnée dans les mêmes conditions.
 
-La somme consignée est remise sans délai entre les mains d'un comptable du Trésor.
+La somme consignée est remise sans délai entre les mains d'un comptable de la direction générale des finances publiques.
 
 
 ##### Article R625-14
@@ -8332,7 +8332,7 @@ Dès qu'il décide de ne pas prononcer d'amende, le ministre chargé de l'immigr
 
 ##### Article R625-16
 
-Lorsque le montant de l'amende prononcée est inférieur au montant de la somme consignée, le comptable du Trésor mentionné au deuxième alinéa de l'article [R. 625-13](#article-r625-13), au vu du titre exécutoire, restitue à l'entreprise de transport la somme correspondant à la différence entre le second montant et le premier.
+Lorsque le montant de l'amende prononcée est inférieur au montant de la somme consignée, le comptable de la direction générale des finances publiques mentionné au deuxième alinéa de l'article [R. 625-13](#article-r625-13), au vu du titre exécutoire, restitue à l'entreprise de transport la somme correspondant à la différence entre le second montant et le premier.
 
 Le même comptable procède à la restitution de tout ou partie de la somme consignée dans un délai d'un mois à compter de la date de réception par ses services du titre exécutoire ou de l'ordre de restitution du ministre chargé de l'immigration.
 
