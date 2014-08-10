@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 6 août 2014
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20140806)
+- Date de consolidation : 10 août 2014
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20140810)
 
 
 # Partie législative
@@ -3051,6 +3051,8 @@ L'étranger présent sur le territoire français dont la demande d'asile entre d
 
 En cas de reconnaissance de la qualité de réfugié ou d'octroi de la protection subsidiaire, l'autorité administrative abroge l'obligation de quitter le territoire français ou l'arrêté de reconduite à la frontière qui a, le cas échéant, été pris. Elle délivre sans délai au réfugié la carte de résident prévue au 8° de l'article [L. 314-11](#article-l314-11) et au bénéficiaire de la protection subsidiaire la carte de séjour temporaire prévue à l'article [L. 313-13](#article-l313-13).
 
+L'étranger présent sur le territoire français dont la demande d'asile entre dans le cas mentionné au 1° de l'article [L. 741-4](#article-l741-4) bénéficie du droit de se maintenir en France jusqu'à son départ volontaire ou son transfert effectif à destination de l'Etat membre responsable de l'examen de sa demande d'asile.
+
 
 #### Article L742-7
 
@@ -3117,8 +3119,7 @@ a) Dans le premier alinéa, les mots : " en France " sont remplacés par les mot
 
 b) Le 1° n'est pas applicable ;
 
-c) Au 3°, les mots : " en France " sont remplacés par les mots :
-" sur le territoire de la République " ;
+c) Au 3°, les mots : " en France " sont remplacés par les mots : " sur le territoire de la République " ;
 
 5. A l'article [L. 742-1](#article-l742-1), les mots : " en France " sont remplacés par les mots : " dans les îles Wallis et Futuna " ;
 
@@ -3134,9 +3135,11 @@ c) Après la deuxième phrase, il est inséré une phrase ainsi rédigée :
 
 " Si l'office décide d'entendre le demandeur d'asile hors des îles Wallis et Futuna, celui-ci reçoit les autorisations nécessaires. " ;
 
-d) La dernière phrase est ainsi rédigée :
+d) La dernière phrase du deuxième alinéa est ainsi rédigée :
 
 " Il délivre sans délai un titre de séjour dans les conditions prévues par l'ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna ou la carte de séjour temporaire prévue par l'article 17 de cette ordonnance. " ;
+
+e) Le dernier alinéa n'est pas applicable ;
 
 8. A l'article [L. 742-7](#article-l742-7), les mots : " le territoire français " sont remplacés par les mots : " les îles Wallis et Futuna " ;
 
@@ -3161,8 +3164,7 @@ a) Dans le premier alinéa, les mots : " en France " sont remplacés par les mot
 
 b) Le 1° n'est pas applicable ;
 
-c) Au 3°, les mots : " en France " sont remplacés par les mots :
-" sur le territoire de la République " ;
+c) Au 3°, les mots : " en France " sont remplacés par les mots : " sur le territoire de la République " ;
 
 5. A l'article [L. 742-1](#article-l742-1), les mots : " en France " sont remplacés par les mots : " en Polynésie française " ;
 
@@ -3178,9 +3180,11 @@ c) Après la deuxième phrase, il est inséré une phrase ainsi rédigée :
 
 " Si l'office décide d'entendre le demandeur d'asile hors de la Polynésie française, celui-ci reçoit les autorisations nécessaires. " ;
 
-d) La dernière phrase est ainsi rédigée :
+d) La dernière phrase du deuxième alinéa est ainsi rédigée :
 
 " Il délivre sans délai un titre de séjour dans les conditions prévues par l'ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers en Polynésie française ou la carte de séjour temporaire prévue par l'article 18 de cette ordonnance. " ;
+
+e) Le dernier alinéa n'est pas applicable ;
 
 8. A l'article [L. 742-7](#article-l742-7), les mots : " le territoire français " sont remplacés par les mots : " la Polynésie française " ;
 
@@ -3205,8 +3209,7 @@ a) Dans le premier alinéa, les mots : " en France " sont remplacés par les mot
 
 b) Le 1° n'est pas applicable ;
 
-c) Au 3°, les mots : " en France " sont remplacés par les mots :
-" sur le territoire de la République " ;
+c) Au 3°, les mots : " en France " sont remplacés par les mots : " sur le territoire de la République " ;
 
 5. A l'article [L. 742-1](#article-l742-1), les mots : " en France " sont remplacés par les mots : " en Nouvelle-Calédonie " ;
 
@@ -3222,9 +3225,11 @@ c) Après la deuxième phrase, il est inséré une phrase ainsi rédigée :
 
 " Si l'office décide d'entendre le demandeur d'asile hors de la Nouvelle-Calédonie, celui-ci reçoit les autorisations nécessaires. " ;
 
-d) La dernière phrase est ainsi rédigée :
+d) La dernière phrase du deuxième alinéa est ainsi rédigée :
 
 " Il délivre sans délai un titre de séjour dans les conditions prévues par l'ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie ou la carte de séjour temporaire prévue par l'article 18 de cette ordonnance. " ;
+
+e) Le dernier alinéa n'est pas applicable ;
 
 8. A l'article [L. 742-7](#article-l742-7), les mots : " le territoire français " sont remplacés par les mots : " la Nouvelle-Calédonie " ;
 
@@ -3276,6 +3281,8 @@ c) La seconde phrase du second alinéa est ainsi rédigée :
 
 " Elle délivre sans délai un titre de séjour dans les conditions prévues par le titre Ier du livre III du présent code ou la carte de séjour temporaire prévue par le 10° de l'article [L. 313-11](#article-l313-11). " ;
 
+d) Le dernier alinéa n'est pas applicable ;
+
 7. A l'article [L. 742-7](#article-l742-7), les mots : " le territoire français " sont remplacés par les mots : " la collectivité de Saint-Barthélemy " ;
 
 8. A la première phrase du premier alinéa de l'article [L. 751-1](#article-l751-1), les mots : " sur le territoire français " sont remplacés par les mots : " sur le territoire de Saint-Barthélemy ".
@@ -3312,6 +3319,8 @@ b) Le même alinéa est complété par une phrase ainsi rédigée :
 c) La seconde phrase du second alinéa est ainsi rédigée :
 
 " Elle délivre sans délai un titre de séjour dans les conditions prévues par le titre Ier du livre III du présent code ou la carte de séjour temporaire prévue par le 10° de l'article [L. 313-11](#article-l313-11). " ;
+
+d) Le dernier alinéa n'est pas applicable ;
 
 7. A l'article [L. 742-7](#article-l742-7), les mots : " le territoire français " sont remplacés par les mots : " la collectivité de Saint-Martin " ;
 
