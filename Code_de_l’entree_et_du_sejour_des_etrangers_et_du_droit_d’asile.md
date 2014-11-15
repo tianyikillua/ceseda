@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 22 août 2014
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20140822)
+- Date de consolidation : 15 novembre 2014
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20141115)
 
 
 # Partie législative
@@ -350,7 +350,7 @@ Les documents mentionnés aux 2° et 3° de l'article [L. 211-1](#article-l211-1
 
 #### Article L213-1
 
-L'accès au territoire français peut être refusé à tout étranger dont la présence constituerait une menace pour l'ordre public ou qui fait l'objet soit d'une peine d'interdiction judiciaire du territoire, soit d'un arrêté d'expulsion, soit d'un arrêté de reconduite à la frontière pris moins de trois ans auparavant en application de l'article [L. 533-1](#article-l533-1), soit d'une interdiction de retour sur le territoire français.
+L'accès au territoire français peut être refusé à tout étranger dont la présence constituerait une menace pour l'ordre public ou qui fait l'objet soit d'une peine d'interdiction judiciaire du territoire, soit d'un arrêté d'expulsion, soit d'un arrêté de reconduite à la frontière pris moins de trois ans auparavant en application de l'article [L. 533-1](#article-l533-1), soit d'une interdiction de retour sur le territoire français, soit d'une interdiction administrative du territoire.
 
 
 #### Article L213-2
@@ -423,6 +423,49 @@ Le jugement du président du tribunal administratif ou du magistrat désigné pa
 Si le refus d'entrée au titre de l'asile est annulé, il est immédiatement mis fin au maintien en zone d'attente de l'étranger, qui est autorisé à entrer en France muni d'un visa de régularisation de huit jours. Dans ce délai, l'autorité administrative compétente lui délivre, à sa demande, une autorisation provisoire de séjour lui permettant de déposer sa demande d'asile auprès de l'Office français de protection des réfugiés et apatrides.
 
 La décision de refus d'entrée au titre de l'asile qui n'a pas été contestée dans le délai prévu au premier alinéa ou qui n'a pas fait l'objet d'une annulation dans les conditions prévues au présent article peut être exécutée d'office par l'administration.
+
+
+#### Chapitre IV : Interdiction administrative du territoire
+
+#### Article L214-1
+
+Tout ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ou tout membre de la famille d'une telle personne peut, dès lors qu'il ne réside pas habituellement en France et ne se trouve pas sur le territoire national, faire l'objet d'une interdiction administrative du territoire lorsque sa présence en France constituerait, en raison de son comportement personnel, du point de vue de l'ordre ou de la sécurité publics, une menace réelle, actuelle et suffisamment grave pour un intérêt fondamental de la société.
+
+
+#### Article L214-2
+
+Tout ressortissant étranger non mentionné à l'article [L. 214-1](#article-l214-1) peut, dès lors qu'il ne réside pas habituellement en France et ne se trouve pas sur le territoire national, faire l'objet d'une interdiction administrative du territoire lorsque sa présence en France constituerait une menace grave pour l'ordre public, la sécurité intérieure ou les relations internationales de la France.
+
+
+#### Article L214-3
+
+L'interdiction administrative du territoire fait l'objet d'une décision du ministre de l'intérieur écrite et rendue après une procédure non contradictoire. Elle est motivée, à moins que des considérations relevant de la sûreté de l'Etat ne s'y opposent.
+
+Si l'étranger est entré en France alors que la décision d'interdiction administrative du territoire prononcée antérieurement ne lui avait pas déjà été notifiée, il est procédé à cette notification sur le territoire national.
+
+Lorsque la décision a été prise en application de l'article [L. 214-1](#article-l214-1) et que l'intéressé est présent en France à la date de sa notification, il bénéficie à compter de cette date d'un délai pour quitter le territoire qui, sauf urgence, ne peut être inférieur à un mois.
+
+
+#### Article L214-4
+
+L'étranger qui fait l'objet d'une interdiction administrative du territoire et qui s'apprête à entrer en France peut faire l'objet d'un refus d'entrée, dans les conditions prévues au chapitre III du présent titre.
+
+Lorsque l'étranger qui fait l'objet d'une interdiction administrative du territoire est présent sur le territoire français, il peut être reconduit d'office à la frontière, le cas échéant à l'expiration du délai prévu à l'article [L. 214-3](#article-l214-3). L'article [L. 513-2](#article-l513-2), le premier alinéa de l'article [L. 513-3](#article-l513-3) et les titres V et VI du livre V sont applicables à la reconduite à la frontière des étrangers faisant l'objet d'une interdiction administrative du territoire.
+
+
+#### Article L214-5
+
+L'autorité administrative peut à tout moment abroger l'interdiction administrative du territoire. L'étranger peut introduire une demande de levée de la mesure après un délai d'un an à compter de son prononcé. Le silence gardé pendant plus de quatre mois sur la demande de levée vaut décision de rejet.
+
+
+#### Article L214-6
+
+Sans préjudice des dispositions de l'article [L. 214-5](#article-l214-5), les motifs de l'interdiction administrative du territoire donnent lieu à un réexamen tous les cinq ans à compter de la date de la décision.
+
+
+#### Article L214-7
+
+Le second alinéa de l'article [L. 214-4](#article-l214-4) n'est pas applicable à l'étranger mineur.
 
 
 ### TITRE II : MAINTIEN EN ZONE D'ATTENTE
@@ -2084,7 +2127,7 @@ A moins qu'il ne soit assigné à résidence en application de l'article [L. 561
 
 6. Fait l'objet d'une obligation de quitter le territoire français prise moins d'un an auparavant et pour laquelle le délai pour quitter le territoire est expiré ou n'a pas été accordé ;
 
-7. Doit être reconduit d'office à la frontière en exécution d'une interdiction de retour ;
+7. Doit être reconduit d'office à la frontière en exécution d'une interdiction de retour ou d'une interdiction administrative du territoire ;
 
 8. Ayant fait l'objet d'une décision de placement en rétention au titre des 1° à 7°, n'a pas déféré à la mesure d'éloignement dont il est l'objet dans un délai de sept jours suivant le terme de son précédent placement en rétention ou, y ayant déféré, est revenu en France alors que cette mesure est toujours exécutoire.
 
@@ -2124,7 +2167,7 @@ L'ordonnance de prolongation de la rétention court à compter de l'expiration d
 
 ##### Article L552-4
 
-A titre exceptionnel, le juge peut ordonner l'assignation à résidence de l'étranger lorsque celui-ci dispose de garanties de représentation effectives, après remise à un service de police ou à une unité de gendarmerie de l'original du passeport et de tout document justificatif de son identité, en échange d'un récépissé valant justification de l'identité et sur lequel est portée la mention de la mesure d'éloignement en instance d'exécution. L'assignation à résidence concernant un étranger qui s'est préalablement soustrait à l'exécution d'une obligation de quitter le territoire français en vigueur, d'une interdiction de retour sur le territoire français en vigueur, d'une mesure de reconduite à la frontière en vigueur, d'une interdiction du territoire dont il n'a pas été relevé, ou d'une mesure d'expulsion en vigueur doit faire l'objet d'une motivation spéciale.
+A titre exceptionnel, le juge peut ordonner l'assignation à résidence de l'étranger lorsque celui-ci dispose de garanties de représentation effectives, après remise à un service de police ou à une unité de gendarmerie de l'original du passeport et de tout document justificatif de son identité, en échange d'un récépissé valant justification de l'identité et sur lequel est portée la mention de la mesure d'éloignement en instance d'exécution. L'assignation à résidence concernant un étranger qui s'est préalablement soustrait à l'exécution d'une obligation de quitter le territoire français en vigueur, d'une interdiction de retour sur le territoire français en vigueur, d'une interdiction administrative du territoire en vigueur, d'une mesure de reconduite à la frontière en vigueur, d'une interdiction du territoire dont il n'a pas été relevé, ou d'une mesure d'expulsion en vigueur doit faire l'objet d'une motivation spéciale.
 
 
 ##### Article L552-4-1
@@ -2250,7 +2293,7 @@ S'il est mis fin au maintien de l'étranger en rétention pour une raison autre 
 Si l'étranger est libéré à l'échéance de la période de rétention, faute pour la mesure d'éloignement d'avoir pu être exécutée, le chef du centre de rétention fait de même. La méconnaissance des dispositions du présent article est sans conséquence sur la régularité et le bien-fondé de procédures ultérieures d'éloignement et de rétention.
 
 
-#### Chapitre V : Dispositions particulières aux étrangers faisant l'objet d'une mesure d'interdiction du territoire français.
+#### Chapitre V : Dispositions particulières aux étrangers faisant l'objet d'une peine d'interdiction du territoire français
 
 #### Article L555-1
 
@@ -2287,7 +2330,9 @@ Lorsque l'étranger justifie être dans l'impossibilité de quitter le territoir
 
 4. Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction de retour ;
 
-5. Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction du territoire prévue au deuxième alinéa de l'article 131-30 du code pénal.
+5. Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction du territoire prévue au deuxième alinéa de l'article 131-30 du code pénal ;
+
+6. Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction administrative du territoire.
 
 La décision d'assignation à résidence est motivée. Elle peut être prise pour une durée maximale de six mois, et renouvelée une fois ou plus dans la même limite de durée, par une décision également motivée. Par exception, cette durée ne s'applique ni aux cas mentionnés au 5° du présent article ni à ceux mentionnés aux articles [L. 523-3](#article-l523-3) à [L. 523-5](#article-l523-5) du présent code.
 
@@ -2339,17 +2384,20 @@ Le non-respect des prescriptions liées à l'assignation à résidence avec surv
 Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
 
 
+#### Chapitre III : Assignation à résidence avec interdiction de se trouver en relation avec une personne nommément désignée
+
+#### Article L563-1
+
+L'étranger astreint à résider dans les lieux qui lui sont fixés en application des articles [L. 523-3](#article-l523-3), [L. 523-4](#article-l523-4) ou [L. 541-3](#article-l541-3) qui a été condamné à une peine d'interdiction du territoire pour des actes de terrorisme prévus au titre II du livre IV du code pénal ou à l'encontre duquel un arrêté d'expulsion a été prononcé pour un comportement lié à des activités à caractère terroriste peut, si la préservation de la sécurité publique l'exige, se voir prescrire par l'autorité administrative compétente pour prononcer l'assignation à résidence une interdiction de se trouver en relation, directement ou indirectement, avec certaines personnes nommément désignées dont le comportement est lié à des activités à caractère terroriste. La décision est écrite et motivée. Elle peut être prise pour une durée maximale de six mois et renouvelée, dans la même limite de durée, par une décision également motivée. Cette interdiction est levée dès que les conditions ne sont plus satisfaites ou en cas de levée de l'assignation à résidence.
+
+La violation de cette interdiction est sanctionnée dans les conditions prévues à l'article [L. 624-4](#article-l624-4) du présent code.
+
+
 ### TITRE VII : DISPOSITIONS DIVERSES
 
 ### Article L571-1
 
-La libération conditionnelle des étrangers condamnés à une peine privative de liberté et faisant l'objet d'une mesure d'interdiction du territoire, d'obligation de quitter le territoire français, d'interdiction de retour sur le territoire français, de reconduite à la frontière, d'expulsion, d'extradition ou de remise sur le fondement d'un mandat d'arrêt européen est régie par les dispositions de l'article 729-2 du code de procédure pénale, ci-après reproduit :
-
-" Art. 729-2 du code de procédure pénale.
-
-" Lorsqu'un étranger condamné à une peine privative de liberté est l'objet d'une mesure d'interdiction du territoire français, de reconduite à la frontière, d'expulsion, d'extradition ou de remise sur le fondement d'un mandat d'arrêt européen, sa libération conditionnelle est subordonnée à la condition que cette mesure soit exécutée. Elle peut être décidée sans son consentement.
-
-Par exception aux dispositions de l'alinéa précédent, le juge de l'application des peines, ou le tribunal de l'application des peines, peut également accorder une libération conditionnelle à un étranger faisant l'objet d'une peine complémentaire d'interdiction du territoire français en ordonnant la suspension de l'exécution de cette peine pendant la durée des mesures d'assistance et de contrôle prévue à l'article 732. A l'issue de cette durée, si la décision de mise en liberté conditionnelle n'a pas été révoquée, l'étranger est relevé de plein droit de la mesure d'interdiction du territoire français. Dans le cas contraire, la mesure redevient exécutoire. "
+La libération conditionnelle des étrangers condamnés à une peine privative de liberté et faisant l'objet d'une mesure d'interdiction du territoire, d'obligation de quitter le territoire français, d'interdiction de retour sur le territoire français, d'interdiction administrative du territoire, de reconduite à la frontière, d'expulsion, d'extradition ou de remise sur le fondement d'un mandat d'arrêt européen est régie par les dispositions de l'article 729-2 du code de procédure pénale.
 
 
 ### Article L571-2
@@ -2642,9 +2690,9 @@ Les personnes morales condamnées au titre de l'infraction visée au troisième 
 
 #### Article L624-1
 
-Tout étranger qui, faisant l'objet d'un arrêté d'expulsion, d'une mesure de reconduite à la frontière, d'une obligation de quitter le territoire français ou d'une interdiction judiciaire du territoire, se sera maintenu irrégulièrement sur le territoire français sans motif légitime, après avoir fait l'objet d'une mesure régulière de placement en rétention ou d'assignation à résidence ayant pris fin sans qu'il ait pu être procédé à son éloignement, sera puni d'un an d'emprisonnement et de 3 750 € d'amende.
+Tout étranger qui, faisant l'objet d'un arrêté d'expulsion, d'une mesure de reconduite à la frontière, d'une obligation de quitter le territoire français, d'une interdiction administrative du territoire ou d'une interdiction judiciaire du territoire, se sera maintenu irrégulièrement sur le territoire français sans motif légitime, après avoir fait l'objet d'une mesure régulière de placement en rétention ou d'assignation à résidence ayant pris fin sans qu'il ait pu être procédé à son éloignement, sera puni d'un an d'emprisonnement et de 3 750 € d'amende.
 
-Tout étranger qui se sera soustrait ou qui aura tenté de se soustraire à l'exécution d'une mesure de refus d'entrée en France, d'un arrêté d'expulsion, d'une mesure de reconduite à la frontière ou d'une obligation de quitter le territoire français ou qui, expulsé ou ayant fait l'objet d'une interdiction judiciaire du territoire, d'une interdiction de retour sur le territoire français ou d'un arrêté de reconduite à la frontière pris moins de trois ans auparavant en application de l'article [L. 533-1](#article-l533-1), aura pénétré de nouveau sans autorisation en France sera puni d'une peine de trois ans d'emprisonnement.
+Tout étranger qui se sera soustrait ou qui aura tenté de se soustraire à l'exécution d'une mesure de refus d'entrée en France, d'une interdiction administrative du territoire, d'un arrêté d'expulsion, d'une mesure de reconduite à la frontière ou d'une obligation de quitter le territoire français, ou qui, expulsé ou ayant fait l'objet d'une interdiction judiciaire du territoire, d'une interdiction administrative du territoire, d'une interdiction de retour sur le territoire français ou d'un arrêté de reconduite à la frontière pris moins de trois ans auparavant en application de l'article [L. 533-1](#article-l533-1), aura pénétré de nouveau sans autorisation en France sera puni d'une peine de trois ans d'emprisonnement.
 
 La même peine sera applicable à tout étranger qui n'aura pas présenté à l'autorité administrative compétente les documents de voyage permettant l'exécution de l'une des mesures mentionnées au deuxième alinéa ou qui, à défaut de ceux-ci, n'aura pas communiqué les renseignements permettant cette exécution ou aura communiqué des renseignements inexacts sur son identité.
 
@@ -2671,7 +2719,9 @@ Les étrangers qui n'auront pas rejoint dans les délais prescrits la résidence
 
 Les étrangers visés à l'article [L. 571-3](#article-l571-3) qui n'ont pas respecté les prescriptions liées au placement sous surveillance électronique sont passibles d'une peine d'emprisonnement d'un an.
 
-Les étrangers astreints à résider dans les lieux qui leur sont fixés en application des articles [L. 523-3](#article-l523-3), [L. 523-4](#article-l523-4), [L. 523-5](#article-l523-5) ou [L. 541-3](#article-l541-3) et qui n'ont pas respecté les obligations de présentation aux services de police et aux unités de gendarmerie prévues à l'article [L. 561-1](#article-l561-1) sont passibles d'une peine d'emprisonnement d'un an.
+Les étrangers astreints à résider dans les lieux qui leur sont fixés en application des articles [L. 523-3](#article-l523-3), [L. 523-4](#article-l523-4), [L. 523-5](#article-l523-5), [L. 541-3](#article-l541-3) ou du 6° de l'article [L. 561-1](#article-l561-1) et qui n'ont pas respecté les obligations de présentation aux services de police et aux unités de gendarmerie prévues à l'article [L. 561-1](#article-l561-1) sont passibles d'une peine d'emprisonnement d'un an.
+
+La même peine d'emprisonnement d'un an est applicable aux étrangers qui n'ont pas respecté les interdictions qui leur sont prescrites en application de l'article [L. 563-1](#article-l563-1).
 
 
 #### Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport
