@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 29 décembre 2014
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20141229)
+- Date de consolidation : 16 janvier 2015
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20150116)
 
 
 # Partie législative
@@ -7015,6 +7015,11 @@ La présentation, l'instruction et le jugement par les juridictions administrati
 L'autorité administrative compétente pour prononcer la décision fixant le pays de renvoi d'un étranger devant être d'office reconduit à la frontière est le préfet de département et, à Paris, le préfet de police.
 
 
+##### Article R513-1-1
+
+L'autorité administrative compétente pour prononcer la décision fixant le pays de renvoi dans le cas prévu au deuxième alinéa de l'article [L. 214-4](#article-l214-4) est le ministre de l'intérieur.
+
+
 ##### Section 2 : Obligations de l'étranger pendant le délai accordé pour son départ
 
 ##### Article R513-2
@@ -7820,6 +7825,11 @@ L'étranger en est informé dans une langue dont il est raisonnable de penser qu
 #### Article R561-1
 
 L'autorité administrative compétente pour assigner un étranger à résidence en application des 1° à 4° de l'article [L. 561-1](#article-l561-1) ou de l'article [L. 561-2](#article-l561-2) est le préfet de département et, à Paris, le préfet de police.
+
+
+#### Article R561-1-1
+
+L'autorité administrative compétente pour assigner un étranger à résidence en application du 6° de l'article [L. 561-1](#article-l561-1) est le ministre de l'intérieur.
 
 
 #### Article R561-2
