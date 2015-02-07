@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 1er février 2015
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20150201)
+- Date de consolidation : 7 février 2015
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20150207)
 
 
 # Partie législative
@@ -27,7 +27,7 @@ Ses dispositions s'appliquent sous réserve des conventions internationales.
 
 Les conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises demeurent régies par les textes ci-après énumérés :
 
-1. Abrogé ;
+1. (Abrogé) ;
 
 2. Ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna ;
 
@@ -36,6 +36,8 @@ Les conditions d'entrée et de séjour des étrangers dans les îles Wallis et F
 4. Ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie ;
 
 5. Loi n° 71-569 du 15 juillet 1971 relative au territoire des Terres australes et antarctiques françaises.
+
+Sont également applicables aux îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie les dispositions de l'article [L. 214-8](#article-l214-8) et du neuvième alinéa de l'article [L. 561-1](#article-l561-1).
 
 
 #### Article L111-3
@@ -466,6 +468,13 @@ Sans préjudice des dispositions de l'article [L. 214-5](#article-l214-5), les m
 #### Article L214-7
 
 Le second alinéa de l'article [L. 214-4](#article-l214-4) n'est pas applicable à l'étranger mineur.
+
+
+#### Article L214-8
+
+Les articles [L. 214-1](#article-l214-1), [L. 214-2](#article-l214-2), [L. 214-3](#article-l214-3), [L. 214-5](#article-l214-5) et [L. 214-6](#article-l214-6) sont applicables sur l'ensemble du territoire de la République.
+
+Au sens des dispositions des articles [L. 214-1](#article-l214-1) à [L. 214-3](#article-l214-3), les expressions : " en France " et " territoire national " s'entendent de l'ensemble du territoire de la République.
 
 
 ### TITRE II : MAINTIEN EN ZONE D'ATTENTE
@@ -2336,7 +2345,7 @@ Lorsque l'étranger justifie être dans l'impossibilité de quitter le territoir
 
 La décision d'assignation à résidence est motivée. Elle peut être prise pour une durée maximale de six mois, et renouvelée une fois ou plus dans la même limite de durée, par une décision également motivée. Par exception, cette durée ne s'applique ni aux cas mentionnés au 5° du présent article ni à ceux mentionnés aux articles [L. 523-3](#article-l523-3) à [L. 523-5](#article-l523-5) du présent code.
 
-L'étranger astreint à résider dans les lieux qui lui sont fixés par l'autorité administrative doit se présenter périodiquement aux services de police ou aux unités de gendarmerie. L'autorité administrative peut prescrire à l'étranger la remise de son passeport ou de tout document justificatif de son identité dans les conditions prévues à l'article [L. 611-2](#article-l611-2). Si l'étranger présente une menace d'une particulière gravité pour l'ordre public, l'autorité administrative peut le faire conduire par les services de police ou de gendarmerie jusqu'aux lieux d'assignation.
+L'étranger astreint à résider dans les lieux qui lui sont fixés par l'autorité administrative doit se présenter périodiquement aux services de police ou aux unités de gendarmerie. L'étranger qui fait l'objet d'un arrêté d'expulsion ou d'une interdiction judiciaire ou administrative du territoire prononcés en tout point du territoire de la République peut, quel que soit l'endroit où il se trouve, être astreint à résider dans des lieux choisis par l'autorité administrative dans l'ensemble du territoire de la République. L'autorité administrative peut prescrire à l'étranger la remise de son passeport ou de tout document justificatif de son identité dans les conditions prévues à l'article [L. 611-2](#article-l611-2). Si l'étranger présente une menace d'une particulière gravité pour l'ordre public, l'autorité administrative peut le faire conduire par les services de police ou de gendarmerie jusqu'aux lieux d'assignation.
 
 Le non-respect des prescriptions liées à l'assignation à résidence est sanctionné dans les conditions prévues à l'article [L. 624-4](#article-l624-4).
 
