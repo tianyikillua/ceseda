@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 22 mars 2015
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20150322)
+- Date de consolidation : 6 juin 2015
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20150606)
 
 
 # Partie législative
@@ -9170,9 +9170,11 @@ Le président de la cour et les présidents qu'il désigne à cet effet peuvent 
 
 #### Article R*741-1
 
-Lorsqu'un étranger, se trouvant à l'intérieur du territoire français, demande à bénéficier de l'asile, l'examen de sa demande d'admission au séjour relève du préfet de département et, à Paris, du préfet de police.
+I. Lorsqu'un étranger, se trouvant à l'intérieur du territoire français, demande à bénéficier de l'asile, l'examen de sa demande d'admission au séjour relève du préfet du département et, à Paris, du préfet de police.
 
 Un arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'asile peut donner compétence à un préfet de département et, à Paris, au préfet de police, pour exercer cette mission dans plusieurs départements.
+
+II.-Par dérogation aux dispositions du I du présent article, lorsqu'un étranger, placé en rétention administrative, demande à bénéficier de l'asile, l'examen de sa demande d'admission au séjour relève du préfet qui a ordonné le placement en rétention administrative de l'intéressé.
 
 
 #### Article R741-2
@@ -9383,6 +9385,13 @@ a) Les mots : " en France " sont remplacés par les mots : " dans les îles Wall
 b) Les mots : " de la préfecture " sont remplacés par les mots : " de l'administrateur des îles Wallis et Futuna ".
 
 
+#### Article R*762-2
+
+Le premier alinéa du I de l'article [R\*. 741-1](#article-r741-1) est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du décret n° 2010-687 du 24 juin 2010 relatif à l'organisation et aux missions des services de l'Etat dans la région et les départements d'Ile-de-France.
+
+Pour son application dans les îles Wallis et Futuna, les mots : " à l'intérieur du territoire français" sont remplacés par les mots : "dans les îles Wallis et Futuna" et les mots : "préfet du département" sont remplacés par les mots : "administrateur supérieur des îles Wallis et Futuna".
+
+
 #### Chapitre III : Dispositions applicables en Polynésie française.
 
 #### Article R763-1
@@ -9472,6 +9481,13 @@ c) Les mots : "à l'article L. 313-13" sont remplacés par les mots : "à l'arti
 a) Les mots : "en France" sont remplacés par les mots : "en Polynésie française" ;
 
 b) Les mots : "de la préfecture" sont remplacés par les mots : "du haut-commissaire de la République en Polynésie française".
+
+
+#### Article R*763-2
+
+Le premier alinéa du I de l'article [R\*. 741-1](#article-r741-1) est applicable en Polynésie française dans sa rédaction résultant du décret n° 2010-687 du 24 juin 2010 relatif à l'organisation et aux missions des services de l'Etat dans la région et les départements d'Ile-de-France.
+
+Pour son application en Polynésie française, les mots : : " à l'intérieur du territoire français " sont remplacés par les mots : " en Polynésie française " et les mots : " préfet du département " sont remplacés par les mots : " haut-commissaire de la République en Polynésie française ".
 
 
 #### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.
@@ -9565,6 +9581,13 @@ a) Les mots : "en France" sont remplacés par les mots : "en Nouvelle-Calédonie
 b) les mots : "de la préfecture" sont remplacés par les mots : "du haut-commissaire de la République en Nouvelle-Calédonie".
 
 
+#### Article R*764-2
+
+Le premier alinéa du I de l'article [R\*. 741-1](#article-r741-1) est applicable en Nouvelle-Calédonie dans sa rédaction résultant du décret n° 2010-687 du 24 juin 2010 relatif à l'organisation et aux missions des services de l'Etat dans la région et les départements d'Ile-de-France.
+
+Pour son application en Nouvelle-Calédonie, les mots : " à l'intérieur du territoire français " sont remplacés par les mots : " en Nouvelle-Calédonie " et les mots : " préfet du département " sont remplacés par les mots : " haut-commissaire de la République en Nouvelle-Calédonie ".
+
+
 #### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.
 
 #### Article R765-1
@@ -9602,6 +9625,13 @@ Le présent livre est applicable à Saint-Martin sous réserve des dispositions 
 1. Les références à la France sont remplacées par les références à la collectivité de Saint-Martin ;
 
 2. Les références au territoire français sont remplacées par les références au territoire de Saint-Martin.
+
+
+#### Article R*766-3
+
+Le premier alinéa du I de l'article [R\*. 741-1](#article-r741-1) est applicable à Saint-Barthélemy et à Saint-Martin dans sa rédaction résultant du décret n° 2010-687 du 24 juin 2010 relatif à l'organisation et aux missions des services de l'Etat dans la région et les départements d'Ile-de-France.
+
+Pour son application à Saint-Barthélemy et à Saint-Martin, les mots : "à l'intérieur du territoire français" sont remplacés par les mots : "sur le territoire de Saint-Barthélemy" ou : "sur le territoire de Saint-Martin".
 
 
 ## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES
