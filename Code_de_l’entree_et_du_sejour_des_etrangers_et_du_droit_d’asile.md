@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 6 juin 2015
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20150606)
+- Date de consolidation : 20 juillet 2015
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20150720)
 
 
 # Partie législative
@@ -2948,19 +2948,6 @@ L'office statue par priorité sur les demandes émanant de personnes auxquelles 
 L'office se prononce sur la reconnaissance de la qualité de réfugié ou l'octroi de la protection subsidiaire au terme d'une instruction unique au cours de laquelle le demandeur d'asile est mis en mesure de présenter les éléments à l'appui de sa demande.
 
 
-#### Article L723-3
-
-L'office convoque le demandeur à une audition. Il peut s'en dispenser s'il apparaît que :
-
-a) L'office s'apprête à prendre une décision positive à partir des éléments en sa possession ;
-
-b) Le demandeur d'asile a la nationalité d'un pays pour lequel ont été mises en oeuvre les stipulations du 5 du C de l'article 1er de la convention de Genève du 28 juillet 1951 relative au statut des réfugiés ;
-
-c) Les éléments fournis à l'appui de la demande sont manifestement infondés ;
-
-d) Des raisons médicales interdisent de procéder à l'entretien.
-
-
 #### Article L723-3-1
 
 L'office notifie par écrit sa décision au demandeur d'asile. Toute décision de rejet est motivée en fait et en droit et précise les voies et délais de recours.
@@ -2984,7 +2971,7 @@ La Cour nationale du droit d'asile est une juridiction administrative, placée s
 
 #### Article L731-2
 
-La Cour nationale du droit d'asile statue sur les recours formés contre les décisions de l'Office français de protection des réfugiés et apatrides, prises en application des articles [L. 711-1](#article-l711-1), [L. 712-1](#article-l712-1) à [L. 712-3](#article-l712-3) et [L. 723-1](#article-l723-1) à [L. 723-3](#article-l723-3). A peine d'irrecevabilité, ces recours doivent être exercés dans le délai d'un mois à compter de la notification de la décision de l'office.
+La Cour nationale du droit d'asile statue sur les recours formés contre les décisions de l'Office français de protection des réfugiés et apatrides, prises en application des articles [L. 711-1](#article-l711-1), [L. 712-1](#article-l712-1) à [L. 712-3](#article-l712-3) et [L. 723-1](#article-l723-1) à L. 723-3. A peine d'irrecevabilité, ces recours doivent être exercés dans le délai d'un mois à compter de la notification de la décision de l'office.
 
 Le bénéfice de l'aide juridictionnelle peut être demandé au plus tard dans le délai d'un mois à compter de la réception par le requérant de l'avis de réception de son recours, lequel l'informe dans une langue dont il est raisonnable de supposer qu'il la comprend des modalités de cette demande.
 
@@ -8656,7 +8643,7 @@ Le préfet transmet des réception le dossier à l'office en mentionnant son car
 
 #### Article R723-1-1
 
-Le troisième alinéa de l'article [R. 213-2](#article-r213-2) est applicable à l'audition mentionnée au premier alinéa de l'article [L. 723-3](#article-l723-3). Celle-ci fait l'objet d'un rapport écrit qui, outre les raisons justifiant l'asile, comprend les informations relatives à l'identité de l'étranger et celle de sa famille, les lieux et pays traversés ou dans lesquels il a séjourné, sa ou ses nationalités, le cas échéant ses pays de résidence et ses demandes d'asile antérieures, ses documents d'identité et titres de voyage.
+Le troisième alinéa de l'article [R. 213-2](#article-r213-2) est applicable à l'audition mentionnée au premier alinéa de l'article L. 723-3. Celle-ci fait l'objet d'un rapport écrit qui, outre les raisons justifiant l'asile, comprend les informations relatives à l'identité de l'étranger et celle de sa famille, les lieux et pays traversés ou dans lesquels il a séjourné, sa ou ses nationalités, le cas échéant ses pays de résidence et ses demandes d'asile antérieures, ses documents d'identité et titres de voyage.
 
 Une copie du rapport est transmise à l'intéressé avec la décision du directeur général de l'office lorsque celui-ci refuse la reconnaissance de la qualité de réfugié.
 
