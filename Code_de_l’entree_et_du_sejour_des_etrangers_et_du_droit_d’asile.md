@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 20 juillet 2015
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20150720)
+- Date de consolidation : 31 juillet 2015
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20150731)
 
 
 # Partie législative
@@ -80,12 +80,12 @@ Un décret en Conseil d'Etat, pris après avis du Comité consultatif national d
 
 #### Article L111-7
 
-Lorsqu'un étranger fait l'objet d'une mesure de non-admission en France, de maintien en zone d'attente, de placement en rétention ou de retenue pour vérification du droit de circulation ou de séjour et qu'il ne parle pas le français, il indique au début de la procédure une langue qu'il comprend. Il indique également s'il sait lire. Ces informations sont mentionnées sur la décision de non-admission, de maintien ou de placement ou dans le procès-verbal prévu à l'article [L. 611-1-1](#article-l611-1-1). Ces mentions font foi sauf preuve contraire. La langue que l'étranger a déclaré comprendre est utilisée jusqu'à la fin de la procédure. Si l'étranger refuse d'indiquer une langue qu'il comprend, la langue utilisée est le français.
+Lorsqu'un étranger fait l'objet d'une mesure de non-admission en France, de maintien en zone d'attente, de placement en rétention, de retenue pour vérification du droit de circulation ou de séjour ou de transfert vers l'Etat responsable de l'examen de sa demande d'asile et qu'il ne parle pas le français, il indique au début de la procédure une langue qu'il comprend. Il indique également s'il sait lire. Ces informations sont mentionnées sur la décision de non-admission, de maintien, de placement ou de transfert ou dans le procès-verbal prévu à l'article [L. 611-1-1](#article-l611-1-1). Ces mentions font foi sauf preuve contraire. La langue que l'étranger a déclaré comprendre est utilisée jusqu'à la fin de la procédure. Si l'étranger refuse d'indiquer une langue qu'il comprend, la langue utilisée est le français.
 
 
 #### Article L111-8
 
-Lorsqu'il est prévu aux livres II, V et VI du présent code qu'une décision ou qu'une information doit être communiquée à un étranger dans une langue qu'il comprend, cette information peut se faire soit au moyen de formulaires écrits, soit par l'intermédiaire d'un interprète. L'assistance de l'interprète est obligatoire si l'étranger ne parle pas le français et qu'il ne sait pas lire.
+Lorsqu'il est prévu aux livres II, V et VI et à l'article [L. 742-3](#article-l742-3) du présent code qu'une décision ou qu'une information doit être communiquée à un étranger dans une langue qu'il comprend, cette information peut se faire soit au moyen de formulaires écrits, soit par l'intermédiaire d'un interprète. L'assistance de l'interprète est obligatoire si l'étranger ne parle pas le français et qu'il ne sait pas lire.
 
 En cas de nécessité, l'assistance de l'interprète peut se faire par l'intermédiaire de moyens de télécommunication. Dans une telle hypothèse, il ne peut être fait appel qu'à un interprète inscrit sur l'une des listes mentionnées à l'article [L. 111-9](#article-l111-9) ou à un organisme d'interprétariat et de traduction agréé par l'administration. Le nom et les coordonnées de l'interprète ainsi que le jour et la langue utilisée sont indiqués par écrit à l'étranger.
 
@@ -105,7 +105,7 @@ a) Le nombre des différents titres de séjour accordés et celui des demandes r
 
 b) Le nombre d'étrangers admis au titre du regroupement familial ;
 
-c) Le nombre d'étrangers ayant obtenu le statut de réfugié ou le bénéfice de la protection subsidiaire, ainsi que celui des demandes rejetées ;
+c) Le nombre d'étrangers ayant obtenu le statut de réfugié, le bénéfice de la protection subsidiaire ou le statut d'apatride, ainsi que celui des demandes rejetées ;
 
 d) Le nombre d'attestations d'accueil présentées pour validation et le nombre d'attestations d'accueil validées ;
 
@@ -128,13 +128,19 @@ L'Office français de protection des réfugiés et apatrides, le Haut Conseil à
 
 #### Article L111-11
 
-En Guadeloupe, en Martinique, en Guyane, à Mayotte et à La Réunion, un observatoire de l'immigration évalue l'application de la politique de régulation des flux migratoires et les conditions d'immigration dans chacun de ces départements d'outre-mer.
+I. - En Guadeloupe, en Martinique, en Guyane, à Mayotte et à La Réunion, un observatoire de l'immigration évalue l'application de la politique de régulation des flux migratoires et les conditions d'immigration dans chacun de ces départements d'outre-mer.
 
 Il se réunit une fois par semestre.
 
 Chaque observatoire peut proposer au Gouvernement les mesures d'adaptation rendues nécessaires par les caractéristiques et contraintes particulières de ces collectivités.
 
 Il comprend les parlementaires, des représentants de l'Etat et des collectivités territoriales, ainsi que des représentants des milieux économiques et sociaux du département d'outre-mer concerné.
+
+II. - Un observatoire de l'asile évalue l'application de la politique de l'asile dans les départements et les collectivités d'outre-mer et en Nouvelle-Calédonie.
+
+Cet observatoire transmet un rapport au Parlement avant le 1er octobre de chaque année.
+
+Cet observatoire comprend un représentant du ministre de l'intérieur, du ministre chargé de l'asile, du ministre chargé de l'outre-mer, du ministre chargé du budget, de l'Office français de protection des réfugiés et apatrides, de l'Office français de l'immigration et de l'intégration ainsi que trois députés et trois sénateurs, désignés par leur assemblée respective.
 
 
 ### TITRE II : ENTRÉE ET SÉJOUR DES RESSORTISSANTS DES ÉTATS MEMBRES DE L'UNION EUROPÉENNE OU PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DES RESSORTISSANTS SUISSES AINSI QUE SEJOUR DES MEMBRES DE LEUR FAMILLE
@@ -235,7 +241,7 @@ Pour entrer en France, tout étranger doit être muni :
 
 ##### Article L211-2
 
-Par dérogation aux dispositions de la loi n° 79-587 du 11 juillet 1979 relative à la motivation des actes administratifs et à l'amélioration des relations entre l'administration et le public, les décisions de refus de visa d'entrée en France, prises par les autorités diplomatiques ou consulaires, ne sont pas motivées sauf dans les cas où le visa est refusé à un étranger appartenant à l'une des catégories suivantes et sous réserve de considérations tenant à la sûreté de l'Etat :
+Par dérogation aux dispositions du titre Ier du livre II du code des relations entre le public et l'administration, les décisions de refus de visa d'entrée en France, prises par les autorités diplomatiques ou consulaires, ne sont pas motivées sauf dans les cas où le visa est refusé à un étranger appartenant à l'une des catégories suivantes et sous réserve de considérations tenant à la sûreté de l'Etat :
 
 1. Membres de la famille de ressortissants des Etats membres de l'Union européenne et des autres Etats parties à l'accord sur l'Espace économique européen qui ne sont pas ressortissants de l'un de ces Etats, appartenant à des catégories définies par décret en Conseil d'Etat ;
 
@@ -243,13 +249,13 @@ Par dérogation aux dispositions de la loi n° 79-587 du 11 juillet 1979 relativ
 
 3. Enfants mineurs ayant fait l'objet, à l'étranger, d'une décision d'adoption plénière au profit de personnes titulaires d'un agrément pour adoption délivré par les autorités françaises ;
 
-4. Bénéficiaires d'une autorisation de regroupement familial ;
+4. Bénéficiaires d'une autorisation de regroupement familial ou de réunification familiale ;
 
 5. Travailleurs autorisés à exercer une activité professionnelle salariée en France ;
 
 6. Personnes faisant l'objet d'un signalement aux fins de non-admission au système d'information Schengen ;
 
-7. Personnes mentionnées aux 3°, 4°, 5°, 6°, 7° et 8° de l'article [L. 314-11](#article-l314-11).
+7. Personnes mentionnées aux 3°, 4°, 5°, 6° et 7° de l'article [L. 314-11](#article-l314-11).
 
 
 ##### Article L211-2-1
@@ -517,7 +523,7 @@ Cette décision est inscrite sur un registre mentionnant l'état civil de l'int�
 
 #### Article L221-4
 
-L'étranger maintenu en zone d'attente est informé, dans les meilleurs délais, qu'il peut demander l'assistance d'un interprète et d'un médecin, communiquer avec un conseil ou toute personne de son choix et quitter à tout moment la zone d'attente pour toute destination située hors de France. Ces informations lui sont communiquées dans une langue qu'il comprend. Mention en est faite sur le registre mentionné au deuxième alinéa de l'article [L. 221-3](#article-l221-3), qui est émargé par l'intéressé.
+L'étranger maintenu en zone d'attente est informé, dans les meilleurs délais, qu'il peut demander l'assistance d'un interprète et d'un médecin, communiquer avec un conseil ou toute personne de son choix et quitter à tout moment la zone d'attente pour toute destination située hors de France. Il est également informé des droits qu'il est susceptible d'exercer en matière de demande d'asile. Ces informations lui sont communiquées dans une langue qu'il comprend. Mention en est faite sur le registre mentionné au deuxième alinéa de l'article [L. 221-3](#article-l221-3), qui est émargé par l'intéressé.
 
 En cas de maintien simultané en zone d'attente d'un nombre important d'étrangers, la notification des droits mentionnés au premier alinéa s'effectue dans les meilleurs délais, compte tenu du nombre d'agents de l'autorité administrative et d'interprètes disponibles. De même, dans ces mêmes circonstances particulières, les droits notifiés s'exercent dans les meilleurs délais.
 
@@ -687,6 +693,24 @@ Entre la date d'expiration de la carte de résident ou d'un titre de séjour d'u
 La délivrance d'une autorisation provisoire de séjour, d'un récépissé de demande de titre de séjour ou d'un récépissé de demande d'asile n'a pas pour effet de régulariser les conditions de l'entrée en France, sauf s'il s'agit d'un étranger qui s'est vu reconnaître la qualité de réfugié.
 
 
+##### Article L311-5-1
+
+L'étranger auquel la qualité de réfugié est reconnue par l'Office français de protection des réfugiés et apatrides ou la Cour nationale du droit d'asile est admis à souscrire une demande de délivrance de carte de résident.
+
+Dans un délai de huit jours à compter de sa demande, il est mis en possession d'un récépissé de demande de titre de séjour, qui vaut autorisation de séjour d'une durée de validité de six mois renouvelable et qui porte la mention “ reconnu réfugié ”.
+
+Ce récépissé confère à son titulaire le droit d'exercer la profession de son choix dans les conditions prévues à l'article [L. 314-4](#article-l314-4).
+
+
+##### Article L311-5-2
+
+L'étranger qui s'est vu accorder le bénéfice de la protection subsidiaire par l'Office français de protection des réfugiés et apatrides ou la Cour nationale du droit d'asile est admis à souscrire une demande de délivrance de carte de séjour.
+
+Dans un délai de huit jours à compter de sa demande, il est mis en possession d'un récépissé de demande de titre de séjour, qui vaut autorisation de séjour d'une durée de validité de six mois renouvelable.
+
+Ce récépissé confère à son titulaire le droit d'exercer la profession de son choix dans les conditions prévues à l'article [L. 314-4](#article-l314-4).
+
+
 ##### Article L311-6
 
 Lorsqu'une demande d'asile a été définitivement rejetée, l'étranger qui sollicite la délivrance d'une carte de séjour doit justifier, pour obtenir ce titre, qu'il remplit l'ensemble des conditions prévues par le présent code.
@@ -702,6 +726,15 @@ Sous réserve des engagements internationaux de la France et des exceptions pré
 La carte de séjour temporaire et la carte de séjour "compétences et talents" sont retirées si leur titulaire cesse de remplir l'une des conditions exigées pour leur délivrance.
 
 Par dérogation au premier alinéa, la carte de séjour temporaire portant la mention "salarié", "travailleur temporaire", "scientifique-chercheur" ou "carte bleue européenne" ne peut être retirée au motif que l'étranger s'est trouvé, autrement que de son fait, privé d'emploi.
+
+
+##### Article L311-8-1
+
+Lorsqu'il est mis fin au statut de réfugié ou au bénéfice de la protection subsidiaire par décision définitive de l'Office français de protection des réfugiés et apatrides ou par décision de justice ou lorsque l'étranger renonce à ce statut ou à ce bénéfice, la carte de résident mentionnée au 8° de l'article [L. 314-11](#article-l314-11) ou la carte de séjour temporaire mentionnée à l'article [L. 313-13](#article-l313-13) est retirée.
+
+Dans les cas prévus au premier alinéa du présent article, l'autorité administrative statue, dans un délai fixé par décret en Conseil d'Etat, sur le droit au séjour des intéressés à un autre titre.
+
+La carte de résident ou la carte de séjour temporaire ne peut être retirée en application du même premier alinéa quand l'étranger est en situation régulière depuis au moins cinq ans.
 
 
 ##### Section 2 : Dispositions relatives à l'intégration dans la société française
@@ -1056,7 +1089,7 @@ La carte de séjour temporaire portant la mention " vie privée et familiale ”
 
 9. A l'étranger titulaire d'une rente d'accident du travail ou de maladie professionnelle servie par un organisme français et dont le taux d'incapacité permanente est égal ou supérieur à 20 %, sans que la condition prévue à l'article [L. 311-7](#article-l311-7) soit exigée ;
 
-10. A l'étranger qui a obtenu le statut d'apatride en application du livre VII du présent code, ainsi qu'à son conjoint et à ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article [L. 311-3](#article-l311-3), lorsque le mariage est antérieur à la date de cette obtention ou, à défaut, lorsqu'il a été célébré depuis au moins un an, sous réserve d'une communauté de vie effective entre les époux, sans que la condition prévue à l'article [L. 311-7](#article-l311-7) soit exigée ;
+10. A l'étranger qui a obtenu le statut d'apatride en application du titre Ier bis du livre VIII du présent code, ainsi qu'à son conjoint et à ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article [L. 311-3](#article-l311-3), lorsque le mariage est antérieur à la date de cette obtention ou, à défaut, lorsqu'il a été célébré depuis au moins un an, sous réserve d'une communauté de vie effective entre les époux, sans que la condition prévue à l'article [L. 311-7](#article-l311-7) soit exigée ;
 
 11. A l'étranger résidant habituellement en France dont l'état de santé nécessite une prise en charge médicale dont le défaut pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve de l'absence d'un traitement approprié dans le pays dont il est originaire, sauf circonstance humanitaire exceptionnelle appréciée par l'autorité administrative après avis du directeur général de l'agence régionale de santé, sans que la condition prévue à l'article [L. 311-7](#article-l311-7) soit exigée. La décision de délivrer la carte de séjour est prise par l'autorité administrative, après avis du médecin de l'agence régionale de santé de la région de résidence de l'intéressé, désigné par le directeur général de l'agence, ou, à Paris, du médecin, chef du service médical de la préfecture de police. Le médecin de l'agence régionale de santé ou, à Paris, le chef du service médical de la préfecture de police peut convoquer le demandeur pour une consultation médicale devant une commission médicale régionale dont la composition est fixée par décret en Conseil d'Etat.
 
@@ -1095,11 +1128,23 @@ La carte de séjour délivrée au titre de l'article [L. 313-11-1](#article-l313
 
 ###### Article L313-13
 
-Sauf si sa présence constitue une menace pour l'ordre public, la carte de séjour temporaire prévue à l'article [L. 313-11](#article-l313-11) est délivrée de plein droit à l'étranger qui a obtenu le bénéfice de la protection subsidiaire en application de l'article [L. 712-1](#article-l712-1) du présent code, sans que la condition prévue à l'article [L. 311-7](#article-l311-7) soit exigée.
+Sauf si leur présence constitue une menace pour l'ordre public, la carte de séjour temporaire mentionnée à l'article [L. 313-11](#article-l313-11) est délivrée de plein droit :
 
-Elle est également délivrée de plein droit au conjoint de cet étranger et à ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article [L. 311-3](#article-l311-3) lorsque le mariage est antérieur à la date d'obtention de la protection subsidiaire ou, à défaut, lorsqu'il a été célébré depuis au moins un an, sous réserve d'une communauté de vie effective entre époux. La condition prévue à l'article [L. 311-7](#article-l311-7) n'est pas exigée.
+1. A l'étranger qui a obtenu le bénéfice de la protection subsidiaire en application de l'article [L. 712-1](#article-l712-1) ;
 
-La carte délivrée au titre du présent article donne droit à l'exercice d'une activité professionnelle.
+2. A son conjoint, son partenaire avec lequel il est lié par une union civile ou son concubin, s'il a été autorisé à séjourner en France au titre de la réunification familiale dans les conditions prévues à l'article [L. 752-1](#article-l752-1) ;
+
+3. A son conjoint ou au partenaire avec lequel il est lié par une union civile, âgé d'au moins dix-huit ans, si le mariage ou l'union civile est postérieur à la date d'introduction de sa demande d'asile, à condition que le mariage ou l'union civile ait été célébré depuis au moins un an et sous réserve d'une communauté de vie effective entre époux ou partenaires ;
+
+4. A ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article [L. 311-3](#article-l311-3) ;
+
+5. A ses ascendants directs au premier degré si l'étranger qui a obtenu le bénéfice de la protection est un mineur non marié.
+
+Sans préjudice du troisième alinéa du II de l'article [L. 752-1](#article-l752-1), la condition prévue à l'article [L. 311-7](#article-l311-7) n'est pas exigée.
+
+Le délai pour la délivrance de la carte de séjour temporaire après la décision d'octroi de la protection subsidiaire par l'Office français de protection des réfugiés et apatrides ou la Cour nationale du droit d'asile est fixé par décret en Conseil d'Etat.
+
+Par dérogation aux articles [L. 311-2](#article-l311-2) et [L. 313-1](#article-l313-1), la carte délivrée au titre du présent article est renouvelable dans les mêmes conditions pour une durée de deux ans. Elle donne droit à l'exercice d'une activité professionnelle.
 
 
 ###### Sous-section 7 : L'admission exceptionnelle au séjour
@@ -1190,7 +1235,7 @@ En outre, est périmée la carte de résident portant la mention "résident de l
 
 ##### Article L314-7-1
 
-La carte de résident portant la mention : " résident de longue durée-UE " délivrée à l'étranger en application de l'article [L. 314-8-2](#article-l314-8-2) peut lui être retirée lorsqu'il perd la qualité de réfugié en application du F de l'article 1er de la convention de Genève du 28 juillet 1951 relative au statut des réfugiés ou le bénéfice de la protection subsidiaire en application du second alinéa de l'article [L. 712-3](#article-l712-3). Elle peut également être retirée en cas d'obtention frauduleuse de cette qualité ou de cette protection.
+La carte de résident portant la mention : " résident de longue durée-UE " délivrée à l'étranger en application de l'article [L. 314-8-2](#article-l314-8-2) peut lui être retirée lorsqu'il perd la qualité de réfugié en application du F de l'article 1er de la convention de Genève du 28 juillet 1951 relative au statut des réfugiés ou le bénéfice de la protection subsidiaire en application de l'article [L. 712-3](#article-l712-3). Elle peut également être retirée en cas d'obtention frauduleuse de cette qualité ou de cette protection.
 
 
 ##### Section 2 : Délivrance de la carte de résident
@@ -1223,7 +1268,7 @@ L'étranger titulaire de la carte de résident prévue au 8° de l'article [L. 3
 
 Par dérogation au premier alinéa de l'article [L. 314-8](#article-l314-8), est prise en compte, dans le calcul des cinq années de résidence régulière ininterrompue, la période comprise entre la date de dépôt de la demande d'asile, sur la base de laquelle a été reconnue la qualité de réfugié ou accordé le bénéfice de la protection subsidiaire, et la date de délivrance de la carte de résident prévue au 8° de l'article [L. 314-11](#article-l314-11) ou de la carte de séjour temporaire prévue à l'article [L. 313-13](#article-l313-13).
 
-Son conjoint et ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article [L. 311-3](#article-l311-3), admis en France conformément au 8° de l'article [L. 314-11](#article-l314-11) ou à l'article [L. 313-13](#article-l313-13), peuvent se voir délivrer une carte de résident portant la mention : " résident de longue durée-UE ", dans les conditions prévues à l'article [L. 314-8](#article-l314-8).
+Son conjoint, le partenaire avec lequel il est lié par une union civile, son concubin et ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article [L. 311-3](#article-l311-3), admis en France conformément au 8° de l'article [L. 314-11](#article-l314-11) ou à l'article [L. 313-13](#article-l313-13), peuvent se voir délivrer une carte de résident portant la mention : " résident de longue durée-UE ", dans les conditions prévues à l'article [L. 314-8](#article-l314-8).
 
 
 ###### Article L314-9
@@ -1266,7 +1311,17 @@ Sauf si la présence de l'étranger constitue une menace pour l'ordre public, la
 
 7. A l'étranger ayant servi dans la Légion étrangère, comptant au moins trois ans de services dans l'armée française, titulaire du certificat de bonne conduite ;
 
-8. A l'étranger qui a obtenu le statut de réfugié en application du livre VII du présent code ainsi qu'à son conjoint et à ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article [L. 311-3](#article-l311-3) lorsque le mariage est antérieur à la date de cette obtention ou, à défaut, lorsqu'il a été célébré depuis au moins un an, sous réserve d'une communauté de vie effective entre les époux ainsi qu'à ses ascendants directs au premier degré si l'étranger qui a obtenu le statut de réfugié est un mineur non accompagné ;
+8. A l'étranger reconnu réfugié en application du livre VII ainsi qu'à :
+
+a) Son conjoint, son partenaire avec lequel il est lié par une union civile ou son concubin, s'il a été autorisé à séjourner en France au titre de la réunification familiale dans les conditions prévues à l'article [L. 752-1](#article-l752-1) ;
+
+b) Son conjoint ou son partenaire avec lequel il est lié par une union civile, âgé d'au moins dix-huit ans, si le mariage ou l'union civile est postérieur à la date d'introduction de sa demande d'asile, à condition que le mariage ou l'union civile ait été célébré depuis au moins un an et sous réserve d'une communauté de vie effective entre époux ou partenaires ;
+
+c) Ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article [L. 311-3](#article-l311-3) ;
+
+d) Ses ascendants directs au premier degré si l'étranger qui a obtenu le bénéfice de la protection est un mineur non marié.
+
+Le délai pour la délivrance de la carte de résident après la décision de reconnaissance de la qualité de réfugié par l'Office français de protection des réfugiés et apatrides ou la Cour nationale du droit d'asile est fixé par décret en Conseil d'Etat ;
 
 9. A l'apatride justifiant de trois années de résidence régulière en France ainsi qu'à son conjoint et à ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article [L. 311-3](#article-l311-3) ;
 
@@ -1589,13 +1644,15 @@ I. ― L'autorité administrative peut obliger à quitter le territoire françai
 
 4. Si l'étranger n'a pas demandé le renouvellement de son titre de séjour temporaire et s'est maintenu sur le territoire français à l'expiration de ce titre ;
 
-5. Si le récépissé de la demande de carte de séjour ou l'autorisation provisoire de séjour qui avait été délivré à l'étranger lui a été retiré ou si le renouvellement de ces documents lui a été refusé.
+5. Si le récépissé de la demande de carte de séjour ou l'autorisation provisoire de séjour qui avait été délivré à l'étranger lui a été retiré ou si le renouvellement de ces documents lui a été refusé ;
+
+6. Si la reconnaissance de la qualité de réfugié ou le bénéfice de la protection subsidiaire a été définitivement refusé à l'étranger ou si l'étranger ne bénéficie plus du droit de se maintenir sur le territoire français en application de l'article L. 743-2, à moins qu'il ne soit titulaire d'un titre de séjour en cours de validité.
 
 La décision énonçant l'obligation de quitter le territoire français est motivée. Elle n'a pas à faire l'objet d'une motivation distincte de celle de la décision relative au séjour dans les cas prévus aux 3° et 5° du présent I, sans préjudice, le cas échéant, de l'indication des motifs pour lesquels il est fait application des II et III.
 
 L'obligation de quitter le territoire français fixe le pays à destination duquel l'étranger est renvoyé en cas d'exécution d'office.
 
-II. ― Pour satisfaire à l'obligation qui lui a été faite de quitter le territoire français, l'étranger dispose d'un délai de trente jours à compter de sa notification et peut solliciter, à cet effet, un dispositif d'aide au retour dans son pays d'origine. A Mayotte, l'étranger ne peut bénéficier d'une aide au retour mais, dans des circonstances exceptionnelles et sous réserve de l'existence d'un projet économique viable, d'une aide à la réinsertion économique , ou, s'il est accompagné d'un ou plusieurs enfants mineurs, de mesures d'accompagnement, dans des conditions définies par arrêté du ministre de l'intérieur et du ministre chargé des outre-mer. Eu égard à la situation personnelle de l'étranger, l'autorité administrative peut accorder, à titre exceptionnel, un délai de départ volontaire supérieur à trente jours.
+II. ― Pour satisfaire à l'obligation qui lui a été faite de quitter le territoire français, l'étranger dispose d'un délai de trente jours à compter de sa notification et peut solliciter, à cet effet, un dispositif d'aide au retour dans son pays d'origine. A Mayotte, l'étranger ne peut bénéficier d'une aide au retour mais, dans des circonstances exceptionnelles et sous réserve de l'existence d'un projet économique viable, d'une aide à la réinsertion économique, ou, s'il est accompagné d'un ou plusieurs enfants mineurs, de mesures d'accompagnement, dans des conditions définies par arrêté du ministre de l'intérieur et du ministre chargé des outre-mer. Eu égard à la situation personnelle de l'étranger, l'autorité administrative peut accorder, à titre exceptionnel, un délai de départ volontaire supérieur à trente jours.
 
 Toutefois, l'autorité administrative peut, par une décision motivée, décider que l'étranger est obligé de quitter sans délai le territoire français :
 
@@ -1700,6 +1757,11 @@ Ne peuvent faire l'objet d'une obligation de quitter le territoire français :
 10. L'étranger résidant habituellement en France dont l'état de santé nécessite une prise en charge médicale dont le défaut pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve de l'absence d'un traitement approprié dans le pays de renvoi, sauf circonstance humanitaire exceptionnelle appréciée par l'autorité administrative après avis du directeur général de l'agence régionale de santé ;
 
 11. Le ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse, ainsi que les membres de sa famille, qui bénéficient du droit au séjour permanent prévu par l'article [L. 122-1](#article-l122-1).
+
+
+#### Article L511-5
+
+En cas de reconnaissance de la qualité de réfugié ou d'octroi de la protection subsidiaire, l'autorité administrative abroge l'obligation de quitter le territoire français qui, le cas échéant, a été prise. Elle délivre sans délai au réfugié la carte de résident prévue au 8° de l'article [L. 314-11](#article-l314-11) et au bénéficiaire de la protection subsidiaire la carte de séjour temporaire prévue à l'article [L. 313-13](#article-l313-13).
 
 
 #### Chapitre II : Procédure administrative et contentieuse
@@ -1991,9 +2053,7 @@ Cette décision peut être exécutée d'office par l'administration après que l
 
 #### Article L531-2
 
-Les dispositions de l'article [L. 531-1](#article-l531-1) sont applicables, sous la réserve mentionnée à l'avant-dernier alinéa de l'article [L. 741-4](#article-l741-4), à l'étranger qui demande l'asile, lorsqu'en application des dispositions des conventions internationales conclues avec les Etats membres de l'Union européenne l'examen de cette demande relève de la responsabilité de l'un de ces Etats.
-
-Les mêmes dispositions sont également applicables à l'étranger qui, en provenance du territoire d'un Etat partie à la convention signée à Schengen le 19 juin 1990, est entré ou a séjourné sur le territoire métropolitain sans se conformer aux dispositions des articles 19, paragraphe 1 ou 2, 20, paragraphe 1, ou 21, paragraphe 1 ou 2, de cette convention ou sans souscrire, au moment de l'entrée sur ce territoire, la déclaration obligatoire prévue par l'article 22 de la même convention, alors qu'il était astreint à cette formalité.
+L'article [L. 531-1](#article-l531-1) est applicable à l'étranger qui, en provenance du territoire d'un Etat partie à la convention signée à Schengen le 19 juin 1990, est entré ou a séjourné sur le territoire métropolitain sans se conformer aux dispositions des articles 19, paragraphe 1 ou 2, 20, paragraphe 1, ou 21, paragraphe 1 ou 2, de cette convention ou sans souscrire, au moment de l'entrée sur ce territoire, la déclaration obligatoire prévue par l'article 22 de la même convention, alors qu'il était astreint à cette formalité.
 
 Il en est de même de l'étranger détenteur d'un titre de résident de longue durée-CE en cours de validité accordé par un autre Etat membre qui fait l'objet d'une mesure d'éloignement du territoire français. Un décret en Conseil d'Etat détermine les conditions d'application du présent alinéa.
 
@@ -2124,7 +2184,7 @@ Les dispositions du présent article ne sont applicables qu'aux étrangers ayant
 
 A moins qu'il ne soit assigné à résidence en application de l'article [L. 561-2](#article-l561-2), l'étranger qui ne peut quitter immédiatement le territoire français peut être placé en rétention par l'autorité administrative dans des locaux ne relevant pas de l'administration pénitentiaire, pour une durée de cinq jours, lorsque cet étranger :
 
-1. Doit être remis aux autorités compétentes d'un Etat membre de l'Union européenne en application des articles [L. 531-1](#article-l531-1) ou [L. 531-2](#article-l531-2) ;
+1. Doit être remis aux autorités compétentes d'un Etat membre de l'Union européenne en application des articles [L. 531-1](#article-l531-1) ou [L. 531-2](#article-l531-2) ou fait l'objet d'une décision de transfert en application de l'article [L. 742-3](#article-l742-3) ;
 
 2. Fait l'objet d'un arrêté d'expulsion ;
 
@@ -2152,7 +2212,7 @@ Les meilleurs délais, au sens du deuxième alinéa, s'entendent compte tenu du 
 
 #### Article L551-3
 
-A son arrivée au centre de rétention, l'étranger reçoit notification des droits qu'il est susceptible d'exercer en matière de demande d'asile. Il lui est notamment indiqué que sa demande d'asile ne sera plus recevable pendant la période de rétention si elle est formulée plus de cinq jours après cette notification.
+A son arrivée au centre de rétention, l'étranger reçoit notification des droits qu'il est susceptible d'exercer en matière de demande d'asile. A cette fin, il peut bénéficier d'une assistance juridique et linguistique. Il lui est notamment indiqué que sa demande d'asile ne sera plus recevable pendant la période de rétention si elle est formulée plus de cinq jours après cette notification. Cette irrecevabilité n'est pas opposable à l'étranger qui invoque, au soutien de sa demande, des faits survenus après l'expiration de ce délai.
 
 
 #### Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention
@@ -2261,7 +2321,7 @@ En cas de nécessité et pendant toute la durée de la rétention, l'autorité a
 
 Pendant toute la durée de la rétention, le procureur de la République ou le juge des libertés et de la détention peut se transporter sur les lieux, vérifier les conditions du maintien et se faire communiquer le registre prévu à l'article [L. 553-1](#article-l553-1). Le procureur de la République visite les lieux de rétention chaque fois qu'il l'estime nécessaire et au moins une fois par an.
 
-Un décret en Conseil d'Etat détermine les conditions d'exercice du droit d'accès des associations humanitaires aux lieux de rétention.
+Un décret en Conseil d'Etat détermine les conditions d'exercice du droit d'accès du délégué du haut-commissariat des Nations unies pour les réfugiés ou de ses représentants ainsi que des associations humanitaires aux lieux de rétention.
 
 
 #### Article L553-4
@@ -2323,6 +2383,8 @@ Cette déclaration est constatée, datée et signée par le chef du centre ou du
 Lorsqu'un étranger est condamné en première instance à une peine d'interdiction du territoire français à titre de peine principale assortie de l'exécution provisoire et que l'éloignement du territoire a lieu avant la date de l'audience d'appel, son avocat doit être entendu lors de l'audience d'appel s'il en fait la demande. Il en est de même de l'avocat commis d'office lorsque l'étranger a demandé le bénéfice d'un conseil dans sa requête d'appel.
 
 
+#### Chapitre VI : Demandes d'asile en rétention
+
 ### TITRE VI : ASSIGNATION À RÉSIDENCE
 
 #### Chapitre Ier
@@ -2333,7 +2395,7 @@ Lorsque l'étranger justifie être dans l'impossibilité de quitter le territoir
 
 1. Si l'étranger fait l'objet d'une obligation de quitter le territoire français sans délai ou si le délai de départ volontaire qui lui a été accordé est expiré ;
 
-2. Si l'étranger doit être remis aux autorités d'un Etat membre de l'Union européenne en application des articles [L. 531-1](#article-l531-1) ou [L. 531-2](#article-l531-2) ;
+2. Si l'étranger doit être remis aux autorités d'un Etat membre de l'Union européenne en application des articles [L. 531-1](#article-l531-1) ou [L. 531-2](#article-l531-2) ou transféré vers l'Etat responsable de sa demande d'asile en application de l'article [L. 742-3](#article-l742-3) ;
 
 3. Si l'étranger doit être reconduit à la frontière en application de l'article [L. 531-3](#article-l531-3) ;
 
@@ -2800,7 +2862,7 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 ## LIVRE VII : LE DROIT D'ASILE
 
-### TITRE Ier : GÉNÉRALITÉS
+### TITRE Ier : LES CONDITIONS D'OCTROI DE L'ASILE
 
 #### Chapitre Ier : La qualité de réfugié
 
@@ -2811,22 +2873,60 @@ La qualité de réfugié est reconnue à toute personne persécutée en raison d
 
 #### Article L711-2
 
-L'étranger qui a obtenu le statut de réfugié en application du présent livre VII et a signé le contrat d'accueil et d'intégration prévu par l'article [L. 311-9](#article-l311-9) bénéficie d'un accompagnement personnalisé pour l'accès à l'emploi et au logement.
+Les actes de persécution et les motifs de persécution, au sens de la section A de l'article 1er de la convention de Genève, du 28 juillet 1951, relative au statut des réfugiés, sont appréciés dans les conditions prévues aux paragraphes 1 et 2 de l'article 9 et au paragraphe 1 de l'article 10 de la directive 2011/95/UE du Parlement européen et du Conseil, du 13 décembre 2011, concernant les normes relatives aux conditions que doivent remplir les ressortissants des pays tiers ou les apatrides pour pouvoir bénéficier d'une protection internationale, à un statut uniforme pour les réfugiés ou les personnes pouvant bénéficier de la protection subsidiaire, et au contenu de cette protection.
 
-A cet effet, l'autorité administrative conclut avec les collectivités territoriales et les autres personnes morales concernées ou souhaitant participer à cet accompagnement une convention prévoyant les modalités d'organisation de celui-ci.
+S'agissant des motifs de persécution, les aspects liés au genre et à l'orientation sexuelle sont dûment pris en considération aux fins de la reconnaissance de l'appartenance à un certain groupe social ou de l'identification d'une caractéristique d'un tel groupe.
+
+Pour que la qualité de réfugié soit reconnue, il doit exister un lien entre l'un des motifs de persécution et les actes de persécution ou l'absence de protection contre de tels actes.
+
+Lorsque l'autorité compétente évalue si un demandeur craint avec raison d'être persécuté, il est indifférent que celui-ci possède effectivement les caractéristiques liées au motif de persécution ou que ces caractéristiques lui soient seulement attribuées par l'auteur des persécutions.
+
+
+#### Article L711-3
+
+Le statut de réfugié n'est pas accordé à une personne qui relève de l'une des clauses d'exclusion prévues aux sections D, E ou F de l'article 1er de la convention de Genève, du 28 juillet 1951, précitée.
+
+La même section F s'applique également aux personnes qui sont les instigatrices ou les complices des crimes ou des agissements mentionnés à ladite section ou qui y sont personnellement impliquées.
+
+
+#### Article L711-4
+
+L'Office français de protection des réfugiés et apatrides peut mettre fin, de sa propre initiative ou à la demande de l'autorité administrative, au statut de réfugié lorsque la personne concernée relève de l'une des clauses de cessation prévues à la section C de l'article 1er de la convention de Genève, du 28 juillet 1951, précitée. Pour l'application des 5 et 6 de la même section C, le changement dans les circonstances ayant justifié la reconnaissance de la qualité de réfugié doit être suffisamment significatif et durable pour que les craintes du réfugié d'être persécuté ne puissent plus être considérées comme fondées.
+
+L'office peut également mettre fin à tout moment, de sa propre initiative ou à la demande de l'autorité administrative, au statut de réfugié lorsque :
+
+1. Le réfugié aurait dû être exclu du statut de réfugié en application des sections D, E ou F de l'article 1er de la convention de Genève, du 28 juillet 1951, précitée ;
+
+2. La décision de reconnaissance de la qualité de réfugié a résulté d'une fraude ;
+
+3. Le réfugié doit, compte tenu de circonstances intervenues après la reconnaissance de cette qualité, en être exclu en application des sections D, E ou F de l'article 1er de la convention de Genève, du 28 juillet 1951, précitée.
+
+
+#### Article L711-5
+
+Dans les cas prévus aux 1° et 2° de l'article [L. 711-4](#article-l711-4), lorsque la reconnaissance de la qualité de réfugié résulte d'une décision de la Cour nationale du droit d'asile ou du Conseil d'Etat, la juridiction peut être saisie par l'office ou par le ministre chargé de l'asile en vue de mettre fin au statut de réfugié. Les modalités de cette procédure sont fixées par décret en Conseil d'Etat.
+
+
+#### Article L711-6
+
+Le statut de réfugié peut être refusé ou il peut être mis fin à ce statut lorsque :
+
+1. Il y a des raisons sérieuses de considérer que la présence en France de la personne concernée constitue une menace grave pour la sûreté de l'Etat ;
+
+2. La personne concernée a été condamnée en dernier ressort en France soit pour un crime, soit pour un délit constituant un acte de terrorisme ou puni de dix ans d'emprisonnement, et sa présence constitue une menace grave pour la société.
 
 
 #### Chapitre II : La protection subsidiaire
 
 #### Article L712-1
 
-Sous réserve des dispositions de l'article [L. 712-2](#article-l712-2), le bénéfice de la protection subsidiaire est accordé à toute personne qui ne remplit pas les conditions pour se voir reconnaître la qualité de réfugié mentionnées à l'article [L. 711-1](#article-l711-1) et qui établit qu'elle est exposée dans son pays à l'une des menaces graves suivantes :
+Le bénéfice de la protection subsidiaire est accordé à toute personne qui ne remplit pas les conditions pour se voir reconnaître la qualité de réfugié et pour laquelle il existe des motifs sérieux et avérés de croire qu'elle courrait dans son pays un risque réel de subir l'une des atteintes graves suivantes :
 
-a) La peine de mort ;
+a) La peine de mort ou une exécution ;
 
 b) La torture ou des peines ou traitements inhumains ou dégradants ;
 
-c) S'agissant d'un civil, une menace grave, directe et individuelle contre sa vie ou sa personne en raison d'une violence généralisée résultant d'une situation de conflit armé interne ou international.
+c) S'agissant d'un civil, une menace grave et individuelle contre sa vie ou sa personne en raison d'une violence qui peut s'étendre à des personnes sans considération de leur situation personnelle et résultant d'une situation de conflit armé interne ou international.
 
 
 #### Article L712-2
@@ -2835,37 +2935,71 @@ La protection subsidiaire n'est pas accordée à une personne s'il existe des ra
 
 a) Qu'elle a commis un crime contre la paix, un crime de guerre ou un crime contre l'humanité ;
 
-b) Qu'elle a commis un crime grave de droit commun ;
+b) Qu'elle a commis un crime grave ;
 
 c) Qu'elle s'est rendue coupable d'agissements contraires aux buts et aux principes des Nations unies ;
 
 d) Que son activité sur le territoire constitue une menace grave pour l'ordre public, la sécurité publique ou la sûreté de l'Etat.
 
+Les a à c s'appliquent aux personnes qui sont les instigatrices, les auteurs ou les complices des crimes ou des agissements mentionnés à ces mêmes a à c ou qui y sont personnellement impliquées.
+
+La protection subsidiaire peut être refusée à une personne s'il existe des raisons sérieuses de penser, d'une part, qu'elle a commis, avant son entrée en France, un ou plusieurs crimes qui ne relèvent pas du champ d'application des a à d et qui seraient passibles d'une peine de prison s'ils avaient été commis en France et, d'autre part, qu'elle n'a quitté son pays d'origine que dans le but d'échapper à des sanctions résultant de ces crimes.
+
 
 #### Article L712-3
 
-Le bénéfice de la protection subsidiaire est accordé pour une période d'un an renouvelable. Le renouvellement peut être refusé à chaque échéance lorsque les circonstances ayant justifié l'octroi de la protection ont cessé d'exister ou ont connu un changement suffisamment profond pour que celle-ci ne soit plus requise.
+L'Office français de protection des réfugiés et apatrides peut mettre fin, de sa propre initiative ou à la demande de l'autorité administrative, au bénéfice de la protection subsidiaire lorsque les circonstances ayant justifié l'octroi de cette protection ont cessé d'exister ou ont connu un changement suffisamment significatif et durable pour que celle-ci ne soit plus requise.
 
-Il peut être mis fin à tout moment au bénéfice de la protection subsidiaire pour les motifs énumérés aux a, b, c et d de l'article [L. 712-2](#article-l712-2).
+Par dérogation au premier alinéa, la protection subsidiaire est maintenue lorsque son bénéficiaire justifie de raisons impérieuses tenant à des atteintes graves antérieures pour refuser de se réclamer de la protection de son pays.
+
+L'office peut également mettre fin à tout moment, de sa propre initiative ou à la demande de l'autorité administrative, au bénéfice de la protection subsidiaire lorsque :
+
+1. Son bénéficiaire aurait dû être exclu de cette protection pour l'un des motifs prévus à l'article [L. 712-2](#article-l712-2) ;
+
+2. La décision d'octroi de cette protection a résulté d'une fraude ;
+
+3. Son bénéficiaire doit, à raison de faits commis après l'octroi de la protection, en être exclu pour l'un des motifs prévus au même article [L. 712-2](#article-l712-2).
+
+
+#### Article L712-4
+
+Dans les cas prévus aux 1° et 2° de l'article [L. 712-3](#article-l712-3), lorsque l'octroi de la protection subsidiaire résulte d'une décision de la Cour nationale du droit d'asile ou du Conseil d'Etat, la juridiction peut être saisie par l'office ou par le ministre chargé de l'asile en vue de mettre fin à la protection subsidiaire. Les modalités de cette procédure sont fixées par décret en Conseil d'Etat.
 
 
 #### Chapitre III : Dispositions communes
 
 #### Article L713-1
 
-La qualité de réfugié est reconnue et le bénéfice de la protection subsidiaire est accordé par l'Office français de protection des réfugiés et apatrides dans les conditions prévues au chapitre III du titre II du présent livre.
+La qualité de réfugié est reconnue et le bénéfice de la protection subsidiaire est accordé par l'Office français de protection des réfugiés et apatrides dans les conditions prévues au chapitre III du titre II du présent livre. Ils peuvent également l'être par la Cour nationale du droit d'asile dans les conditions prévues au chapitre III du titre III du présent livre.
 
 
 #### Article L713-2
 
-Les persécutions prises en compte dans l'octroi de la qualité de réfugié et les menaces graves pouvant donner lieu au bénéfice de la protection subsidiaire peuvent être le fait des autorités de l'Etat, de partis ou d'organisations qui contrôlent l'Etat ou une partie substantielle du territoire de l'Etat, ou d'acteurs non étatiques dans les cas où les autorités définies à l'alinéa suivant refusent ou ne sont pas en mesure d'offrir une protection.
+Les persécutions ou menaces de persécutions prises en compte dans la reconnaissance de la qualité de réfugié et les atteintes graves ou menaces d'atteintes graves pouvant donner lieu au bénéfice de la protection subsidiaire peuvent être le fait des autorités de l'Etat, de partis ou d'organisations qui contrôlent l'Etat ou une partie substantielle du territoire de l'Etat, ou d'acteurs non étatiques dans les cas où les autorités définies à l'alinéa suivant refusent ou ne sont pas en mesure d'offrir une protection.
 
-Les autorités susceptibles d'offrir une protection peuvent être les autorités de l'Etat et des organisations internationales et régionales.
+Les autorités susceptibles d'offrir une protection peuvent être les autorités de l'Etat ou des partis ou organisations, y compris des organisations internationales, qui contrôlent l'Etat ou une partie importante du territoire de celui-ci. Cette protection doit être effective et non temporaire.
+
+Une telle protection est en principe assurée lorsque les autorités mentionnées au deuxième alinéa prennent des mesures appropriées pour empêcher les persécutions ou les atteintes graves, en particulier lorsqu'elles disposent d'un système judiciaire effectif permettant de déceler, de poursuivre et de sanctionner les actes constituant de telles persécutions ou de telles atteintes, et lorsque le demandeur a accès à cette protection.
 
 
 #### Article L713-3
 
-Peut être rejetée la demande d'asile d'une personne qui aurait accès à une protection sur une partie du territoire de son pays d'origine si cette personne n'a aucune raison de craindre d'y être persécutée ou d'y être exposée à une atteinte grave et s'il est raisonnable d'estimer qu'elle peut rester dans cette partie du pays. Il est tenu compte des conditions générales prévalant dans cette partie du territoire, de la situation personnelle du demandeur ainsi que de l'auteur de la persécution au moment où il est statué sur la demande d'asile.
+Peut être rejetée la demande d'asile d'une personne qui aurait accès à une protection sur une partie du territoire de son pays d'origine si cette personne n'a aucune raison de craindre d'y être persécutée ou d'y être exposée à une atteinte grave, si elle peut, légalement et en toute sécurité, se rendre vers cette partie du territoire et si l'on peut raisonnablement s'attendre à ce qu'elle s'y établisse. Il est tenu compte des conditions générales prévalant dans cette partie du territoire, de la situation personnelle du demandeur ainsi que de l'auteur de la persécution au moment où il est statué sur la demande d'asile.
+
+
+#### Article L713-4
+
+Les craintes de persécutions prises en compte dans la reconnaissance de la qualité de réfugié et le risque réel de subir des atteintes graves pouvant donner lieu au bénéfice de la protection subsidiaire peuvent être fondés sur des événements survenus après que le demandeur d'asile a quitté son pays d'origine ou à raison d'activités qu'il a exercées après son départ du pays, notamment s'il est établi que les activités invoquées constituent l'expression et la prolongation de convictions ou d'orientations affichées dans son pays.
+
+
+#### Article L713-5
+
+L'autorité judiciaire communique au directeur général de l'Office français de protection des réfugiés et apatrides et au président de la Cour nationale du droit d'asile, sur demande ou d'office, tout élément recueilli au cours d'une instance civile ou d'une information criminelle ou correctionnelle, y compris lorsque celle-ci s'est terminée par un non-lieu, de nature à faire suspecter qu'une personne qui demande l'asile ou le statut d'apatride ou qui s'est vu reconnaître le statut de réfugié, le bénéfice de la protection subsidiaire ou le statut d'apatride relève de l'une des clauses d'exclusion mentionnées aux articles [L. 711-3](#article-l711-3) et [L. 712-2](#article-l712-2) du présent code ou à l'article 1er de la convention de New York, du 28 septembre 1954, relative au statut des apatrides.
+
+
+#### Article L713-6
+
+L'autorité judiciaire communique au directeur général de l'Office français de protection des réfugiés et apatrides et au président de la Cour nationale du droit d'asile, sur demande ou d'office, tout élément recueilli au cours d'une instance civile ou d'une information criminelle ou correctionnelle, y compris lorsque celle-ci s'est terminée par un non-lieu, de nature à faire suspecter le caractère frauduleux d'une demande d'asile ou du statut d'apatride.
 
 
 ### TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES
@@ -2881,22 +3015,29 @@ L'Office français de protection des réfugiés et apatrides, placé auprès du 
 
 L'office reconnaît la qualité de réfugié ou accorde le bénéfice de la protection subsidiaire aux personnes remplissant les conditions mentionnées au titre Ier du présent livre.
 
-Il exerce la protection juridique et administrative des réfugiés et apatrides ainsi que celle des bénéficiaires de la protection subsidiaire.
+Il exerce la protection juridique et administrative des réfugiés ainsi que celle des bénéficiaires de la protection subsidiaire.
 
-Il assure, en liaison avec les autorités administratives compétentes, le respect des garanties fondamentales offertes par le droit national, l'exécution des conventions, accords ou arrangements internationaux intéressant la protection des réfugiés sur le territoire de la République, et notamment la protection prévue par la convention de Genève du 28 juillet 1951 et par le protocole de New York du 31 janvier 1967 relatifs au statut des réfugiés.
+L'office exerce en toute impartialité les missions mentionnées ci-dessus et ne reçoit, dans leur accomplissement, aucune instruction.
+
+L'anonymat des agents de l'office chargés de l'instruction des demandes d'asile et de l'entretien personnel mené avec les demandeurs est assuré.
+
+L'office assure, en liaison avec les autorités administratives compétentes, le respect des garanties fondamentales offertes par le droit national, l'exécution des conventions, accords ou arrangements internationaux intéressant la protection des réfugiés sur le territoire de la République, et notamment la protection prévue par la convention de Genève du 28 juillet 1951 et par le protocole de New York du 31 janvier 1967 relatifs au statut des réfugiés.
 
 Il coopère avec le haut-commissaire des Nations unies pour les réfugiés et facilite sa mission de surveillance dans les conditions prévues par les accords internationaux.
 
 
 #### Article L721-3
 
-L'office est habilité à délivrer, après enquête s'il y a lieu, aux réfugiés et apatrides les pièces nécessaires pour leur permettre soit d'exécuter les divers actes de la vie civile, soit de faire appliquer les dispositions de la législation interne ou des accords internationaux qui intéressent leur protection, notamment les pièces tenant lieu d'actes d'état civil.
-
-L'office est habilité à délivrer dans les mêmes conditions les mêmes pièces aux bénéficiaires de la protection subsidiaire lorsque ceux-ci sont dans l'impossibilité de les obtenir des autorités de leur pays.
+L'office est habilité à délivrer, après enquête s'il y a lieu, aux réfugiés et bénéficiaires de la protection subsidiaire les pièces nécessaires pour leur permettre soit d'exécuter les divers actes de la vie civile, soit de faire appliquer les dispositions de la législation interne ou des accords internationaux qui intéressent leur protection, notamment les pièces tenant lieu d'actes d'état civil.
 
 Le directeur général de l'office authentifie les actes et documents qui lui sont soumis. Les actes et documents qu'il établit ont la valeur d'actes authentiques.
 
-Ces diverses pièces suppléent à l'absence d'actes et de documents délivrés dans le pays d'origine. Les pièces délivrées par l'office ne sont pas soumises à l'enregistrement ni au droit de timbre ; elles sont passibles de droits de chancellerie dont le produit est versé au budget général.
+Ces diverses pièces suppléent à l'absence d'actes et de documents délivrés dans le pays d'origine. Les pièces délivrées par l'office ne sont pas soumises à l'enregistrement ni au droit de timbre.
+
+
+#### Article L721-4
+
+L'office établit chaque année un rapport retraçant son activité, fournissant des données quantitatives et qualitatives présentées par sexe sur la demande d'asile et l'apatridie et présentant les actions de formation délivrées aux agents, notamment en matière de persécutions en raison du sexe et de prise en compte de la vulnérabilité des demandeurs d'asile. Ce rapport est transmis au Parlement et rendu public.
 
 
 #### Chapitre II : Organisation
@@ -2921,6 +3062,8 @@ L'office est géré par un directeur général nommé par décret, sur propositi
 
 Tous les membres du personnel de l'office sont tenus au secret professionnel en ce qui concerne les renseignements qu'ils auront reçus dans l'exercice de leurs fonctions.
 
+Toutefois, conformément au second alinéa de l'article 40 du code de procédure pénale, le directeur général de l'office transmet au procureur de la République tout renseignement utile ayant conduit au rejet d'une demande d'asile ou d'apatridie motivé par l'une des clauses d'exclusion définies à la section F de l'article 1er de la convention de Genève, du 28 juillet 1951, relative au statut des réfugiés, aux a, b et c de l'article [L. 712-2](#article-l712-2) du présent code ou au iii du 2 de l'article 1er de la convention de New York, du 28 septembre 1954, relative au statut des apatrides.
+
 
 #### Article L722-4
 
@@ -2936,6 +3079,133 @@ Les dépenses de l'office sont couvertes par une subvention de l'Etat.
 
 #### Chapitre III : Examen des demandes d'asile
 
+##### Section 1 : Garanties procédurales et obligations du demandeur
+
+##### Article L723-3
+
+Pendant toute la durée de la procédure d'examen de la demande, l'office peut définir les modalités particulières d'examen qu'il estime nécessaires pour l'exercice des droits d'un demandeur en raison de sa situation particulière ou de sa vulnérabilité.
+
+Pour l'application du premier alinéa du présent article, l'office tient compte des informations sur la vulnérabilité qui lui sont transmises en application de l'article [L. 744-6](#article-l744-6) et des éléments de vulnérabilité dont il peut seul avoir connaissance au vu de la demande ou des déclarations de l'intéressé.
+
+L'office peut statuer par priorité sur les demandes manifestement fondées ainsi que sur les demandes présentées par des personnes vulnérables identifiées comme ayant des besoins particuliers en matière d'accueil en application de l'article [L. 744-6](#article-l744-6) ou comme nécessitant des modalités particulières d'examen.
+
+Lorsque l'office considère que le demandeur d'asile, en raison notamment des violences graves dont il a été victime ou de sa minorité, nécessite des garanties procédurales particulières qui ne sont pas compatibles avec l'examen de sa demande en procédure accélérée en application de l'article [L. 723-2](#article-l723-2), il peut décider de ne pas statuer ainsi.
+
+
+##### Article L723-4
+
+L'office se prononce, au terme d'une instruction unique, sur la reconnaissance de la qualité de réfugié ou sur l'octroi de la protection subsidiaire.
+
+Il appartient au demandeur de présenter, aussi rapidement que possible, tous les éléments nécessaires pour étayer sa demande d'asile. Ces éléments correspondent à ses déclarations et à tous les documents dont il dispose concernant son âge, son histoire personnelle, y compris celle de sa famille, son identité, sa ou ses nationalités, ses titres de voyage, les pays ainsi que les lieux où il a résidé auparavant, ses demandes d'asile antérieures, son itinéraire ainsi que les raisons justifiant sa demande.
+
+Il appartient à l'office d'évaluer, en coopération avec le demandeur, les éléments pertinents de la demande.
+
+L'office peut effectuer des missions déconcentrées dans les territoires.
+
+L'office statue sur la demande en tenant compte de la situation prévalant dans le pays d'origine à la date de sa décision, de la situation personnelle et des déclarations du demandeur, des éléments de preuve et d'information qu'il a présentés ainsi que, le cas échéant, des activités qu'il a exercées depuis le départ de son pays d'origine et qui seraient susceptibles de l'exposer dans ce pays à des persécutions ou à des atteintes graves. L'office tient compte également, le cas échéant, du fait que le demandeur peut se prévaloir de la protection d'un autre pays dont il est en droit de revendiquer la nationalité.
+
+Le fait que le demandeur a déjà fait l'objet de persécutions ou d'atteintes graves ou de menaces directes de telles persécutions ou atteintes constitue un indice sérieux du caractère fondé des craintes du demandeur d'être persécuté ou du risque réel de subir des atteintes graves, sauf s'il existe des éléments précis et circonstanciés qui permettent de penser que ces persécutions ou ces atteintes graves ne se reproduiront pas.
+
+Lorsqu'une partie de ses déclarations n'est pas étayée par des éléments de preuve, il n'est pas exigé du demandeur d'autres éléments de justification s'il s'est conformé aux exigences prévues au deuxième alinéa et si ses déclarations sont considérées comme cohérentes et crédibles et ne sont pas contredites par des informations dont dispose l'office.
+
+
+##### Article L723-5
+
+L'office statue sur le renouvellement de la protection subsidiaire au terme de la période d'un an pour laquelle il l'a accordée. Procédant à son initiative ou à la demande de l'autorité administrative à un réexamen, il peut mettre fin à tout moment au bénéfice de cette protection dans le cas prévu au second alinéa de l'article [L. 712-3](#article-l712-3).
+
+
+##### Article L723-6
+
+L'office convoque le demandeur à un entretien personnel. Il peut s'en dispenser s'il apparaît que :
+
+1. L'office s'apprête à prendre une décision reconnaissant la qualité de réfugié à partir des éléments en sa possession ;
+
+2. Des raisons médicales, durables et indépendantes de la volonté de l'intéressé interdisent de procéder à l'entretien.
+
+Chaque demandeur majeur est entendu individuellement, hors de la présence des membres de sa famille. L'office peut entendre individuellement un demandeur mineur, dans les mêmes conditions, s'il estime raisonnable de penser qu'il aurait pu subir des persécutions ou des atteintes graves dont les membres de la famille n'auraient pas connaissance.
+
+L'office peut procéder à un entretien complémentaire en présence des membres de la famille s'il l'estime nécessaire à l'examen approprié de la demande.
+
+Le demandeur se présente à l'entretien et répond personnellement aux questions qui lui sont posées par l'agent de l'office. Il est entendu dans la langue de son choix, sauf s'il existe une autre langue dont il a une connaissance suffisante.
+
+Si le demandeur en fait la demande et si cette dernière apparaît manifestement fondée par la difficulté pour le demandeur d'exposer l'ensemble des motifs de sa demande d'asile, notamment ceux liés à des violences à caractère sexuel, l'entretien est mené, dans la mesure du possible, par un agent de l'office du sexe de son choix et en présence d'un interprète du sexe de son choix.
+
+Le demandeur peut se présenter à l'entretien accompagné soit d'un avocat, soit d'un représentant d'une association de défense des droits de l'homme, d'une association de défense des droits des étrangers ou des demandeurs d'asile, d'une association de défense des droits des femmes ou des enfants ou d'une association de lutte contre les persécutions fondées sur le sexe ou l'orientation sexuelle. Les conditions d'habilitation des associations et les modalités d'agrément de leurs représentants par l'office sont fixées par décret en Conseil d'Etat ; peuvent seules être habilitées les associations indépendantes à l'égard des autorités des pays d'origine des demandeurs d'asile et apportant une aide à tous les demandeurs. L'avocat ou le représentant de l'association ne peut intervenir qu'à l'issue de l'entretien pour formuler des observations.
+
+L'absence d'un avocat ou d'un représentant d'une association n'empêche pas l'office de mener un entretien avec le demandeur.
+
+Sans préjudice de l'article L. 723-13, l'absence sans motif légitime du demandeur, dûment convoqué à un entretien, ne fait pas obstacle à ce que l'office statue sur sa demande.
+
+Sans préjudice des nécessités tenant aux besoins d'une action contentieuse, la personne qui accompagne le demandeur à un entretien ne peut en divulguer le contenu.
+
+Les modalités d'organisation de l'entretien sont définies par le directeur général de l'office.
+
+Un décret en Conseil d'Etat fixe les cas et les conditions dans lesquels l'entretien peut se dérouler par un moyen de communication audiovisuelle pour des raisons tenant à l'éloignement géographique ou à la situation particulière du demandeur.
+
+
+##### Article L723-7
+
+I.-L'entretien personnel mené avec le demandeur, ainsi que les observations formulées, font l'objet d'une transcription versée au dossier de l'intéressé.
+
+La transcription est communiquée, à leur demande, à l'intéressé ou à son avocat ou au représentant de l'association avant qu'une décision soit prise sur la demande.
+
+Dans le cas où il est fait application de la procédure accélérée prévue à l'article [L. 723-2](#article-l723-2), cette communication peut être faite lors de la notification de la décision.
+
+II.-Par dérogation au titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal, lorsque l'entretien personnel mené avec le demandeur a fait l'objet d'une transcription et d'un enregistrement sonore, le demandeur ne peut avoir accès à cet enregistrement, dans des conditions sécurisées définies par arrêté du ministre chargé de l'asile, qu'après la notification de la décision négative de l'office sur la demande d'asile et pour les besoins de l'exercice d'un recours contre cette décision. Cet accès peut être obtenu auprès de l'office ou, en cas de recours, auprès de la Cour nationale du droit d'asile. Dans le cas d'un recours exercé en application de l'article [L. 213-9](#article-l213-9), cet accès peut également être rendu possible auprès du tribunal administratif.
+
+Le fait, pour toute personne, de diffuser l'enregistrement sonore réalisé par l'office d'un entretien personnel mené avec un demandeur d'asile est puni d'un an d'emprisonnement et de 15 000 € d'amende.
+
+III.-Les modalités de transcription de l'entretien personnel prévu au I, ainsi que les cas dans lesquels cet entretien fait l'objet d'un enregistrement sonore ou est suivi d'un recueil de commentaires, sont fixés par décret en Conseil d'Etat.
+
+
+##### Article L723-8
+
+L'office notifie par écrit sa décision au demandeur d'asile. Toute décision de rejet est motivée en fait et en droit et précise les voies et délais de recours.
+
+Aucune décision ne peut naître du silence gardé par l'office.
+
+
+##### Article L723-9
+
+A la demande de l'autorité administrative, le directeur général de l'office communique à des agents habilités des documents d'état civil ou de voyage permettant d'établir la nationalité de la personne dont la demande d'asile a été rejetée ou, à défaut, une copie de ces documents, à la condition que cette communication s'avère nécessaire à la mise en oeuvre d'une mesure d'éloignement et qu'elle ne porte pas atteinte à la sécurité de cette personne ou de ses proches. Les modalités de désignation et d'habilitation de ces agents sont fixées par décret en Conseil d'Etat.
+
+
+##### Article L723-10
+
+La collecte par l'office d'informations nécessaires à l'examen d'une demande d'asile ne doit pas avoir pour effet de divulguer aux auteurs présumés de persécutions ou d'atteintes graves l'existence de cette demande d'asile ou d'informations la concernant.
+
+Sans préjudice des dispositions de l'article [L. 733-4](#article-l733-4), ne sont pas communicables par l'office les informations versées au dossier du demandeur ou relatives à leurs sources dont la divulgation porterait atteinte à la sécurité des personnes physiques ou morales ayant fourni ces informations ou à celle des personnes auxquelles elles se rapportent ou serait préjudiciable à la collecte d'informations nécessaires à l'examen d'une demande d'asile.
+
+
+##### Section 2 : Demandes irrecevables
+
+##### Section 3 : Retrait d'une demande et clôture d'examen d'une demande
+
+##### Section 4 : Demandes de réexamen
+
+##### Article L723-15
+
+Constitue une demande de réexamen une demande d'asile présentée après qu'une décision définitive a été prise sur une demande antérieure, y compris lorsque le demandeur avait explicitement retiré sa demande antérieure, lorsque l'office a pris une décision définitive de clôture en application de l'article L. 723-13 ou lorsque le demandeur a quitté le territoire, même pour rejoindre son pays d'origine. Ces dispositions s'appliquent sans préjudice du règlement (UE) n° 604/2013 du Parlement européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de détermination de l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des Etats membres par un ressortissant de pays tiers ou un apatride.
+
+Si des éléments nouveaux sont présentés par le demandeur d'asile alors que la procédure concernant sa demande est en cours, ils sont examinés, dans le cadre de cette procédure, par l'office si celui-ci n'a pas encore statué ou par la Cour nationale du droit d'asile si celle-ci est saisie.
+
+
+##### Article L723-16
+
+A l'appui de sa demande de réexamen, le demandeur indique par écrit les faits et produit tout élément susceptible de justifier un nouvel examen de sa demande d'asile.
+
+L'office procède à un examen préliminaire des faits ou des éléments nouveaux présentés par le demandeur intervenus après la décision définitive prise sur une demande antérieure ou dont il est avéré qu'il n'a pu en avoir connaissance qu'après cette décision.
+
+Lors de l'examen préliminaire, l'office peut ne pas procéder à un entretien.
+
+Lorsque, à la suite de cet examen préliminaire, l'office conclut que ces faits ou éléments nouveaux n'augmentent pas de manière significative la probabilité que le demandeur justifie des conditions requises pour prétendre à une protection, il peut prendre une décision d'irrecevabilité.
+
+
+##### Article L723-17
+
+Les conditions et les délais d'instruction des demandes d'asile dont l'office est saisi sont fixés par décret en Conseil d'Etat.
+
+
 #### Article L723-1
 
 L'office statue sur les demandes d'asile dont il est saisi. Il n'est toutefois pas compétent pour connaître d'une demande présentée par une personne à laquelle l'admission au séjour a été refusée pour le motif prévu au 1° de l'article [L. 741-4](#article-l741-4).
@@ -2948,16 +3218,23 @@ L'office statue par priorité sur les demandes émanant de personnes auxquelles 
 L'office se prononce sur la reconnaissance de la qualité de réfugié ou l'octroi de la protection subsidiaire au terme d'une instruction unique au cours de laquelle le demandeur d'asile est mis en mesure de présenter les éléments à l'appui de sa demande.
 
 
-#### Article L723-3-1
+#### Chapitre IV : Fin de la protection
 
-L'office notifie par écrit sa décision au demandeur d'asile. Toute décision de rejet est motivée en fait et en droit et précise les voies et délais de recours.
+#### Article L724-1
 
-Aucune décision ne peut naître du silence gardé par l'office.
+Lorsque l'Office français de protection des réfugiés et apatrides envisage de mettre fin au statut de réfugié en application des articles [L. 711-4](#article-l711-4) ou [L. 711-6](#article-l711-6) ou au bénéfice de la protection subsidiaire en application de l'article [L. 712-3](#article-l712-3), il en informe par écrit la personne concernée, ainsi que des motifs de l'engagement de cette procédure.
 
 
-#### Article L723-4
+#### Article L724-2
 
-A la demande de l'autorité administrative, le directeur général de l'office communique à des agents habilités des documents d'état civil ou de voyage permettant d'établir la nationalité de la personne dont la demande d'asile a été rejetée ou, à défaut, une copie de ces documents, à la condition que cette communication s'avère nécessaire à la mise en oeuvre d'une mesure d'éloignement et qu'elle ne porte pas atteinte à la sécurité de cette personne ou de ses proches.
+La personne concernée est mise à même de présenter par écrit ses observations sur les motifs de nature à faire obstacle à la fin du statut de réfugié ou du bénéfice de la protection subsidiaire.
+
+Si l'office estime toutefois nécessaire de procéder à un entretien personnel, celui-ci se déroule dans les conditions prévues à l'article [L. 723-6](#article-l723-6).
+
+
+#### Article L724-3
+
+La décision de l'Office français de protection des réfugiés et apatrides mettant fin au statut de réfugié ou au bénéfice de la protection subsidiaire est notifiée par écrit à la personne concernée. Elle est motivée en fait et en droit et précise les voies et délais de recours.
 
 
 ### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE
@@ -2971,23 +3248,26 @@ La Cour nationale du droit d'asile est une juridiction administrative, placée s
 
 #### Article L731-2
 
-La Cour nationale du droit d'asile statue sur les recours formés contre les décisions de l'Office français de protection des réfugiés et apatrides, prises en application des articles [L. 711-1](#article-l711-1), [L. 712-1](#article-l712-1) à [L. 712-3](#article-l712-3) et [L. 723-1](#article-l723-1) à L. 723-3. A peine d'irrecevabilité, ces recours doivent être exercés dans le délai d'un mois à compter de la notification de la décision de l'office.
+La Cour nationale du droit d'asile statue sur les recours formés contre les décisions de l'Office français de protection des réfugiés et apatrides prises en application des articles [L. 711-1](#article-l711-1) à [L. 711-4](#article-l711-4), [L. 712-1](#article-l712-1) à [L. 712-3](#article-l712-3), [L. 713-1](#article-l713-1) à [L. 713-4](#article-l713-4), [L. 723-1](#article-l723-1) à [L. 723-8](#article-l723-8), L. 723-11, [L. 723-15](#article-l723-15) et [L. 723-16](#article-l723-16). A peine d'irrecevabilité, ces recours doivent être exercés dans le délai d'un mois à compter de la notification de la décision de l'office, dans des conditions fixées par décret en Conseil d'Etat.
 
-Le bénéfice de l'aide juridictionnelle peut être demandé au plus tard dans le délai d'un mois à compter de la réception par le requérant de l'avis de réception de son recours, lequel l'informe dans une langue dont il est raisonnable de supposer qu'il la comprend des modalités de cette demande.
-
-Le bénéfice de l'aide juridictionnelle ne peut pas être demandé dans le cadre d'un recours dirigé contre une décision de l'Office français de protection des réfugiés et apatrides rejetant une demande de réexamen lorsque le requérant a, à l'occasion d'une précédente demande, été entendu par l'office ainsi que par la Cour nationale du droit d'asile, assisté d'un avocat désigné au titre de l'aide juridictionnelle.
+La Cour nationale du droit d'asile statue en formation collégiale, dans un délai de cinq mois à compter de sa saisine. Toutefois, sans préjudice de l'application de l'article [L. 733-2](#article-l733-2), lorsque la décision de l'office a été prise en application des articles [L. 723-2](#article-l723-2) ou L. 723-11, le président de la Cour nationale du droit d'asile ou le président de formation de jugement qu'il désigne à cette fin statue dans un délai de cinq semaines à compter de sa saisine. De sa propre initiative ou à la demande du requérant, le président de la cour ou le président de formation de jugement désigné à cette fin peut, à tout moment de la procédure, renvoyer à la formation collégiale la demande s'il estime que celle-ci ne relève pas de l'un des cas prévus aux mêmes articles [L. 723-2](#article-l723-2) et L. 723-11 ou qu'elle soulève une difficulté sérieuse. La cour statue alors dans les conditions prévues à la première phrase du présent alinéa.
 
 
 #### Article L731-3
 
-La Cour nationale du droit d'asile examine les requêtes qui lui sont adressées par les réfugiés visés par l'une des mesures prévues par les articles 31, 32 et 33 de la convention de Genève du 28 juillet 1951 relative au statut des réfugiés et formule un avis quant au maintien ou à l'annulation de ces mesures. En cette matière, le recours est suspensif d'exécution. Dans ce cas, le droit au recours doit être exercé dans le délai d'une semaine.
+La Cour nationale du droit d'asile examine les requêtes qui lui sont adressées par les réfugiés visés par l'une des mesures prévues par les articles 31, 32 et 33 de la convention de Genève du 28 juillet 1951 relative au statut des réfugiés et formule un avis quant au maintien ou à l'annulation de ces mesures. En cette matière, le recours est suspensif d'exécution. Dans ce cas, le droit au recours doit être exercé dans le délai d'une semaine dans des conditions fixées par décret en Conseil d'Etat.
+
+
+#### Article L731-4
+
+Le rapport d'activité de la Cour nationale du droit d'asile est rendu public. Il comprend notamment des données quantitatives et qualitatives présentées par sexe et les actions de formation des agents et des membres des formations de jugement, en particulier sur les persécutions en raison du sexe.
 
 
 #### Chapitre II : Organisation
 
 #### Article L732-1
 
-La Cour nationale du droit d'asile comporte des sections comprenant chacune :
+La Cour nationale du droit d'asile comporte des formations de jugement comprenant chacune :
 
 1. Un président nommé :
 
@@ -2997,9 +3277,17 @@ b) Soit par le premier président de la Cour des comptes parmi les magistrats de
 
 c) Soit par le garde des sceaux, ministre de la justice, parmi les magistrats du siège en activité et les magistrats honoraires de l'ordre judiciaire ;
 
-2. Une personnalité qualifiée de nationalité française, nommée par le haut-commissaire des Nations unies pour les réfugiés sur avis conforme du vice-président du Conseil d'Etat ;
+2. Une personnalité qualifiée de nationalité française, nommée par le haut-commissaire des Nations unies pour les réfugiés sur avis conforme du vice-président du Conseil d'Etat, en raison de ses compétences dans les domaines juridique ou géopolitique ;
 
-3. Une personnalité qualifiée nommée par le vice-président du Conseil d'Etat sur proposition de l'un des ministres représentés au conseil d'administration de l'office.
+3. Une personnalité qualifiée de nationalité française, nommée par le vice-président du Conseil d'Etat, en raison de ses compétences dans les domaines juridique ou géopolitique.
+
+Tous les membres des formations de jugement participent à plus de douze journées d'audience par an.
+
+Les formations de jugement sont regroupées en chambres elles-mêmes regroupées en sections. Les nombres des sections et chambres sont fixés par arrêté du vice-président du Conseil d'Etat.
+
+Le président de formation de jugement désigné par le président de la Cour nationale du droit d'asile en application du second alinéa de l'article [L. 731-2](#article-l731-2) est nommé soit parmi les magistrats permanents de la cour, soit parmi les magistrats non permanents ayant au moins six mois d'expérience en formation collégiale à la cour.
+
+La durée du mandat des membres de la Cour nationale du droit d'asile est fixée par décret en Conseil d'Etat.
 
 
 #### Chapitre III : Examen des recours
@@ -3010,12 +3298,21 @@ Les intéressés peuvent présenter leurs explications à la Cour nationale du d
 
 Afin d'assurer une bonne administration de la justice et de faciliter la possibilité ouverte aux intéressés de présenter leurs explications à la cour, le président de cette juridiction peut prévoir que la salle d'audience de la cour est reliée, en direct, par un moyen de communication audiovisuelle qui garantit la confidentialité de la transmission avec une salle d'audience spécialement aménagée à cet effet ouverte au public et située dans des locaux relevant du ministère de la justice plus aisément accessibles par le demandeur, dans des conditions respectant les droits de l'intéressé prévus par le premier alinéa. Une copie de l'intégralité du dossier est mise à sa disposition. Si l'intéressé est assisté d'un conseil, ce dernier est physiquement présent auprès de lui. Ces opérations donnent lieu à l'établissement d'un procès-verbal dans chacune des salles d'audience ou à un enregistrement audiovisuel ou sonore. Le requérant qui, séjournant en France métropolitaine, refuse d'être entendu par un moyen de communication audiovisuelle est convoqué, à sa demande, dans les locaux de la cour.
 
-Un décret en Conseil d'Etat fixe les modalités d'application du deuxième alinéa.
+Aux mêmes fins, le président de cette juridiction peut également prévoir la tenue d'audiences foraines au siège d'une juridiction administrative ou judiciaire, après accord du président de la juridiction concernée.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+
+#### Article L733-1-1
+
+Les débats devant la Cour nationale du droit d'asile ont lieu en audience publique après lecture du rapport par le rapporteur. Toutefois, le huis clos est de droit si le requérant le demande. Le président de la formation de jugement peut également décider que l'audience aura lieu ou se poursuivra hors la présence du public, si les circonstances de l'affaire l'exigent. Il peut également interdire l'accès de la salle d'audience aux mineurs ou à certains d'entre eux.
 
 
 #### Article L733-2
 
-Le président et les présidents de section peuvent, par ordonnance, régler les affaires dont la nature ne justifie pas l'intervention d'une formation collégiale.
+Le président et les présidents de section, de chambre ou de formation de jugement peuvent, par ordonnance, régler les affaires dont la nature ne justifie pas l'intervention de l'une des formations prévues à l'article [L. 731-2](#article-l731-2).
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article. Il précise les conditions dans lesquelles le président et les présidents de section, de chambre ou de formation de jugement peuvent, après instruction, statuer par ordonnance sur les demandes qui ne présentent aucun élément sérieux susceptible de remettre en cause la décision d'irrecevabilité ou de rejet du directeur général de l'office.
 
 
 #### Article L733-3
@@ -3025,9 +3322,31 @@ Avant de statuer sur un recours soulevant une question de droit nouvelle, prése
 Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
 
-### TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE
+#### Article L733-4
 
-#### Chapitre Ier : Admission au séjour.
+La collecte par la Cour nationale du droit d'asile d'informations nécessaires à l'examen d'un recours contre une décision du directeur général de l'Office français de protection des réfugiés et apatrides ne doit pas avoir pour effet de divulguer aux auteurs présumés de persécutions ou d'atteintes graves l'existence de cette demande d'asile ou d'informations la concernant.
+
+Si, devant la cour, l'office s'oppose à la communication au requérant d'informations ou de leurs sources dont la divulgation porterait atteinte à la sécurité des personnes physiques ou morales ayant fourni ces informations ou à celle des personnes physiques ou morales auxquelles ces informations se rapportent, il saisit le président de la cour. L'office expose dans sa demande les motifs qui justifient cette confidentialité.
+
+Si le président ou le magistrat désigné à cette fin estime la demande de l'office justifiée, l'office produit tous les éléments d'information relatifs à la demande d'asile, à l'exclusion de ceux mentionnés au deuxième alinéa du présent article pour lesquels il ne transmet qu'un résumé. L'ensemble de ces éléments est communiqué à la formation de jugement, au rapporteur et au requérant.
+
+Si le président ou le magistrat désigné à cette fin estime que les informations et les sources mentionnées au même deuxième alinéa n'ont pas un caractère confidentiel et si l'office décide de maintenir cette confidentialité, il produit tous les éléments d'information relatifs à la demande d'asile, à l'exclusion de ceux qu'il juge confidentiels pour lesquels il ne transmet qu'un résumé. L'ensemble de ces éléments est communiqué à la formation de jugement, au rapporteur et au requérant.
+
+La cour ne peut fonder sa décision exclusivement sur des informations dont la source est restée confidentielle à l'égard du requérant.
+
+
+#### Article L733-5
+
+Saisie d'un recours contre une décision du directeur général de l'Office français de protection des réfugiés et apatrides, la Cour nationale du droit d'asile statue, en qualité de juge de plein contentieux, sur le droit du requérant à une protection au titre de l'asile au vu des circonstances de fait dont elle a connaissance au moment où elle se prononce.
+
+La cour ne peut annuler une décision du directeur général de l'office et lui renvoyer l'examen de la demande d'asile que lorsqu'elle juge que l'office a pris cette décision sans procéder à un examen individuel de la demande ou en se dispensant, en dehors des cas prévus par la loi, d'un entretien personnel avec le demandeur et qu'elle n'est pas en mesure de prendre immédiatement une décision positive sur la demande de protection au vu des éléments établis devant elle.
+
+Sans préjudice du deuxième alinéa, le requérant ne peut utilement se prévaloir de l'enregistrement sonore de son entretien personnel qu'à l'appui d'une contestation présentée dans le délai de recours et portant sur une erreur de traduction ou un contresens, identifié de façon précise dans la transcription de l'entretien et de nature à exercer une influence déterminante sur l'appréciation du besoin de protection.
+
+
+### TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE
+
+#### Chapitre Ier : Enregistrement de la demande d'asile
 
 #### Article L741-1
 
@@ -3059,12 +3378,7 @@ Sous réserve du respect des stipulations de l'article 33 de la convention de Ge
 Les dispositions du présent article ne font pas obstacle au droit souverain de l'Etat d'accorder l'asile à toute personne qui se trouverait néanmoins dans l'un des cas mentionnés aux 1° à 4°.
 
 
-#### Article L741-5
-
-Le 1° de l'article [L. 741-4](#article-l741-4) n'est pas applicable dans les départements d'outre-mer ni à Saint-Pierre-et-Miquelon, Saint-Barthélemy et Saint-Martin.
-
-
-#### Chapitre II : Durée du maintien sur le territoire français.
+#### Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile
 
 #### Article L742-1
 
@@ -3100,12 +3414,136 @@ En cas de reconnaissance de la qualité de réfugié ou d'octroi de la protectio
 L'étranger présent sur le territoire français dont la demande d'asile entre dans le cas mentionné au 1° de l'article [L. 741-4](#article-l741-4) bénéficie du droit de se maintenir en France jusqu'à son départ volontaire ou son transfert effectif à destination de l'Etat membre responsable de l'examen de sa demande d'asile.
 
 
-#### Article L742-7
+#### Chapitre III : Droit au maintien sur le territoire français
 
-L'étranger auquel la reconnaissance de la qualité de réfugié ou le bénéfice de la protection subsidiaire a été définitivement refusé et qui ne peut être autorisé à demeurer sur le territoire à un autre titre, doit quitter le territoire français, sous peine de faire l'objet d'une mesure d'éloignement prévue au titre Ier du livre V et, le cas échéant, des pénalités prévues au chapitre Ier du titre II du livre VI.
+#### Chapitre IV : Conditions d'accueil des demandeurs d'asile
+
+##### Section 1 : Dispositif national d'accueil
+
+##### Article L744-5
+
+Les lieux d'hébergement mentionnés à l'article L. 744-3 accueillent les demandeurs d'asile pendant la durée d'instruction de leur demande d'asile ou jusqu'à leur transfert effectif vers un autre Etat européen. Cette mission prend fin à l'expiration du délai de recours contre la décision de l'Office français de protection des réfugiés et apatrides ou à la date de la notification de la décision de la Cour nationale du droit d'asile ou à la date du transfert effectif vers un autre Etat, si sa demande relève de la compétence de cet Etat.
+
+Les personnes morales qui assurent la gestion du lieu d'hébergement peuvent exiger le versement d'une caution, dans des conditions définies par arrêté. Le montant de la caution est restitué à la sortie du lieu d'hébergement, déduit le cas échéant des sommes dues par le bénéficiaire au titre de son hébergement.
+
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles les personnes s'étant vu reconnaître la qualité de réfugié ou accorder le bénéfice de la protection subsidiaire et les personnes ayant fait l'objet d'une décision de rejet définitive peuvent être maintenues dans un lieu d'hébergement mentionné au même article L. 744-3 à titre exceptionnel et temporaire.
+
+Lorsque, après une décision de rejet définitive, le délai de maintien dans un lieu d'hébergement mentionné audit article L. 744-3 prend fin, l'autorité administrative compétente peut, après mise en demeure restée infructueuse, demander en justice qu'il soit enjoint à cet occupant sans titre d'évacuer ce lieu.
+
+Le quatrième alinéa du présent article est applicable aux personnes qui ont un comportement violent ou commettent des manquements graves au règlement du lieu d'hébergement.
+
+La demande est portée devant le président du tribunal administratif, qui statue sur le fondement de l'article [L. 521-3](#article-l521-3) du code de justice administrative et dont l'ordonnance est immédiatement exécutoire.
 
 
-### TITRE V : DISPOSITIONS DIVERSES.
+##### Section 2 : Evaluation des besoins
+
+##### Article L744-6
+
+A la suite de la présentation d'une demande d'asile, l'Office français de l'immigration et de l'intégration est chargé de procéder, dans un délai raisonnable et après un entretien personnel avec le demandeur d'asile, à une évaluation de la vulnérabilité de ce dernier afin de déterminer, le cas échéant, ses besoins particuliers en matière d'accueil. Ces besoins particuliers sont également pris en compte s'ils deviennent manifestes à une étape ultérieure de la procédure d'asile. Dans la mise en œuvre des droits des demandeurs d'asile et pendant toute la période d'instruction de leur demande, il est tenu compte de la situation spécifique des personnes vulnérables.
+
+L'évaluation de la vulnérabilité vise, en particulier, à identifier les mineurs, les mineurs non accompagnés, les personnes en situation de handicap, les personnes âgées, les femmes enceintes, les parents isolés accompagnés d'enfants mineurs, les victimes de la traite des êtres humains, les personnes atteintes de maladies graves, les personnes souffrant de troubles mentaux et les personnes qui ont subi des tortures, des viols ou d'autres formes graves de violence psychologique, physique ou sexuelle, telles que des mutilations sexuelles féminines.
+
+L'évaluation de la vulnérabilité du demandeur est effectuée par des agents de l'Office français de l'immigration et de l'intégration ayant reçu une formation spécifique à cette fin.
+
+Lors de l'entretien, le demandeur est informé de sa possibilité de bénéficier de l'examen de santé gratuit prévu à l'article [L. 321-3](#article-l321-3) du code de la sécurité sociale.
+
+Les informations attestant d'une situation particulière de vulnérabilité sont transmises, après accord du demandeur d'asile, par l'Office français de l'immigration et de l'intégration à l'Office français de protection des réfugiés et apatrides. L'évaluation de la vulnérabilité par l'Office français de l'immigration et de l'intégration ne préjuge pas de l'appréciation par l'Office français de protection des réfugiés et apatrides de la vulnérabilité du demandeur en application de l'article [L. 723-3](#article-l723-3) ou du bien-fondé de sa demande.
+
+Ces informations peuvent faire l'objet d'un traitement automatisé, dans les conditions fixées par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Ce décret est pris après avis de la Commission nationale de l'informatique et des libertés en tant qu'il précise les modalités de transmission à l'Office français de protection des réfugiés et apatrides des données relatives à la vulnérabilité et aux besoins particuliers des demandeurs d'asile, la durée de conservation et les conditions de mise à jour des informations enregistrées, les catégories de personnes pouvant y accéder et les modalités d'habilitation de celles-ci, ainsi que, le cas échéant, les conditions dans lesquelles les personnes intéressées peuvent exercer leur droit d'accès.
+
+
+##### Section 3 : Orientation des demandeurs
+
+##### Section 4 : Allocation pour demandeur d'asile
+
+##### Section 5 : Accès au marché du travail
+
+##### Article L744-11
+
+L'accès au marché du travail peut être autorisé au demandeur d'asile lorsque l'Office français de protection des réfugiés et apatrides, pour des raisons qui ne sont pas imputables au demandeur, n'a pas statué sur la demande d'asile dans un délai de neuf mois à compter de l'introduction de la demande. Dans ce cas, le demandeur d'asile est soumis aux règles de droit commun applicables aux travailleurs étrangers pour la délivrance d'une autorisation de travail.
+
+Le demandeur d'asile qui accède au marché du travail, dans les conditions prévues au premier alinéa du présent article, bénéficie des actions de formation professionnelle continue prévues à l'article L. 6313-1 du code du travail.
+
+
+### TITRE V : CONTENU DE LA PROTECTION ACCORDÉE
+
+#### Chapitre Ier : Information et accès aux droits
+
+#### Chapitre II : Réunification familiale et intérêt supérieur de l'enfant
+
+#### Article L752-1
+
+I.-Sauf si sa présence constitue une menace pour l'ordre public, le ressortissant étranger qui s'est vu reconnaître la qualité de réfugié ou qui a obtenu le bénéfice de la protection subsidiaire peut demander à bénéficier de son droit à être rejoint, au titre de la réunification familiale :
+
+1. Par son conjoint ou le partenaire avec lequel il est lié par une union civile, âgé d'au moins dix-huit ans, si le mariage ou l'union civile est antérieur à la date d'introduction de sa demande d'asile ;
+
+2. Par son concubin, âgé d'au moins dix-huit ans, avec lequel il avait, avant la date d'introduction de sa demande d'asile, une vie commune suffisamment stable et continue ;
+
+3. Par les enfants non mariés du couple, âgés au plus de dix-neuf ans.
+
+Si le réfugié ou le bénéficiaire de la protection subsidiaire est un mineur non marié, il peut demander à bénéficier de son droit à être rejoint par ses ascendants directs au premier degré.
+
+L'âge des enfants est apprécié à la date à laquelle la demande de réunification familiale a été introduite.
+
+II.-Les articles [L. 411-2](#article-l411-2) à [L. 411-4](#article-l411-4) et le premier alinéa de l'article [L. 411-7](#article-l411-7) sont applicables.
+
+La réunification familiale n'est pas soumise à des conditions de durée préalable de séjour régulier, de ressources ou de logement.
+
+Les membres de la famille d'un réfugié ou d'un bénéficiaire de la protection subsidiaire sollicitent, pour entrer en France, un visa d'entrée pour un séjour d'une durée supérieure à trois mois auprès des autorités diplomatiques et consulaires, qui statuent sur cette demande dans les meilleurs délais.
+
+Pour l'application du troisième alinéa du présent II, ils produisent les actes de l'état civil justifiant de leur identité et des liens familiaux avec le réfugié ou le bénéficiaire de la protection subsidiaire. En l'absence d'acte de l'état civil ou en cas de doute sur leur authenticité, les éléments de possession d'état définis à l'article 311-1 du code civil et les documents établis ou authentifiés par l'Office français de protection des réfugiés et apatrides, sur le fondement de l'article [L. 721-3](#article-l721-3) du présent code, peuvent permettre de justifier de la situation de famille et de l'identité des demandeurs. Les éléments de possession d'état font foi jusqu'à preuve du contraire. Les documents établis par l'office font foi jusqu'à inscription de faux.
+
+La réunification familiale ne peut être refusée que si le demandeur ne se conforme pas aux principes essentiels qui, conformément aux lois de la République, régissent la vie familiale en France, pays d'accueil.
+
+Est exclu de la réunification familiale un membre de la famille dont la présence en France constituerait une menace pour l'ordre public ou lorsqu'il est établi qu'il est instigateur, auteur ou complice des persécutions et atteintes graves qui ont justifié l'octroi d'une protection au titre de l'asile.
+
+
+#### Article L752-2
+
+Lorsqu'une protection au titre de l'asile est octroyée à un mineur non accompagné, des mesures sont prises dès que possible pour assurer sa représentation légale. Dans toutes les décisions le concernant, notamment en matière de placement et de recherche des membres de sa famille, il est tenu compte de son intérêt supérieur, de ses besoins particuliers ainsi que de son avis, en fonction de son âge et de sa maturité.
+
+Si la recherche des membres de sa famille n'a pas commencé, il y est procédé dès que possible. Dans le cas où la vie ou l'intégrité physique du mineur ou de ses parents proches restés dans le pays d'origine serait menacée, cette recherche est menée de manière confidentielle.
+
+
+#### Article L752-3
+
+Lorsqu'une protection au titre de l'asile a été octroyée à une mineure invoquant un risque de mutilation sexuelle, l'Office français de protection des réfugiés et apatrides, tant que ce risque existe et tant que l'intéressée est mineure, lui demande de se soumettre à un examen médical visant à constater l'absence de mutilation. L'office transmet au procureur de la République tout refus de se soumettre à cet examen ou tout constat de mutilation.
+
+Aucun constat de mutilation sexuelle ne peut entraîner, à lui seul, la cessation de la protection accordée à la mineure au titre de l'asile. Il ne peut être mis fin à ladite protection à la demande des parents ou des titulaires de l'autorité parentale tant que le risque de mutilation sexuelle existe.
+
+L'office doit observer un délai minimal de trois ans entre deux examens, sauf s'il existe des motifs réels et sérieux de penser qu'une mutilation sexuelle a effectivement été pratiquée ou pourrait être pratiquée.
+
+Un arrêté conjoint des ministres chargés de l'asile et de la santé, pris après avis du directeur général de l'office, définit les modalités d'application du présent article et, en particulier, les catégories de médecins qui peuvent pratiquer l'examen mentionné au premier alinéa.
+
+
+#### Chapitre III : Documents de voyage
+
+#### Article L753-1
+
+A moins que des raisons impérieuses de sécurité nationale ou d'ordre public ne s'y opposent, l'étranger titulaire d'un titre de séjour en cours de validité auquel la qualité de réfugié a été reconnue en application de l'article [L. 711-1](#article-l711-1) et qui se trouve toujours sous la protection de l'Office français de protection des réfugiés et apatrides peut se voir délivrer un document de voyage dénommé " titre de voyage pour réfugié " l'autorisant à voyager hors du territoire français. Ce titre permet à son titulaire de demander à se rendre dans tous les Etats, à l'exclusion de celui ou de ceux vis-à-vis desquels ses craintes de persécution ont été reconnues comme fondées en application du même article [L. 711-1](#article-l711-1).
+
+
+#### Article L753-2
+
+A moins que des raisons impérieuses de sécurité nationale ou d'ordre public ne s'y opposent, l'étranger titulaire d'un titre de séjour en cours de validité auquel le bénéfice de la protection subsidiaire a été accordé en application de l'article [L. 712-1](#article-l712-1) qui se trouve toujours sous la protection de l'office peut se voir délivrer un document de voyage dénommé “ titre d'identité et de voyage ” l'autorisant à voyager hors du territoire français. Ce titre permet à son titulaire de demander à se rendre dans tous les Etats, à l'exclusion de celui ou de ceux dans lesquels il est établi qu'il est exposé à l'une des atteintes graves énumérées au même article [L. 712-1](#article-l712-1).
+
+
+#### Article L753-3
+
+A moins que des raisons impérieuses de sécurité nationale ou d'ordre public ne s'y opposent, l'enfant étranger mineur du réfugié ou du bénéficiaire de la protection subsidiaire, présent sur le territoire français, qui ne peut bénéficier d'une protection au titre de l'asile peut se voir délivrer le document de voyage prévu à l'article [L. 753-2](#article-l753-2).
+
+
+#### Article L753-4
+
+Les durées de validité des documents de voyage délivrés aux étrangers en application des articles [L. 753-1](#article-l753-1) et [L. 753-2](#article-l753-2) sont fixées au IV de l'article 953 du code général des impôts.
+
+
+#### Article L753-5
+
+Le document de voyage mentionné aux articles [L. 753-1](#article-l753-1), [L. 753-2](#article-l753-2) ou [L. 753-3](#article-l753-3) peut être retiré ou son renouvellement refusé lorsqu'il apparaît, postérieurement à sa délivrance, que des raisons impérieuses de sécurité nationale ou d'ordre public le justifient.
+
 
 ### Article L751-1
 
@@ -3122,7 +3560,7 @@ Les modalités d'application des dispositions du présent livre sont fixées par
 
 1. Les conditions d'instruction des demandes d'asile dont l'Office français de protection des réfugiés et apatrides est saisi ;
 
-2. L'autorité compétente pour saisir l'office d'une demande de réexamen mentionnée à l'article L. 723-5 ;
+2. L'autorité compétente pour saisir l'office d'une demande de réexamen mentionnée à l'article [L. 723-5](#article-l723-5) ;
 
 3. Les modalités de désignation des représentants de l'Etat et du représentant du personnel au conseil d'administration, ainsi que celles des personnalités qualifiées ;
 
@@ -3143,143 +3581,196 @@ Les modalités d'application des dispositions du présent livre sont fixées par
 11. Les délais dans lesquels l'office doit se prononcer lorsqu'il statue selon la procédure prioritaire prévue au second alinéa de l'article [L. 723-1](#article-l723-1).
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES
+### TITRE VI : DISPOSITIONS RELATIVES AUX  OUTRE-MER
 
-#### Chapitre Ier : Dispositions applicables à Mayotte.
+#### Chapitre Ier : Dispositions applicables à Mayotte
+
+#### Article L761-1
+
+Pour l'application du présent livre à Mayotte :
+
+1. Le 1° du III de l'article [L. 723-2](#article-l723-2) n'est pas applicable ;
+
+2. Au premier alinéa de l'article [L. 741-1](#article-l741-1), les mots : " et procède à la détermination de l'Etat responsable en application du règlement (UE) n° 604/2013 du Parlement européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de détermination de l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des Etats membres par un ressortissant de pays tiers ou un apatride " ne sont pas applicables ;
+
+3. Le chapitre II du titre IV n'est pas applicable ;
+
+4. Le 1° de l'article L. 744-3 n'est pas applicable ;
+
+5. L'article L. 744-9 est ainsi rédigé :
+
+" Art. L. 744-9.-Le demandeur d'asile dont la demande est enregistrée à Mayotte peut bénéficier d'un hébergement dans une structure mentionnée au 2° de l'article L. 744-3 et des aides matérielles. "
+
 
 #### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna
 
 #### Article L762-1
 
-Le présent livre est applicable dans les îles Wallis et Futuna sous réserve des adaptations suivantes :
+Le présent livre est applicable dans les îles Wallis et Futuna dans sa rédaction résultant de la loi n° 2015-925 du 29 juillet 2015 relative à la réforme du droit d'asile et sous réserve des adaptations suivantes :
 
-1. A l'article [L. 741-1](#article-l741-1), les mots : " sur le territoire français " et " en France " sont remplacés par les mots : " dans les îles Wallis et Futuna " ;
+1. Au dernier alinéa de l'article [L. 712-2](#article-l712-2), les mots : " en France " sont remplacés, deux fois, par les mots : " sur le territoire de la République " ;
 
-2. A l'article [L. 741-2](#article-l741-2), les mots : " à l'intérieur du territoire français " sont remplacés par les mots : " dans les îles Wallis et Futuna " ;
+2. A l'article [L. 723-2](#article-l723-2) :
 
-3. A l'article [L. 741-3](#article-l741-3), les mots : " visas mentionnés à l'article [L. 211-1](#article-l211-1) " sont remplacés par les mots : " visas requis par l'ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna " ;
+a) Au 1° du II, au 2° du III et, deux fois, au 3° du même III, les mots : " en France " sont remplacés par les mots : " dans les îles Wallis et Futuna " ;
 
-4. A l'article [L. 741-4](#article-l741-4) :
+b) Le 1° du III n'est pas applicable ;
 
-a) Dans le premier alinéa, les mots : " en France " sont remplacés par les mots : " dans les îles Wallis et Futuna " ;
+c) Au 5° du III, les mots : " en France " sont remplacés par les mots : " sur le territoire de la République " ;
 
-b) Le 1° n'est pas applicable ;
+3. A l'article [L. 723-3](#article-l723-3) :
 
-c) Au 3°, les mots : " en France " sont remplacés par les mots : " sur le territoire de la République " ;
+a) Au deuxième alinéa, les mots : " des informations sur la vulnérabilité qui lui sont transmises en application de l'article [L. 744-6](#article-l744-6) et " sont supprimés ;
 
-5. A l'article [L. 742-1](#article-l742-1), les mots : " en France " sont remplacés par les mots : " dans les îles Wallis et Futuna " ;
+b) Au troisième alinéa, les mots : " comme ayant des besoins particuliers en matière d'accueil en application du même article [L. 744-6](#article-l744-6) ou " sont supprimés ;
 
-6. A l'article [L. 742-3](#article-l742-3), les mots : " en France " sont remplacés par les mots : " dans les îles Wallis et Futuna " et les mots : " le territoire français " sont remplacés par les mots : " les îles Wallis et Futuna " ;
+4. A l'article [L. 741-1](#article-l741-1) :
 
-7. A l'article [L. 742-6](#article-l742-6) :
+a) Au premier alinéa, les mots : " sur le territoire français " sont remplacés par les mots : " dans les îles Wallis et Futuna " et les mots : " et procède à la détermination de l'Etat responsable en application du règlement (UE) n° 604/2013 du Parlement européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de détermination de l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des Etats membres par un ressortissant de pays tiers ou un apatride " ne sont pas applicables ;
 
-a) Les mots : " sur le territoire français " et " en France " sont remplacés par les mots : " dans les îles Wallis et Futuna " ;
+b) A la fin de la première phrase de l'avant-dernier alinéa, les mots : " mentionnés à l'article [L. 211-1](#article-l211-1) " sont remplacés par les mots : " requis par l'ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna " ;
 
-b) Les mots : " mentionnée au livre V du présent code " sont remplacés par les mots : " prise en application de l'ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna " ;
+5. A l'article [L. 741-3](#article-l741-3) :
 
-c) Après la deuxième phrase, il est inséré une phrase ainsi rédigée :
+a) A la première phrase du premier alinéa, les mots : " sur le territoire français " sont remplacés par les mots : " dans les îles Wallis et Futuna " ;
 
-" Si l'office décide d'entendre le demandeur d'asile hors des îles Wallis et Futuna, celui-ci reçoit les autorisations nécessaires. " ;
+b) Le dernier alinéa est supprimé ;
 
-d) La dernière phrase du deuxième alinéa est ainsi rédigée :
+6. Le chapitre II du titre IV n'est pas applicable ;
 
-" Il délivre sans délai un titre de séjour dans les conditions prévues par l'ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna ou la carte de séjour temporaire prévue par l'article 17 de cette ordonnance. " ;
+7. A la première phrase de l'article L. 743-1, les mots : " sur le territoire français " sont remplacés par les mots : " dans les îles Wallis et Futuna " ;
 
-e) Le dernier alinéa n'est pas applicable ;
+8. Au premier alinéa et à la fin de la seconde phrase du 3° de l'article L. 743-2, les mots : " sur le territoire français " sont remplacés par les mots : " dans les îles Wallis et Futuna " ;
 
-8. A l'article [L. 742-7](#article-l742-7), les mots : " le territoire français " sont remplacés par les mots : " les îles Wallis et Futuna " ;
+9. A l'article L. 743-3, les mots : " sur le territoire français " sont remplacés par les mots : " dans les îles Wallis et Futuna " et la seconde occurrence des mots : " le territoire français " est remplacée par les mots : " les îles Wallis et Futuna " ;
 
-9. A l'article [L. 751-1](#article-l751-1), les mots : " sur le territoire français " sont remplacés par les mots : " dans les îles Wallis et Futuna ".
+10. A l'article L. 743-4, la référence : " des articles L. 556-1 et " est remplacée par les mots : " de l'article " et la référence : " du livre V " est remplacée par la référence : " de l'ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna " ;
+
+11. Le chapitre IV du titre IV n'est pas applicable ;
+
+12. Au premier alinéa de l'article [L. 751-1](#article-l751-1), la référence : " [L. 311-9](#article-l311-9) " est remplacée par la référence : " 6-3 de l'ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna " ;
+
+13. Au II de l'article [L. 752-1](#article-l752-1) :
+
+a) Le premier alinéa est ainsi rédigé :
+
+" Les deux dernières phrases du premier alinéa et le dernier alinéa du I de l'article 42 et l'article 43 de l'ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna sont applicables. " ;
+
+b) Aux deux derniers alinéas, les mots : " en France " sont remplacés par les mots : " dans les îles Wallis et Futuna ".
 
 
 #### Chapitre III : Dispositions applicables en Polynésie française
 
 #### Article L763-1
 
-Le présent livre est applicable en Polynésie française sous réserve des adaptations suivantes :
+Le présent livre est applicable en Polynésie française dans sa rédaction résultant de la loi n° 2015-925 du 29 juillet 2015 relative à la réforme du droit d'asile et sous réserve des adaptations suivantes :
 
-1. A l'article [L. 741-1](#article-l741-1), les mots : " sur le territoire français " et " en France " sont remplacés par les mots : " en Polynésie française " ;
+1. Au dernier alinéa de l'article [L. 712-2](#article-l712-2), les mots : " en France " sont remplacés, deux fois, par les mots : " sur le territoire de la République " ;
 
-2. A l'article [L. 741-2](#article-l741-2), les mots : " à l'intérieur du territoire français " sont remplacés par les mots : " en Polynésie française " ;
+2. A l'article [L. 723-2](#article-l723-2) :
 
-3. A l'article [L. 741-3](#article-l741-3) les mots : " visas mentionnés à l'article [L. 211-1](#article-l211-1) " sont remplacés par les mots : " visas requis par l'ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers en Polynésie française " ;
+a) Au 1° du II, au 2° du III et, deux fois, au 3° du même III, le mot : " France " est remplacé par les mots : " Polynésie française " ;
 
-4. A l'article [L. 741-4](#article-l741-4) :
+b) Le 1° du III n'est pas applicable ;
 
-a) Dans le premier alinéa, les mots : " en France " sont remplacés par les mots : " en Polynésie française " ;
+c) Au 5° du III, les mots : " en France " sont remplacés par les mots : " sur le territoire de la République " ;
 
-b) Le 1° n'est pas applicable ;
+3. A l'article [L. 723-3](#article-l723-3) :
 
-c) Au 3°, les mots : " en France " sont remplacés par les mots : " sur le territoire de la République " ;
+a) Au deuxième alinéa, les mots : " des informations sur la vulnérabilité qui lui sont transmises en application de l'article [L. 744-6](#article-l744-6) et " sont supprimés ;
 
-5. A l'article [L. 742-1](#article-l742-1), les mots : " en France " sont remplacés par les mots : " en Polynésie française " ;
+b) Au troisième alinéa, les mots : " comme ayant des besoins particuliers en matière d'accueil en application du même article [L. 744-6](#article-l744-6) ou " sont supprimés ;
 
-6. A l'article [L. 742-3](#article-l742-3), les mots : " en France " sont remplacés par les mots : " en Polynésie " et les mots : " le territoire français " sont remplacés par les mots : " la Polynésie française " ;
+4. A l'article [L. 741-1](#article-l741-1) :
 
-7. A l'article [L. 742-6](#article-l742-6) :
+a) Au premier alinéa, les mots : " sur le territoire français " sont remplacés par les mots : " en Polynésie française " et les mots : " et procède à la détermination de l'Etat responsable en application du règlement (UE) n° 604/2013 du Parlement européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de détermination de l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des Etats membres par un ressortissant de pays tiers ou un apatride " ne sont pas applicables ;
 
-a) Les mots : " sur le territoire français " et " en France " sont remplacés par les mots : " en Polynésie française " ;
+b) A la fin de la première phrase de l'avant-dernier alinéa, les mots : " mentionnés à l'article [L. 211-1](#article-l211-1) " sont remplacés par les mots : " requis par l'ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers en Polynésie française " ;
 
-b) Les mots : " mentionnée au livre V du présent code " sont remplacés par les mots : " prise en application de l'ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers en Polynésie française " ;
+5. A l'article [L. 741-3](#article-l741-3) :
 
-c) Après la deuxième phrase, il est inséré une phrase ainsi rédigée :
+a) A la première phrase du premier alinéa, les mots : " sur le territoire français " sont remplacés par les mots : " en Polynésie française " ;
 
-" Si l'office décide d'entendre le demandeur d'asile hors de la Polynésie française, celui-ci reçoit les autorisations nécessaires. " ;
+b) Le dernier alinéa est supprimé ;
 
-d) La dernière phrase du deuxième alinéa est ainsi rédigée :
+6. Le chapitre II du titre IV n'est pas applicable ;
 
-" Il délivre sans délai un titre de séjour dans les conditions prévues par l'ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers en Polynésie française ou la carte de séjour temporaire prévue par l'article 18 de cette ordonnance. " ;
+7. A la première phrase de l'article L. 743-1, les mots : " sur le territoire français " sont remplacés par les mots : " en Polynésie française " ;
 
-e) Le dernier alinéa n'est pas applicable ;
+8. Au premier alinéa et à la fin de la seconde phrase du 3° de l'article L. 743-2, les mots : " sur le territoire français " sont remplacés par les mots : " en Polynésie française " ;
 
-8. A l'article [L. 742-7](#article-l742-7), les mots : " le territoire français " sont remplacés par les mots : " la Polynésie française " ;
+9. A l'article L. 743-3, les mots : " sur le territoire français " sont remplacés par les mots : " en Polynésie française " et la seconde occurrence des mots : " le territoire français " est remplacée par les mots : " la Polynésie française " ;
 
-9. A l'article [L. 751-1](#article-l751-1), les mots : " sur le territoire français " sont remplacés par les mots : " en Polynésie française ".
+10. A l'article L. 743-4, la référence : " des articles L. 556-1 et " est remplacée par les mots : " de l'article " et la référence : " du livre V " est remplacée par la référence : " de l'ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers en Polynésie française " ;
+
+11. Le chapitre IV du titre IV n'est pas applicable ;
+
+12. Au premier alinéa de l'article [L. 751-1](#article-l751-1), la référence : " [L. 311-9](#article-l311-9) " est remplacée par la référence : " 6-3 de l'ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers en Polynésie française " ;
+
+13. Au II de l'article [L. 752-1](#article-l752-1) :
+
+a) Le premier alinéa est ainsi rédigé :
+
+" Les deux dernières phrases du premier alinéa et le dernier alinéa du I de l'article 44 et l'article 45 de l'ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers en Polynésie française sont applicables. " ;
+
+b) Aux deux derniers alinéas du II, le mot : " France " est remplacé par les mots : " Polynésie française ".
 
 
 #### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie
 
 #### Article L764-1
 
-Le présent livre est applicable en Nouvelle-Calédonie sous réserve des adaptations suivantes :
+Le présent livre est applicable en Nouvelle-Calédonie dans sa rédaction résultant de la loi n° 2015-925 du 29 juillet 2015 relative à la réforme du droit d'asile et sous réserve des adaptations suivantes :
 
-1. A l'article [L. 741-1](#article-l741-1), les mots : " sur le territoire français " et " en France " sont remplacés par les mots : " en Nouvelle-Calédonie " ;
+1. Au dernier alinéa de l'article [L. 712-2](#article-l712-2), les mots : " en France " sont remplacés, deux fois, par les mots : " sur le territoire de la République " ;
 
-2. A l'article [L. 741-2](#article-l741-2), les mots : " à l'intérieur du territoire français " sont remplacés par les mots : " en Nouvelle-Calédonie " ;
+2. A l'article [L. 723-2](#article-l723-2) :
 
-3. A l'article [L. 741-3](#article-l741-3), les mots : " visas mentionnés à l'article [L. 211-1](#article-l211-1) " sont remplacés par les mots : " visas requis par l'ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie " ;
+a) Au 1° du II, au 2° du III et, deux fois, au 3° du même III, le mot : " France " est remplacé par le mot : " Nouvelle-Calédonie " ;
 
-4. A l'article [L. 741-4](#article-l741-4) :
+b) Le 1° du III n'est pas applicable ;
 
-a) Dans le premier alinéa, les mots : " en France " sont remplacés par les mots : " en Nouvelle-Calédonie " ;
+c) Au 5° du III, les mots : " en France " sont remplacés par les mots : " sur le territoire de la République " ;
 
-b) Le 1° n'est pas applicable ;
+3. A l'article [L. 723-3](#article-l723-3) :
 
-c) Au 3°, les mots : " en France " sont remplacés par les mots : " sur le territoire de la République " ;
+a) Au deuxième alinéa, les mots : " des informations sur la vulnérabilité qui lui sont transmises en application de l'article [L. 744-6](#article-l744-6) et " sont supprimés ;
 
-5. A l'article [L. 742-1](#article-l742-1), les mots : " en France " sont remplacés par les mots : " en Nouvelle-Calédonie " ;
+b) Au troisième alinéa, les mots : " comme ayant des besoins particuliers en matière d'accueil en application du même article [L. 744-6](#article-l744-6) ou " sont supprimés ;
 
-6. A l'article [L. 742-3](#article-l742-3), les mots : " en France " sont remplacés par les mots : " en Nouvelle-Calédonie " et les mots : " le territoire français " sont remplacés par les mots : " la Nouvelle-Calédonie " ;
+4. A l'article [L. 741-1](#article-l741-1) :
 
-7. A l'article [L. 742-6](#article-l742-6) :
+a) Au premier alinéa, les mots : " sur le territoire français " sont remplacés par les mots : " en Nouvelle-Calédonie " et les mots : " et procède à la détermination de l'Etat responsable en application du règlement (UE) n° 604/2013 du Parlement européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de détermination de l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des Etats membres par un ressortissant de pays tiers ou un apatride " ne sont pas applicables ;
 
-a) Les mots : " sur le territoire français " et " en France " sont remplacés par les mots : " en Nouvelle-Calédonie " ;
+b) A la fin de la première phrase de l'avant-dernier alinéa, les mots : " mentionnés à l'article [L. 211-1](#article-l211-1) " sont remplacés par les mots : " requis par l'ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie " ;
 
-b) Les mots : " mentionnée au livre V du présent code " sont remplacés par les mots : " prise en application de l'ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie " ;
+5. A l'article [L. 741-3](#article-l741-3) :
 
-c) Après la deuxième phrase, il est inséré une phrase ainsi rédigée :
+a) A la première phrase du premier alinéa, les mots : " sur le territoire français " sont remplacés par les mots : " en Nouvelle-Calédonie " ;
 
-" Si l'office décide d'entendre le demandeur d'asile hors de la Nouvelle-Calédonie, celui-ci reçoit les autorisations nécessaires. " ;
+b) Le dernier alinéa est supprimé ;
 
-d) La dernière phrase du deuxième alinéa est ainsi rédigée :
+6. Le chapitre II du titre IV n'est pas applicable ;
 
-" Il délivre sans délai un titre de séjour dans les conditions prévues par l'ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie ou la carte de séjour temporaire prévue par l'article 18 de cette ordonnance. " ;
+7. A la première phrase de l'article L. 743-1, les mots : " sur le territoire français " sont remplacés par les mots : " en Nouvelle-Calédonie " ;
 
-e) Le dernier alinéa n'est pas applicable ;
+8. Au premier alinéa et à la fin de la seconde phrase du 3° de l'article L. 743-2, les mots : " sur le territoire français " sont remplacés par les mots : " en Nouvelle-Calédonie " ;
 
-8. A l'article [L. 742-7](#article-l742-7), les mots : " le territoire français " sont remplacés par les mots : " la Nouvelle-Calédonie " ;
+9. A l'article L. 743-3, les mots : " sur le territoire français " sont remplacés par les mots : " en Nouvelle-Calédonie " et la seconde occurrence des mots : " le territoire français " est remplacée par les mots : " la Nouvelle-Calédonie " ;
 
-9. A l'article [L. 751-1](#article-l751-1), les mots : " sur le territoire français " sont remplacés par les mots : " en Nouvelle-Calédonie ".
+10. A l'article L. 743-4, la référence : " des articles L. 556-1 et " est remplacée par les mots : " de l'article " et la référence : " du livre V " est remplacée par la référence : " de l'ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie " ;
+
+11. Le chapitre IV du titre IV n'est pas applicable ;
+
+12. Au premier alinéa de l'article [L. 751-1](#article-l751-1), la référence : " [L. 311-9](#article-l311-9) " est remplacée par la référence : " 6-3 de l'ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie " ;
+
+13. Au II de l'article [L. 752-1](#article-l752-1) :
+
+a) Le premier alinéa est ainsi rédigé :
+
+" Les deux dernières phrases du premier alinéa et le dernier alinéa du I de l'article 44 et l'article 45 de l'ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie sont applicables. " ;
+
+b) Aux deux derniers alinéas du II, le mot : " France " est remplacé par le mot : " Nouvelle-Calédonie ".
 
 
 #### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises
@@ -3293,84 +3784,19 @@ L'intéressé est ensuite invité à quitter sans délai les Terres australes et
 Si l'étranger n'est pas en mesure de se rendre à La Réunion par ses propres moyens, il y est conduit, sur décision de l'administrateur supérieur, soit par la personne qui l'a acheminé dans le territoire, soit par un navire de la marine nationale, soit par un navire ou un aéronef affrété pour le compte du territoire. Dans l'attente, il est autorisé à se maintenir sur le territoire.
 
 
-#### Chapitre VI : Dispositions applicables à Saint-Barthélemy et à Saint-Martin
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon
 
-#### Article L766-1
+#### Chapitre VII : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion
 
-Le présent livre est applicable à Saint-Barthélemy sous réserve des adaptations suivantes :
+#### Article L767-1
 
-1. A l'article [L. 741-1](#article-l741-1), les mots : " sur le territoire français " et " en France ", deux fois, sont respectivement remplacés par les mots : " sur le territoire de Saint-Barthélemy " et " dans la collectivité de Saint-Barthélemy " ;
+Pour l'application du présent livre en Guadeloupe, en Guyane, en Martinique et à La Réunion :
 
-2. A l'article [L. 741-2](#article-l741-2), les mots : " à l'intérieur du territoire français " sont remplacés par les mots : " sur le territoire de Saint-Barthélemy " ;
+1. Le 1° du III de l'article [L. 723-2](#article-l723-2) n'est pas applicable ;
 
-3. A l'article [L. 741-4](#article-l741-4) :
+2. Au premier alinéa de l'article [L. 741-1](#article-l741-1), les mots : " et procède à la détermination de l'Etat responsable en application du règlement (UE) n° 604/2013 du Parlement européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de détermination de l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des Etats membres par un ressortissant de pays tiers ou un apatride " ne sont pas applicables ;
 
-a) Au premier alinéa, les mots : " en France " sont remplacés par les mots : " dans la collectivité de Saint-Barthélemy " ;
-
-b) Le 1° n'est pas applicable ;
-
-c) Aux 3° et 4°, les mots : " en France " sont remplacés par les mots : " sur le territoire de la République " ;
-
-4. A la première phrase de l'article [L. 742-1](#article-l742-1), les mots : " en France " sont remplacés par les mots : " dans la collectivité de Saint-Barthélemy " ;
-
-5. A la première phrase de l'article [L. 742-3](#article-l742-3), les mots : " en France " sont remplacés par les mots : " dans la collectivité de Saint-Barthélemy " et les mots : " s'y maintenir " sont remplacés par les mots : " se maintenir sur le territoire de Saint-Barthélemy " ;
-
-6. A l'article [L. 742-6](#article-l742-6) :
-
-a) A la première phrase du premier alinéa, les mots : " sur le territoire français " et " en France " sont respectivement remplacés par les mots : " sur le territoire de Saint-Barthélemy " et " dans la collectivité de Saint-Barthélemy " ;
-
-b) Le même alinéa est complété par une phrase ainsi rédigée :
-
-" Si l'office décide d'entendre le demandeur d'asile hors de la collectivité de Saint-Barthélemy, celui-ci reçoit les autorisations nécessaires. " ;
-
-c) La seconde phrase du second alinéa est ainsi rédigée :
-
-" Elle délivre sans délai un titre de séjour dans les conditions prévues par le titre Ier du livre III du présent code ou la carte de séjour temporaire prévue par le 10° de l'article [L. 313-11](#article-l313-11). " ;
-
-d) Le dernier alinéa n'est pas applicable ;
-
-7. A l'article [L. 742-7](#article-l742-7), les mots : " le territoire français " sont remplacés par les mots : " la collectivité de Saint-Barthélemy " ;
-
-8. A la première phrase du premier alinéa de l'article [L. 751-1](#article-l751-1), les mots : " sur le territoire français " sont remplacés par les mots : " sur le territoire de Saint-Barthélemy ".
-
-
-#### Article L766-2
-
-Le présent livre est applicable à Saint-Martin sous réserve des adaptations suivantes :
-
-1. A l'article [L. 741-1](#article-l741-1), les mots : " sur le territoire français " et " en France " sont respectivement remplacés par les mots : " sur le territoire de Saint-Martin " et " dans la collectivité de Saint-Martin " ;
-
-2. A l'article [L. 741-2](#article-l741-2), les mots : " à l'intérieur du territoire français " sont remplacés par les mots : " sur le territoire de Saint-Martin " ;
-
-3. A l'article [L. 741-4](#article-l741-4) :
-
-a) Au premier alinéa, les mots : " en France " sont remplacés par les mots : " dans la collectivité de Saint-Martin " ;
-
-b) Le 1° n'est pas applicable ;
-
-c) Aux 3° et 4°, les mots : " en France " sont remplacés par les mots : " sur le territoire de la République " ;
-
-4. A la première phrase de l'article [L. 742-1](#article-l742-1), les mots : " en France " sont remplacés par les mots : " dans la collectivité de Saint-Martin " ;
-
-5. A la première phrase de l'article [L. 742-3](#article-l742-3), les mots : " en France " sont remplacés par les mots : " dans la collectivité de Saint-Martin " et les mots : " s'y maintenir " sont remplacés par les mots : " se maintenir sur le territoire de Saint-Martin " ;
-
-6. A l'article [L. 742-6](#article-l742-6) :
-
-a) A la première phrase du premier alinéa, les mots : " sur le territoire français " et " en France " sont respectivement remplacés par les mots : " sur le territoire de Saint-Martin " et " dans la collectivité de Saint-Martin " ;
-
-b) Le même alinéa est complété par une phrase ainsi rédigée :
-
-" Si l'office décide d'entendre le demandeur d'asile hors de la collectivité de Saint-Martin, celui-ci reçoit les autorisations nécessaires. " ;
-
-c) La seconde phrase du second alinéa est ainsi rédigée :
-
-" Elle délivre sans délai un titre de séjour dans les conditions prévues par le titre Ier du livre III du présent code ou la carte de séjour temporaire prévue par le 10° de l'article [L. 313-11](#article-l313-11). " ;
-
-d) Le dernier alinéa n'est pas applicable ;
-
-7. A l'article [L. 742-7](#article-l742-7), les mots : " le territoire français " sont remplacés par les mots : " la collectivité de Saint-Martin " ;
-
-8. A la première phrase du premier alinéa de l'article [L. 751-1](#article-l751-1), les mots : " sur le territoire français " sont remplacés par les mots : " sur le territoire de Saint-Martin ".
+3. Le chapitre II du titre IV n'est pas applicable.
 
 
 ## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES
@@ -3432,6 +3858,60 @@ L'étranger exclu du bénéfice de la protection temporaire ou qui, ayant béné
 #### Article L811-9
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent titre.
+
+
+### TITRE Ier BIS : LE STATUT D'APATRIDE
+
+#### Chapitre unique
+
+#### Article L812-1
+
+La qualité d'apatride est reconnue à toute personne qui répond à la définition de l'article 1er de la convention de New York, du 28 septembre 1954, relative au statut des apatrides. Ces personnes sont régies par les dispositions applicables aux apatrides en vertu de cette convention.
+
+
+#### Article L812-2
+
+L'Office français de protection des réfugiés et apatrides reconnaît la qualité d'apatride aux personnes remplissant les conditions mentionnées à l'article [L. 812-1](#article-l812-1), au terme d'une procédure définie par décret en Conseil d'Etat.
+
+
+#### Article L812-3
+
+L'Office français de protection des réfugiés et apatrides notifie par écrit sa décision au demandeur du statut d'apatride. Toute décision de rejet est motivée en fait et en droit et précise les voies et délais de recours.
+
+Aucune décision sur une demande de statut d'apatride ne peut naître du silence gardé par l'office.
+
+
+#### Article L812-4
+
+L'Office français de protection des réfugiés et apatrides exerce la protection juridique et administrative des apatrides.
+
+Il assure cette protection, notamment l'exécution de la convention de New York, du 28 septembre 1954, précitée, dans les conditions prévues aux deux derniers alinéas de l'article [L. 721-2](#article-l721-2).
+
+Il est habilité à délivrer aux apatrides les pièces nécessaires pour leur permettre d'exécuter les divers actes de la vie civile et à authentifier les actes et documents qui lui sont soumis, dans les conditions prévues à l'article [L. 721-3](#article-l721-3).
+
+
+#### Article L812-5
+
+Le ressortissant étranger qui a obtenu la qualité d'apatride et qui s'est vu délivrer la carte de séjour temporaire mentionnée au 10° de l'article [L. 313-11](#article-l313-11) ou la carte de résident mentionnée au 9° de l'article [L. 314-11](#article-l314-11) peut demander à bénéficier de la réunification familiale, dans les mêmes conditions que celles prévues à l'article [L. 752-1](#article-l752-1) pour le ressortissant étranger qui a obtenu la qualité de réfugié.
+
+
+#### Article L812-6
+
+L'article [L. 752-2](#article-l752-2) est applicable au mineur non accompagné qui a obtenu la qualité d'apatride.
+
+
+#### Article L812-7
+
+A moins que des raisons impérieuses de sécurité nationale ou d'ordre public ne s'y opposent, l'étranger reconnu apatride et titulaire d'un titre de séjour en cours de validité peut se voir délivrer un document de voyage dénommé “ titre de voyage pour apatride ” l'autorisant à voyager hors du territoire français.
+
+La durée de validité de ce document de voyage est fixée au IV de l'article 953 du code général des impôts.
+
+Ce document de voyage peut être retiré ou son renouvellement refusé lorsqu'il apparaît, après sa délivrance, que des raisons impérieuses de sécurité nationale ou d'ordre public le justifient.
+
+
+#### Article L812-8
+
+Le présent titre est applicable, dans sa rédaction résultant de la loi n° 2015-925 du 29 juillet 2015 relative à la réforme du droit d'asile, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.
 
 
 ### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE
@@ -8643,7 +9123,7 @@ Le préfet transmet des réception le dossier à l'office en mentionnant son car
 
 #### Article R723-1-1
 
-Le troisième alinéa de l'article [R. 213-2](#article-r213-2) est applicable à l'audition mentionnée au premier alinéa de l'article L. 723-3. Celle-ci fait l'objet d'un rapport écrit qui, outre les raisons justifiant l'asile, comprend les informations relatives à l'identité de l'étranger et celle de sa famille, les lieux et pays traversés ou dans lesquels il a séjourné, sa ou ses nationalités, le cas échéant ses pays de résidence et ses demandes d'asile antérieures, ses documents d'identité et titres de voyage.
+Le troisième alinéa de l'article [R. 213-2](#article-r213-2) est applicable à l'audition mentionnée au premier alinéa de l'article [L. 723-3](#article-l723-3). Celle-ci fait l'objet d'un rapport écrit qui, outre les raisons justifiant l'asile, comprend les informations relatives à l'identité de l'étranger et celle de sa famille, les lieux et pays traversés ou dans lesquels il a séjourné, sa ou ses nationalités, le cas échéant ses pays de résidence et ses demandes d'asile antérieures, ses documents d'identité et titres de voyage.
 
 Une copie du rapport est transmise à l'intéressé avec la décision du directeur général de l'office lorsque celui-ci refuse la reconnaissance de la qualité de réfugié.
 
@@ -8672,7 +9152,7 @@ La décision du directeur général de l'office sur la demande de réexamen est 
 
 #### Article R723-4
 
-Le préfet compétent et, à Paris, le préfet de police peut saisir l'office d'une demande de réexamen mentionnée à l'article L. 723-5.
+Le préfet compétent et, à Paris, le préfet de police peut saisir l'office d'une demande de réexamen mentionnée à l'article [L. 723-5](#article-l723-5).
 
 
 #### Article R723-5
@@ -9242,7 +9722,7 @@ Ce récépissé confère à son titulaire le droit d'exercer la profession de so
 
 Le bénéficiaire de la protection subsidiaire est ensuite mis en possession de la carte de séjour temporaire prévue à l'article [L. 313-13](#article-l313-13).
 
-La carte de séjour temporaire est renouvelée selon les modalités définies aux articles [R. 313-35](#article-r313-35) et [R. 313-36](#article-r313-36) sous réserve de l'application des dispositions de l'article L. 723-5.
+La carte de séjour temporaire est renouvelée selon les modalités définies aux articles [R. 313-35](#article-r313-35) et [R. 313-36](#article-r313-36) sous réserve de l'application des dispositions de l'article [L. 723-5](#article-l723-5).
 
 
 ### TITRE V : DISPOSITIONS DIVERSES.
@@ -9331,7 +9811,7 @@ a) Au premier alinéa, les mots : " d'une validité d'un mois " sont remplacés 
 
 b) Au premier alinéa, les mots : " du 1° au 4° de l'article [L. 741-4](#article-l741-4) " sont remplacés par les mots : " du 2° au 4° de l'article [L. 741-4](#article-l741-4) " ;
 
-c) Au premier alinéa, il est ajouté aux mots : " l'article [L. 741-4](#article-l741-4) sans préjudice des dispositions de l'article [L. 742-6](#article-l742-6) " les mots : " et dans les conditions prévues par l'article L. 761-1 " ;
+c) Au premier alinéa, il est ajouté aux mots : " l'article [L. 741-4](#article-l741-4) sans préjudice des dispositions de l'article [L. 742-6](#article-l742-6) " les mots : " et dans les conditions prévues par l'article [L. 761-1](#article-l761-1) " ;
 
 d) Au deuxième alinéa, les mots : " en France " sont remplacés par les mots : " dans les îles Wallis et Futuna " ;
 
