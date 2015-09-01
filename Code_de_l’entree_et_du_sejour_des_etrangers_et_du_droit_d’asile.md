@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 31 juillet 2015
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20150731)
+- Date de consolidation : 1er septembre 2015
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20150901)
 
 
 # Partie législative
@@ -5398,7 +5398,7 @@ Le récépissé de la demande de renouvellement d'une carte de séjour permettan
 
 ###### Article R311-7
 
-Lorsque la demande de titre de séjour est déposée auprès d'un établissement d'enseignement conformément au 2° de l'article [R. 311-1](#article-r311-1), elle est transmise sans délai à la préfecture en vue de son instruction. Il est remis au demandeur un document attestant du dépôt de sa demande. Ce document ne vaut pas autorisation de séjour.
+Par dérogation au premier alinéa de l'article [R. 311-10](#article-r311-10), lorsque la demande de titre de séjour est déposée auprès d'un établissement d'enseignement supérieur conformément au 2° de l'article [R. 311-1](#article-r311-1), le préfet compétent pour délivrer la carte de séjour prévue à l'article [L. 313-7](#article-l313-7) est le préfet du département où se situe cet établissement. La demande de titre de séjour lui est transmise sans délai. Il est remis au demandeur un document attestant du dépôt de sa demande. Ce document ne vaut pas autorisation de séjour.
 
 
 ###### Article R311-8
@@ -6399,6 +6399,8 @@ L'étranger déjà admis à résider en France qui sollicite le renouvellement d
 
 1. Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ;
 
+1. bis Un justificatif de domicile ;
+
 2. Trois photographies de face, tête nue, de format 3,5 x 4,5 cm, récentes et parfaitement ressemblantes.
 
 
@@ -6457,6 +6459,8 @@ Le préfet statue sur sa demande de renouvellement de la carte de séjour tempor
 Pour l'application des dispositions des articles [L. 314-8](#article-l314-8) et [L. 314-9](#article-l314-9), l'étranger présente à l'appui de sa demande de carte de résident ou de carte de résident portant la mention " résident de longue durée-UE " :
 
 1. Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ;
+
+1. bis Un justificatif de domicile ;
 
 2. S'il est marié et ressortissant d'un Etat dont la loi autorise la polygamie, une déclaration sur l'honneur selon laquelle il ne vit pas en France en état de polygamie ;
 
@@ -6525,6 +6529,8 @@ Pour l'application des dispositions des articles [L. 314-11](#article-l314-11) e
 
 1. Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint de ses enfants et de ses ascendants ;
 
+1. bis Un justificatif de domicile ;
+
 2. Les documents et visas en cours de validité mentionnés dans l'arrêté prévu par l'article [R. 211-1](#article-r211-1) ou, si l'étranger sollicite la délivrance d'une carte de résident en application du 2° de l'article [L. 314-11](#article-l314-11), un visa pour un séjour d'une durée supérieure à trois mois autre que celui mentionné au 3° de l'article [R. 311-3](#article-r311-3), ou, le cas échéant, le titre de séjour arrivant à expiration délivré en application du présent code justifiant qu'il séjourne régulièrement sur le territoire français ;
 
 3. S'il est marié et ressortissant d'un Etat dont la loi autorise la polygamie, une déclaration sur l'honneur selon laquelle il ne vit pas en France en état de polygamie ;
@@ -6551,6 +6557,8 @@ Le certificat médical prévu au 4° du présent article n'est pas exigé de l'�
 Pour l'application des dispositions de l'article [L. 314-1](#article-l314-1), l'étranger présente à l'appui de sa demande de renouvellement de carte de résident ou de statut de résident de longue durée-UE accordé par la France en application des articles [L. 314-8](#article-l314-8) et [L. 314-8-2](#article-l314-8-2) :
 
 1. Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint, de ses enfants et de ses ascendants ;
+
+1. bis Un justificatif de domicile ;
 
 2. S'il est marié et ressortissant d'un Etat dont la loi autorise la polygamie, une déclaration sur l'honneur selon laquelle il ne vit pas en France en état de polygamie ;
 
@@ -6625,7 +6633,7 @@ L'accusé de réception de la demande de carte de séjour ne vaut pas récépiss
 
 #### Article R315-5
 
-L'étranger déjà admis au séjour sur le fondement de l'article [L. 311-2](#article-l311-2) ou [L. 311-11](#article-l311-11) qui souhaite bénéficier de la carte de séjour portant la mention "compétences et talents" présente sa demande au plus tard deux mois avant l'expiration de son titre de séjour auprès du préfet du département du lieu de sa résidence. A l'appui de sa demande, il présente les pièces mentionnées aux 1° à 5° de l'article [R. 315-4](#article-r315-4).
+L'étranger déjà admis au séjour sur le fondement de l'article [L. 311-2](#article-l311-2) ou [L. 311-11](#article-l311-11) qui souhaite bénéficier de la carte de séjour portant la mention " compétences et talents " présente sa demande au plus tard deux mois avant l'expiration de son titre de séjour auprès du préfet du département du lieu de sa résidence. A l'appui de sa demande, il présente les pièces mentionnées aux 1° à 5° de l'article [R. 315-4](#article-r315-4) ainsi qu'un justificatif de domicile.
 
 
 #### Article R315-6
@@ -6650,6 +6658,8 @@ Sous peine de retrait de la carte portant la mention "compétences et talents" l
 L'étranger bénéficiaire de la carte de séjour portant la mention " compétences et talents " peut en demander le renouvellement dans les conditions prévues aux premier et deuxième alinéas de l'article [R. 311-1](#article-r311-1) et au 4° de l'article [R. 311-2](#article-r311-2). Il présente à l'appui de sa demande :
 
 1. Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ;
+
+1. bis Un justificatif de domicile ;
 
 2. La carte de séjour portant la mention " compétences et talents " ;
 
@@ -7172,13 +7182,13 @@ Pour l'application du 2° de l'article [L. 411-5](#article-l411-5), est considé
 
 1. Présente une superficie habitable totale au moins égale à :
 
--en zone A : 22 m2 pour un ménage sans enfant ou deux personnes, augmentée de 10 m2 par personne jusqu'à huit personnes et de 5 m2 par personne supplémentaire au-delà de huit personnes ;
+-en zones A bis et A : 22 m2 pour un ménage sans enfant ou deux personnes, augmentée de 10 m2 par personne jusqu'à huit personnes et de 5 m2 par personne supplémentaire au-delà de huit personnes ;
 
--en zone B : 24 m2 pour un ménage sans enfant ou deux personnes, augmentée de 10 m2 par personne jusqu'à huit personnes et de 5 m2 par personne supplémentaire au-delà de huit personnes ;
+-en zones B1 et B2 : 24 m2 pour un ménage sans enfant ou deux personnes, augmentée de 10 m2 par personne jusqu'à huit personnes et de 5 m2 par personne supplémentaire au-delà de huit personnes ;
 
 -en zone C : 28 m2 pour un ménage sans enfant ou deux personnes, augmentée de 10 m2 par personne jusqu'à huit personnes et de 5 m2 par personne supplémentaire au-delà de huit personnes.
 
-Les zones A, B et C ci-dessus sont celles définies pour l'application du 1er alinéa du j du 1° du I de l'article 31 du code général des impôts ;
+Les zones A bis, A, B1, B2 et C ci-dessus sont celles définies pour l'application de l'article R. 304-1 du code de la construction et de l'habitation ;
 
 2. Satisfait aux conditions de salubrité et d'équipement fixées aux articles 2 et 3 du décret n° 2002-120 du 30 janvier 2002 relatif aux caractéristiques du logement décent pris pour l'application de l'article 187 de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbain.
 
