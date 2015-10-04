@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 1er octobre 2015
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20151001)
+- Date de consolidation : 4 octobre 2015
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20151004)
 
 
 # Partie législative
@@ -10311,7 +10311,7 @@ Aux articles [R. 121-4](#article-r121-4) et [R. 121-11](#article-r121-11) à [R.
 
 4. A l'article [R. 311-15](#article-r311-15), la référence à l'article L. 341-6 du code du travail est remplacée par la référence à l'article L. 330-5 du code du travail applicable à Mayotte et la référence à l'article L. 5221-5 du code du travail est remplacée par la référence à l'article L. 330-3 du code du travail applicable à Mayotte ;
 
-5. A l'article [R. 611-5](#article-r611-5), la référence à l'article L. 5312-1 est remplacée par la référence à l'article L. 326-6 du code du travail applicable à Mayotte ;
+5. (Abrogé) ;
 
 6. A l'article [R. 313-7](#article-r313-7), la référence au titre II du livre IX du code du travail est remplacée par la référence au titre III du livre VII du code du travail applicable à Mayotte ;
 
@@ -10329,7 +10329,7 @@ Aux articles [R. 121-4](#article-r121-4) et [R. 121-11](#article-r121-11) à [R.
 
 13. Au 2° de l'article [R. 611-5](#article-r611-5), la référence à l'article L. 8113-7 du code du travail est remplacée par la référence à l'article L. 610-9 du code du travail applicable à Mayotte, la référence à l'article L. 8271-19 du code du travail est remplacée par la référence à l'article L. 330-9 du code du travail applicable à Mayotte.
 
-Au 6° de l'article [R. 611-5](#article-r611-5), la référence à l'article L. 5312-1 du code du travail est remplacée par la référence à l'article L. 326-7 du code du travail applicable à Mayotte, la référence à l'article L. 5411-4 du code du travail est remplacée par la référence à l'article L. 326-48 du code du travail applicable à Mayotte, les références aux articles L. 115-6, L. 161-25-1 et L. 161-25-2 du code de la sécurité sociale sont remplacées par la référence à l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique à Mayotte, les références aux articles L. 115-7, L. 161-16-1 et L. 161-18-1 du code de la sécurité sociale sont remplacées par les dispositions applicables localement, la référence à l'article [L. 512-2](#article-l512-2) du code de la sécurité sociale est remplacée par la référence à l'article 4 de l'ordonnance n° 2002-149 du 7 février 2002 relative à l'extension et la généralisation des prestations familiales et à la protection sociale dans la collectivité départementale de Mayotte et la référence à l'article [L. 831-1](#article-l831-1) du code de la sécurité sociale est remplacée par la référence à l'article 42-1 de l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte ;
+Au 6° de l'article [R. 611-5](#article-r611-5), la référence à l'article L. 5411-4 du code du travail est remplacée par la référence à l'article L. 326-48 du code du travail applicable à Mayotte, les références aux articles L. 115-6, L. 161-25-1 et L. 161-25-2 du code de la sécurité sociale sont remplacées par la référence à l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique à Mayotte, les références aux articles L. 115-7, L. 161-16-1 et L. 161-18-1 du code de la sécurité sociale sont remplacées par les dispositions applicables localement, la référence à l'article [L. 512-2](#article-l512-2) du code de la sécurité sociale est remplacée par la référence à l'article 4 de l'ordonnance n° 2002-149 du 7 février 2002 relative à l'extension et la généralisation des prestations familiales et à la protection sociale dans la collectivité départementale de Mayotte et la référence à l'article [L. 831-1](#article-l831-1) du code de la sécurité sociale est remplacée par la référence à l'article 42-1 de l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte ;
 
 14. Aux articles [R. 611-5](#article-r611-5) et [R. 626-1](#article-r626-1), la référence à l'article L. 8251-1 du code du travail est remplacée par la référence à l'article L. 330-5 du code du travail applicable à Mayotte ;
 
