@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 1er novembre 2015
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20151101)
+- Date de consolidation : 5 décembre 2015
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20151205)
 
 
 # Partie législative
@@ -9085,6 +9085,13 @@ Le droit d'opposition prévu à l'article 38 de la loi du 6 janvier 1978 susment
 ##### Article R611-15
 
 Il est procédé tous les trois ans, par les ministères mentionnés à l'article [R. 611-8](#article-r611-8), à une évaluation du traitement VISABIO donnant lieu à un rapport communiqué à la Commission nationale de l'informatique et des libertés.
+
+
+##### Section 3 : Du fichier automatisé des empreintes digitales
+
+##### Article R611-16
+
+Le fichier automatisé des empreintes digitales est régi par le décret n° 87-249 du 8 avril 1987 modifié relatif au fichier automatisé des empreintes digitales géré par le ministère de l'intérieur.
 
 
 ##### Section 5 : Traitement automatisé de données à caractère personnel relatives aux étrangers bénéficiaires du dispositif d'aide au retour géré par l'Office français de l'immigration et de l'intégration
