@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 9 mars 2016
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20160309)
+- Date de consolidation : 19 mars 2016
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20160319)
 
 
 # Partie législative
@@ -4945,7 +4945,7 @@ Lorsque l'entrée en France est motivée par un transit, l'étranger justifie qu
 
 ###### Article R211-4
 
-Pour effectuer les vérifications prévues à l'article [L. 111-6](#article-l111-6), et par dérogation aux dispositions du premier alinéa de l'article 21 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations, les autorités diplomatiques et consulaires sursoient à statuer sur la demande de visa présentée par la personne qui se prévaut de l'acte d'état civil litigieux pendant une période maximale de quatre mois.
+Pour effectuer les vérifications prévues à l'article [L. 111-6](#article-l111-6), et par dérogation aux dispositions de l'article L. 231-1 du code des relations entre le public et l'administration, les autorités diplomatiques et consulaires sursoient à statuer sur la demande de visa présentée par la personne qui se prévaut de l'acte d'état civil litigieux pendant une période maximale de quatre mois.
 
 Lorsque, malgré les diligences accomplies, ces vérifications n'ont pas abouti, la suspension peut être prorogée pour une durée strictement nécessaire et qui ne peut excéder quatre mois.
 
@@ -4957,7 +4957,7 @@ La personne qui sollicite la délivrance d'un visa est tenue de produire une pho
 
 ###### Article R211-4-2
 
-Par dérogation aux dispositions du premier alinéa de l'article 21 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations, les autorités diplomatiques et consulaires, lorsqu'elles sont saisies d'une demande de visa par une personne postulant au regroupement familial ou par un conjoint de Français mentionné au deuxième alinéa de l'article [L. 211-2-1](#article-l211-2-1), sursoient à statuer pendant la période nécessaire à l'accomplissement des opérations prévues aux articles [R. 311-30-1](#article-r311-30-1) à [R. 311-30-11](#article-r311-30-11).
+Par dérogation aux dispositions de l'article L. 231-1 du code des relations entre le public et l'administration, les autorités diplomatiques et consulaires, lorsqu'elles sont saisies d'une demande de visa par une personne postulant au regroupement familial ou par un conjoint de Français mentionné au deuxième alinéa de l'article [L. 211-2-1](#article-l211-2-1), sursoient à statuer pendant la période nécessaire à l'accomplissement des opérations prévues aux articles [R. 311-30-1](#article-r311-30-1) à [R. 311-30-11](#article-r311-30-11).
 
 La suspension du délai imparti à l'autorité compétente pour statuer sur la demande de visa, dont la durée ne peut excéder six mois, expire à la date soit de la délivrance de l'attestation mentionnée, selon le cas, à l'article [R. 311-30-3](#article-r311-30-3) ou à l'article [R. 311-30-7](#article-r311-30-7), soit de la décision de l'autorité diplomatique ou consulaire accordant à l'étranger une dispense de formation sur le fondement des dispositions des articles [R. 311-30-2](#article-r311-30-2) et [R. 311-30-10](#article-r311-30-10).
 
@@ -5075,7 +5075,7 @@ Le conjoint et les enfants mineurs de dix-huit ans de l'étranger accueilli peuv
 
 ###### Article R211-16
 
-Par dérogation au premier alinéa de l'article 21 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations, le silence gardé pendant plus d'un mois par le maire sur la demande de validation de l'attestation d'accueil ou par le préfet sur le recours administratif mentionné à l'article [R. 211-17](#article-r211-17) vaut décision de rejet.
+Par dérogation à l'article L. 231-1 du code des relations entre le public et l'administration, le silence gardé pendant plus d'un mois par le maire sur la demande de validation de l'attestation d'accueil ou par le préfet sur le recours administratif mentionné à l'article [R. 211-17](#article-r211-17) vaut décision de rejet.
 
 
 ###### Article R211-17
