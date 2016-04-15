@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 19 mars 2016
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20160319)
+- Date de consolidation : 15 avril 2016
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20160415)
 
 
 # Partie législative
@@ -1450,14 +1450,19 @@ Les modalités d'application du présent chapitre sont fixées par décret en Co
 
 #### Article L316-1
 
-Sauf si sa présence constitue une menace à l'ordre public, une carte de séjour temporaire portant la mention " vie privée et familiale " peut être délivrée à l'étranger qui dépose plainte contre une personne qu'il accuse d'avoir commis à son encontre les infractions visées aux articles 225-4-1 à 225-4-6 et 225-5 à 225-10 du code pénal ou témoigne dans une procédure pénale concernant une personne poursuivie pour ces mêmes infractions. La condition prévue à l'article [L. 311-7](#article-l311-7) n'est pas exigée. Cette carte de séjour temporaire ouvre droit à l'exercice d'une activité professionnelle. Elle est renouvelée pendant toute la durée de la procédure pénale, sous réserve que les conditions prévues pour sa délivrance continuent d'être satisfaites.
+Sauf si sa présence constitue une menace à l'ordre public, une carte de séjour temporaire portant la mention " vie privée et familiale " est délivrée à l'étranger qui dépose plainte contre une personne qu'il accuse d'avoir commis à son encontre les infractions visées aux articles 225-4-1 à 225-4-6 et 225-5 à 225-10 du code pénal ou témoigne dans une procédure pénale concernant une personne poursuivie pour ces mêmes infractions. La condition prévue à l'article [L. 311-7](#article-l311-7) n'est pas exigée. Cette carte de séjour temporaire ouvre droit à l'exercice d'une activité professionnelle. Elle est renouvelée pendant toute la durée de la procédure pénale, sous réserve que les conditions prévues pour sa délivrance continuent d'être satisfaites.
 
 En cas de condamnation définitive de la personne mise en cause, une carte de résident est délivrée de plein droit à l'étranger ayant déposé plainte ou témoigné.
 
 
+#### Article L316-1-1
+
+Une autorisation provisoire de séjour d'une durée minimale de six mois peut être délivrée, sauf si sa présence constitue une menace pour l'ordre public, à l'étranger victime des infractions prévues aux articles 225-4-1 à 225-4-6 et 225-5 à 225-10 du code pénal qui, ayant cessé l'activité de prostitution, est engagé dans le parcours de sortie de la prostitution et d'insertion sociale et professionnelle mentionné à l'article L. 121-9 du code de l'action sociale et des familles. La condition prévue à l'article L. 313-2 du présent code n'est pas exigée. Cette autorisation provisoire de séjour ouvre droit à l'exercice d'une activité professionnelle. Elle est renouvelée pendant toute la durée du parcours de sortie de la prostitution et d'insertion sociale et professionnelle, sous réserve que les conditions prévues pour sa délivrance continuent d'être satisfaites.
+
+
 #### Article L316-2
 
-Un décret en Conseil d'Etat précise les conditions d'application de l'article [L. 316-1](#article-l316-1). Il détermine notamment les conditions de la délivrance, du renouvellement et du retrait de la carte de séjour temporaire mentionnée au premier alinéa de l'article [L. 316-1](#article-l316-1) et les modalités de protection, d'accueil et d'hébergement de l'étranger auquel cette carte est accordée.
+Un décret en Conseil d'Etat précise les conditions d'application des articles [L. 316-1](#article-l316-1) et [L. 316-1-1](#article-l316-1-1). Il détermine notamment les conditions de la délivrance, du renouvellement et du retrait de la carte de séjour temporaire mentionnée au premier alinéa de l'article [L. 316-1](#article-l316-1) et de l'autorisation provisoire de séjour mentionnée à l'article [L. 316-1-1](#article-l316-1-1) ainsi que les modalités de protection, d'accueil et d'hébergement de l'étranger auquel cette carte ou cette autorisation provisoire de séjour est accordée.
 
 
 #### Article L316-3
