@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 15 avril 2016
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20160415)
+- Date de consolidation : 16 avril 2016
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20160416)
 
 
 # Partie législative
@@ -10237,7 +10237,7 @@ Elle est adressée au secrétaire du contentieux du Conseil d'Etat, avec le doss
 Les dispositions des articles R. 113-2 à R. 113-4 du code de justice administrative sont applicables aux renvois prononcés en application de l'article [L. 733-3](#article-l733-3).
 
 
-###### Sous-section 7 : Questions prioritaires de constitutionnalité
+###### Sous-section 7 : Question prioritaire de constitutionnalité
 
 ###### Sous-section 8 : Voies de recours
 
