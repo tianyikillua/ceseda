@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 3 juillet 2016
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20160703)
+- Date de consolidation : 31 octobre 2016
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20161031)
 
 
 # Partie législative
@@ -6094,7 +6094,7 @@ Si la commission régulièrement saisie n'a pas émis son avis à l'issue des tr
 Le préfet, ou, à Paris, le préfet de police, peut également saisir la commission du titre de séjour pour toute question relative à l'application des dispositions du présent livre. Le président du conseil départemental ou son représentant est alors invité à participer à la réunion de la commission du titre de séjour. Il en est de même, en tant que de besoin, du directeur départemental du travail, de l'emploi et de la formation professionnelle ou de son représentant.
 
 
-#### Chapitre III : La carte de séjour temporaire
+#### Chapitre III : La carte de séjour temporaire et la carte de séjour pluriannuelle
 
 ##### Section 1 : Dispositions générales
 
@@ -6117,7 +6117,7 @@ L'étranger qui, n'étant pas déjà admis à résider en France, sollicite la d
 
 ##### Article R313-2
 
-Ne sont pas soumis aux dispositions du 2° de l'article [R. 313-1](#article-r313-1) les étrangers mentionnés à l'article [L. 313-4-1](#article-l313-4-1), aux 2°, 2° bis, 6° à 11° de l'article [L. 313-11](#article-l313-11), et aux articles [L. 313-11-1](#article-l313-11-1), [L. 313-13](#article-l313-13), [L. 313-14](#article-l313-14), [L. 313-15](#article-l313-15) et [L. 316-1](#article-l316-1).
+Ne sont pas soumis aux dispositions du 1° de l'article [R. 313-1](#article-r313-1) les étrangers mentionnés à l'article [L. 313-4-1](#article-l313-4-1), aux 2°, 2° bis, 6° à 11° de l'article [L. 313-11](#article-l313-11), et aux articles [L. 313-11-1](#article-l313-11-1), [L. 313-13](#article-l313-13), [L. 313-14](#article-l313-14), [L. 313-15](#article-l313-15) et [L. 316-1](#article-l316-1).
 
 
 ##### Article R313-3
@@ -6324,11 +6324,13 @@ Pour l'application de l'article [L. 313-9](#article-l313-9), l'étranger artiste
 
 ###### Article R313-15
 
-Pour l'application du 1° de l'article [L. 313-10](#article-l313-10), l'étranger qui demande la carte de séjour mention " salarié " présente, outre les pièces prévues à l'article [R. 313-1](#article-r313-1) à l'exception du certificat médical prévu au 4° de cet article, un contrat de travail conclu pour une durée égale ou supérieure à douze mois avec un employeur établi en France. Ce contrat est conforme au modèle fixé par arrêté du ministre chargé du travail et est revêtu du visa de ses services.
+Pour l'application du 1° de l'article [L. 313-10](#article-l313-10), l'étranger qui demande la carte de séjour temporaire portant la mention " salarié " doit présenter à l'appui de sa demande, outre les pièces mentionnées aux articles R. 311-2-2 et [R. 313-1](#article-r313-1), les pièces suivantes :
 
-L'étranger qui sollicite la délivrance de la carte de séjour mention " travailleur temporaire " présente un contrat de travail conclu pour une durée inférieure à douze mois.
+1. Lorsqu'il ne réside pas sur le territoire français, l'autorisation de travail accordée à son employeur en France correspondant à l'emploi sollicité sous contrat de travail à durée indéterminée ;
 
-Ces cartes autorisent l'exercice d'une activité professionnelle dans les conditions définies aux articles R. 341-2-1, R. 341-2-2 et R. 341-2-4 du code du travail.
+2. Lorsqu'il réside sur le territoire français, un formulaire de demande d'autorisation de travail, pour la conclusion d'un contrat de travail à durée indéterminée avec un employeur établi en France correspondant à l'emploi sollicité. Ce formulaire est conforme au modèle fixé par arrêté du ministre chargé du travail.
+
+Cette carte autorise l'exercice d'une activité professionnelle dans les conditions définies aux articles R. 5221-1 et suivants du code du travail.
 
 
 ###### Article R313-15-1
@@ -6580,38 +6582,16 @@ La commission se réunit, sur convocation de son président, au moins deux fois 
 Saisi d'un recours hiérarchique contre un refus d'admission exceptionnelle au séjour, le ministre chargé de l'immigration peut recueillir à cette occasion l'avis de la commission. Il en informe le requérant et le préfet compétent. La commission émet son avis dans le délai d'un mois à compter de sa saisine. En l'absence de réponse à l'issue de ce délai, l'avis est réputé défavorable.
 
 
-###### Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne
-
-###### Article R313-34-1
-
-L'étranger titulaire de la carte de résident de longue durée-UE dans un autre Etat membre de l'Union européenne qui sollicite la délivrance d'une carte de séjour temporaire en application de l'article [L. 313-4-1](#article-l313-4-1) doit présenter les pièces suivantes :
-
-1. La carte de résident de longue durée-UE en cours de validité délivrée par l'Etat membre de l'Union européenne qui lui a accordé ce statut sur son territoire ;
-
-2. La justification qu'il dispose de ressources propres, stables et régulières, suffisant à son entretien et, le cas échéant, à celui de son conjoint et de ses enfants mentionnés aux I et II de l'article [L. 313-11-1](#article-l313-11-1), indépendamment des prestations familiales et des allocations mentionnées au septième alinéa de l'article [L. 313-4-1](#article-l313-4-1) ; les ressources mensuelles du demandeur et, le cas échéant, de son conjoint doivent atteindre un montant total au moins égal au salaire minimum de croissance apprécié à la date du dépôt de la demande ; lorsque le niveau des ressources du demandeur n'atteint pas cette somme, une décision favorable peut être prise s'il justifie être propriétaire de son logement ou en jouir à titre gratuit ;
-
-3. La justification qu'il dispose d'un logement approprié, qui peut notamment être apportée par tout document attestant sa qualité de propriétaire ou de locataire du logement ;
-
-4. La justification qu'il bénéficie d'une assurance maladie ;
-
-5. Les pièces exigées pour la délivrance de l'une des cartes de séjour temporaires prévues à l'article [L. 313-4-1](#article-l313-4-1) selon le motif du séjour invoqué.
-
-
 ###### Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et des membres de sa famille
-
-###### Article R313-34-4
-
-Cet avis est réputé favorable à l'expiration du délai mentionné à l'article [R. 313-34-2](#article-r313-34-2).
-
 
 ###### Article R313-34-2
 
-Le maire de la commune de résidence du ressortissant d'un pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et des membres de sa famille dispose d'un délai de deux mois à compter de sa saisine par le préfet pour formuler un avis sur le caractère suffisant des conditions de ressources au regard des conditions de logement mentionnées aux articles [R. 313-22-1](#article-r313-22-1) et [R. 313-34-1](#article-r313-34-1).
+Le maire de la commune de résidence du ressortissant d'un pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et des membres de sa famille dispose d'un délai de deux mois à compter de sa saisine par le préfet pour formuler un avis sur le caractère suffisant des conditions de ressources au regard des conditions de logement mentionnées aux articles [R. 313-22-1](#article-r313-22-1) et R. 313-34-1.
 
 
 ###### Article R313-34-3
 
-L'avis prévu à l'article [R. 313-34-2](#article-r313-34-2) est émis par le maire au vu des copies des pièces justificatives mentionnées aux 2° et 3° des articles [R. 313-22-1](#article-r313-22-1) et [R. 313-34-1](#article-r313-34-1) transmises par l'autorité administrative ; s'agissant du logement, le maire peut s'assurer de l'adéquation entre les pièces communiquées par le demandeur attestant sa qualité de propriétaire ou de locataire et les informations dont il dispose.
+L'avis prévu à l'article [R. 313-34-2](#article-r313-34-2) est émis par le maire au vu des copies des pièces justificatives mentionnées aux 2° et 3° des articles [R. 313-22-1](#article-r313-22-1) et R. 313-34-1 transmises par l'autorité administrative ; s'agissant du logement, le maire peut s'assurer de l'adéquation entre les pièces communiquées par le demandeur attestant sa qualité de propriétaire ou de locataire et les informations dont il dispose.
 
 
 ##### Section 3 : Renouvellement des cartes de séjour temporaires.
@@ -6722,7 +6702,7 @@ L'étranger qui sollicite la délivrance de la carte de résident portant la men
 
 5. La justification qu'il bénéficie d'une assurance maladie.
 
-Le maire de la commune de résidence du demandeur émet un avis sur le caractère suffisant des conditions de ressources au regard des conditions de logement dans les conditions prévues aux articles [R. 313-34-2](#article-r313-34-2) à [R. 313-34-4](#article-r313-34-4).
+Le maire de la commune de résidence du demandeur émet un avis sur le caractère suffisant des conditions de ressources au regard des conditions de logement dans les conditions prévues aux articles [R. 313-34-2](#article-r313-34-2) à R. 313-34-4.
 
 
 ###### Article R314-1-2
@@ -6782,15 +6762,13 @@ Le certificat médical prévu au 4° du présent article n'est pas exigé de l'�
 
 ##### Article R314-3
 
-Pour l'application des dispositions de l'article [L. 314-1](#article-l314-1), l'étranger présente à l'appui de sa demande de renouvellement de carte de résident ou de statut de résident de longue durée-UE accordé par la France en application des articles [L. 314-8](#article-l314-8) et [L. 314-8-2](#article-l314-8-2) :
+Pour l'application des dispositions de l'article [L. 314-1](#article-l314-1), l'étranger présente à l'appui de sa demande de renouvellement de carte de résident ou de statut de résident de longue durée-UE accordé par la France en application des articles [L. 314-8](#article-l314-8) , [L. 314-8-1](#article-l314-8-1) et [L. 314-8-2](#article-l314-8-2), outre les pièces mentionnées à l'article R. 311-2-2, les pièces suivantes :
 
-1. Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint, de ses enfants et de ses ascendants ;
-
-1. bis Un justificatif de domicile ;
+1. Un justificatif de domicile ;
 
 2. S'il est marié et ressortissant d'un Etat dont la loi autorise la polygamie, une déclaration sur l'honneur selon laquelle il ne vit pas en France en état de polygamie ;
 
-3. La carte de résident dont il est titulaire et qui vient à expiration ou la carte de résident portant la mention " résident de longue durée-UE " accordée par la France en application de l'article [L. 314-8](#article-l314-8) et qui vient à expiration ou qui a expiré en raison du séjour de l'intéressé à l'étranger, dès lors que la durée de ce séjour à l'étranger n'a pas eu pour effet, en application de l'article [L. 314-7](#article-l314-7), de lui faire perdre le bénéfice du statut de résident de longue durée-UE accordé par la France ;
+3. La carte de résident dont il est titulaire et qui vient à expiration ou la carte de résident portant la mention " résident de longue durée-UE " accordée par la France en application de l'article [L. 314-8](#article-l314-8), [L. 314-8-1](#article-l314-8-1) ou [L. 314-8-2](#article-l314-8-2) et qui vient à expiration ou qui a expiré en raison du séjour de l'intéressé à l'étranger, dès lors que la durée de ce séjour à l'étranger n'a pas eu pour effet, en application de l'article [L. 314-7](#article-l314-7), de lui faire perdre le bénéfice du statut de résident de longue durée-UE accordé par la France ;
 
 4. Trois photographies de face, tête nue, de format 3,5 cm x 4,5 cm, récentes et parfaitement ressemblantes ;
 
@@ -11305,7 +11283,7 @@ Les dispositions des articles [R. 313-23](#article-r313-23) à [R. 313-32](#arti
 
 Les dispositions du présent code sont applicables à Mayotte sous réserve des adaptations suivantes :
 
-I. - Aux articles D. 311-18-2, [R. 313-10-2](#article-r313-10-2), [R. 313-16-1](#article-r313-16-1), [R. 313-17](#article-r313-17), [R. 313-22-1](#article-r313-22-1), [R. 313-34-1](#article-r313-34-1), [R. 313-36-1](#article-r313-36-1) et [R. 314-1-1](#article-r314-1-1), les mots : " salaire minimum de croissance " sont remplacés par les mots : " salaire minimum interprofessionnel garanti ".
+I. - Aux articles D. 311-18-2, [R. 313-10-2](#article-r313-10-2), [R. 313-16-1](#article-r313-16-1), [R. 313-17](#article-r313-17), [R. 313-22-1](#article-r313-22-1), R. 313-34-1, [R. 313-36-1](#article-r313-36-1) et [R. 314-1-1](#article-r314-1-1), les mots : " salaire minimum de croissance " sont remplacés par les mots : " salaire minimum interprofessionnel garanti ".
 
 II. - A l'article [R. 313-14](#article-r313-14), les références au directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et au directeur régional des affaires culturelles sont remplacées par les références au directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et au représentant de l'Etat.
 
