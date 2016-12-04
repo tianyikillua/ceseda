@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 1er novembre 2016
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20161101)
+- Date de consolidation : 4 décembre 2016
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20161204)
 
 
 # Partie législative
@@ -8915,7 +8915,7 @@ Un local réservé aux avocats et permettant de préserver la confidentialité d
 
 Dans les conditions prévues aux articles [R. 553-3](#article-r553-3) et [R. 553-6](#article-r553-6), des locaux et des moyens matériels adaptés doivent permettre au personnel de santé de donner des consultations et de dispenser des soins dans les centres et locaux de rétention.
 
-Les conditions dans lesquelles les personnes mentionnées à l'article L. 6112-2 du code de la santé publique interviennent au bénéfice des personnes retenues, en application des articles L. 6112-1 et L. 6112-8 du code de la santé publique, sont précisées par voie de convention passée entre le préfet territorialement compétent et une de ces personnes selon des modalités définies par arrêté conjoint du ministre chargé de l'immigration, du ministre chargé des affaires sociales et du ministre chargé de la santé. Pour les centres de rétention administrative, cet arrêté précise notamment les conditions de présence et de qualification des personnels de santé ainsi que les dispositions sanitaires applicables en dehors de leurs heures de présence au centre.
+Les conditions dans lesquelles les établissements de santé interviennent au bénéfice des personnes retenues, en application de l'article L. 6111-1-2 du code de la santé publique, sont précisées par voie de convention passée entre le préfet territorialement compétent et une de ces personnes selon des modalités définies par arrêté conjoint du ministre chargé de l'immigration, du ministre chargé des affaires sociales et du ministre chargé de la santé. Pour les centres de rétention administrative, cet arrêté précise notamment les conditions de présence et de qualification des personnels de santé ainsi que les dispositions sanitaires applicables en dehors de leurs heures de présence au centre.
 
 
 ###### Article R553-9
