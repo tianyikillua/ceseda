@@ -4,10 +4,16 @@ title: Code de l'entrée et du séjour des étrangers et du droit d'asile
 ---
 
 # Code de l'entrée et du séjour des étrangers et du droit d'asile
+{:.no_toc}
 
 - Date de consolidation : 11 janvier 2017
 - [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20170111)
 
+### Table de matières
+{:.no_toc}
+
+- Table de matières automatiquement générée par kramdown
+{:toc}
 
 # Partie législative
 
@@ -18,11 +24,13 @@ title: Code de l'entrée et du séjour des étrangers et du droit d'asile
 #### Chapitre unique
 
 #### Article L111-1
+{:.no_toc}
 
 Sont considérées comme étrangers au sens du présent code les personnes qui n'ont pas la nationalité française, soit qu'elles aient une nationalité étrangère, soit qu'elles n'aient pas de nationalité.
 
 
 #### Article L111-2
+{:.no_toc}
 
 Le présent code régit l'entrée et le séjour des étrangers en France métropolitaine, en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Pierre-et-Miquelon, à Saint-Barthélemy et à Saint-Martin.
 
@@ -46,21 +54,25 @@ Sont également applicables aux îles Wallis et Futuna, en Polynésie française
 
 
 #### Article L111-3
+{:.no_toc}
 
 Au sens des dispositions du présent code, l'expression " en France " s'entend de la France métropolitaine, de la Guadeloupe, de la Guyane, de la Martinique, de Mayotte, de La Réunion, de Saint-Pierre-et-Miquelon, de Saint-Barthélemy et de Saint-Martin.
 
 
 #### Article L111-4
+{:.no_toc}
 
 A l'exception des dispositions du livre VII relatives à l'asile, les dispositions du présent code ne sont pas applicables aux agents diplomatiques et aux consuls de carrière.
 
 
 #### Article L111-5
+{:.no_toc}
 
 Tout étranger, quelle que soit la catégorie à laquelle il appartient en raison de son séjour en France, peut acquérir la nationalité française dans les conditions prévues par le titre Ier bis du livre Ier du code civil.
 
 
 #### Article L111-6
+{:.no_toc}
 
 La vérification de tout acte d'état civil étranger est effectuée dans les conditions définies par l'article 47 du code civil.
 
@@ -84,11 +96,13 @@ Un décret en Conseil d'Etat, pris après avis du Comité consultatif national d
 
 
 #### Article L111-7
+{:.no_toc}
 
 Lorsqu'un étranger fait l'objet d'une mesure de non-admission en France, de maintien en zone d'attente, de placement en rétention, de retenue pour vérification du droit de circulation ou de séjour ou de transfert vers l'Etat responsable de l'examen de sa demande d'asile et qu'il ne parle pas le français, il indique au début de la procédure une langue qu'il comprend. Il indique également s'il sait lire. Ces informations sont mentionnées sur la décision de non-admission, de maintien, de placement ou de transfert ou dans le procès-verbal prévu à l'article [L. 611-1-1](#article-l611-1-1). Ces mentions font foi sauf preuve contraire. La langue que l'étranger a déclaré comprendre est utilisée jusqu'à la fin de la procédure. Si l'étranger refuse d'indiquer une langue qu'il comprend, la langue utilisée est le français.
 
 
 #### Article L111-8
+{:.no_toc}
 
 Lorsqu'il est prévu aux livres II, V et VI et à l'article [L. 742-3](#article-l742-3) du présent code qu'une décision ou qu'une information doit être communiquée à un étranger dans une langue qu'il comprend, cette information peut se faire soit au moyen de formulaires écrits, soit par l'intermédiaire d'un interprète. L'assistance de l'interprète est obligatoire si l'étranger ne parle pas le français et qu'il ne sait pas lire.
 
@@ -96,11 +110,13 @@ En cas de nécessité, l'assistance de l'interprète peut se faire par l'interm�
 
 
 #### Article L111-9
+{:.no_toc}
 
 Un décret en Conseil d'Etat fixe les modalités d'application des articles [L. 111-7](#article-l111-7) et [L. 111-8](#article-l111-8) et définit notamment les conditions dans lesquelles les interprètes traducteurs sont inscrits sur la liste prévue au dernier alinéa de l'article [L. 111-8](#article-l111-8) et en sont radiés.
 
 
 #### Article L111-10
+{:.no_toc}
 
 Chaque année, le Gouvernement dépose devant le Parlement un rapport sur les orientations pluriannuelles de la politique d'immigration et d'intégration.
 
@@ -134,6 +150,7 @@ L'Office français de protection des réfugiés et apatrides, le Haut Conseil à
 
 
 #### Article L111-11
+{:.no_toc}
 
 I. - En Guadeloupe, en Martinique, en Guyane, à Mayotte et à La Réunion, un observatoire de l'immigration évalue l'application de la politique de régulation des flux migratoires et les conditions d'immigration dans chacun de ces départements d'outre-mer.
 
@@ -155,6 +172,7 @@ Cet observatoire comprend un représentant du ministre de l'intérieur, du minis
 #### Chapitre Ier : Droit au séjour
 
 #### Article L121-1
+{:.no_toc}
 
 Sauf si sa présence constitue une menace pour l'ordre public, tout citoyen de l'Union européenne, tout ressortissant d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse a le droit de séjourner en France pour une durée supérieure à trois mois s'il satisfait à l'une des conditions suivantes :
 
@@ -170,6 +188,7 @@ Sauf si sa présence constitue une menace pour l'ordre public, tout citoyen de l
 
 
 #### Article L121-2
+{:.no_toc}
 
 Les ressortissants visés à l'article [L. 121-1](#article-l121-1) qui souhaitent établir en France leur résidence habituelle se font enregistrer auprès du maire de leur commune de résidence dans les trois mois suivant leur arrivée. Les ressortissants qui n'ont pas respecté cette obligation d'enregistrement sont réputés résider en France depuis moins de trois mois.
 
@@ -183,6 +202,7 @@ Lorsque ces citoyens ont achevé avec succès, dans un établissement d'enseigne
 
 
 #### Article L121-3
+{:.no_toc}
 
 Sauf si sa présence constitue une menace pour l'ordre public, le membre de famille visé aux 4° ou 5° de l'article [L. 121-1](#article-l121-1) selon la situation de la personne qu'il accompagne ou rejoint, ressortissant d'un Etat tiers, a le droit de séjourner sur l'ensemble du territoire français pour une durée supérieure à trois mois.
 
@@ -190,16 +210,19 @@ S'il est âgé de plus de dix-huit ans ou d'au moins seize ans lorsqu'il veut ex
 
 
 #### Article L121-4
+{:.no_toc}
 
 Tout citoyen de l'Union européenne, tout ressortissant d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ou les membres de sa famille qui ne peuvent justifier d'un droit au séjour en application de l'article [L. 121-1](#article-l121-1) ou de l'article [L. 121-3](#article-l121-3) ou dont la présence constitue une menace à l'ordre public peut faire l'objet, selon le cas, d'une décision de refus de séjour, d'un refus de délivrance ou de renouvellement d'une carte de séjour ou d'un retrait de celle-ci ainsi que d'une mesure d'éloignement prévue au livre V.
 
 
 #### Article L121-4-1
+{:.no_toc}
 
 Tant qu'ils ne deviennent pas une charge déraisonnable pour le système d'assistance sociale, les citoyens de l'Union européenne, les ressortissants d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse, ainsi que les membres de leur famille tels que définis aux 4° et 5° de l'article [L. 121-1](#article-l121-1), ont le droit de séjourner en France pour une durée maximale de trois mois, sans autre condition ou formalité que celles prévues pour l'entrée sur le territoire français.
 
 
 #### Article L121-5
+{:.no_toc}
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre.
 
@@ -207,6 +230,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent chapi
 #### Chapitre II : Droit au séjour permanent
 
 #### Article L122-1
+{:.no_toc}
 
 Sauf si sa présence constitue une menace pour l'ordre public, le ressortissant visé à l'article [L. 121-1](#article-l121-1) qui a résidé de manière légale et ininterrompue en France pendant les cinq années précédentes acquiert un droit au séjour permanent sur l'ensemble du territoire français.
 
@@ -214,11 +238,13 @@ Sauf si sa présence constitue une menace pour l'ordre public, le membre de sa f
 
 
 #### Article L122-2
+{:.no_toc}
 
 Une absence du territoire français pendant une période de plus de deux années consécutives fait perdre à son titulaire le bénéfice du droit au séjour permanent.
 
 
 #### Article L122-3
+{:.no_toc}
 
 Un décret en Conseil d'Etat fixe les conditions d'application des dispositions du présent chapitre, en particulier celles dans lesquelles le droit au séjour permanent est acquis par les travailleurs ayant cessé leur activité en France et les membres de leur famille dans des conditions dérogatoires au délai de cinq années mentionné à l'article [L. 122-1](#article-l122-1) et celles relatives à la continuité du séjour.
 
@@ -234,6 +260,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application des dispositions 
 ##### Section 1 : Généralités
 
 ##### Article L211-1
+{:.no_toc}
 
 Pour entrer en France, tout étranger doit être muni :
 
@@ -247,6 +274,7 @@ Pour entrer en France, tout étranger doit être muni :
 ##### Section 2 : Visa
 
 ##### Article L211-2-1
+{:.no_toc}
 
 La demande d'un visa pour un séjour d'une durée supérieure à trois mois donne lieu à la délivrance par les autorités diplomatiques et consulaires d'un récépissé indiquant la date du dépôt de la demande.
 
@@ -262,6 +290,7 @@ Lorsque la demande de visa de long séjour émane d'un étranger entré réguli�
 
 
 ##### Article L211-2-2
+{:.no_toc}
 
 Un visa de retour est délivré par les autorités consulaires françaises à la personne de nationalité étrangère bénéficiant d'un titre de séjour en France en vertu des articles [L. 313-11](#article-l313-11) ou [L. 431-2](#article-l431-2) dont le conjoint a, lors d'un séjour à l'étranger, dérobé les documents d'identité et le titre de séjour.
 
@@ -269,11 +298,13 @@ Un visa de retour est délivré par les autorités consulaires françaises à la
 ##### Section 3 : Justificatif d'hébergement
 
 ##### Article L211-3
+{:.no_toc}
 
 Tout étranger qui déclare vouloir séjourner en France pour une durée n'excédant pas trois mois dans le cadre d'une visite familiale ou privée doit présenter un justificatif d'hébergement. Ce justificatif prend la forme d'une attestation d'accueil signée par la personne qui se propose d'assurer le logement de l'étranger, ou son représentant légal, et validée par l'autorité administrative. Cette attestation d'accueil constitue le document prévu par la convention signée à Schengen le 19 juin 1990 pour justifier les conditions de séjour dans le cas d'une visite familiale ou privée.
 
 
 ##### Article L211-4
+{:.no_toc}
 
 L'attestation d'accueil, signée par l'hébergeant et accompagnée des pièces justificatives déterminées par décret en Conseil d'Etat, est présentée pour validation au maire de la commune du lieu d'hébergement ou, à Paris, Lyon et Marseille, au maire d'arrondissement, agissant en qualité d'agent de l'Etat.
 
@@ -281,6 +312,7 @@ Elle est accompagnée de l'engagement de l'hébergeant de prendre en charge, pen
 
 
 ##### Article L211-5
+{:.no_toc}
 
 Le maire peut refuser de valider l'attestation d'accueil dans les cas suivants :
 
@@ -294,11 +326,13 @@ Le maire peut refuser de valider l'attestation d'accueil dans les cas suivants :
 
 
 ##### Article L211-6
+{:.no_toc}
 
 A la demande du maire, des agents spécialement habilités des services de la commune chargés des affaires sociales ou du logement ou de l'Office français de l'immigration et de l'intégration peuvent procéder à des vérifications sur place. Les agents qui sont habilités à procéder à ces vérifications ne peuvent pénétrer chez l'hébergeant qu'après s'être assurés du consentement, donné par écrit, de celui-ci. En cas de refus de l'hébergeant, les conditions d'un accueil dans des conditions normales de logement sont réputées non remplies.
 
 
 ##### Article L211-7
+{:.no_toc}
 
 Les demandes de validation des attestations d'accueil peuvent être mémorisées et faire l'objet d'un traitement automatisé afin de lutter contre les détournements de procédure. Les fichiers correspondants sont mis en place par les maires, selon des dispositions déterminées par un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés.
 
@@ -306,16 +340,19 @@ Ce décret précise la durée de conservation et les conditions de mise à jour 
 
 
 ##### Article L211-8
+{:.no_toc}
 
 Chaque demande de validation d'une attestation d'accueil donne lieu à la perception d'une taxe d'un montant de 30 euros acquittée par l'hébergeant. Cette taxe est recouvrée comme en matière de droit de timbre. Le produit de cette taxe est affecté à l'Office français de l'immigration et de l'intégration dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
 
 
 ##### Article L211-9
+{:.no_toc}
 
 Pour les séjours visés par la présente section, l'obligation d'assurance prévue au 2° de l'article [L. 211-1](#article-l211-1) peut être satisfaite par une assurance ayant la même portée souscrite au profit de l'étranger par la personne qui se propose de l'héberger.
 
 
 ##### Article L211-10
+{:.no_toc}
 
 Un décret en Conseil d'Etat fixe les conditions d'application de la présente section, notamment les conditions dans lesquelles l'étranger peut être dispensé du justificatif d'hébergement en cas de séjour à caractère humanitaire ou d'échange culturel, ou lorsqu'il demande à se rendre en France pour une cause médicale urgente ou en raison des obsèques ou de la maladie grave d'un proche.
 
@@ -325,11 +362,13 @@ Un décret en Conseil d'Etat fixe les conditions d'application de la présente s
 #### Chapitre II : Dispenses
 
 #### Article L212-1
+{:.no_toc}
 
 Par dérogation aux dispositions de l'article [L. 211-1](#article-l211-1), les étrangers titulaires d'un titre de séjour ou du document de circulation délivré aux mineurs en application de l'article [L. 321-4](#article-l321-4) sont admis sur le territoire au seul vu de ce titre et d'un document de voyage.
 
 
 #### Article L212-2
+{:.no_toc}
 
 Les documents mentionnés aux 2° et 3° de l'article [L. 211-1](#article-l211-1) ne sont pas exigés :
 
@@ -343,11 +382,13 @@ Les documents mentionnés aux 2° et 3° de l'article [L. 211-1](#article-l211-1
 #### Chapitre III : Refus d'entrée
 
 #### Article L213-1
+{:.no_toc}
 
 L'accès au territoire français peut être refusé à tout étranger dont la présence constituerait une menace pour l'ordre public ou qui fait l'objet soit d'une peine d'interdiction judiciaire du territoire, soit d'un arrêté d'expulsion, soit d'une interdiction de retour sur le territoire français, soit d'une interdiction de circulation sur le territoire français, soit d'une interdiction administrative du territoire.
 
 
 #### Article L213-2
+{:.no_toc}
 
 Tout refus d'entrée en France fait l'objet d'une décision écrite motivée prise, sauf en cas de demande d'asile, par un agent relevant d'une catégorie fixée par voie réglementaire.
 
@@ -359,16 +400,19 @@ La décision prononçant le refus d'entrée peut être exécutée d'office par l
 
 
 #### Article L213-3
+{:.no_toc}
 
 Les dispositions de l'article [L. 213-2](#article-l213-2) sont applicables à l'étranger qui n'est pas ressortissant d'un Etat membre de l'Union européenne à qui l'entrée sur le territoire métropolitain a été refusée en application de l'article 5 du règlement (CE) n° 562/2006 du Parlement européen et du Conseil, du 15 mars 2006, établissant un code communautaire relatif au régime de franchissement des frontières par les personnes (code frontières Schengen).
 
 
 #### Article L213-4
+{:.no_toc}
 
 Lorsque l'entrée en France est refusée à un étranger non ressortissant d'un Etat membre de l'Union européenne, l'entreprise de transport aérien ou maritime qui l'a acheminé est tenue de ramener sans délai, à la requête des autorités chargées du contrôle des personnes à la frontière, cet étranger au point où il a commencé à utiliser le moyen de transport de cette entreprise, ou, en cas d'impossibilité, dans l'Etat qui a délivré le document de voyage avec lequel il a voyagé ou en tout autre lieu où il peut être admis.
 
 
 #### Article L213-5
+{:.no_toc}
 
 L'obligation de réacheminer un étranger prévue à l'article [L. 213-4](#article-l213-4) est applicable, en cas de transit aérien ou maritime :
 
@@ -378,16 +422,19 @@ L'obligation de réacheminer un étranger prévue à l'article [L. 213-4](#artic
 
 
 #### Article L213-6
+{:.no_toc}
 
 Lorsqu'un refus d'entrée a été prononcé, et à compter de cette décision, les frais de prise en charge de l'étranger non ressortissant d'un Etat membre de l'Union européenne, pendant le délai nécessaire à son réacheminement, ainsi que les frais de réacheminement, incombent à l'entreprise de transport qui l'a débarqué en France.
 
 
 #### Article L213-7
+{:.no_toc}
 
 Les dispositions des articles [L. 213-4](#article-l213-4) et [L. 213-6](#article-l213-6) sont applicables à l'entreprise de transport routier exploitant des liaisons internationales sous la forme de lignes régulières, de services occasionnels ou de navette, à l'exclusion des trafics frontaliers.
 
 
 #### Article L213-8
+{:.no_toc}
 
 Lorsque l'entrée en France est refusée à un étranger non ressortissant de l'Union européenne, l'entreprise de transport ferroviaire qui l'a acheminé est tenue, à la requête des autorités chargées du contrôle des personnes à la frontière, de mettre à la disposition de ces autorités des places permettant le réacheminement de cet étranger au-delà de la frontière française.
 
@@ -395,6 +442,7 @@ Les dispositions de l'article [L. 213-6](#article-l213-6) sont applicables à l'
 
 
 #### Article L213-8-1
+{:.no_toc}
 
 La décision de refuser l'entrée en France à un étranger qui se présente à la frontière et demande à bénéficier du droit d'asile ne peut être prise par le ministre chargé de l'immigration que si :
 
@@ -414,11 +462,13 @@ L'étranger autorisé à entrer en France au titre de l'asile est muni sans dél
 
 
 #### Article L213-8-2
+{:.no_toc}
 
 Le 1° de l'article [L. 213-8-1](#article-l213-8-1) n'est pas applicable en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Pierre-et-Miquelon, à Saint-Barthélemy et à Saint-Martin.
 
 
 #### Article L213-9
+{:.no_toc}
 
 L'étranger qui a fait l'objet d'un refus d'entrée sur le territoire français au titre de l'asile et, le cas échéant, d'une décision de transfert mentionnée à l'article [L. 742-3](#article-l742-3) peut, dans les quarante-huit heures suivant la notification de ces décisions, en demander l'annulation au président du tribunal administratif.
 
@@ -446,16 +496,19 @@ La décision de refus d'entrée au titre de l'asile et, le cas échéant, la dé
 #### Chapitre IV : Interdiction administrative du territoire
 
 #### Article L214-1
+{:.no_toc}
 
 Tout ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ou tout membre de la famille d'une telle personne peut, dès lors qu'il ne réside pas habituellement en France et ne se trouve pas sur le territoire national, faire l'objet d'une interdiction administrative du territoire lorsque sa présence en France constituerait, en raison de son comportement personnel, du point de vue de l'ordre ou de la sécurité publics, une menace réelle, actuelle et suffisamment grave pour un intérêt fondamental de la société.
 
 
 #### Article L214-2
+{:.no_toc}
 
 Tout ressortissant étranger non mentionné à l'article [L. 214-1](#article-l214-1) peut, dès lors qu'il ne réside pas habituellement en France et ne se trouve pas sur le territoire national, faire l'objet d'une interdiction administrative du territoire lorsque sa présence en France constituerait une menace grave pour l'ordre public, la sécurité intérieure ou les relations internationales de la France.
 
 
 #### Article L214-3
+{:.no_toc}
 
 L'interdiction administrative du territoire fait l'objet d'une décision du ministre de l'intérieur écrite et rendue après une procédure non contradictoire. Elle est motivée, à moins que des considérations relevant de la sûreté de l'Etat ne s'y opposent.
 
@@ -465,6 +518,7 @@ Lorsque la décision a été prise en application de l'article [L. 214-1](#artic
 
 
 #### Article L214-4
+{:.no_toc}
 
 L'étranger qui fait l'objet d'une interdiction administrative du territoire et qui s'apprête à entrer en France peut faire l'objet d'un refus d'entrée, dans les conditions prévues au chapitre III du présent titre.
 
@@ -474,21 +528,25 @@ L'autorité administrative peut demander au juge des libertés et de la détenti
 
 
 #### Article L214-5
+{:.no_toc}
 
 L'autorité administrative peut à tout moment abroger l'interdiction administrative du territoire. L'étranger peut introduire une demande de levée de la mesure après un délai d'un an à compter de son prononcé. Le silence gardé pendant plus de quatre mois sur la demande de levée vaut décision de rejet.
 
 
 #### Article L214-6
+{:.no_toc}
 
 Sans préjudice des dispositions de l'article [L. 214-5](#article-l214-5), les motifs de l'interdiction administrative du territoire donnent lieu à un réexamen tous les cinq ans à compter de la date de la décision.
 
 
 #### Article L214-7
+{:.no_toc}
 
 Le second alinéa de l'article [L. 214-4](#article-l214-4) n'est pas applicable à l'étranger mineur.
 
 
 #### Article L214-8
+{:.no_toc}
 
 Les articles [L. 214-1](#article-l214-1), [L. 214-2](#article-l214-2), [L. 214-3](#article-l214-3), [L. 214-5](#article-l214-5) et [L. 214-6](#article-l214-6) sont applicables sur l'ensemble du territoire de la République.
 
@@ -500,6 +558,7 @@ Au sens des dispositions des articles [L. 214-1](#article-l214-1) à [L. 214-3](
 #### Chapitre Ier : Conditions du maintien en zone d'attente
 
 #### Article L221-1
+{:.no_toc}
 
 L'étranger qui arrive en France par la voie ferroviaire, maritime ou aérienne et qui n'est pas autorisé à entrer sur le territoire français peut être maintenu dans une zone d'attente située dans une gare ferroviaire ouverte au trafic international figurant sur une liste définie par voie réglementaire, dans un port ou à proximité du lieu de débarquement ou dans un aéroport, pendant le temps strictement nécessaire à son départ.
 
@@ -517,6 +576,7 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 
 #### Article L221-2
+{:.no_toc}
 
 La zone d'attente est délimitée par l'autorité administrative compétente. Elle s'étend des points d'embarquement et de débarquement à ceux où sont effectués les contrôles des personnes. Elle peut inclure, sur l'emprise, ou à proximité, de la gare, du port ou de l'aéroport ou à proximité du lieu de débarquement, un ou plusieurs lieux d'hébergement assurant aux étrangers concernés des prestations de type hôtelier. Dans ces lieux d'hébergement, un espace permettant aux avocats de s'entretenir confidentiellement avec les étrangers est prévu. A cette fin, sauf en cas de force majeure, il est accessible en toutes circonstances sur demande de l'avocat.
 
@@ -528,6 +588,7 @@ Sont matériellement distincts et séparés les locaux qui ne relèvent pas de l
 
 
 #### Article L221-2-1
+{:.no_toc}
 
 Le dernier alinéa de l'article [L. 221-2](#article-l221-2) n'est pas applicable à Mayotte pendant cinq ans à compter de la publication de l'ordonnance n° 2014-464 du 7 mai 2014 portant extension et adaptation à Mayotte du code de l'entrée et du séjour des étrangers et du droit d'asile (partie législative).
 
@@ -535,6 +596,7 @@ Lorsque le lieu d'hébergement prévu à l'article [L. 221-2](#article-l221-2) e
 
 
 #### Article L221-3
+{:.no_toc}
 
 Le maintien en zone d'attente est prononcé pour une durée qui ne peut excéder quatre jours par une décision écrite et motivée d'un agent relevant d'une catégorie fixée par voie réglementaire.
 
@@ -542,6 +604,7 @@ Cette décision est inscrite sur un registre mentionnant l'état civil de l'int�
 
 
 #### Article L221-4
+{:.no_toc}
 
 L'étranger maintenu en zone d'attente est informé, dans les meilleurs délais, qu'il peut demander l'assistance d'un interprète et d'un médecin, communiquer avec un conseil ou toute personne de son choix et quitter à tout moment la zone d'attente pour toute destination située hors de France. Il est également informé des droits qu'il est susceptible d'exercer en matière de demande d'asile. Ces informations lui sont communiquées dans une langue qu'il comprend. Mention en est faite sur le registre mentionné au deuxième alinéa de l'article [L. 221-3](#article-l221-3), qui est émargé par l'intéressé.
 
@@ -551,6 +614,7 @@ Lorsque l'étranger ne parle pas le français, il est fait application de l'arti
 
 
 #### Article L221-5
+{:.no_toc}
 
 Lorsqu'un étranger mineur non accompagné d'un représentant légal n'est pas autorisé à entrer en France, le procureur de la République, avisé immédiatement par l'autorité administrative, lui désigne sans délai un administrateur ad hoc. Celui-ci assiste le mineur durant son maintien en zone d'attente et assure sa représentation dans le cadre des procédures administratives et juridictionnelles relatives à ce maintien.
 
@@ -560,6 +624,7 @@ L'administrateur ad hoc est désigné par le procureur de la république compét
 
 
 #### Article L221-6
+{:.no_toc}
 
 Sous réserve de ne pas porter atteinte à la dignité des personnes et aux exigences de sécurité et de bon fonctionnement de la zone d'attente, les journalistes titulaires de la carte d'identité professionnelle mentionnée à l'article L. 7111-6 du code du travail peuvent être autorisés à y accéder dans des conditions fixées par décret en Conseil d'Etat.
 
@@ -571,11 +636,13 @@ Les prises d'images et de son des étrangers, des personnels et des intervenants
 ##### Section 1 : Décision du juge des libertés et de la détention
 
 ##### Article L222-1
+{:.no_toc}
 
 Le maintien en zone d'attente au-delà de quatre jours à compter de la décision initiale peut être autorisé, par le juge des libertés et de la détention statuant sur l'exercice effectif des droits reconnus à l'étranger, pour une durée qui ne peut être supérieure à huit jours.
 
 
 ##### Article L222-2
+{:.no_toc}
 
 A titre exceptionnel ou en cas de volonté délibérée de l'étranger de faire échec à son départ, le maintien en zone d'attente au-delà de douze jours peut être renouvelé, dans les conditions prévues au présent chapitre, par le juge des libertés et de la détention, pour une durée qu'il détermine et qui ne peut être supérieure à huit jours.
 
@@ -585,6 +652,7 @@ Lorsqu'un étranger dont l'entrée sur le territoire français au titre de l'asi
 
 
 ##### Article L222-3
+{:.no_toc}
 
 L'autorité administrative expose dans sa saisine les raisons pour lesquelles l'étranger n'a pu être rapatrié ou, s'il a demandé l'asile, admis, et le délai nécessaire pour assurer son départ de la zone d'attente.
 
@@ -598,6 +666,7 @@ A peine d'irrecevabilité, prononcée d'office, aucune irrégularité antérieur
 
 
 ##### Article L222-4
+{:.no_toc}
 
 Le juge des libertés et de la détention statue au siège du tribunal de grande instance. Toutefois, si une salle d'audience attribuée au ministère de la justice lui permettant de statuer publiquement a été spécialement aménagée sur l'emprise ferroviaire, portuaire ou aéroportuaire, il statue dans cette salle.
 
@@ -611,6 +680,7 @@ L'étranger est maintenu à disposition de la justice dans des conditions fixée
 
 
 ##### Article L222-5
+{:.no_toc}
 
 Si l'ordonnance met fin au maintien en zone d'attente, elle est immédiatement notifiée au procureur de la République. A moins que le procureur de la République n'en dispose autrement, l'étranger est alors maintenu à la disposition de la justice pendant un délai de six heures à compter de la notification de l'ordonnance au procureur de la République.
 
@@ -618,6 +688,7 @@ Si l'ordonnance met fin au maintien en zone d'attente, elle est immédiatement n
 ##### Section 2 : Voies de recours
 
 ##### Article L222-6
+{:.no_toc}
 
 L'ordonnance est susceptible d'appel devant le premier président de la cour d'appel ou son délégué. Celui-ci est saisi sans forme et doit statuer dans les quarante-huit heures de sa saisine. Par décision du premier président de la cour d'appel ou de son délégué, prise sur une proposition de l'autorité administrative à laquelle l'étranger dûment informé dans une langue qu'il comprend ne s'est pas opposé, l'audience peut se dérouler avec l'utilisation de moyens de télécommunication audiovisuelle dans les conditions prévues au troisième alinéa de l'article [L. 222-4](#article-l222-4). Le droit d'appel appartient à l'intéressé, au ministère public et au représentant de l'Etat dans le département. L'appel n'est pas suspensif.
 
@@ -627,11 +698,13 @@ Toutefois, le ministère public peut demander au premier président de la cour d
 ##### Section 3 : Dispositions communes
 
 ##### Article L222-7
+{:.no_toc}
 
 Sont à la charge de l'Etat et sans recours contre l'étranger, dans les conditions prévues pour les frais de justice criminelle, correctionnelle ou de police, les honoraires et indemnités des interprètes désignés pour l'assister au cours de la procédure juridictionnelle de maintien en zone d'attente prévue par le présent titre.
 
 
 ##### Article L222-8
+{:.no_toc}
 
 En cas de violation des formes prescrites par la loi à peine de nullité ou d'inobservation des formalités substantielles, toute juridiction, y compris la Cour de cassation, qui est saisie d'une demande d'annulation ou qui relève d'office une telle irrégularité ne peut prononcer la mainlevée de la mesure de maintien en zone d'attente que lorsque celle-ci a eu pour effet de porter atteinte aux droits de l'étranger.
 
@@ -639,6 +712,7 @@ En cas de violation des formes prescrites par la loi à peine de nullité ou d'i
 #### Chapitre III : Contrôle des droits des étrangers maintenus en zone d'attente
 
 #### Article L223-1
+{:.no_toc}
 
 Pendant toute la durée du maintien en zone d'attente, l'étranger dispose des droits qui lui sont reconnus à l'article [L. 221-4](#article-l221-4). Le procureur de la République ainsi que, à l'issue des quatre premiers jours, le juge des libertés et de la détention peuvent se rendre sur place pour vérifier les conditions de ce maintien et se faire communiquer le registre mentionné à l'article [L. 221-3](#article-l221-3). Le procureur de la République visite les zones d'attente chaque fois qu'il l'estime nécessaire et au moins une fois par an. Tout administrateur ad hoc désigné en application des dispositions de l'article [L. 221-5](#article-l221-5) doit, pendant la durée du maintien en zone d'attente du mineur qu'il assiste, se rendre sur place.
 
@@ -649,11 +723,13 @@ Un décret en Conseil d'Etat détermine les conditions d'accès aux zones d'atte
 #### Chapitre IV : Sortie de la zone d'attente
 
 #### Article L224-1
+{:.no_toc}
 
 Si le maintien en zone d'attente n'est pas prolongé au terme du délai fixé par la dernière décision de maintien, l'étranger est autorisé à entrer en France sous le couvert d'un visa de régularisation de huit jours. Il devra avoir quitté ce territoire à l'expiration de ce délai, sauf s'il obtient une autorisation provisoire de séjour ou un récépissé de demande de carte de séjour ou une attestation de demande d'asile lui permettant d'introduire sa demande d'asile.
 
 
 #### Article L224-2
+{:.no_toc}
 
 Si le départ de l'étranger ne peut être réalisé à partir de la gare, du port ou de l'aéroport dont dépend la zone d'attente dans laquelle il est maintenu, l'étranger peut être transféré vers toute zone d'attente d'une gare, d'un port ou d'un aéroport à partir desquels son départ peut effectivement avoir lieu.
 
@@ -661,6 +737,7 @@ En cas de nécessité, l'étranger peut également être transféré dans une zo
 
 
 #### Article L224-3
+{:.no_toc}
 
 Lorsque la décision de transfert doit intervenir dans le délai de quatre jours à compter de la décision initiale de maintien en zone d'attente, elle est prise dans les conditions prévues à l'article [L. 221-3](#article-l221-3).
 
@@ -668,6 +745,7 @@ Lorsque le transfert est envisagé alors que le délai de quatre jours à compte
 
 
 #### Article L224-4
+{:.no_toc}
 
 Dans les cas où la prolongation ou le renouvellement du maintien en zone d'attente ont été accordés, l'autorité administrative informe le juge des libertés et de la détention ainsi que le procureur de la République de la nécessité de transférer l'étranger dans une autre zone d'attente et procède à ce transfert.
 
@@ -685,6 +763,7 @@ L'autorité administrative avise immédiatement de l'arrivée de l'étranger dan
 ##### Section 1 : Dispositions relatives aux documents de séjour
 
 ##### Article L311-1
+{:.no_toc}
 
 Sous réserve des engagements internationaux de la France ou de l'article [L. 121-1](#article-l121-1), tout étranger âgé de plus de dix-huit ans qui souhaite séjourner en France pour une durée supérieure à trois mois doit être titulaire de l'un des documents de séjour suivants :
 
@@ -704,11 +783,13 @@ L'étranger qui séjourne au titre de l'un des documents mentionnés aux 2° et 
 
 
 ##### Article L311-3
+{:.no_toc}
 
 Les étrangers âgés de seize à dix-huit ans qui déclarent vouloir exercer une activité professionnelle reçoivent, de plein droit, une carte de séjour temporaire s'ils remplissent les conditions prévues à l'article [L. 313-11](#article-l313-11), la carte de séjour portant la mention " passeport talent (famille) " s'ils remplissent les conditions prévues à l'article [L. 313-21](#article-l313-21) ou une carte de résident s'ils remplissent les conditions prévues à l'article [L. 314-11](#article-l314-11). Ils peuvent, dans les autres cas, solliciter une carte de séjour temporaire ou une carte de résident en application des articles [L. 314-8](#article-l314-8) et [L. 314-9](#article-l314-9).
 
 
 ##### Article L311-4
+{:.no_toc}
 
 La détention d'une attestation de demande de délivrance ou de renouvellement d'un titre de séjour, d'une attestation de demande d'asile ou d'une autorisation provisoire de séjour autorise la présence de l'étranger en France sans préjuger de la décision définitive qui sera prise au regard de son droit au séjour. Sauf dans les cas expressément prévus par la loi ou les règlements, ces documents n'autorisent pas leurs titulaires à exercer une activité professionnelle.
 
@@ -716,11 +797,13 @@ Entre la date d'expiration de la carte de résident ou d'un titre de séjour d'u
 
 
 ##### Article L311-5
+{:.no_toc}
 
 La délivrance d'une autorisation provisoire de séjour, d'un récépissé de demande de titre de séjour ou d'une attestation mentionnée aux articles [L. 741-1](#article-l741-1), [L. 742-1](#article-l742-1) ou [L. 743-1](#article-l743-1) n'a pas pour effet de régulariser les conditions de l'entrée en France, sauf s'il s'agit d'un étranger qui s'est vu reconnaître la qualité de réfugié ou accorder le bénéfice de la protection subsidiaire en application du livre VII.
 
 
 ##### Article L311-5-1
+{:.no_toc}
 
 L'étranger auquel la qualité de réfugié est reconnue par l'Office français de protection des réfugiés et apatrides ou la Cour nationale du droit d'asile est admis à souscrire une demande de délivrance de carte de résident.
 
@@ -730,6 +813,7 @@ Ce récépissé confère à son titulaire le droit d'exercer la profession de so
 
 
 ##### Article L311-5-2
+{:.no_toc}
 
 L'étranger qui s'est vu accorder le bénéfice de la protection subsidiaire par l'Office français de protection des réfugiés et apatrides ou la Cour nationale du droit d'asile est admis à souscrire une demande de délivrance de carte de séjour.
 
@@ -739,11 +823,13 @@ Ce récépissé confère à son titulaire le droit d'exercer la profession de so
 
 
 ##### Article L311-6
+{:.no_toc}
 
 Lorsqu'une demande d'asile a été définitivement rejetée, l'étranger qui sollicite la délivrance d'une carte de séjour doit justifier, pour obtenir ce titre, qu'il remplit l'ensemble des conditions prévues par le présent code.
 
 
 ##### Article L311-8-1
+{:.no_toc}
 
 Lorsqu'il est mis fin au statut de réfugié ou au bénéfice de la protection subsidiaire par décision définitive de l'Office français de protection des réfugiés et apatrides ou par décision de justice ou lorsque l'étranger renonce à ce statut ou à ce bénéfice, la carte de résident mentionnée au 8° de l'article [L. 314-11](#article-l314-11) ou la carte de séjour temporaire mentionnée à l'article [L. 313-13](#article-l313-13) est retirée.
 
@@ -755,6 +841,7 @@ La carte de résident ou la carte de séjour temporaire ne peut être retirée e
 ##### Section 2 : Dispositions relatives à l'intégration dans la société française
 
 ##### Article L311-9
+{:.no_toc}
 
 L'Etat met, dans le pays d'origine, à la disposition de l'étranger qui souhaite s'installer durablement sur le territoire français une information, dans une langue qu'il comprend, sur la vie en France ainsi que sur les droits et devoirs qui y sont liés.
 
@@ -784,6 +871,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 ##### Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour
 
 ##### Article L311-10
+{:.no_toc}
 
 Une autorisation provisoire de séjour est délivrée à l'étranger qui souhaite effectuer une mission de volontariat en France auprès d'une fondation ou d'une association reconnue d'utilité publique ou d'une association adhérente à une fédération elle-même reconnue d'utilité publique, à la condition que la mission revête un caractère social ou humanitaire, que le contrat de volontariat ait été conclu préalablement à l'entrée en France, que l'association ou la fondation ait attesté de la prise en charge du demandeur, que celui-ci soit en possession d'un visa de long séjour et qu'il ait pris par écrit l'engagement de quitter le territoire à l'issue de sa mission.
 
@@ -791,6 +879,7 @@ L'association ou la fondation mentionnées au premier alinéa font l'objet d'un 
 
 
 ##### Article L311-11
+{:.no_toc}
 
 Une autorisation provisoire de séjour d'une durée de validité de douze mois, non renouvelable, est délivrée à l'étranger ayant obtenu, dans un établissement d'enseignement supérieur habilité au plan national, un diplôme au moins équivalent au grade de master ou figurant sur une liste fixée par décret et qui :
 
@@ -804,6 +893,7 @@ A l'issue de la période de douze mois mentionnée au premier alinéa du présen
 
 
 ##### Article L311-12
+{:.no_toc}
 
 Sauf si leur présence constitue une menace pour l'ordre public, une autorisation provisoire de séjour est délivrée aux parents étrangers de l'étranger mineur qui remplit les conditions mentionnées au 11° de l'article [L. 313-11](#article-l313-11), ou à l'étranger titulaire d'un jugement lui ayant conféré l'exercice de l'autorité parentale sur ce mineur, sous réserve qu'ils justifient résider habituellement en France avec lui et subvenir à son entretien et à son éducation, sans que la condition prévue à l'article [L. 313-2](#article-l313-2) soit exigée.
 
@@ -813,6 +903,7 @@ L'autorisation provisoire de séjour mentionnée au premier alinéa, qui ne peut
 ##### Section 4 : Dispositions fiscales
 
 ##### Article L311-13
+{:.no_toc}
 
 A. - La délivrance d'un premier titre de séjour figurant parmi ceux mentionnés aux 3° à 5° de l'article [L. 311-1](#article-l311-1) donne lieu à la perception, d'une taxe dont le montant est fixé par décret entre 150 euros et 280 euros. Ces limites sont respectivement ramenées à 55 euros et 70 euros pour les étrangers auxquels est délivrée une carte de séjour au titre des articles [L. 313-7](#article-l313-7), [L. 313-7-1](#article-l313-7-1) et [L. 313-7-2](#article-l313-7-2), du 9° de l'article [L. 313-11](#article-l313-11), et du 3° de l'article [L. 314-11](#article-l314-11). Elles sont ramenées à 100 euros et 170 euros pour les étrangers entrés en France au titre du regroupement familial en tant qu'enfants mineurs.
 
@@ -836,11 +927,13 @@ F. - Les modalités d'application du présent article sont précisées, en tant 
 
 
 ##### Article L311-14
+{:.no_toc}
 
 L'article [L. 311-13](#article-l311-13) est applicable, selon les cas, à la demande, à la délivrance, au renouvellement et à la fourniture de duplicata des titres de séjour et des documents de circulation pour étrangers mineurs prévus par les traités ou accords internationaux, sauf stipulations contraires prévues par ces traités ou accords.
 
 
 ##### Article L311-15
+{:.no_toc}
 
 Tout employeur qui embauche un travailleur étranger ou qui accueille un salarié détaché temporairement par une entreprise non établie en France dans les conditions prévues au titre VI du livre II de la première partie du code du travail acquitte, lors de la première entrée en France de cet étranger ou lors de sa première admission au séjour en qualité de salarié, une taxe. Cette taxe est affectée à l'Office français de l'immigration et de l'intégration dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
 
@@ -856,16 +949,19 @@ Les modalités d'application du présent article sont précisées, en tant que d
 
 
 ##### Article L311-16
+{:.no_toc}
 
 Sans préjudice des taxes prévues aux articles [L. 311-13](#article-l311-13) et [L. 311-14](#article-l311-14), la délivrance, le renouvellement, le duplicata ou le changement d'une carte de séjour ou d'un titre équivalent prévu par les traités ou accords internationaux sont soumis à un droit de timbre d'un montant de 19 €.
 
 
 ##### Article L311-17
+{:.no_toc}
 
 Le produit des taxes et des droits prévus aux articles [L. 311-13](#article-l311-13), [L. 311-14](#article-l311-14) et [L. 311-16](#article-l311-16) du présent code, aux IV et V de l'article 953 et aux articles 954 et 958du code général des impôts peut être recouvré par l'Office français de l'immigration et de l'intégration.
 
 
 ##### Article L311-18
+{:.no_toc}
 
 La délivrance et le renouvellement d'un titre de séjour aux étrangers mentionnés aux deuxième et dernière phrases du deuxième alinéa de l'article [L. 313-12](#article-l313-12), aux articles [L. 316-1](#article-l316-1), [L. 316-3](#article-l316-3), [L. 316-4](#article-l316-4) ou au dernier alinéa de l'article [L. 431-2](#article-l431-2) sont exonérés de la perception des taxes prévues aux articles [L. 311-13](#article-l311-13) et [L. 311-14](#article-l311-14) et du droit de timbre prévu à l'article [L. 311-16](#article-l311-16).
 
@@ -873,6 +969,7 @@ La délivrance et le renouvellement d'un titre de séjour aux étrangers mention
 #### Chapitre II : La commission du titre de séjour
 
 #### Article L312-1
+{:.no_toc}
 
 Dans chaque département est instituée une commission du titre de séjour composée :
 
@@ -886,6 +983,7 @@ Dans les départements de plus de 500 000 habitants, une commission peut être i
 
 
 #### Article L312-2
+{:.no_toc}
 
 La commission est saisie par l'autorité administrative lorsque celle-ci envisage de refuser de délivrer ou de renouveler une carte de séjour temporaire à un étranger mentionné à l'article [L. 313-11](#article-l313-11) ou de délivrer une carte de résident à un étranger mentionné aux articles [L. 314-11](#article-l314-11) et [L. 314-12](#article-l314-12), ainsi que dans le cas prévu à l'article [L. 431-3](#article-l431-3).
 
@@ -895,6 +993,7 @@ S'il ne dispose pas d'une carte de séjour temporaire ou si celle-ci est périm�
 
 
 #### Article L312-3
+{:.no_toc}
 
 Les dispositions du présent chapitre ne sont pas applicables en Guyane, à Mayotte et à Saint-Martin.
 
@@ -904,6 +1003,7 @@ Les dispositions du présent chapitre ne sont pas applicables en Guyane, à Mayo
 ##### Section 1 : Dispositions générales
 
 ##### Article L313-1
+{:.no_toc}
 
 La durée de validité de la carte de séjour temporaire ne peut être supérieure à un an et ne peut dépasser la durée de validité des documents et visas mentionnés à l'article [L. 211-1](#article-l211-1) du présent code.
 
@@ -913,6 +1013,7 @@ A l'expiration de la durée de validité de sa carte, l'étranger doit quitter l
 
 
 ##### Article L313-2
+{:.no_toc}
 
 Sous réserve des engagements internationaux de la France et des exceptions prévues par les dispositions législatives du présent code, la première délivrance de la carte de séjour temporaire et celle de la carte de séjour pluriannuelle mentionnée aux articles [L. 313-20](#article-l313-20), [L. 313-21](#article-l313-21), [L. 313-23](#article-l313-23) et [L. 313-24](#article-l313-24) sont subordonnées à la production par l'étranger du visa de long séjour mentionné aux 1° ou 2° de l'article [L. 311-1](#article-l311-1).
 
@@ -920,11 +1021,13 @@ Le cas échéant, la carte de séjour pluriannuelle mentionnée aux articles [L.
 
 
 ##### Article L313-3
+{:.no_toc}
 
 La carte de séjour temporaire ou la carte de séjour pluriannuelle peut, par une décision motivée, être refusée ou retirée à tout étranger dont la présence en France constitue une menace pour l'ordre public.
 
 
 ##### Article L313-4-1
+{:.no_toc}
 
 L'étranger titulaire de la carte de résident de longue durée-UE définie par les dispositions communautaires applicables en cette matière et accordée dans un autre Etat membre de l'Union européenne qui justifie de ressources stables et suffisantes pour subvenir à ses besoins et, le cas échéant, à ceux de sa famille ainsi que d'une assurance maladie obtient, sous réserve qu'il en fasse la demande dans les trois mois qui suivent son entrée en France et sans que la condition prévue à l'article [L. 313-2](#article-l313-2) soit exigée :
 
@@ -946,6 +1049,7 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 
 ##### Article L313-5
+{:.no_toc}
 
 La carte de séjour temporaire ou la carte de séjour pluriannuelle peut être retirée à l'étranger ayant commis les faits qui l'exposent à l'une des condamnations prévues aux articles 222-34 à 222-40,224-1-A à 224-1-C, 225-4-1 à 225-4-4,225-4-7,225-5 à 225-11,225-12-1 et 225-12-2,225-12-5 à 225-12-7,225-13 à 225-15, au 7° de l'article 311-4 et aux articles 312-12-1 et 321-6-1 du code pénal.
 
@@ -957,6 +1061,7 @@ La carte de séjour temporaire prévue à l'article [L. 313-7](#article-l313-7) 
 
 
 ##### Article L313-5-1
+{:.no_toc}
 
 L'étranger titulaire d'une carte de séjour temporaire ou d'une carte de séjour pluriannuelle doit être en mesure de justifier qu'il continue de remplir les conditions requises pour la délivrance de cette carte. L'autorité administrative peut procéder aux vérifications utiles pour s'assurer du maintien du droit au séjour de l'intéressé et, à cette fin, convoquer celui-ci à un ou plusieurs entretiens.
 
@@ -970,6 +1075,7 @@ N'est pas regardé comme ayant cessé de remplir la condition d'activité prévu
 ###### Sous-section 1 : La carte de séjour temporaire portant la mention "visiteur"
 
 ###### Article L313-6
+{:.no_toc}
 
 La carte de séjour temporaire délivrée à l'étranger qui apporte la preuve qu'il peut vivre de ses seules ressources et qui prend l'engagement de n'exercer en France aucune activité professionnelle porte la mention "visiteur".
 
@@ -977,6 +1083,7 @@ La carte de séjour temporaire délivrée à l'étranger qui apporte la preuve q
 ###### Sous-section 2 : La carte de séjour temporaire portant la mention "étudiant"
 
 ###### Article L313-7
+{:.no_toc}
 
 I.-La carte de séjour temporaire accordée à l'étranger qui établit qu'il suit en France un enseignement ou qu'il y fait des études et qui justifie qu'il dispose de moyens d'existence suffisants porte la mention "étudiant". En cas de nécessité liée au déroulement des études ou lorsque l'étranger a suivi sans interruption une scolarité en France depuis l'âge de seize ans et y poursuit des études supérieures, l'autorité administrative peut accorder cette carte de séjour sans que la condition prévue à l'article [L. 313-2](#article-l313-2) soit exigée et sous réserve d'une entrée régulière en France.
 
@@ -1002,6 +1109,7 @@ Un décret en Conseil d'Etat précise les conditions d'application des dispositi
 ###### Sous-section 2 bis : Dispositions particulières applicables aux étrangers stagiaires
 
 ###### Article L313-7-1
+{:.no_toc}
 
 La carte de séjour temporaire accordée à l'étranger qui établit qu'il suit en France un stage dans le cadre d'une convention de stage visée par l'autorité administrative compétente et qu'il dispose de moyens d'existence suffisants porte la mention "stagiaire". En cas de nécessité liée au déroulement du stage, et sous réserve d'une entrée régulière en France, l'autorité administrative peut accorder cette carte de séjour sans que la condition prévue à l'article [L. 313-2](#article-l313-2) soit exigée.
 
@@ -1011,6 +1119,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application des dispositions 
 
 
 ###### Article L313-7-2
+{:.no_toc}
 
 I.-La carte de séjour temporaire est accordée à l'étranger qui vient en France, dans le cadre d'une convention de stage visée par l'autorité administrative compétente, effectuer un stage dans un établissement ou une entreprise du groupe qui l'emploie, s'il justifie d'une ancienneté d'au moins trois mois dans celui-ci, de moyens suffisants et d'un diplôme de l'enseignement supérieur. Elle porte la mention " stagiaire ICT ".
 
@@ -1030,6 +1139,7 @@ La carte de séjour temporaire portant la mention " stagiaire mobile ICT (famill
 ###### Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle
 
 ###### Article L313-10
+{:.no_toc}
 
 Une carte de séjour temporaire, d'une durée maximale d'un an, autorisant l'exercice d'une activité professionnelle est délivrée à l'étranger :
 
@@ -1049,6 +1159,7 @@ La carte de séjour prévue aux 1° ou 2° du présent article est délivrée, s
 ###### Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale"
 
 ###### Article L313-11
+{:.no_toc}
 
 Sauf si sa présence constitue une menace pour l'ordre public, la carte de séjour temporaire portant la mention "vie privée et familiale" est délivrée de plein droit :
 
@@ -1078,6 +1189,7 @@ Sauf si sa présence constitue une menace pour l'ordre public, la carte de séjo
 
 
 ###### Article L313-11-1
+{:.no_toc}
 
 I. - La carte de séjour temporaire prévue à l'article [L. 313-11](#article-l313-11) est délivrée, sous réserve qu'il en fasse la demande dans les trois mois qui suivent son entrée en France et sans que la condition prévue à l'article [L. 313-2](#article-l313-2) soit exigée, au conjoint d'un étranger titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et d'une carte de séjour temporaire délivrée en application de l'article [L. 313-4-1](#article-l313-4-1), s'il justifie avoir résidé légalement avec le résident de longue durée-UE dans l'autre Etat membre, disposer de ressources stables et suffisantes ainsi que d'une assurance maladie.
 
@@ -1099,6 +1211,7 @@ V. - Un décret en Conseil d'Etat précise les conditions d'application du prés
 
 
 ###### Article L313-12
+{:.no_toc}
 
 La carte délivrée au titre de l'article [L. 313-11](#article-l313-11) donne droit à l'exercice d'une activité professionnelle.
 
@@ -1110,6 +1223,7 @@ La carte de séjour délivrée au titre de l'article [L. 313-11-1](#article-l313
 
 
 ###### Article L313-13
+{:.no_toc}
 
 Sauf si leur présence constitue une menace pour l'ordre public, la carte de séjour temporaire mentionnée à l'article [L. 313-11](#article-l313-11) est délivrée de plein droit :
 
@@ -1131,6 +1245,7 @@ Le délai pour la délivrance de la carte de séjour temporaire après la décis
 ###### Sous-section 7 : L'admission exceptionnelle au séjour
 
 ###### Article L313-14
+{:.no_toc}
 
 La carte de séjour temporaire mentionnée à l'article [L. 313-11](#article-l313-11) ou la carte de séjour temporaire mentionnée aux 1° et 2° de l'article [L. 313-10](#article-l313-10) peut être délivrée, sauf si sa présence constitue une menace pour l'ordre public, à l'étranger ne vivant pas en état de polygamie dont l'admission au séjour répond à des considérations humanitaires ou se justifie au regard des motifs exceptionnels qu'il fait valoir, sans que soit opposable la condition prévue à l'article [L. 313-2](#article-l313-2).
 
@@ -1138,11 +1253,13 @@ L'autorité administrative est tenue de soumettre pour avis à la commission men
 
 
 ###### Article L313-15
+{:.no_toc}
 
 A titre exceptionnel et sauf si sa présence constitue une menace pour l'ordre public, la carte de séjour temporaire prévue aux 1° et 2° de l'article [L. 313-10](#article-l313-10) portant la mention "salarié" ou la mention "travailleur temporaire" peut être délivrée, dans l'année qui suit son dix-huitième anniversaire, à l'étranger qui a été confié à l'aide sociale à l'enfance entre l'âge de seize ans et l'âge de dix-huit ans et qui justifie suivre depuis au moins six mois une formation destinée à lui apporter une qualification professionnelle, sous réserve du caractère réel et sérieux du suivi de cette formation, de la nature de ses liens avec sa famille restée dans le pays d'origine et de l'avis de la structure d'accueil sur l'insertion de cet étranger dans la société française. Le respect de la condition prévue à l'article [L. 313-2](#article-l313-2) n'est pas exigé.
 
 
 ###### Article L313-16
+{:.no_toc}
 
 La présente sous-section n'est pas applicable à Mayotte.
 
@@ -1152,6 +1269,7 @@ La présente sous-section n'est pas applicable à Mayotte.
 ###### Sous-section 1 : La carte de séjour pluriannuelle générale délivrée après un premier document de séjour
 
 ###### Article L313-17
+{:.no_toc}
 
 I.-Au terme d'une première année de séjour régulier en France accompli au titre de l'un des documents mentionnés aux 2° et 3° de l'article [L. 311-1](#article-l311-1), l'étranger bénéficie, à sa demande, d'une carte de séjour pluriannuelle dès lors que :
 
@@ -1167,6 +1285,7 @@ II.-L'étranger bénéficie, à sa demande, du renouvellement de la carte de sé
 
 
 ###### Article L313-18
+{:.no_toc}
 
 La carte de séjour pluriannuelle a une durée de validité de quatre ans, sauf lorsqu'elle est délivrée :
 
@@ -1178,6 +1297,7 @@ La carte de séjour pluriannuelle a une durée de validité de quatre ans, sauf 
 
 
 ###### Article L313-19
+{:.no_toc}
 
 I.-L'étranger qui sollicite la délivrance ou le renouvellement d'une carte de séjour pluriannuelle sur un autre fondement que celui au titre duquel a été délivrée la carte de séjour dont il est titulaire bénéficie de la carte de séjour demandée lorsque les conditions de délivrance de la carte de séjour, prévues à la section 2 du présent chapitre, correspondant au motif de séjour invoqué, sont remplies.
 
@@ -1191,6 +1311,7 @@ III.-Lorsque l'étranger sollicite la délivrance d'une première carte de séjo
 ###### Sous-section 2 : La carte de séjour pluriannuelle portant la mention "passeport talent"
 
 ###### Article L313-20
+{:.no_toc}
 
 La carte de séjour pluriannuelle portant la mention "passeport talent", d'une durée maximale de quatre ans, est délivrée, dès sa première admission au séjour :
 
@@ -1226,6 +1347,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 
 ###### Article L313-21
+{:.no_toc}
 
 La carte de séjour pluriannuelle portant la mention "passeport talent (famille)" est délivrée de plein droit, s'il est âgé d'au moins dix-huit ans, au conjoint de l'étranger mentionné à l'article [L. 313-20](#article-l313-20) ainsi qu'à ses enfants entrés mineurs en France, dans l'année qui suit leur dix-huitième anniversaire ou lorsqu'ils entrent dans les prévisions de l'article [L. 311-3](#article-l311-3), sous réserve du respect de la condition prévue à l'article [L. 313-2](#article-l313-2). La durée de cette carte est égale à la période de validité restant à courir de la carte de séjour de leur conjoint ou parent.
 
@@ -1235,6 +1357,7 @@ La carte de séjour pluriannuelle portant la mention "passeport talent (famille)
 
 
 ###### Article L313-22
+{:.no_toc}
 
 L'étranger titulaire d'un document de séjour délivré sur un autre fondement que celui de la carte de séjour pluriannuelle mentionnée aux articles [L. 313-20](#article-l313-20) et [L. 313-21](#article-l313-21) bénéficie de la délivrance de cette carte lorsqu'il en fait la demande et en remplit les conditions.
 
@@ -1242,6 +1365,7 @@ L'étranger titulaire d'un document de séjour délivré sur un autre fondement 
 ###### Sous-section 3 : La carte de séjour pluriannuelle portant la mention "travailleur saisonnier"
 
 ###### Article L313-23
+{:.no_toc}
 
 Une carte de séjour d'une durée maximale de trois ans, renouvelable, autorisant l'exercice d'une activité professionnelle est délivrée, dès sa première admission au séjour, à l'étranger pour l'exercice d'un emploi à caractère saisonnier, défini au 3° de l'article L. 1242-2 du code du travail, dans les conditions prévues à l'article L. 5221-2 du même code, lorsque l'étranger s'engage à maintenir sa résidence habituelle hors de France. La carte porte la mention "travailleur saisonnier".
 
@@ -1251,6 +1375,7 @@ Elle donne à son titulaire le droit de séjourner et de travailler en France pe
 ###### Sous-section 4 : La carte de séjour pluriannuelle portant la mention "salarié détaché ICT"
 
 ###### Article L313-24
+{:.no_toc}
 
 I.-Une carte de séjour d'une durée maximale de trois ans, autorisant l'exercice d'une activité professionnelle, est délivrée à l'étranger qui vient en France pour effectuer une mission dans le cadre du 2° de l'article L. 1262-1 du code du travailafin d'occuper un poste d'encadrement supérieur ou d'apporter une expertise dans un établissement ou une entreprise du groupe qui l'emploie, s'il justifie d'une ancienneté professionnelle dans celui-ci d'au moins trois mois. Cette carte est délivrée pour la durée de la mission envisagée sur le territoire français. Elle porte la mention "salarié détaché ICT".
 
@@ -1274,16 +1399,19 @@ V.-L'activité professionnelle salariée ayant justifié la délivrance de la ca
 ##### Section 1 : Dispositions générales
 
 ##### Article L314-1
+{:.no_toc}
 
 La carte de résident est valable dix ans. Sous réserve des dispositions des articles [L. 314-5](#article-l314-5) et [L. 314-7](#article-l314-7), elle est renouvelable de plein droit.
 
 
 ##### Article L314-1-1
+{:.no_toc}
 
 Les dispositions de la présente section s'appliquent à la carte de résident et à la carte de résident portant la mention "résident de longue durée-UE".
 
 
 ##### Article L314-2
+{:.no_toc}
 
 Lorsque des dispositions législatives du présent code le prévoient, la délivrance d'une première carte de résident est subordonnée à l'intégration républicaine de l'étranger dans la société française, appréciée en particulier au regard de son engagement personnel à respecter les principes qui régissent la République française, du respect effectif de ces principes et de sa connaissance de la langue française, qui doit être au moins égale à un niveau défini par décret en Conseil d'Etat.
 
@@ -1293,26 +1421,31 @@ Les étrangers âgés de plus de soixante-cinq ans ne sont pas soumis à la cond
 
 
 ##### Article L314-3
+{:.no_toc}
 
 La carte de résident peut être refusée à tout étranger dont la présence constitue une menace pour l'ordre public.
 
 
 ##### Article L314-4
+{:.no_toc}
 
 Lorsqu'elle a été délivrée à un étranger résidant sur le territoire de la France métropolitaine, la carte de résident en cours de validité confère à son titulaire le droit d'exercer, sur ce territoire, la profession de son choix, dans le cadre de la législation en vigueur.
 
 
 ##### Article L314-5
+{:.no_toc}
 
 Par dérogation aux dispositions des articles [L. 314-8](#article-l314-8) à [L. 314-12](#article-l314-12) la carte de résident ne peut être délivrée à un ressortissant étranger qui vit en état de polygamie ni aux conjoints d'un tel ressortissant ni à un ressortissant étranger condamné pour avoir commis sur un mineur de quinze ans l'infraction définie à l'article 222-9 du code pénal ou s'être rendu complice de celle-ci. Une carte de résident délivrée en méconnaissance de ces dispositions doit être retirée.
 
 
 ##### Article L314-5-1
+{:.no_toc}
 
 Le retrait, motivé par la rupture de la vie commune, de la carte de résident délivrée sur le fondement du 3° de l'article [L. 314-9](#article-l314-9) ne peut intervenir que dans la limite de quatre années à compter de la célébration du mariage, sauf si un ou des enfants sont nés de cette union et à la condition que l'étranger titulaire de la carte de résident établisse contribuer effectivement, depuis la naissance, à l'entretien et à l'éducation du ou des enfants dans les conditions prévues à l'article 371-2 du code civil. Toutefois, lorsque la communauté de vie a été rompue par le décès de l'un des conjoints ou en raison de violences conjugales qu'il a subies de la part de son conjoint, l'autorité administrative ne peut pas procéder au retrait.
 
 
 ##### Article L314-6
+{:.no_toc}
 
 La carte de résident peut être retirée à tout employeur, titulaire de cette carte, ayant occupé un travailleur étranger en violation des dispositions de l'article L. 341-6 du code du travail.
 
@@ -1320,6 +1453,7 @@ En outre, l'employeur qui a fait l'objet d'une obligation de quitter le territoi
 
 
 ##### Article L314-6-1
+{:.no_toc}
 
 La carte de résident d'un étranger qui ne peut faire l'objet d'une mesure d'expulsion en application des articles [L. 521-2](#article-l521-2) ou [L. 521-3](#article-l521-3) peut lui être retirée s'il fait l'objet d'une condamnation définitive sur le fondement des articles 433-3,433-4, des deuxième à quatrième alinéas de l'article 433-5, du deuxième alinéa de l'article 433-5-1 ou de l'article 433-6 du code pénal.
 
@@ -1327,6 +1461,7 @@ La carte de séjour temporaire portant la mention " vie privée et familiale " l
 
 
 ##### Article L314-7
+{:.no_toc}
 
 La carte de résident d'un étranger qui a quitté le territoire français et a résidé à l'étranger pendant une période de plus de trois ans consécutifs est périmée, de même que la carte de résident portant la mention "résident de longue durée-UE" accordée par la France lorsque son titulaire a résidé en dehors du territoire des Etats membres de l'Union européenne pendant une période de plus de trois ans consécutifs.
 
@@ -1336,6 +1471,7 @@ En outre, est périmée la carte de résident portant la mention "résident de l
 
 
 ##### Article L314-7-1
+{:.no_toc}
 
 La carte de résident portant la mention : " résident de longue durée-UE " délivrée à l'étranger en application de l'article [L. 314-8-2](#article-l314-8-2) peut lui être retirée lorsqu'il perd la qualité de réfugié en application du F de l'article 1er de la convention de Genève du 28 juillet 1951 relative au statut des réfugiés ou le bénéfice de la protection subsidiaire en application de l'article [L. 712-3](#article-l712-3). Elle peut également être retirée en cas d'obtention frauduleuse de cette qualité ou de cette protection.
 
@@ -1345,6 +1481,7 @@ La carte de résident portant la mention : " résident de longue durée-UE " dé
 ###### Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier
 
 ###### Article L314-8
+{:.no_toc}
 
 Une carte de résident portant la mention " résident de longue durée-UE " est délivrée de plein droit à l'étranger qui justifie :
 
@@ -1360,6 +1497,7 @@ Un décret en Conseil d'Etat définit les modalités d'application du présent a
 
 
 ###### Article L314-8-1
+{:.no_toc}
 
 L'étranger titulaire de la carte de séjour pluriannuelle portant la mention "passeport talent" prévue au 2° de l'article [L. 313-20](#article-l313-20) peut se voir délivrer une carte de résident portant la mention "résident de longue durée-UE" s'il justifie d'une résidence ininterrompue, conforme aux lois et règlements en vigueur, d'au moins cinq années sur le territoire d'un Etat membre de l'Union européenne sous couvert d'une carte bleue européenne, dont, en France, les deux années précédant sa demande de délivrance de la carte de résident.
 
@@ -1371,6 +1509,7 @@ Son conjoint et ses enfants dans l'année qui suit leur dix-huitième anniversai
 
 
 ###### Article L314-8-2
+{:.no_toc}
 
 L'étranger titulaire de la carte de résident prévue au 8° de l'article [L. 314-11](#article-l314-11), du fait de la reconnaissance de la qualité de réfugié, ou de la carte de séjour temporaire prévue à l'article [L. 313-13](#article-l313-13), du fait de l'octroi du bénéfice de la protection subsidiaire, peut se voir délivrer une carte de résident portant la mention : "résident de longue durée-UE", dans les conditions prévues à l'article [L. 314-8](#article-l314-8).
 
@@ -1380,6 +1519,7 @@ Son conjoint, le partenaire avec lequel il est lié par une union civile, son co
 
 
 ###### Article L314-9
+{:.no_toc}
 
 La carte de résident est délivrée de plein droit :
 
@@ -1395,6 +1535,7 @@ Pour l'application des 2° et 3° du présent article à Mayotte, la condition p
 
 
 ###### Article L314-10
+{:.no_toc}
 
 Dans tous les cas prévus dans la présente sous-section, la décision d'accorder la carte de résident ou la carte de résident portant la mention "résident de longue durée-UE" est subordonnée au respect des conditions prévues à l'article [L. 314-2](#article-l314-2).
 
@@ -1402,6 +1543,7 @@ Dans tous les cas prévus dans la présente sous-section, la décision d'accorde
 ###### Sous-section 2 : Délivrance de plein droit
 
 ###### Article L314-11
+{:.no_toc}
 
 Sauf si la présence de l'étranger constitue une menace pour l'ordre public, la carte de résident est délivrée de plein droit, sous réserve de la régularité du séjour :
 
@@ -1441,6 +1583,7 @@ L'enfant visé aux 2°, 8° et 9° du présent article s'entend de l'enfant ayan
 
 
 ###### Article L314-12
+{:.no_toc}
 
 La carte de résident est délivrée de plein droit à l'étranger qui remplit les conditions d'acquisition de la nationalité française prévues à l'article 21-7 du code civil.
 
@@ -1448,6 +1591,7 @@ La carte de résident est délivrée de plein droit à l'étranger qui remplit l
 ###### Sous-section 3 : Carte de résident délivrée en Nouvelle-Calédonie
 
 ###### Article L314-13
+{:.no_toc}
 
 La carte de résident délivrée en Nouvelle-Calédonie est valable sur le territoire défini à l'article [L. 111-3](#article-l111-3).
 
@@ -1455,6 +1599,7 @@ La carte de résident délivrée en Nouvelle-Calédonie est valable sur le terri
 ###### Sous-section 4 : La carte de résident permanent
 
 ###### Article L314-14
+{:.no_toc}
 
 A l'expiration de sa carte de résident délivrée sur le fondement de l'article [L. 314-8](#article-l314-8), [L. 314-8-1](#article-l314-8-1), [L. 314-9](#article-l314-9), [L. 314-11](#article-l314-11) ou [L. 314-12](#article-l314-12), une carte de résident permanent, à durée indéterminée, peut être délivrée à l'étranger qui en fait la demande, sauf si sa présence constitue une menace pour l'ordre public et à condition qu'il satisfasse aux conditions prévues à l'article [L. 314-2](#article-l314-2).
 
@@ -1472,6 +1617,7 @@ Lorsque la carte de résident permanent est retirée à un ressortissant étrang
 #### Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions, témoigné dans une procédure pénale ou bénéficiant de mesures de protection
 
 #### Article L316-1
+{:.no_toc}
 
 Sauf si sa présence constitue une menace à l'ordre public, une carte de séjour temporaire portant la mention " vie privée et familiale " est délivrée à l'étranger qui dépose plainte contre une personne qu'il accuse d'avoir commis à son encontre les infractions visées aux articles 225-4-1 à 225-4-6 et 225-5 à 225-10 du code pénal ou témoigne dans une procédure pénale concernant une personne poursuivie pour ces mêmes infractions. La condition prévue à l'article [L. 313-2](#article-l313-2) n'est pas exigée. Cette carte de séjour temporaire ouvre droit à l'exercice d'une activité professionnelle. Elle est renouvelée pendant toute la durée de la procédure pénale, sous réserve que les conditions prévues pour sa délivrance continuent d'être satisfaites.
 
@@ -1479,16 +1625,19 @@ En cas de condamnation définitive de la personne mise en cause, une carte de r�
 
 
 #### Article L316-1-1
+{:.no_toc}
 
 Une autorisation provisoire de séjour d'une durée minimale de six mois peut être délivrée, sauf si sa présence constitue une menace pour l'ordre public, à l'étranger victime des infractions prévues aux articles 225-4-1 à 225-4-6 et 225-5 à 225-10 du code pénal qui, ayant cessé l'activité de prostitution, est engagé dans le parcours de sortie de la prostitution et d'insertion sociale et professionnelle mentionné à l'article L. 121-9 du code de l'action sociale et des familles. La condition prévue à l'article [L. 313-2](#article-l313-2) du présent code n'est pas exigée. Cette autorisation provisoire de séjour ouvre droit à l'exercice d'une activité professionnelle. Elle est renouvelée pendant toute la durée du parcours de sortie de la prostitution et d'insertion sociale et professionnelle, sous réserve que les conditions prévues pour sa délivrance continuent d'être satisfaites.
 
 
 #### Article L316-2
+{:.no_toc}
 
 Un décret en Conseil d'Etat précise les conditions d'application des articles [L. 316-1](#article-l316-1) et [L. 316-1-1](#article-l316-1-1). Il détermine notamment les conditions de la délivrance, du renouvellement et du retrait de la carte de séjour temporaire mentionnée au premier alinéa de l'article [L. 316-1](#article-l316-1) et de l'autorisation provisoire de séjour mentionnée à l'article [L. 316-1-1](#article-l316-1-1) ainsi que les modalités de protection, d'accueil et d'hébergement de l'étranger auquel cette carte ou cette autorisation provisoire de séjour est accordée.
 
 
 #### Article L316-3
+{:.no_toc}
 
 Sauf si sa présence constitue une menace à l'ordre public, l'autorité administrative délivre dans les plus brefs délais une carte de séjour temporaire portant la mention "vie privée et familiale" à l'étranger qui bénéficie d'une ordonnance de protection en vertu de l'article 515-9 du code civil, en raison des violences exercées au sein du couple ou par un ancien conjoint, un ancien partenaire lié par un pacte civil de solidarité ou un ancien concubin. La condition prévue à l'article [L. 313-2](#article-l313-2) du présent code n'est pas exigée. Cette carte de séjour temporaire ouvre droit à l'exercice d'une activité professionnelle.
 
@@ -1498,6 +1647,7 @@ Sauf si la présence de l'étranger constitue une menace à l'ordre public, l'au
 
 
 #### Article L316-4
+{:.no_toc}
 
 En cas de condamnation définitive de la personne mise en cause, une carte de résident peut être délivrée à l'étranger ayant déposé plainte pour une infraction mentionnée au premier alinéa de l'article 132-80 du code pénal.
 
@@ -1507,6 +1657,7 @@ Le refus de délivrer la carte prévue au premier alinéa du présent article ne
 #### Chapitre VII : La carte de séjour portant la mention "retraité"
 
 #### Article L317-1
+{:.no_toc}
 
 L'étranger qui, après avoir résidé en France sous couvert d'une carte de résident, a établi ou établit sa résidence habituelle hors de France et qui est titulaire d'une pension contributive de vieillesse, de droit propre ou de droit dérivé, liquidée au titre d'un régime de base français de sécurité sociale, bénéficie, à sa demande, d'une carte de séjour portant la mention "retraité". Cette carte lui permet d'entrer en France à tout moment pour y effectuer des séjours n'excédant pas un an. Elle est valable dix ans et est renouvelée de plein droit. Elle n'ouvre pas droit à l'exercice d'une activité professionnelle.
 
@@ -1520,11 +1671,13 @@ Le conjoint du titulaire d'une carte de séjour "retraité", ayant résidé rég
 ##### Section 1 : Dispositions générales
 
 ##### Article L321-1
+{:.no_toc}
 
 Tout étranger résidant en France, quelle que soit la nature de son titre de séjour, peut quitter librement le territoire français.
 
 
 ##### Article L321-2
+{:.no_toc}
 
 Les conditions de la circulation des étrangers en France sont déterminées par voie réglementaire.
 
@@ -1534,6 +1687,7 @@ Les conditions de la circulation des étrangers en France sont déterminées par
 ###### Sous-section 1 : Le titre d'identité républicain
 
 ###### Article L321-3
+{:.no_toc}
 
 Sur présentation du livret de famille, il est délivré à tout mineur né en France, de parents étrangers titulaires d'un titre de séjour, un titre d'identité républicain.
 
@@ -1541,6 +1695,7 @@ Sur présentation du livret de famille, il est délivré à tout mineur né en F
 ###### Sous-section 2 : Le document de circulation délivré à l'étranger mineur
 
 ###### Article L321-4
+{:.no_toc}
 
 Sous réserve des conventions internationales, les étrangers mineurs de dix-huit ans dont au moins l'un des parents appartient aux catégories mentionnées à l'article [L. 313-11](#article-l313-11), au 1° de l'article [L. 314-9](#article-l314-9), aux 8° et 9° de l'article [L. 314-11](#article-l314-11), à l'article [L. 313-20](#article-l313-20) ou qui relèvent, en dehors de la condition de majorité, des prévisions des 2° et 2° bis de l'article [L. 313-11](#article-l313-11), ainsi que les mineurs entrés en France pour y suivre des études sous couvert d'un visa de séjour d'une durée supérieure à trois mois reçoivent, sur leur demande, un document de circulation qui est délivré dans des conditions fixées par voie réglementaire.
 
@@ -1550,6 +1705,7 @@ Sous réserve des conventions internationales, les étrangers mineurs de dix-hui
 ##### Section 1 : Activité professionnelle salariée
 
 ##### Article L322-1
+{:.no_toc}
 
 Pour exercer en France une activité professionnelle salariée, les étrangers doivent se conformer aux articles L. 1261-1, L. 5221-1 à L. 5221-3, L. 5221-5, L. 5221-7, L. 5523-1 à L. 5523-3 et L. 8323-2 du code du travail ainsi qu'aux articles [L. 311-13](#article-l311-13) et [L. 311-14](#article-l311-14) du présent code.
 
@@ -1557,6 +1713,7 @@ Pour exercer en France une activité professionnelle salariée, les étrangers d
 ##### Section 2 : Autres activités professionnelles
 
 ##### Article L322-2
+{:.no_toc}
 
 Des décrets en Conseil d'Etat peuvent soumettre à autorisation l'exercice par les étrangers de certaines activités professionnelles non salariées.
 
@@ -1566,11 +1723,13 @@ Des décrets en Conseil d'Etat peuvent soumettre à autorisation l'exercice par 
 #### Chapitre unique
 
 #### Article L331-1
+{:.no_toc}
 
 Les étrangers qui quittent la France pour s'établir dans leur pays d'origine et qui bénéficient à ce titre, sur leur demande, d'une aide publique à la réinsertion perdent les droits attachés aux titres de séjour et de travail qu'ils détiennent. Les intéressés restituent leurs titres et reçoivent une autorisation de séjour provisoire suivant des modalités fixées par décret.
 
 
 #### Article L331-2
+{:.no_toc}
 
 Le présent titre n'est pas applicable à Mayotte.
 
@@ -1582,21 +1741,25 @@ Le présent titre n'est pas applicable à Mayotte.
 #### Chapitre unique.
 
 #### Article L411-1
+{:.no_toc}
 
 Le ressortissant étranger qui séjourne régulièrement en France depuis au moins dix-huit mois, sous couvert d'un des titres d'une durée de validité d'au moins un an prévus par le présent code ou par des conventions internationales, peut demander à bénéficier de son droit à être rejoint, au titre du regroupement familial, par son conjoint, si ce dernier est âgé d'au moins dix-huit ans, et les enfants du couple mineurs de dix-huit ans.
 
 
 #### Article L411-2
+{:.no_toc}
 
 Le regroupement familial peut également être sollicité pour les enfants mineurs de dix-huit ans du demandeur et ceux de son conjoint dont, au jour de la demande, la filiation n'est établie qu'à l'égard du demandeur ou de son conjoint ou dont l'autre parent est décédé ou déchu de ses droits parentaux.
 
 
 #### Article L411-3
+{:.no_toc}
 
 Le regroupement familial peut être demandé pour les enfants mineurs de dix-huit ans du demandeur et ceux de son conjoint, qui sont confiés, selon le cas, à l'un ou l'autre, au titre de l'exercice de l'autorité parentale, en vertu d'une décision d'une juridiction étrangère. Une copie de cette décision devra être produite ainsi que l'autorisation de l'autre parent de laisser le mineur venir en France.
 
 
 #### Article L411-4
+{:.no_toc}
 
 L'enfant pouvant bénéficier du regroupement familial est celui qui répond à la définition donnée au dernier alinéa de l'article [L. 314-11](#article-l314-11).
 
@@ -1604,6 +1767,7 @@ Le regroupement familial est sollicité pour l'ensemble des personnes désignée
 
 
 #### Article L411-5
+{:.no_toc}
 
 Le regroupement familial ne peut être refusé que pour l'un des motifs suivants :
 
@@ -1615,6 +1779,7 @@ Le regroupement familial ne peut être refusé que pour l'un des motifs suivants
 
 
 #### Article L411-6
+{:.no_toc}
 
 Peut être exclu du regroupement familial :
 
@@ -1626,6 +1791,7 @@ Peut être exclu du regroupement familial :
 
 
 #### Article L411-7
+{:.no_toc}
 
 Lorsqu'un étranger polygame réside en France avec un premier conjoint, le bénéfice du regroupement familial ne peut être accordé à un autre conjoint. Sauf si cet autre conjoint est décédé ou déchu de ses droits parentaux, ses enfants ne bénéficient pas non plus du regroupement familial.
 
@@ -1637,21 +1803,25 @@ Le titre de séjour sollicité ou obtenu par un autre conjoint est, selon le cas
 #### Chapitre unique
 
 #### Article L421-1
+{:.no_toc}
 
 L'autorisation d'entrer en France dans le cadre de la procédure du regroupement familial est donnée par l'autorité administrative compétente après vérification des conditions de logement et de ressources par le maire de la commune de résidence de l'étranger ou le maire de la commune où il envisage de s'établir. Le maire, saisi par l'autorité administrative, peut émettre un avis sur la condition mentionnée au 3° de l'article [L. 411-5](#article-l411-5). Cet avis est réputé rendu à l'expiration d'un délai de deux mois à compter de la communication du dossier par l'autorité administrative.
 
 
 #### Article L421-2
+{:.no_toc}
 
 Pour procéder à la vérification des conditions de logement et de ressources, le maire examine les pièces justificatives requises dont la liste est déterminée par décret. Des agents spécialement habilités des services de la commune chargés des affaires sociales ou du logement, ou, à la demande du maire, des agents de l' Office français de l'immigration et de l'intégration peuvent pénétrer dans le logement. Ils doivent s'assurer au préalable du consentement écrit de son occupant. En cas de refus de l'occupant, les conditions de logement permettant le regroupement familial sont réputées non remplies. Lorsque ces vérifications n'ont pas pu être effectuées parce que le demandeur ne disposait pas encore du logement nécessaire au moment de la demande, le regroupement familial peut être autorisé si les autres conditions sont remplies et après que le maire a vérifié sur pièces les caractéristiques du logement et la date à laquelle le demandeur en aura la disposition.
 
 
 #### Article L421-3
+{:.no_toc}
 
 A l'issue de l'instruction, le maire émet un avis motivé. Cet avis est réputé favorable à l'expiration d'un délai de deux mois à compter de la communication du dossier par l'autorité administrative. Le dossier est transmis à l'Office français de l'immigration et de l'intégration qui peut demander à ses agents de procéder, s'ils ne l'ont déjà fait, à des vérifications sur place dans les conditions prévues à l'article [L. 421-2](#article-l421-2).
 
 
 #### Article L421-4
+{:.no_toc}
 
 L'autorité administrative statue sur la demande dans un délai de six mois à compter du dépôt par l'étranger du dossier complet de cette demande. Il informe le maire de la décision rendue.
 
@@ -1663,6 +1833,7 @@ La décision autorisant l'entrée en France des membres de la famille est caduqu
 #### Chapitre unique
 
 #### Article L431-1
+{:.no_toc}
 
 Les membres de la famille entrés en France régulièrement au titre du regroupement familial reçoivent de plein droit une carte de séjour temporaire, dès qu'ils sont astreints à la détention d'un titre de séjour.
 
@@ -1670,6 +1841,7 @@ Le titre de séjour délivré à la personne autorisée à séjourner au titre d
 
 
 #### Article L431-2
+{:.no_toc}
 
 En cas de rupture de la vie commune ne résultant pas du décès de l'un des conjoints, le titre de séjour qui a été remis au conjoint d'un étranger peut, pendant les trois années suivant l'autorisation de séjourner en France au titre du regroupement familial, faire l'objet d'un retrait ou d'un refus de renouvellement.
 
@@ -1681,6 +1853,7 @@ En outre, lorsque l'étranger a subi des violences conjugales de la part de son 
 
 
 #### Article L431-3
+{:.no_toc}
 
 Le titre de séjour d'un étranger qui n'entre pas dans les catégories mentionnées aux articles [L. 521-2](#article-l521-2), [L. 521-3](#article-l521-3) et [L. 521-4](#article-l521-4) peut faire l'objet d'un retrait lorsque son titulaire a fait venir son conjoint ou ses enfants en dehors de la procédure du regroupement familial. La décision de retrait du titre de séjour est prise après avis de la commission du titre de séjour mentionnée à l'article [L. 312-1](#article-l312-1).
 
@@ -1690,6 +1863,7 @@ Le titre de séjour d'un étranger qui n'entre pas dans les catégories mentionn
 #### Chapitre unique
 
 #### Article L441-1
+{:.no_toc}
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent livre.
 
@@ -1701,6 +1875,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent livre
 #### Chapitre Ier :  Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français, d'une interdiction de retour sur le territoire français et d'une interdiction de circulation sur le territoire français
 
 #### Article L511-1
+{:.no_toc}
 
 I. ― L'autorité administrative peut obliger à quitter le territoire français un étranger non ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse et qui n'est pas membre de la famille d'un tel ressortissant au sens des 4° et 5° de l'article [L. 121-1](#article-l121-1), lorsqu'il se trouve dans l'un des cas suivants :
 
@@ -1778,6 +1953,7 @@ Lorsqu'un étranger faisant l'objet d'une obligation de quitter le territoire fr
 
 
 #### Article L511-2
+{:.no_toc}
 
 Le 1° du I et le a du 3° du II de l'article [L. 511-1](#article-l511-1) sont applicables à l'étranger qui n'est pas ressortissant d'un Etat membre de l'Union européenne :
 
@@ -1787,11 +1963,13 @@ Le 1° du I et le a du 3° du II de l'article [L. 511-1](#article-l511-1) sont a
 
 
 #### Article L511-3
+{:.no_toc}
 
 Les dispositions du 2° du I et du b du 3° du II de l'article [L. 511-1](#article-l511-1) sont applicables à l'étranger qui n'est pas ressortissant d'un Etat membre de l'Union européenne si, en provenance directe du territoire d'un des Etats parties à la convention signée à Schengen le 19 juin 1990, il s'est maintenu sur le territoire métropolitain sans se conformer aux stipulations de l'article 19, paragraphe 1 ou 2, de l'article 20, paragraphe 1, et de l'article 21, paragraphe 1 ou 2, de ladite convention.
 
 
 #### Article L511-3-1
+{:.no_toc}
 
 L'autorité administrative compétente peut, par décision motivée, obliger un ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse, ou un membre de sa famille à quitter le territoire français lorsqu'elle constate :
 
@@ -1811,6 +1989,7 @@ Les articles [L. 512-1](#article-l512-1) à [L. 512-4](#article-l512-4) sont app
 
 
 #### Article L511-3-2
+{:.no_toc}
 
 L'autorité administrative peut, par décision motivée, assortir l'obligation de quitter le territoire français prononcée en application des 2° et 3° de l'article [L. 511-3-1](#article-l511-3-1) d'une interdiction de circulation sur le territoire français d'une durée maximale de trois ans.
 
@@ -1826,6 +2005,7 @@ Les quatre derniers alinéas de l'article [L. 511-3-1](#article-l511-3-1) sont a
 
 
 #### Article L511-4
+{:.no_toc}
 
 Ne peuvent faire l'objet d'une obligation de quitter le territoire français :
 
@@ -1853,6 +2033,7 @@ Ne peuvent faire l'objet d'une obligation de quitter le territoire français :
 
 
 #### Article L511-5
+{:.no_toc}
 
 En cas de reconnaissance de la qualité de réfugié ou d'octroi de la protection subsidiaire, l'autorité administrative abroge l'obligation de quitter le territoire français qui, le cas échéant, a été prise. Elle délivre sans délai au réfugié la carte de résident prévue au 8° de l'article [L. 314-11](#article-l314-11) et au bénéficiaire de la protection subsidiaire la carte de séjour temporaire prévue à l'article [L. 313-13](#article-l313-13).
 
@@ -1860,6 +2041,7 @@ En cas de reconnaissance de la qualité de réfugié ou d'octroi de la protectio
 #### Chapitre II : Procédure administrative et contentieuse
 
 #### Article L512-1
+{:.no_toc}
 
 I. ― L'étranger qui fait l'objet d'une obligation de quitter le territoire français sur le fondement des 3°, 5°, 7° ou 8° du I de l'article [L. 511-1](#article-l511-1) ou sur le fondement de l'article [L. 511-3-1](#article-l511-3-1) et qui dispose du délai de départ volontaire mentionné au premier alinéa du II de l'article [L. 511-1](#article-l511-1) ou au sixième alinéa de l'article [L. 511-3-1](#article-l511-3-1) peut, dans le délai de trente jours suivant sa notification, demander au tribunal administratif l'annulation de cette décision, ainsi que l'annulation de la décision relative au séjour, de la décision mentionnant le pays de destination et de la décision d'interdiction de retour sur le territoire français ou d'interdiction de circulation sur le territoire français qui l'accompagnent le cas échéant.
 
@@ -1901,16 +2083,19 @@ IV.-Lorsque l'étranger est en détention, il est statué sur son recours selon 
 
 
 #### Article L512-1-1
+{:.no_toc}
 
 Dès notification de l'arrêté de reconduite à la frontière, l'étranger est mis en mesure, dans les meilleurs délais, d'avertir un conseil, son consulat ou une personne de son choix.
 
 
 #### Article L512-2
+{:.no_toc}
 
 Dès notification de l'obligation de quitter le territoire français, l'étranger auquel aucun délai de départ volontaire n'a été accordé est mis en mesure, dans les meilleurs délais, d'avertir un conseil, son consulat ou une personne de son choix. L'étranger est informé qu'il peut recevoir communication des principaux éléments des décisions qui lui sont notifiées en application de l'article [L. 511-1](#article-l511-1). Ces éléments lui sont alors communiqués dans une langue qu'il comprend ou dont il est raisonnable de supposer qu'il la comprend.
 
 
 #### Article L512-3
+{:.no_toc}
 
 Les articles [L. 551-1](#article-l551-1) et [L. 561-2](#article-l561-2) sont applicables à l'étranger faisant l'objet d'une obligation de quitter le territoire français dès l'expiration du délai de départ volontaire qui lui a été accordé ou, si aucun délai n'a été accordé, dès la notification de l'obligation de quitter le territoire français.
 
@@ -1918,6 +2103,7 @@ L'obligation de quitter le territoire français ne peut faire l'objet d'une exé
 
 
 #### Article L512-4
+{:.no_toc}
 
 Si l'obligation de quitter le territoire français est annulée, il est immédiatement mis fin aux mesures de surveillance prévues aux articles [L. 513-4](#article-l513-4), [L. 551-1](#article-l551-1), [L. 552-4](#article-l552-4), [L. 561-1](#article-l561-1) et [L. 561-2](#article-l561-2) et l'étranger est muni d'une autorisation provisoire de séjour jusqu'à ce que l'autorité administrative ait à nouveau statué sur son cas.
 
@@ -1925,11 +2111,13 @@ Si la décision de ne pas accorder de délai de départ volontaire ou la décisi
 
 
 #### Article L512-5
+{:.no_toc}
 
 L'étranger qui fait l'objet d'une obligation de quitter le territoire français peut solliciter un dispositif d'aide au retour dans son pays d'origine, sauf s'il a été placé en rétention. A Mayotte, l'étranger ne peut bénéficier d'une aide au retour mais, dans des circonstances exceptionnelles et sous réserve de l'existence d'un projet économique viable, d'une aide à la réinsertion économique, ou, s'il est accompagné d'un ou plusieurs enfants mineurs, de mesures d'accompagnement, dans des conditions définies par arrêté du ministre de l'intérieur et du ministre chargé des outre-mer.
 
 
 #### Article L512-6
+{:.no_toc}
 
 L'annulation de la décision relative au séjour emporte abrogation de la décision d'interdiction de retour qui l'accompagne le cas échéant, y compris lorsque le recours dirigé contre celle-ci a été rejeté selon la procédure prévue au III de l'article [L. 512-1](#article-l512-1).
 
@@ -1937,6 +2125,7 @@ L'annulation de la décision relative au séjour emporte abrogation de la décis
 #### Chapitre III :  Exécution des obligations de quitter le territoire français, des interdictions de retour sur le territoire français et des interdictions de circulation sur le territoire français
 
 #### Article L513-1
+{:.no_toc}
 
 I. ― L'obligation de quitter sans délai le territoire français, qui n'a pas été contestée devant le président du tribunal administratif dans le délai prévu au II de l'article [L. 512-1](#article-l512-1) ou qui n'a pas fait l'objet d'une annulation, peut être exécutée d'office.
 
@@ -1946,6 +2135,7 @@ II. ― Sous réserve des dispositions de l'article [L. 512-3](#article-l512-3),
 
 
 #### Article L513-2
+{:.no_toc}
 
 L'étranger qui fait l'objet d'une mesure d'éloignement est éloigné :
 
@@ -1959,6 +2149,7 @@ Un étranger ne peut être éloigné à destination d'un pays s'il établit que 
 
 
 #### Article L513-3
+{:.no_toc}
 
 La décision fixant le pays de renvoi constitue une décision distincte de la mesure d'éloignement elle-même.
 
@@ -1967,6 +2158,7 @@ Le recours contentieux contre la décision fixant le pays de renvoi n'est suspen
 
 
 #### Article L513-4
+{:.no_toc}
 
 L'étranger auquel un délai de départ volontaire a été accordé en application du II de l'article [L. 511-1](#article-l511-1) peut, dès la notification de l'obligation de quitter le territoire français, être astreint à se présenter à l'autorité administrative ou aux services de police ou aux unités de gendarmerie pour y indiquer ses diligences dans la préparation de son départ.
 
@@ -1974,6 +2166,7 @@ Un décret en Conseil d'Etat prévoit les modalités d'application du présent a
 
 
 #### Article L513-5
+{:.no_toc}
 
 Si l'étranger assigné à résidence en application des articles [L. 523-3](#article-l523-3) à [L. 523-5](#article-l523-5), [L. 552-4](#article-l552-4), [L. 561-1](#article-l561-1) ou [L. 561-2](#article-l561-2) n'a pas déféré, sans motif légitime, à une demande de présentation aux autorités consulaires du pays dont il est raisonnable de penser qu'il a la nationalité, en vue de la délivrance d'un document de voyage, l'autorité administrative peut le faire conduire auprès de ces autorités par les services de police ou les unités de gendarmerie en vue de cette démarche, dans les conditions et pour le temps strictement nécessaires à celle-ci.
 
@@ -1985,6 +2178,7 @@ Le juge des libertés et de la détention, saisi par requête, statue dans les v
 #### Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Mayotte, à Saint-Barthélemy et à Saint-Martin
 
 #### Article L514-1
+{:.no_toc}
 
 Pour la mise en œuvre du présent titre, sont applicables en Guyane, en Guadeloupe, à Mayotte, à Saint-Barthélemy et à Saint-Martin les dispositions suivantes :
 
@@ -2002,11 +2196,13 @@ En conséquence, l'article [L. 512-1](#article-l512-1), à l'exception de la sec
 #### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion
 
 #### Article L521-1
+{:.no_toc}
 
 Sous réserve des dispositions des articles [L. 521-2](#article-l521-2), [L. 521-3](#article-l521-3) et [L. 521-4](#article-l521-4), l'expulsion peut être prononcée si la présence en France d'un étranger constitue une menace grave pour l'ordre public.
 
 
 #### Article L521-2
+{:.no_toc}
 
 Ne peuvent faire l'objet d'une mesure d'expulsion que si cette mesure constitue une nécessité impérieuse pour la sûreté de l'Etat ou la sécurité publique et sous réserve que les dispositions de l'article [L. 521-3](#article-l521-3) n'y fassent pas obstacle :
 
@@ -2026,6 +2222,7 @@ Par dérogation aux dispositions du présent article, l'étranger visé aux 1° 
 
 
 #### Article L521-3
+{:.no_toc}
 
 Ne peuvent faire l'objet d'une mesure d'expulsion qu'en cas de comportements de nature à porter atteinte aux intérêts fondamentaux de l'Etat, ou liés à des activités à caractère terroriste, ou constituant des actes de provocation explicite et délibérée à la discrimination, à la haine ou à la violence contre une personne déterminée ou un groupe de personnes :
 
@@ -2045,11 +2242,13 @@ Les étrangers mentionnés au présent article bénéficient de ses dispositions
 
 
 #### Article L521-4
+{:.no_toc}
 
 L'étranger mineur de dix-huit ans ne peut faire l'objet d'une mesure d'expulsion.
 
 
 #### Article L521-5
+{:.no_toc}
 
 Les mesures d'expulsion prévues aux articles [L. 521-1](#article-l521-1) à [L. 521-3](#article-l521-3) peuvent être prises à l'encontre des ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse, ou d'un membre de leur famille, si leur comportement personnel représente une menace réelle, actuelle et suffisamment grave pour un intérêt fondamental de la société.
 
@@ -2059,6 +2258,7 @@ Pour prendre de telles mesures, l'autorité administrative tient compte de l'ens
 #### Chapitre II : Procédure administrative
 
 #### Article L522-1
+{:.no_toc}
 
 I. - Sauf en cas d'urgence absolue, l'expulsion ne peut être prononcée que dans les conditions suivantes :
 
@@ -2074,6 +2274,7 @@ c) D'un conseiller de tribunal administratif.
 
 
 #### Article L522-2
+{:.no_toc}
 
 La convocation prévue au 2° de l'article [L. 522-1](#article-l522-1) doit être remise à l'étranger quinze jours au moins avant la réunion de la commission. Elle précise que l'intéressé a le droit d'être assisté d'un conseil ou de toute personne de son choix et d'être entendu avec un interprète.
 
@@ -2085,6 +2286,7 @@ La commission rend son avis dans le délai d'un mois à compter de la remise à 
 
 
 #### Article L522-3
+{:.no_toc}
 
 Lorsque la présence simultanée à Mayotte des magistrats membres de la commission prévue à l'article [L. 522-1](#article-l522-1), ou de leurs remplaçants, n'est pas matériellement possible, le ou les magistrats empêchés peuvent assister à l'audition de l'étranger depuis un autre point du territoire de la République, ce dernier se trouvant relié, en direct, par un moyen de communication audiovisuelle, à la salle dans laquelle siège la commission, où doit être présent au moins un magistrat.
 
@@ -2094,6 +2296,7 @@ Un décret en Conseil d'Etat détermine les modalités d'application des disposi
 #### Chapitre III : Exécution des arrêtés d'expulsion
 
 #### Article L523-1
+{:.no_toc}
 
 L'arrêté prononçant l'expulsion d'un étranger peut être exécuté d'office par l'administration.
 
@@ -2101,11 +2304,13 @@ Le dernier alinéa de l'article [L. 214-4](#article-l214-4) est applicable.
 
 
 #### Article L523-2
+{:.no_toc}
 
 Le pays de renvoi d'un étranger faisant l'objet d'un arrêté d'expulsion est déterminé dans les conditions prévues à l'article [L. 513-2](#article-l513-2).
 
 
 #### Article L523-3
+{:.no_toc}
 
 L'étranger qui fait l'objet d'un arrêté d'expulsion et qui justifie être dans l'impossibilité de quitter le territoire français en établissant qu'il ne peut ni regagner son pays d'origine ni se rendre dans aucun autre pays peut faire l'objet d'une mesure d'assignation à résidence dans les conditions prévues à l'article [L. 561-1](#article-l561-1). Les dispositions de l'article [L. 624-4](#article-l624-4) sont applicables.
 
@@ -2113,11 +2318,13 @@ La même mesure peut, en cas d'urgence absolue et de nécessité impérieuse pou
 
 
 #### Article L523-4
+{:.no_toc}
 
 Peut également faire l'objet d'un arrêté d'assignation à résidence l'étranger qui a fait l'objet d'un arrêté d'expulsion non exécuté si son état de santé nécessite une prise en charge médicale dont le défaut pourrait avoir pour lui des conséquences d'une exceptionnelle gravité et si, eu égard à l'offre de soins et aux caractéristiques du système de santé du pays de renvoi, il ne pourrait pas y bénéficier effectivement d'un traitement approprié. Cette mesure est assortie d'une autorisation de travail. Les obligations de présentation aux services de police et aux unités de gendarmerie prévues à l'article [L. 561-1](#article-l561-1) ainsi que les sanctions en cas de non-respect des prescriptions liées à l'assignation à résidence prévues à l'article [L. 624-4](#article-l624-4) sont applicables.
 
 
 #### Article L523-5
+{:.no_toc}
 
 Peut également faire l'objet d'un arrêté d'assignation à résidence, à titre probatoire et exceptionnel, l'étranger qui fait l'objet d'une mesure d'expulsion prononcée en application de l'article [L. 521-2](#article-l521-2). Cette mesure est assortie d'une autorisation de travail. Les obligations de présentation aux services de police et aux unités de gendarmerie prévues à l'article [L. 561-1](#article-l561-1) ainsi que les sanctions en cas de manquement aux prescriptions liées à l'assignation à résidence prévues à l'article [L. 624-4](#article-l624-4) sont applicables. La mesure peut être abrogée à tout moment en cas de manquement à ces obligations et prescriptions ou de faits nouveaux constitutifs d'un comportement préjudiciable à l'ordre public.
 
@@ -2125,11 +2332,13 @@ Peut également faire l'objet d'un arrêté d'assignation à résidence, à titr
 #### Chapitre IV : Abrogation des arrêtés d'expulsion
 
 #### Article L524-1
+{:.no_toc}
 
 L'arrêté d'expulsion peut à tout moment être abrogé. Lorsque la demande d'abrogation est présentée à l'expiration d'un délai de cinq ans à compter de l'exécution effective de l'arrêté d'expulsion, elle ne peut être rejetée qu'après avis de la commission prévue à l'article [L. 522-1](#article-l522-1), devant laquelle l'intéressé peut se faire représenter.
 
 
 #### Article L524-2
+{:.no_toc}
 
 Sans préjudice des dispositions de l'article [L. 524-1](#article-l524-1), les motifs de l'arrêté d'expulsion donnent lieu à un réexamen tous les cinq ans à compter de la date d'adoption de l'arrêté. L'autorité compétente tient compte de l'évolution de la menace pour l'ordre public que constitue la présence de l'intéressé en France, des changements intervenus dans sa situation personnelle et familiale et des garanties de réinsertion professionnelle ou sociale qu'il présente, en vue de prononcer éventuellement l'abrogation de l'arrêté. L'étranger peut présenter des observations écrites.
 
@@ -2137,6 +2346,7 @@ A défaut de notification à l'intéressé d'une décision explicite d'abrogatio
 
 
 #### Article L524-3
+{:.no_toc}
 
 Il ne peut être fait droit à une demande d'abrogation d'un arrêté d'expulsion présentée plus de deux mois après la notification de cet arrêté que si le ressortissant étranger réside hors de France. Toutefois, cette condition ne s'applique pas :
 
@@ -2148,6 +2358,7 @@ Il ne peut être fait droit à une demande d'abrogation d'un arrêté d'expulsio
 
 
 #### Article L524-4
+{:.no_toc}
 
 Sauf en cas de menace pour l'ordre public, dûment motivée, les étrangers qui résident hors de France et qui ont obtenu l'abrogation de la mesure d'expulsion dont ils faisaient l'objet bénéficient d'un visa pour rentrer en France, lorsque, à la date de la mesure, ils relevaient, sous les réserves prévues par ces articles, des catégories mentionnées aux 1° à 4° de l'article [L. 521-3](#article-l521-3) et qu'ils entrent dans le champ d'application des 4° ou 6° de l'article [L. 313-11](#article-l313-11) ou dans celui du livre IV.
 
@@ -2161,6 +2372,7 @@ Les dispositions du présent article ne sont applicables qu'aux étrangers ayant
 #### Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen
 
 #### Article L531-1
+{:.no_toc}
 
 Par dérogation aux articles [L. 213-2](#article-l213-2) et [L. 213-3](#article-l213-3), [L. 511-1](#article-l511-1) à [L. 511-3](#article-l511-3), [L. 512-1](#article-l512-1), [L. 512-3](#article-l512-3), [L. 512-4](#article-l512-4), [L. 513-1](#article-l513-1) et [L. 531-3](#article-l531-3), l'étranger non ressortissant d'un Etat membre de l'Union européenne qui a pénétré ou séjourné en France sans se conformer aux dispositions des articles [L. 211-1](#article-l211-1) et [L. 311-1](#article-l311-1) peut être remis aux autorités compétentes de l'Etat membre qui l'a admis à entrer ou à séjourner sur son territoire, ou dont il provient directement, en application des dispositions des conventions internationales conclues à cet effet avec les Etats membres de l'Union européenne, en vigueur au 13 janvier 2009.
 
@@ -2170,6 +2382,7 @@ Cette décision peut être exécutée d'office par l'administration après que l
 
 
 #### Article L531-2
+{:.no_toc}
 
 L'article [L. 531-1](#article-l531-1) est applicable à l'étranger qui, en provenance du territoire d'un Etat partie à la convention signée à Schengen le 19 juin 1990, est entré ou a séjourné sur le territoire métropolitain sans se conformer aux dispositions des articles 19, paragraphe 1 ou 2, 20, paragraphe 1, ou 21, paragraphe 1 ou 2, de cette convention ou sans souscrire, au moment de l'entrée sur ce territoire, la déclaration obligatoire prévue par l'article 22 de la même convention, alors qu'il était astreint à cette formalité.
 
@@ -2193,11 +2406,13 @@ Il en est de même de l'étranger et des membres de sa famille, admis à séjour
 
 
 #### Article L531-2-1
+{:.no_toc}
 
 Pour l'exécution des mesures prévues aux articles [L. 531-1](#article-l531-1) et [L. 531-2](#article-l531-2), les articles [L. 513-5](#article-l513-5) et [L. 561-1](#article-l561-1) sont applicables.
 
 
 #### Article L531-3
+{:.no_toc}
 
 Lorsqu'un étranger non ressortissant d'un Etat membre de l'Union européenne a fait l'objet d'un signalement aux fins de non-admission en vertu d'une décision exécutoire prise par l'un des autres Etats parties à la convention signée à Schengen le 19 juin 1990 et qu'il se trouve irrégulièrement sur le territoire métropolitain, l'autorité administrative peut décider qu'il sera d'office reconduit à la frontière.
 
@@ -2209,6 +2424,7 @@ Pour l'exécution des mesures prévues au présent article, les dispositions de 
 
 
 #### Article L531-4
+{:.no_toc}
 
 Est placée sous l'autorité du ministre de l'intérieur l'escorte de l'étranger non ressortissant d'un Etat membre de l'Union européenne ou d'un Etat partie à la convention signée à Schengen le 19 juin 1990 qui transite par un aéroport métropolitain en vue de son acheminement vers le pays de destination en exécution d'une mesure d'éloignement prise par un des Etats précités, à l'exception du Danemark, de l'Irlande et du Royaume-Uni.
 
@@ -2218,6 +2434,7 @@ Dans ce cadre, les prérogatives des membres de l'escorte sont limitées à la l
 #### Chapitre II : Dispositions propres à la Guyane
 
 #### Article L532-1
+{:.no_toc}
 
 En Guyane, lorsque l'équipage d'un navire se livrant à des activités de pêche illicite est contraint par l'autorité administrative de se rendre à terre, ses membres peuvent être éloignés d'office, avec leur accord et aux frais de l'Etat, à destination du Venezuela, du Brésil, du Surinam ou de la Guyana selon qu'ils ont la nationalité de l'un de ces Etats. L'autorité administrative prend toutes mesures à cette fin dans un délai qui ne peut excéder quarante-huit heures.
 
@@ -2225,6 +2442,7 @@ En Guyane, lorsque l'équipage d'un navire se livrant à des activités de pêch
 ### TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANCAIS
 
 ### Article L541-1
+{:.no_toc}
 
 La peine d'interdiction du territoire français susceptible d'être prononcée contre un étranger coupable d'un crime ou d'un délit est régie par les dispositions des articles 131-30, 131-30-1 et 131-30-2 du code pénal ci-après reproduites :
 
@@ -2272,6 +2490,7 @@ Les dispositions du présent article ne sont pas applicables aux atteintes aux i
 
 
 ### Article L541-2
+{:.no_toc}
 
 Il ne peut être fait droit à une demande de relèvement d'une interdiction du territoire que si le ressortissant étranger réside hors de France.
 
@@ -2283,11 +2502,13 @@ Toutefois, cette disposition ne s'applique pas :
 
 
 ### Article L541-3
+{:.no_toc}
 
 Les dispositions du dernier alinéa de l'article [L. 214-4](#article-l214-4), de l'article [L. 513-2](#article-l513-2), du premier alinéa de l'article [L. 513-3](#article-l513-3) et des articles [L. 513-5](#article-l513-5) et [L. 561-1](#article-l561-1) sont applicables à la reconduite à la frontière des étrangers faisant l'objet d'une interdiction du territoire, prévue au deuxième alinéa de l'article 131-30 du code pénal.
 
 
 ### Article L541-4
+{:.no_toc}
 
 Sauf en cas de menace pour l'ordre public, dûment motivée, les étrangers qui résident hors de France et qui ont été relevés de leurs peines d'interdiction du territoire français ou encore dont les peines d'interdiction du territoire français ont été entièrement exécutées ou ont acquis un caractère non avenu bénéficient d'un visa pour rentrer en France, lorsque, à la date du prononcé de la peine, ils relevaient, sous les réserves mentionnées par cet article, des catégories mentionnées aux 1° à 4° de l'article 131-30-2 du code pénal, et qu'ils entrent dans le champ d'application des 4° ou 6° de l'article [L. 313-11](#article-l313-11) ou dans celui du livre IV du présent code.
 
@@ -2301,6 +2522,7 @@ Les dispositions du présent article ne sont applicables qu'aux étrangers ayant
 #### Chapitre Ier : Placement en rétention
 
 #### Article L551-1
+{:.no_toc}
 
 Dans les cas prévus aux 1° à 7° du I de l'article [L. 561-2](#article-l561-2), l'étranger qui ne présente pas de garanties de représentation effectives propres à prévenir le risque mentionné au 3° du II de l'article [L. 511-1](#article-l511-1) peut être placé en rétention par l'autorité administrative dans des locaux ne relevant pas de l'administration pénitentiaire, pour une durée de quarante-huit heures.
 
@@ -2320,6 +2542,7 @@ L'intérêt supérieur de l'enfant doit être une considération primordiale pou
 
 
 #### Article L551-2
+{:.no_toc}
 
 La décision de placement est prise par l'autorité administrative, après l'interpellation de l'étranger ou, le cas échéant, lors de sa retenue aux fins de vérification de son droit de circulation ou de séjour, à l'expiration de sa garde à vue, ou à l'issue de sa période d'incarcération en cas de détention. Elle est écrite et motivée. Elle prend effet à compter de sa notification à l'intéressé. Le procureur de la République en est informé immédiatement.
 
@@ -2329,6 +2552,7 @@ Les meilleurs délais, au sens du deuxième alinéa, s'entendent compte tenu du 
 
 
 #### Article L551-3
+{:.no_toc}
 
 A son arrivée au centre de rétention, l'étranger reçoit notification des droits qu'il est susceptible d'exercer en matière de demande d'asile. A cette fin, il peut bénéficier d'une assistance juridique et linguistique. Il lui est notamment indiqué que sa demande d'asile ne sera plus recevable pendant la période de rétention si elle est formulée plus de cinq jours après cette notification. Cette irrecevabilité n'est pas opposable à l'étranger qui invoque, au soutien de sa demande, des faits survenus après l'expiration de ce délai. Lorsque le demandeur provient d'un pays considéré comme un pays d'origine sûr en application de l'article [L. 722-1](#article-l722-1), l'autorité administrative peut opposer l'irrecevabilité de la demande d'asile présentée au-delà des cinq premiers jours de rétention dans le seul but de faire échec à l'exécution effective et imminente de la mesure d'éloignement.
 
@@ -2338,31 +2562,37 @@ A son arrivée au centre de rétention, l'étranger reçoit notification des dro
 ##### Section 1 : Première saisine du juge des libertés et de la détention aux fins de prolongation de la rétention
 
 ##### Article L552-1
+{:.no_toc}
 
 Quand un délai de quarante-huit heures s'est écoulé depuis la décision de placement en rétention, le juge des libertés et de la détention est saisi aux fins de prolongation de la rétention. Le juge statue dans les vingt-quatre heures de sa saisine par ordonnance au siège du tribunal de grande instance dans le ressort duquel se situe le lieu de placement en rétention de l'étranger, sauf exception prévue par voie réglementaire, après audition du représentant de l'administration, si celui-ci, dûment convoqué, est présent, et de l'intéressé ou de son conseil, s'il en a un. L'étranger peut demander au juge des libertés et de la détention qu'il lui soit désigné un conseil d'office. Si une salle d'audience attribuée au ministère de la justice lui permettant de statuer publiquement a été spécialement aménagée à proximité immédiate de ce lieu de rétention, le juge statue dans cette salle.
 
 
 ##### Article L552-2
+{:.no_toc}
 
 Le juge rappelle à l'étranger les droits qui lui sont reconnus et s'assure, d'après les mentions figurant au registre prévu à l'article [L. 553-1](#article-l553-1) émargé par l'intéressé, que celui-ci a été, dans les meilleurs délais suivant la notification de la décision de placement en rétention, pleinement informé de ses droits et placé en état de les faire valoir à compter de son arrivée au lieu de rétention. Le juge tient compte des circonstances particulières liées notamment au placement en rétention simultané d'un nombre important d'étrangers pour l'appréciation des délais relatifs à la notification de la décision, à l'information des droits et à leur prise d'effet. Il informe l'étranger des possibilités et des délais de recours contre toutes les décisions le concernant. L'intéressé est maintenu à disposition de la justice, dans des conditions fixées par le procureur de la République, pendant le temps strictement nécessaire à la tenue de l'audience et au prononcé de l'ordonnance.
 
 
 ##### Article L552-3
+{:.no_toc}
 
 L'ordonnance de prolongation de la rétention court à compter de l'expiration du délai de quarante-huit heures fixé à l'article [L. 551-1](#article-l551-1).
 
 
 ##### Article L552-4
+{:.no_toc}
 
 Le juge peut ordonner l'assignation à résidence de l'étranger lorsque celui-ci dispose de garanties de représentation effectives, après remise à un service de police ou à une unité de gendarmerie de l'original du passeport et de tout document justificatif de son identité, en échange d'un récépissé valant justification de l'identité et sur lequel est portée la mention de la mesure d'éloignement en instance d'exécution. L'assignation à résidence concernant un étranger qui s'est préalablement soustrait à l'exécution d'une obligation de quitter le territoire français en vigueur, d'une interdiction de retour sur le territoire français en vigueur, d'une interdiction de circulation sur le territoire français en vigueur, d'une interdiction administrative du territoire en vigueur, d'une mesure de reconduite à la frontière en vigueur, d'une interdiction du territoire dont il n'a pas été relevé, ou d'une mesure d'expulsion en vigueur doit faire l'objet d'une motivation spéciale.
 
 
 ##### Article L552-5
+{:.no_toc}
 
 L'étranger est astreint à résider dans les lieux qui lui sont fixés par le juge. A la demande du juge, l'étranger justifie que le lieu proposé pour l'assignation satisfait aux exigences de garanties de représentation effectives. L'étranger se présente quotidiennement aux services de police ou aux unités de gendarmerie territorialement compétents au regard du lieu d'assignation, en vue de l'exécution de la mesure d'éloignement. Le non-respect des prescriptions liées à l'assignation à résidence est sanctionné dans les conditions prévues au premier alinéa de l'article [L. 624-4](#article-l624-4). Le procureur de la République est saisi dans les meilleurs délais.
 
 
 ##### Article L552-6
+{:.no_toc}
 
 Lorsqu'une ordonnance met fin à la rétention ou assigne l'étranger à résidence, elle est immédiatement notifiée au procureur de la République. A moins que ce dernier n'en dispose autrement, l'étranger est alors maintenu à la disposition de la justice pendant un délai de six heures à compter de la notification de l'ordonnance au procureur de la République.
 
@@ -2370,6 +2600,7 @@ Lorsqu'une ordonnance met fin à la rétention ou assigne l'étranger à réside
 ##### Section 2 : Nouvelle saisine du juge des libertés et de la détention aux fins de prolongation de la rétention
 
 ##### Article L552-7
+{:.no_toc}
 
 Quand un délai de vingt-huit jours s'est écoulé depuis l'expiration du délai de quarante-huit heures mentionné à l'article [L. 551-1](#article-l551-1) et en cas d'urgence absolue ou de menace d'une particulière gravité pour l'ordre public, ou lorsque l'impossibilité d'exécuter la mesure d'éloignement résulte de la perte ou de la destruction des documents de voyage de l'intéressé, de la dissimulation par celui-ci de son identité ou de l'obstruction volontaire faite à son éloignement, le juge des libertés et de la détention est à nouveau saisi.
 
@@ -2383,6 +2614,7 @@ L'article [L. 552-6](#article-l552-6) est applicable.
 
 
 ##### Article L552-8
+{:.no_toc}
 
 A peine d'irrecevabilité, prononcée d'office, aucune irrégularité antérieure à l'audience relative à la première prolongation de la rétention ne peut être soulevée lors de l'audience relative à la seconde prolongation.
 
@@ -2390,6 +2622,7 @@ A peine d'irrecevabilité, prononcée d'office, aucune irrégularité antérieur
 ##### Section 3 : Voies de recours
 
 ##### Article L552-9
+{:.no_toc}
 
 Les ordonnances mentionnées aux sections 1 et 2 du présent chapitre sont susceptibles d'appel devant le premier président de la cour d'appel ou son délégué, qui est saisi sans forme et doit statuer dans les quarante-huit heures de sa saisine ; l'appel peut être formé par l'intéressé, le ministère public et l'autorité administrative.
 
@@ -2397,6 +2630,7 @@ Le premier président de la cour d'appel ou son délégué peut, par ordonnance 
 
 
 ##### Article L552-10
+{:.no_toc}
 
 L'appel n'est pas suspensif. Toutefois, le ministère public peut demander au premier président de la cour d'appel ou à son délégué de déclarer son recours suspensif lorsqu'il lui apparaît que l'intéressé ne dispose pas de garanties de représentation effectives ou en cas de menace grave pour l'ordre public. Dans ce cas, l'appel, accompagné de la demande qui se réfère à l'absence de garanties de représentation effectives ou à la menace grave pour l'ordre public, est formé dans un délai de six heures à compter de la notification de l'ordonnance au procureur de la République et transmis au premier président de la cour d'appel ou à son délégué. Celui-ci décide, sans délai, s'il y a lieu de donner à cet appel un effet suspensif, en fonction des garanties de représentation dont dispose l'étranger ou de la menace grave pour l'ordre public, par une ordonnance motivée rendue contradictoirement qui n'est pas susceptible de recours. L'intéressé est maintenu à la disposition de la justice jusqu'à ce que cette ordonnance soit rendue et, si elle donne un effet suspensif à l'appel du ministère public, jusqu'à ce qu'il soit statué sur le fond.
 
@@ -2404,16 +2638,19 @@ L'appel n'est pas suspensif. Toutefois, le ministère public peut demander au pr
 ##### Section 4 : Dispositions communes
 
 ##### Article L552-11
+{:.no_toc}
 
 L'intéressé peut bénéficier de l'aide juridictionnelle.
 
 
 ##### Article L552-12
+{:.no_toc}
 
 Par décision du juge prise sur une proposition de l'autorité administrative à laquelle l'étranger dûment informé dans une langue qu'il comprend ne s'est pas opposé, les audiences prévues au présent chapitre peuvent se dérouler avec l'utilisation de moyens de télécommunication audiovisuelle garantissant la confidentialité de la transmission. Il est alors dressé, dans chacune des deux salles d'audience ouvertes au public, un procès-verbal des opérations effectuées.
 
 
 ##### Article L552-13
+{:.no_toc}
 
 En cas de violation des formes prescrites par la loi à peine de nullité ou d'inobservation des formalités substantielles, toute juridiction, y compris la Cour de cassation, qui est saisie d'une demande d'annulation ou qui relève d'office une telle irrégularité ne peut prononcer la mainlevée de la mesure de placement en rétention que lorsque celle-ci a eu pour effet de porter atteinte aux droits de l'étranger.
 
@@ -2421,6 +2658,7 @@ En cas de violation des formes prescrites par la loi à peine de nullité ou d'i
 #### Chapitre III : Conditions de la rétention
 
 #### Article L553-1
+{:.no_toc}
 
 Il est tenu, dans tous les lieux recevant des personnes placées ou maintenues au titre du présent titre, un registre mentionnant l'état civil de ces personnes ainsi que les conditions de leur placement ou de leur maintien. Le registre mentionne également l'état civil des enfants mineurs accompagnant ces personnes ainsi que les conditions de leur accueil.
 
@@ -2428,11 +2666,13 @@ L'autorité administrative tient à la disposition des personnes qui en font la 
 
 
 #### Article L553-2
+{:.no_toc}
 
 En cas de nécessité et pendant toute la durée de la rétention, l'autorité administrative peut décider de déplacer l'étranger d'un lieu de rétention vers un autre lieu de rétention, sous réserve d'en informer les procureurs de la République compétents du lieu de départ et du lieu d'arrivée, ainsi que, après la première ordonnance de prolongation, les juges des libertés et de la détention compétents.
 
 
 #### Article L553-3
+{:.no_toc}
 
 Pendant toute la durée de la rétention, le procureur de la République ou le juge des libertés et de la détention peut se transporter sur les lieux, vérifier les conditions du maintien et se faire communiquer le registre prévu à l'article [L. 553-1](#article-l553-1). Le procureur de la République visite les lieux de rétention chaque fois qu'il l'estime nécessaire et au moins une fois par an.
 
@@ -2440,11 +2680,13 @@ Un décret en Conseil d'Etat détermine les conditions d'exercice du droit d'acc
 
 
 #### Article L553-4
+{:.no_toc}
 
 Dans chaque lieu de rétention, un espace permettant aux avocats de s'entretenir confidentiellement avec les étrangers retenus est prévu. A cette fin, sauf en cas de force majeure, il est accessible en toutes circonstances sur demande de l'avocat. Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application du présent article.
 
 
 #### Article L553-5
+{:.no_toc}
 
 Sauf en cas de menace à l'ordre public à l'intérieur ou à l'extérieur du lieu de rétention, ou si la personne ne paraît pas psychologiquement à même de recevoir ces informations, l'étranger est informé par le responsable du lieu de rétention de toutes les prévisions de déplacement le concernant : audiences, présentation au consulat, conditions du départ.
 
@@ -2454,11 +2696,13 @@ La méconnaissance des dispositions du présent article est sans conséquence su
 
 
 #### Article L553-6
+{:.no_toc}
 
 Un décret en Conseil d'Etat définit les modalités selon lesquelles les étrangers maintenus en rétention bénéficient d'actions d'accueil, d'information et de soutien, pour permettre l'exercice effectif de leurs droits et préparer leur départ.
 
 
 #### Article L553-7
+{:.no_toc}
 
 Sous réserve de ne pas porter atteinte à la dignité des personnes et aux exigences de sécurité et de bon fonctionnement du lieu de rétention administrative, les journalistes titulaires de la carte d'identité professionnelle mentionnée à l'article L. 7111-6 du code du travail peuvent être autorisés à y accéder dans des conditions fixées par décret en Conseil d'Etat.
 
@@ -2468,16 +2712,19 @@ Les prises d'images et de son des étrangers, des personnels et des intervenants
 #### Chapitre IV : Fin de la rétention
 
 #### Article L554-1
+{:.no_toc}
 
 Un étranger ne peut être placé ou maintenu en rétention que pour le temps strictement nécessaire à son départ. L'administration doit exercer toute diligence à cet effet.
 
 
 #### Article L554-2
+{:.no_toc}
 
 Si la mesure d'éloignement est annulée par le juge administratif, il est immédiatement mis fin au maintien de l'étranger en rétention et celui-ci est muni d'une autorisation provisoire de séjour jusqu'à ce que l'autorité administrative ait à nouveau statué sur son cas.
 
 
 #### Article L554-3
+{:.no_toc}
 
 Lorsqu'il est mis fin à la rétention pour une raison autre que l'annulation, l'abrogation ou le retrait de la mesure d'éloignement, un rappel de l'obligation de quitter le territoire français est adressé à l'étranger par le juge des libertés et de la détention ou par l'autorité administrative. La méconnaissance des dispositions du présent alinéa est sans conséquence sur la régularité et le bien-fondé de procédures ultérieures d'éloignement et de rétention.
 
@@ -2487,6 +2734,7 @@ L'article [L. 561-2](#article-l561-2) est applicable.
 #### Chapitre V : Dispositions particulières aux étrangers faisant l'objet d'une peine d'interdiction du territoire français
 
 #### Article L555-1
+{:.no_toc}
 
 L'interdiction du territoire prononcée à titre de peine principale et assortie de l'exécution provisoire entraîne de plein droit le placement de l'étranger dans des lieux ne relevant pas de l'administration pénitentiaire, dans les conditions définies au présent titre, pendant le temps strictement nécessaire à son départ. Le deuxième alinéa de l'article [L. 551-2](#article-l551-2) et l'article [L. 553-4](#article-l553-4) sont applicables. Quand un délai de quarante-huit heures s'est écoulé depuis le prononcé de la peine, il est fait application des dispositions des chapitres II à IV du présent titre.
 
@@ -2495,6 +2743,7 @@ L'interdiction du territoire prononcée à titre de peine complémentaire peut �
 
 
 #### Article L555-2
+{:.no_toc}
 
 L'appel d'une décision prononcée par la juridiction pénale peut être interjeté par l'étranger placé ou maintenu dans un lieu de rétention au moyen d'une déclaration auprès du chef du centre ou du local de rétention. Il en est de même du pourvoi en cassation.
 
@@ -2502,6 +2751,7 @@ Cette déclaration est constatée, datée et signée par le chef du centre ou du
 
 
 #### Article L555-3
+{:.no_toc}
 
 Lorsqu'un étranger est condamné en première instance à une peine d'interdiction du territoire français à titre de peine principale assortie de l'exécution provisoire et que l'éloignement du territoire a lieu avant la date de l'audience d'appel, son avocat doit être entendu lors de l'audience d'appel s'il en fait la demande. Il en est de même de l'avocat commis d'office lorsque l'étranger a demandé le bénéfice d'un conseil dans sa requête d'appel.
 
@@ -2509,6 +2759,7 @@ Lorsqu'un étranger est condamné en première instance à une peine d'interdict
 #### Chapitre VI : Demandes d'asile en rétention
 
 #### Article L556-1
+{:.no_toc}
 
 Lorsqu'un étranger placé en rétention en application de l'article [L. 551-1](#article-l551-1) présente une demande d'asile, l'autorité administrative peut, si elle estime, sur le fondement de critères objectifs, que cette demande est présentée dans le seul but de faire échec à l'exécution de la mesure d'éloignement, maintenir l'intéressé en rétention le temps strictement nécessaire à l'examen de sa demande d'asile par l'Office français de protection des réfugiés et apatrides et, en cas de décision de rejet ou d'irrecevabilité de celui-ci, dans l'attente de son départ. Cette décision de maintien en rétention n'affecte ni le contrôle du juge des libertés et de la détention exercé sur la décision de placement en rétention en application de l'article [L. 512-1](#article-l512-1) ni sa compétence pour examiner la prolongation de la rétention en application du chapitre II du titre V du livre V. La décision de maintien en rétention est écrite et motivée. A défaut d'une telle décision, il est immédiatement mis fin à la rétention et l'autorité administrative compétente délivre à l'intéressé l'attestation mentionnée à l'article [L. 741-1](#article-l741-1).
 
@@ -2528,6 +2779,7 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 
 #### Article L556-2
+{:.no_toc}
 
 Les deuxième à cinquième alinéas de l'article [L. 556-1](#article-l556-1) ne sont pas applicables en Guyane, en Guadeloupe, à Mayotte, à Saint-Barthélemy et à Saint-Martin.
 
@@ -2537,6 +2789,7 @@ Les deuxième à cinquième alinéas de l'article [L. 556-1](#article-l556-1) ne
 #### Chapitre Ier
 
 #### Article L561-1
+{:.no_toc}
 
 Lorsque l'étranger justifie être dans l'impossibilité de quitter le territoire français ou ne peut ni regagner son pays d'origine ni se rendre dans aucun autre pays, l'autorité administrative peut, jusqu'à ce qu'existe une perspective raisonnable d'exécution de son obligation, l'autoriser à se maintenir provisoirement sur le territoire français en l'assignant à résidence, dans les cas suivants :
 
@@ -2560,6 +2813,7 @@ Le non-respect des prescriptions liées à l'assignation à résidence est sanct
 
 
 #### Article L561-2
+{:.no_toc}
 
 I.-L'autorité administrative peut prendre une décision d'assignation à résidence à l'égard de l'étranger qui ne peut quitter immédiatement le territoire français mais dont l'éloignement demeure une perspective raisonnable, lorsque cet étranger :
 
@@ -2599,11 +2853,13 @@ Le présent II est applicable à l'étranger assigné à résidence en applicati
 
 
 #### Article L561-2-1
+{:.no_toc}
 
 Les étrangers assignés à résidence sur le fondement des articles [L. 552-4](#article-l552-4) et [L. 561-2](#article-l561-2) se voient remettre une information sur les modalités d'exercice de leurs droits, sur les obligations qui leur incombent et, le cas échéant, sur la possibilité de bénéficier d'une aide au retour.
 
 
 #### Article L561-3
+{:.no_toc}
 
 Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
 
@@ -2611,6 +2867,7 @@ Les modalités d'application du présent chapitre sont fixées par décret en Co
 #### Chapitre III : Assignation à résidence avec interdiction de se trouver en relation avec une personne nommément désignée
 
 #### Article L563-1
+{:.no_toc}
 
 L'étranger astreint à résider dans les lieux qui lui sont fixés en application des articles [L. 523-3](#article-l523-3), [L. 523-4](#article-l523-4) ou [L. 541-3](#article-l541-3) qui a été condamné à une peine d'interdiction du territoire pour des actes de terrorisme prévus au titre II du livre IV du code pénal ou à l'encontre duquel un arrêté d'expulsion a été prononcé pour un comportement lié à des activités à caractère terroriste peut, si la préservation de la sécurité publique l'exige, se voir prescrire par l'autorité administrative compétente pour prononcer l'assignation à résidence une interdiction de se trouver en relation, directement ou indirectement, avec certaines personnes nommément désignées dont le comportement est lié à des activités à caractère terroriste. La décision est écrite et motivée. Elle peut être prise pour une durée maximale de six mois et renouvelée, dans la même limite de durée, par une décision également motivée. Cette interdiction est levée dès que les conditions ne sont plus satisfaites ou en cas de levée de l'assignation à résidence.
 
@@ -2620,16 +2877,19 @@ La violation de cette interdiction est sanctionnée dans les conditions prévues
 ### TITRE VII : DISPOSITIONS DIVERSES
 
 ### Article L571-1
+{:.no_toc}
 
 La libération conditionnelle des étrangers condamnés à une peine privative de liberté et faisant l'objet d'une mesure d'interdiction du territoire, d'obligation de quitter le territoire français, d'interdiction de retour sur le territoire français, d'interdiction de circulation sur le territoire français, d'interdiction administrative du territoire, de reconduite à la frontière, d'expulsion, d'extradition ou de remise sur le fondement d'un mandat d'arrêt européen est régie par les dispositions de l'article 729-2 du code de procédure pénale.
 
 
 ### Article L571-2
+{:.no_toc}
 
 Sont applicables sur le territoire défini à l'article [L. 111-3](#article-l111-3) les mesures d'interdiction du territoire prononcées par toute juridiction siégeant dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie ainsi que les mesures de reconduite à la frontière et d'expulsion prononcées par le représentant de l'Etat dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.
 
 
 ### Article L571-3
+{:.no_toc}
 
 L'autorité administrative peut ordonner le placement sous surveillance électronique mobile de l'étranger astreint à résider dans les lieux qui lui sont fixés en application des articles [L. 523-3](#article-l523-3), [L. 523-4](#article-l523-4) ou [L. 541-3](#article-l541-3) s'il a été condamné à une peine d'interdiction du territoire pour des actes de terrorisme prévus par le titre II du livre IV du code pénal ou si une mesure d'expulsion a été prononcée à son encontre pour un comportement lié à des activités à caractère terroriste.
 
@@ -2649,6 +2909,7 @@ Le manquement aux prescriptions liées au placement sous surveillance électroni
 ### TITRE Ier : CONTRÔLES
 
 ### Article L611-1
+{:.no_toc}
 
 I. - En dehors de tout contrôle d'identité, les personnes de nationalité étrangère doivent être en mesure de présenter les pièces ou documents sous le couvert desquels elles sont autorisées à circuler ou à séjourner en France à toute réquisition des officiers de police judiciaire et, sur l'ordre et sous la responsabilité de ceux-ci, des agents de police judiciaire et agents de police judiciaire adjoints mentionnés aux articles 20 et 21 (1°) du code de procédure pénale.
 
@@ -2660,6 +2921,7 @@ II. - Les contrôles des obligations de détention, de port et de présentation 
 
 
 ### Article L611-1-1
+{:.no_toc}
 
 I. ― Si, à l'occasion d'un contrôle effectué en application de l'article [L. 611-1](#article-l611-1) du présent code, des articles 78-1, 78-2, 78-2-1 et 78-2-2 du code de procédure pénale ou de l'article 67 quater du code des douanes, il apparaît qu'un étranger n'est pas en mesure de justifier de son droit de circuler ou de séjourner en France, il peut être conduit dans un local de police ou de gendarmerie et y être retenu par un officier de police judiciaire de la police nationale ou de la gendarmerie nationale aux fins de vérification de son droit de circulation ou de séjour sur le territoire français. Dans ce cas, l'officier de police judiciaire ou, sous le contrôle de celui-ci, un agent de police judiciaire met l'étranger en mesure de fournir par tout moyen les pièces et documents requis et procède, s'il y a lieu, aux opérations de vérification nécessaires. Le procureur de la République est informé dès le début de la retenue.
 
@@ -2701,11 +2963,13 @@ III. ― S'il apparaît, au cours de la retenue de l'étranger, que celui-ci doi
 
 
 ### Article L611-2
+{:.no_toc}
 
 L'autorité administrative compétente, les services de police et les unités de gendarmerie sont habilités à retenir le passeport ou le document de voyage des personnes de nationalité étrangère en situation irrégulière. Ils leur remettent en échange un récépissé valant justification de leur identité et sur lequel sont mentionnées la date de retenue et les modalités de restitution du document retenu.
 
 
 ### Article L611-3
+{:.no_toc}
 
 Afin de mieux garantir le droit au séjour des personnes en situation régulière et de lutter contre l'entrée et le séjour irréguliers des étrangers en France, les empreintes digitales ainsi qu'une photographie des ressortissants étrangers, non ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse, qui sollicitent la délivrance d'un titre de séjour en application de l'article [L. 311-1](#article-l311-1) peuvent être relevées, mémorisées et faire l'objet d'un traitement automatisé dans les conditions fixées par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
@@ -2715,16 +2979,19 @@ Il en est de même des étrangers bénéficiaires de l'aide au retour mentionné
 
 
 ### Article L611-4
+{:.no_toc}
 
 En vue de l'identification d'un étranger qui n'a pas justifié des pièces ou documents visés à l'article [L. 611-1](#article-l611-1) ou qui n'a pas présenté à l'autorité administrative compétente les documents de voyage permettant l'exécution de l'une des mesures mentionnées à l'article [L. 624-1-1](#article-l624-1-1) ou qui, à défaut de ceux-ci, n'a pas communiqué les renseignements permettant cette exécution, les données des fichiers automatisés des empreintes digitales gérés par le ministère de l'intérieur peuvent être consultées par les agents expressément habilités des services du ministère de l'intérieur et de la gendarmerie nationale, dans les conditions fixées par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 
 ### Article L611-5
+{:.no_toc}
 
 Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, fixe les modalités d'application des articles [L. 611-3](#article-l611-3) et [L. 611-4](#article-l611-4). Il précise la durée de conservation et les conditions de mise à jour des informations enregistrées, les modalités d'habilitation des personnes pouvant y accéder ainsi que, le cas échéant, les conditions dans lesquelles les personnes intéressées peuvent exercer leur droit d'accès.
 
 
 ### Article L611-6
+{:.no_toc}
 
 Afin de mieux garantir le droit au séjour des personnes en situation régulière et de lutter contre l'entrée et le séjour irréguliers des étrangers en France, les empreintes digitales ainsi qu'une photographie des ressortissants étrangers qui sollicitent la délivrance, auprès d'un consulat ou à la frontière extérieure des Etats parties à la convention signée à Schengen le 19 juin 1990, d'un visa afin de séjourner en France ou sur le territoire d'un autre Etat partie à ladite convention peuvent être relevées, mémorisées et faire l'objet d'un traitement automatisé dans les conditions fixées par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
@@ -2732,16 +2999,19 @@ Ces empreintes et cette photographie sont obligatoirement relevées en cas de d�
 
 
 ### Article L611-7
+{:.no_toc}
 
 Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, fixe les modalités d'application de l'article [L. 611-6](#article-l611-6). Il précise la durée de conservation et les conditions de mise à jour des informations enregistrées, les catégories de personnes pouvant y accéder et les modalités d'habilitation de celles-ci ainsi que, le cas échéant, les conditions dans lesquelles les personnes intéressées peuvent exercer leur droit d'accès.
 
 
 ### Article L611-8
+{:.no_toc}
 
 Dans une zone comprise entre la frontière terrestre de la France avec les Etats parties à la convention signée à Schengen le 19 juin 1990 et une ligne tracée à vingt kilomètres en deçà, les officiers de police judiciaire, assistés des agents de police judiciaire et des agents de police judiciaire adjoints mentionnés aux articles 20 et 21 (1°) du code de procédure pénale, peuvent procéder, avec l'accord du conducteur ou, à défaut, sur instructions du procureur de la République, à la visite sommaire des véhicules circulant sur la voie publique, à l'exclusion des voitures particulières, en vue de vérifier le respect des obligations de détention, de port et de présentation des pièces ou documents prévus à l'article [L. 611-1](#article-l611-1) ou de rechercher et constater les infractions relatives à l'entrée et au séjour des étrangers en France.
 
 
 ### Article L611-9
+{:.no_toc}
 
 Lorsqu'il existe une section autoroutière commençant dans la zone mentionnée à l'article [L. 611-8](#article-l611-8) et que le premier péage autoroutier se situe au-delà de la ligne des vingt kilomètres, la visite peut en outre avoir lieu jusqu'à ce premier péage sur les aires de stationnement ainsi que sur le lieu de ce péage et les aires de stationnement attenantes.
 
@@ -2751,11 +3021,13 @@ La visite, dont la durée est limitée au temps strictement nécessaire, se dér
 
 
 ### Article L611-10
+{:.no_toc}
 
 Les dispositions des articles [L. 611-8](#article-l611-8) et [L. 611-9](#article-l611-9) sont applicables, en Guyane, dans une zone comprise entre les frontières terrestres et une ligne tracée à vingt kilomètres en deçà ainsi que sur la route nationale 2 sur le territoire des communes de Saint-Georges et de Régina et sur la route départementale 6 et la route nationale 2 sur la commune de Roura.
 
 
 ### Article L611-11
+{:.no_toc}
 
 Les articles [L. 611-8](#article-l611-8) et [L. 611-9](#article-l611-9) sont applicables en Guadeloupe dans une zone comprise entre le littoral et une ligne tracée à un kilomètre en deçà, ainsi que sur les routes nationales 1 et 4, et en Martinique dans une zone comprise entre le littoral et une ligne tracée à un kilomètre en deçà, ainsi que sur les routes nationales 1, 2, 3, 5 et 6 et sur la route départementale 1.
 
@@ -2763,6 +3035,7 @@ Il en est de même à Mayotte, à Saint-Barthélemy et à Saint-Martin dans une 
 
 
 ### Article L611-12
+{:.no_toc}
 
 Sans que s'y oppose le secret professionnel autre que le secret médical, les autorités ainsi que les personnes privées mentionnées aux 1° à 8° du présent article transmettent à l'autorité administrative compétente, agissant dans le cadre de l'instruction d'une première demande de titre ou d'une demande de renouvellement de titre ou dans le cadre des contrôles prévus à l'article [L. 313-5-1](#article-l313-5-1), les documents et les informations nécessaires au contrôle de la sincérité et de l'exactitude des déclarations souscrites ou au contrôle de l'authenticité des pièces produites en vue de l'attribution d'un droit au séjour ou de sa vérification.
 
@@ -2800,6 +3073,7 @@ Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'i
 #### Chapitre Ier :  Entrée irrégulière
 
 #### Article L621-2
+{:.no_toc}
 
 Est puni d'une peine d'emprisonnement d'un an et d'une amende de 3 750 € l'étranger qui n'est pas ressortissant d'un Etat membre de l'Union européenne :
 
@@ -2817,6 +3091,7 @@ Pour l'application du présent article, l'action publique ne peut être mise en 
 #### Chapitre II : Aide à l'entrée et au séjour irréguliers
 
 #### Article L622-1
+{:.no_toc}
 
 Sous réserve des exemptions prévues à l'article [L. 622-4](#article-l622-4), toute personne qui aura, par aide directe ou indirecte, facilité ou tenté de faciliter l'entrée, la circulation ou le séjour irréguliers, d'un étranger en France sera punie d'un emprisonnement de cinq ans et d'une amende de 30 000 Euros.
 
@@ -2830,6 +3105,7 @@ Les dispositions du précédent alinéa sont applicables en France à compter de
 
 
 #### Article L622-2
+{:.no_toc}
 
 Pour l'application des deuxième, troisième et quatrième alinéas de l'article [L. 622-1](#article-l622-1), la situation irrégulière de l'étranger est appréciée au regard de la législation de l'Etat partie intéressé. En outre, les poursuites ne pourront être exercées à l'encontre de l'auteur de l'infraction que sur une dénonciation officielle ou sur une attestation des autorités compétentes de l'Etat membre ou de l'Etat partie intéressé.
 
@@ -2837,6 +3113,7 @@ Aucune poursuite ne pourra être exercée contre une personne justifiant qu'elle
 
 
 #### Article L622-3
+{:.no_toc}
 
 Les personnes physiques coupables de l'un des délits prévus à l'article [L. 622-1](#article-l622-1) encourent également les peines complémentaires suivantes :
 
@@ -2854,6 +3131,7 @@ Les personnes physiques coupables de l'un des délits prévus à l'article [L. 6
 
 
 #### Article L622-4
+{:.no_toc}
 
 Sans préjudice des articles [L. 621-2](#article-l621-2), [L. 623-1](#article-l623-1), [L. 623-2](#article-l623-2) et [L. 623-3](#article-l623-3), ne peut donner lieu à des poursuites pénales sur le fondement des articles [L. 622-1](#article-l622-1) à [L. 622-3](#article-l622-3) l'aide au séjour irrégulier d'un étranger lorsqu'elle est le fait :
 
@@ -2867,6 +3145,7 @@ Les exceptions prévues aux 1° et 2° ne s'appliquent pas lorsque l'étranger b
 
 
 #### Article L622-5
+{:.no_toc}
 
 Les infractions prévues à l'article [L. 622-1](#article-l622-1) sont punies de dix ans d'emprisonnement et de 750 000 Euros d'amende :
 
@@ -2882,16 +3161,19 @@ Les infractions prévues à l'article [L. 622-1](#article-l622-1) sont punies de
 
 
 #### Article L622-6
+{:.no_toc}
 
 Outre les peines complémentaires prévues à l'article [L. 622-3](#article-l622-3), les personnes physiques condamnées au titre des infractions visées à l'article [L. 622-5](#article-l622-5) encourent également la peine complémentaire de confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
 
 
 #### Article L622-7
+{:.no_toc}
 
 Les étrangers condamnés au titre de l'un des délits prévus à l'article [L. 622-5](#article-l622-5) encourent également l'interdiction définitive du territoire français, dans les conditions prévues par les articles 131-30 à 131-30-2 du code pénal.
 
 
 #### Article L622-8
+{:.no_toc}
 
 Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions définies aux articles [L. 622-1](#article-l622-1) et [L. 622-5](#article-l622-5) encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal, les peines prévues par les 1° à 5°, 8° et 9° de l'article 131-39 du même code.
 
@@ -2899,11 +3181,13 @@ L'interdiction visée au 2° de l'article 131-39 du code pénal porte sur l'acti
 
 
 #### Article L622-9
+{:.no_toc}
 
 En cas de condamnation pour les infractions prévues à l'article [L. 622-5](#article-l622-5), le tribunal pourra prononcer la confiscation de tout ou partie des biens des personnes morales condamnées, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
 
 
 #### Article L622-10
+{:.no_toc}
 
 En Guyane, en Guadeloupe, en Martinique, à Mayotte, à Saint-Barthélemy et à Saint-Martin, le procureur de la République peut, au cours de l'enquête ou si aucune juridiction n'a été saisie ou lorsque la juridiction saisie a épuisé sa compétence sans avoir statué sur le sort des scellés, ordonner la destruction ou l'immobilisation, par la neutralisation de tout moyen indispensable à leur fonctionnement, des embarcations, des véhicules terrestres et des aéronefs qui ont servi à commettre les infractions mentionnées aux articles [L. 622-1](#article-l622-1) et [L. 622-2](#article-l622-2), constatées par procès-verbal.
 
@@ -2919,6 +3203,7 @@ Les décisions de destruction d'un bien prises par le procureur de la Républiqu
 #### Chapitre III : Reconnaissance d'enfant et mariage contracté à seule fin d'obtenir ou de faire obtenir un titre de séjour ou la nationalité française
 
 #### Article L623-1
+{:.no_toc}
 
 Le fait de contracter un mariage ou de reconnaître un enfant aux seules fins d'obtenir, ou de faire obtenir, un titre de séjour ou le bénéfice d'une protection contre l'éloignement, ou aux seules fins d'acquérir, ou de faire acquérir, la nationalité française est puni de cinq ans d'emprisonnement et de 15 000 Euros d'amende. Ces peines sont également encourues lorsque l'étranger qui a contracté mariage a dissimulé ses intentions à son conjoint.
 
@@ -2928,6 +3213,7 @@ Elles sont portées à dix ans d'emprisonnement et à 750 000 Euros d'amende lor
 
 
 #### Article L623-2
+{:.no_toc}
 
 Les personnes physiques coupables de l'une ou l'autre des infractions visées à l'article [L. 623-1](#article-l623-1) encourent également les peines complémentaires suivantes :
 
@@ -2941,6 +3227,7 @@ Les personnes physiques condamnées au titre de l'infraction visée au troisièm
 
 
 #### Article L623-3
+{:.no_toc}
 
 Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions définies aux deuxième et troisième alinéas de l'article [L. 623-1](#article-l623-1) encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal, les peines prévues par les 1° à 5° et 9° de l'article 131-39 du même code.
 
@@ -2952,11 +3239,13 @@ Les personnes morales condamnées au titre de l'infraction visée au troisième 
 #### Chapitre IV : Méconnaissance des mesures d'éloignement ou d'assignation à résidence
 
 #### Article L624-1
+{:.no_toc}
 
 Tout étranger qui, faisant l'objet d'un arrêté d'expulsion, d'une mesure de reconduite à la frontière, d'une obligation de quitter le territoire français, d'une interdiction administrative du territoire ou d'une interdiction judiciaire du territoire, se sera maintenu irrégulièrement sur le territoire français sans motif légitime, après avoir fait l'objet d'une mesure régulière de placement en rétention ou d'assignation à résidence ayant pris fin sans qu'il ait pu être procédé à son éloignement, sera puni d'un an d'emprisonnement et de 3 750 € d'amende.
 
 
 #### Article L624-1-1
+{:.no_toc}
 
 Tout étranger qui se soustrait ou qui tente de se soustraire à l'exécution d'une mesure de refus d'entrée en France, d'une interdiction administrative du territoire, d'un arrêté d'expulsion, d'une mesure de reconduite à la frontière ou d'une obligation de quitter le territoire français ou qui, expulsé ou ayant fait l'objet d'une interdiction judiciaire du territoire, d'une interdiction administrative du territoire, d'une interdiction de retour sur le territoire français ou d'une interdiction de circulation sur le territoire français, pénètre de nouveau sans autorisation en France est puni d'une peine de trois ans d'emprisonnement.
 
@@ -2966,6 +3255,7 @@ La peine prévue au premier alinéa est applicable à tout étranger qui ne pré
 
 
 #### Article L624-2
+{:.no_toc}
 
 Le tribunal pourra, en outre, prononcer à l'encontre de l'étranger condamné l'interdiction du territoire pour une durée n'excédant pas trois ans dans le cas prévu à l'article [L. 624-1](#article-l624-1) et dix ans dans les cas prévus à l'article [L. 624-1-1](#article-l624-1-1).
 
@@ -2973,6 +3263,7 @@ L'interdiction du territoire emporte de plein droit reconduite à la frontière 
 
 
 #### Article L624-3
+{:.no_toc}
 
 Tout étranger qui se sera soustrait ou qui aura tenté de se soustraire à l'exécution d'une décision prise en application des articles [L. 531-1](#article-l531-1) et [L. 531-2](#article-l531-2) ou qui, ayant déféré à cette décision, aura pénétré de nouveau sans autorisation en France sera puni de trois ans d'emprisonnement.
 
@@ -2982,6 +3273,7 @@ L'interdiction du territoire emporte de plein droit reconduite à la frontière 
 
 
 #### Article L624-4
+{:.no_toc}
 
 Les étrangers qui n'auront pas rejoint dans les délais prescrits la résidence qui leur est assignée en application des articles [L. 523-3](#article-l523-3), [L. 523-4](#article-l523-4), [L. 523-5](#article-l523-5), [L. 561-1](#article-l561-1) ou [L. 561-2](#article-l561-2) ou qui, ultérieurement, ont quitté cette résidence sans autorisation de l'autorité administrative, sont passibles d'une peine d'emprisonnement de trois ans.
 
@@ -2995,6 +3287,7 @@ La même peine d'emprisonnement d'un an est applicable aux étrangers qui n'ont 
 #### Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport
 
 #### Article L625-1
+{:.no_toc}
 
 Est punie d'une amende d'un montant maximum de 10 000 € l'entreprise de transport aérien ou maritime qui débarque sur le territoire français, en provenance d'un Etat avec lequel ne s'applique pas l'acquis de Schengen, un étranger non ressortissant d'un Etat de l'Union européenne et démuni du document de voyage et, le cas échéant, du visa requis par la loi ou l'accord international qui lui est applicable en raison de sa nationalité.
 
@@ -3002,6 +3295,7 @@ Est punie de la même amende l'entreprise de transport aérien ou maritime qui d
 
 
 #### Article L625-2
+{:.no_toc}
 
 Le manquement est constaté par un procès-verbal établi par un fonctionnaire appartenant à l'un des corps dont la liste est définie par décret en Conseil d'Etat. Copie du procès-verbal est remise à l'entreprise de transport intéressée. Le manquement ainsi relevé donne lieu à une amende prononcée par l'autorité administrative compétente. L'amende peut être prononcée autant de fois qu'il y a de passagers concernés. Son montant est versé au Trésor public par l'entreprise de transport.
 
@@ -3011,6 +3305,7 @@ L'autorité administrative ne peut infliger d'amende à raison de faits remontan
 
 
 #### Article L625-4
+{:.no_toc}
 
 Lorsque l'étranger débarqué en France est un mineur sans représentant légal, la somme de 10 000 € doit être immédiatement consignée auprès du fonctionnaire visé au premier alinéa de l'article [L. 625-2](#article-l625-2). Tout ou partie de cette somme est restituée à l'entreprise selon le montant de l'amende prononcée ultérieurement par l'autorité administrative. Si l'entreprise ne consigne pas la somme, le montant de l'amende est porté à 20 000 €.
 
@@ -3018,6 +3313,7 @@ Un décret en Conseil d'Etat fixe les conditions de cette consignation et de son
 
 
 #### Article L625-5
+{:.no_toc}
 
 Les amendes prévues aux articles [L. 625-1](#article-l625-1) et [L. 625-4](#article-l625-4) ne sont pas infligées :
 
@@ -3027,6 +3323,7 @@ Les amendes prévues aux articles [L. 625-1](#article-l625-1) et [L. 625-4](#art
 
 
 #### Article L625-6
+{:.no_toc}
 
 Les dispositions des articles [L. 625-1](#article-l625-1) à [L. 625-5](#article-l625-5) sont applicables à l'entreprise de transport routier exploitant des liaisons internationales en provenance d'un Etat avec lequel ne s'applique pas l'acquis de Schengen sous la forme de lignes régulières, de services occasionnels ou de navette, à l'exclusion des trafics frontaliers. Le taux de l'amende est fixé dans ce cas à un montant maximal de 10 000 € par passager concerné.
 
@@ -3034,6 +3331,7 @@ Si une telle entreprise n'a pu procéder à la vérification du document de voya
 
 
 #### Article L625-7
+{:.no_toc}
 
 Est punie d'une amende d'un montant maximal de 30 000 € :
 
@@ -3047,6 +3345,7 @@ Est punie d'une amende d'un montant maximal de 30 000 € :
 #### Chapitre VI : Dispositions diverses.
 
 #### Article L626-1
+{:.no_toc}
 
 Sans préjudice des poursuites judiciaires qui pourront être engagées à son encontre et de la contribution spéciale prévue à l'article L. 8253-1 du code du travail, l'employeur qui aura occupé un travailleur étranger en situation de séjour irrégulier acquittera une contribution forfaitaire représentative des frais de réacheminement de l'étranger dans son pays d'origine.
 
@@ -3068,11 +3367,13 @@ Les modalités d'application du présent article sont fixées par décret en Con
 #### Chapitre Ier : La qualité de réfugié
 
 #### Article L711-1
+{:.no_toc}
 
 La qualité de réfugié est reconnue à toute personne persécutée en raison de son action en faveur de la liberté ainsi qu'à toute personne sur laquelle le Haut-Commissariat des Nations unies pour les réfugiés exerce son mandat aux termes des articles 6 et 7 de son statut tel qu'adopté par l'Assemblée générale des Nations unies le 14 décembre 1950 ou qui répond aux définitions de l'article 1er de la convention de Genève du 28 juillet 1951 relative au statut des réfugiés. Ces personnes sont régies par les dispositions applicables aux réfugiés en vertu de la convention de Genève susmentionnée.
 
 
 #### Article L711-2
+{:.no_toc}
 
 Les actes de persécution et les motifs de persécution, au sens de la section A de l'article 1er de la convention de Genève, du 28 juillet 1951, relative au statut des réfugiés, sont appréciés dans les conditions prévues aux paragraphes 1 et 2 de l'article 9 et au paragraphe 1 de l'article 10 de la directive 2011/95/UE du Parlement européen et du Conseil, du 13 décembre 2011, concernant les normes relatives aux conditions que doivent remplir les ressortissants des pays tiers ou les apatrides pour pouvoir bénéficier d'une protection internationale, à un statut uniforme pour les réfugiés ou les personnes pouvant bénéficier de la protection subsidiaire, et au contenu de cette protection.
 
@@ -3084,6 +3385,7 @@ Lorsque l'autorité compétente évalue si un demandeur craint avec raison d'êt
 
 
 #### Article L711-3
+{:.no_toc}
 
 Le statut de réfugié n'est pas accordé à une personne qui relève de l'une des clauses d'exclusion prévues aux sections D, E ou F de l'article 1er de la convention de Genève, du 28 juillet 1951, précitée.
 
@@ -3091,6 +3393,7 @@ La même section F s'applique également aux personnes qui sont les instigatrice
 
 
 #### Article L711-4
+{:.no_toc}
 
 L'Office français de protection des réfugiés et apatrides peut mettre fin, de sa propre initiative ou à la demande de l'autorité administrative, au statut de réfugié lorsque la personne concernée relève de l'une des clauses de cessation prévues à la section C de l'article 1er de la convention de Genève, du 28 juillet 1951, précitée. Pour l'application des 5 et 6 de la même section C, le changement dans les circonstances ayant justifié la reconnaissance de la qualité de réfugié doit être suffisamment significatif et durable pour que les craintes du réfugié d'être persécuté ne puissent plus être considérées comme fondées.
 
@@ -3104,11 +3407,13 @@ L'office peut également mettre fin à tout moment, de sa propre initiative ou �
 
 
 #### Article L711-5
+{:.no_toc}
 
 Dans les cas prévus aux 1° et 2° de l'article [L. 711-4](#article-l711-4), lorsque la reconnaissance de la qualité de réfugié résulte d'une décision de la Cour nationale du droit d'asile ou du Conseil d'Etat, la juridiction peut être saisie par l'office ou par le ministre chargé de l'asile en vue de mettre fin au statut de réfugié. Les modalités de cette procédure sont fixées par décret en Conseil d'Etat.
 
 
 #### Article L711-6
+{:.no_toc}
 
 Le statut de réfugié peut être refusé ou il peut être mis fin à ce statut lorsque :
 
@@ -3120,6 +3425,7 @@ Le statut de réfugié peut être refusé ou il peut être mis fin à ce statut 
 #### Chapitre II : La protection subsidiaire
 
 #### Article L712-1
+{:.no_toc}
 
 Le bénéfice de la protection subsidiaire est accordé à toute personne qui ne remplit pas les conditions pour se voir reconnaître la qualité de réfugié et pour laquelle il existe des motifs sérieux et avérés de croire qu'elle courrait dans son pays un risque réel de subir l'une des atteintes graves suivantes :
 
@@ -3131,6 +3437,7 @@ c) S'agissant d'un civil, une menace grave et individuelle contre sa vie ou sa p
 
 
 #### Article L712-2
+{:.no_toc}
 
 La protection subsidiaire n'est pas accordée à une personne s'il existe des raisons sérieuses de penser :
 
@@ -3148,6 +3455,7 @@ La protection subsidiaire peut être refusée à une personne s'il existe des ra
 
 
 #### Article L712-3
+{:.no_toc}
 
 L'Office français de protection des réfugiés et apatrides peut mettre fin, de sa propre initiative ou à la demande de l'autorité administrative, au bénéfice de la protection subsidiaire lorsque les circonstances ayant justifié l'octroi de cette protection ont cessé d'exister ou ont connu un changement suffisamment significatif et durable pour que celle-ci ne soit plus requise.
 
@@ -3163,6 +3471,7 @@ L'office peut également mettre fin à tout moment, de sa propre initiative ou �
 
 
 #### Article L712-4
+{:.no_toc}
 
 Dans les cas prévus aux 1° et 2° de l'article [L. 712-3](#article-l712-3), lorsque l'octroi de la protection subsidiaire résulte d'une décision de la Cour nationale du droit d'asile ou du Conseil d'Etat, la juridiction peut être saisie par l'office ou par le ministre chargé de l'asile en vue de mettre fin à la protection subsidiaire. Les modalités de cette procédure sont fixées par décret en Conseil d'Etat.
 
@@ -3170,11 +3479,13 @@ Dans les cas prévus aux 1° et 2° de l'article [L. 712-3](#article-l712-3), lo
 #### Chapitre III : Dispositions communes
 
 #### Article L713-1
+{:.no_toc}
 
 La qualité de réfugié est reconnue et le bénéfice de la protection subsidiaire est accordé par l'Office français de protection des réfugiés et apatrides dans les conditions prévues au chapitre III du titre II du présent livre. Ils peuvent également l'être par la Cour nationale du droit d'asile dans les conditions prévues au chapitre III du titre III du présent livre.
 
 
 #### Article L713-2
+{:.no_toc}
 
 Les persécutions ou menaces de persécutions prises en compte dans la reconnaissance de la qualité de réfugié et les atteintes graves ou menaces d'atteintes graves pouvant donner lieu au bénéfice de la protection subsidiaire peuvent être le fait des autorités de l'Etat, de partis ou d'organisations qui contrôlent l'Etat ou une partie substantielle du territoire de l'Etat, ou d'acteurs non étatiques dans les cas où les autorités définies à l'alinéa suivant refusent ou ne sont pas en mesure d'offrir une protection.
 
@@ -3184,21 +3495,25 @@ Une telle protection est en principe assurée lorsque les autorités mentionnée
 
 
 #### Article L713-3
+{:.no_toc}
 
 Peut être rejetée la demande d'asile d'une personne qui aurait accès à une protection sur une partie du territoire de son pays d'origine si cette personne n'a aucune raison de craindre d'y être persécutée ou d'y être exposée à une atteinte grave, si elle peut, légalement et en toute sécurité, se rendre vers cette partie du territoire et si l'on peut raisonnablement s'attendre à ce qu'elle s'y établisse. Il est tenu compte des conditions générales prévalant dans cette partie du territoire, de la situation personnelle du demandeur ainsi que de l'auteur de la persécution au moment où il est statué sur la demande d'asile.
 
 
 #### Article L713-4
+{:.no_toc}
 
 Les craintes de persécutions prises en compte dans la reconnaissance de la qualité de réfugié et le risque réel de subir des atteintes graves pouvant donner lieu au bénéfice de la protection subsidiaire peuvent être fondés sur des événements survenus après que le demandeur d'asile a quitté son pays d'origine ou à raison d'activités qu'il a exercées après son départ du pays, notamment s'il est établi que les activités invoquées constituent l'expression et la prolongation de convictions ou d'orientations affichées dans son pays.
 
 
 #### Article L713-5
+{:.no_toc}
 
 L'autorité judiciaire communique au directeur général de l'Office français de protection des réfugiés et apatrides et au président de la Cour nationale du droit d'asile, sur demande ou d'office, tout élément recueilli au cours d'une instance civile ou d'une information criminelle ou correctionnelle, y compris lorsque celle-ci s'est terminée par un non-lieu, de nature à faire suspecter qu'une personne qui demande l'asile ou le statut d'apatride ou qui s'est vu reconnaître le statut de réfugié, le bénéfice de la protection subsidiaire ou le statut d'apatride relève de l'une des clauses d'exclusion mentionnées aux articles [L. 711-3](#article-l711-3) et [L. 712-2](#article-l712-2) du présent code ou à l'article 1er de la convention de New York, du 28 septembre 1954, relative au statut des apatrides.
 
 
 #### Article L713-6
+{:.no_toc}
 
 L'autorité judiciaire communique au directeur général de l'Office français de protection des réfugiés et apatrides et au président de la Cour nationale du droit d'asile, sur demande ou d'office, tout élément recueilli au cours d'une instance civile ou d'une information criminelle ou correctionnelle, y compris lorsque celle-ci s'est terminée par un non-lieu, de nature à faire suspecter le caractère frauduleux d'une demande d'asile ou du statut d'apatride.
 
@@ -3208,11 +3523,13 @@ L'autorité judiciaire communique au directeur général de l'Office français d
 #### Chapitre Ier : Missions
 
 #### Article L721-1
+{:.no_toc}
 
 L'Office français de protection des réfugiés et apatrides, placé auprès du ministre chargé de l'asile, est un établissement public doté de la personnalité civile et de l'autonomie financière et administrative.
 
 
 #### Article L721-2
+{:.no_toc}
 
 L'office reconnaît la qualité de réfugié ou accorde le bénéfice de la protection subsidiaire aux personnes remplissant les conditions mentionnées au titre Ier du présent livre.
 
@@ -3228,6 +3545,7 @@ Il coopère avec le haut-commissaire des Nations unies pour les réfugiés et fa
 
 
 #### Article L721-3
+{:.no_toc}
 
 L'office est habilité à délivrer, après enquête s'il y a lieu, aux réfugiés et bénéficiaires de la protection subsidiaire les pièces nécessaires pour leur permettre soit d'exécuter les divers actes de la vie civile, soit de faire appliquer les dispositions de la législation interne ou des accords internationaux qui intéressent leur protection, notamment les pièces tenant lieu d'actes d'état civil.
 
@@ -3237,6 +3555,7 @@ Ces diverses pièces suppléent à l'absence d'actes et de documents délivrés 
 
 
 #### Article L721-4
+{:.no_toc}
 
 L'office établit chaque année un rapport retraçant son activité, fournissant des données quantitatives et qualitatives présentées par sexe sur la demande d'asile et l'apatridie et présentant les actions de formation délivrées aux agents, notamment en matière de persécutions en raison du sexe et de prise en compte de la vulnérabilité des demandeurs d'asile. Ce rapport est transmis au Parlement et rendu public.
 
@@ -3244,6 +3563,7 @@ L'office établit chaque année un rapport retraçant son activité, fournissant
 #### Chapitre II : Organisation
 
 #### Article L722-1
+{:.no_toc}
 
 L'office est administré par un conseil d'administration comprenant deux députés, une femme et un homme, désignés par l'Assemblée nationale, deux sénateurs, une femme et un homme, désignés par le Sénat, deux représentants de la France au Parlement européen, une femme et un homme, désignés par décret, des représentants de l'Etat et un représentant du personnel de l'office.
 
@@ -3267,11 +3587,13 @@ Le délégué du haut-commissaire des Nations unies pour les réfugiés ainsi qu
 
 
 #### Article L722-2
+{:.no_toc}
 
 L'office est géré par un directeur général nommé par décret, sur proposition conjointe du ministre des affaires étrangères et du ministre chargé de l'asile.
 
 
 #### Article L722-3
+{:.no_toc}
 
 Tous les membres du personnel de l'office sont tenus au secret professionnel en ce qui concerne les renseignements qu'ils auront reçus dans l'exercice de leurs fonctions.
 
@@ -3279,6 +3601,7 @@ Toutefois, conformément au second alinéa de l'article 40 du code de procédure
 
 
 #### Article L722-4
+{:.no_toc}
 
 Les locaux de l'office ainsi que ses archives et, d'une façon générale, tous les documents lui appartenant ou détenus par lui sont inviolables.
 
@@ -3286,6 +3609,7 @@ A l'expiration de leur période d'administration courante par l'office, les doss
 
 
 #### Article L722-5
+{:.no_toc}
 
 Les dépenses de l'office sont couvertes par une subvention de l'Etat.
 
@@ -3295,11 +3619,13 @@ Les dépenses de l'office sont couvertes par une subvention de l'Etat.
 ##### Section 1 : Garanties procédurales et obligations du demandeur
 
 ##### Article L723-1
+{:.no_toc}
 
 L'office statue sur les demandes d'asile dont il est saisi. Il n'est toutefois pas compétent pour connaître d'une demande dont l'examen relève de la compétence d'un autre Etat en application du règlement (UE) n° 604/2013 du Parlement européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de détermination de l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des Etats membres par un ressortissant de pays tiers ou un apatride, ou en application d'engagements identiques à ceux prévus par le même règlement avec d'autres Etats.
 
 
 ##### Article L723-2
+{:.no_toc}
 
 I.-L'office statue en procédure accélérée lorsque :
 
@@ -3335,6 +3661,7 @@ VI.-La décision de l'office mentionnée au II, celle de l'autorité administrat
 
 
 ##### Article L723-3
+{:.no_toc}
 
 Pendant toute la durée de la procédure d'examen de la demande, l'office peut définir les modalités particulières d'examen qu'il estime nécessaires pour l'exercice des droits d'un demandeur en raison de sa situation particulière ou de sa vulnérabilité.
 
@@ -3346,6 +3673,7 @@ Lorsque l'office considère que le demandeur d'asile, en raison notamment des vi
 
 
 ##### Article L723-4
+{:.no_toc}
 
 L'office se prononce, au terme d'une instruction unique, sur la reconnaissance de la qualité de réfugié ou sur l'octroi de la protection subsidiaire.
 
@@ -3363,6 +3691,7 @@ Lorsqu'une partie de ses déclarations n'est pas étayée par des éléments de 
 
 
 ##### Article L723-5
+{:.no_toc}
 
 L'office peut demander à la personne sollicitant l'asile de se soumettre à un examen médical.
 
@@ -3374,6 +3703,7 @@ Un arrêté conjoint des ministres chargés de l'asile et de la santé, pris apr
 
 
 ##### Article L723-6
+{:.no_toc}
 
 L'office convoque le demandeur à un entretien personnel. Il peut s'en dispenser s'il apparaît que :
 
@@ -3403,6 +3733,7 @@ Un décret en Conseil d'Etat fixe les cas et les conditions dans lesquels l'entr
 
 
 ##### Article L723-7
+{:.no_toc}
 
 I.-L'entretien personnel mené avec le demandeur, ainsi que les observations formulées, font l'objet d'une transcription versée au dossier de l'intéressé.
 
@@ -3418,6 +3749,7 @@ III.-Les modalités de transcription de l'entretien personnel prévu au I, ainsi
 
 
 ##### Article L723-8
+{:.no_toc}
 
 L'office notifie par écrit sa décision au demandeur d'asile. Toute décision de rejet est motivée en fait et en droit et précise les voies et délais de recours.
 
@@ -3425,11 +3757,13 @@ Aucune décision ne peut naître du silence gardé par l'office.
 
 
 ##### Article L723-9
+{:.no_toc}
 
 A la demande de l'autorité administrative, le directeur général de l'office communique à des agents habilités des documents d'état civil ou de voyage permettant d'établir la nationalité de la personne dont la demande d'asile a été rejetée ou, à défaut, une copie de ces documents, à la condition que cette communication s'avère nécessaire à la mise en oeuvre d'une mesure d'éloignement et qu'elle ne porte pas atteinte à la sécurité de cette personne ou de ses proches. Les modalités de désignation et d'habilitation de ces agents sont fixées par décret en Conseil d'Etat.
 
 
 ##### Article L723-10
+{:.no_toc}
 
 La collecte par l'office d'informations nécessaires à l'examen d'une demande d'asile ne doit pas avoir pour effet de divulguer aux auteurs présumés de persécutions ou d'atteintes graves l'existence de cette demande d'asile ou d'informations la concernant.
 
@@ -3439,6 +3773,7 @@ Sans préjudice des dispositions de l'article [L. 733-4](#article-l733-4), ne so
 ##### Section 2 : Demandes irrecevables
 
 ##### Article L723-11
+{:.no_toc}
 
 L'office peut prendre une décision d'irrecevabilité écrite et motivée, sans vérifier si les conditions d'octroi de l'asile sont réunies, dans les cas suivants :
 
@@ -3458,11 +3793,13 @@ L'office conserve la faculté d'examiner la demande présentée par un étranger
 ##### Section 3 : Retrait d'une demande et clôture d'examen d'une demande
 
 ##### Article L723-12
+{:.no_toc}
 
 Lorsque le demandeur l'informe du retrait de sa demande d'asile, l'office peut clôturer l'examen de cette demande. Cette clôture est consignée dans le dossier du demandeur.
 
 
 ##### Article L723-13
+{:.no_toc}
 
 L'office peut prendre une décision de clôture d'examen d'une demande dans les cas suivants :
 
@@ -3476,6 +3813,7 @@ L'office notifie par écrit sa décision motivée en fait et en droit au demande
 
 
 ##### Article L723-14
+{:.no_toc}
 
 Si, dans un délai inférieur à neuf mois à compter de la décision de clôture, le demandeur sollicite la réouverture de son dossier ou présente une nouvelle demande, l'office rouvre le dossier et reprend l'examen de la demande au stade auquel il avait été interrompu. Le dépôt par le demandeur d'une demande de réouverture de son dossier est un préalable obligatoire à l'exercice d'un recours devant les juridictions administratives de droit commun, à peine d'irrecevabilité de ce recours.
 
@@ -3487,6 +3825,7 @@ Passé le délai de neuf mois, la décision de clôture est définitive et la no
 ##### Section 4 : Demandes de réexamen
 
 ##### Article L723-15
+{:.no_toc}
 
 Constitue une demande de réexamen une demande d'asile présentée après qu'une décision définitive a été prise sur une demande antérieure, y compris lorsque le demandeur avait explicitement retiré sa demande antérieure, lorsque l'office a pris une décision définitive de clôture en application de l'article [L. 723-13](#article-l723-13) ou lorsque le demandeur a quitté le territoire, même pour rejoindre son pays d'origine. Ces dispositions s'appliquent sans préjudice du règlement (UE) n° 604/2013 du Parlement européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de détermination de l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des Etats membres par un ressortissant de pays tiers ou un apatride.
 
@@ -3494,6 +3833,7 @@ Si des éléments nouveaux sont présentés par le demandeur d'asile alors que l
 
 
 ##### Article L723-16
+{:.no_toc}
 
 A l'appui de sa demande de réexamen, le demandeur indique par écrit les faits et produit tout élément susceptible de justifier un nouvel examen de sa demande d'asile.
 
@@ -3505,6 +3845,7 @@ Lorsque, à la suite de cet examen préliminaire, l'office conclut que ces faits
 
 
 ##### Article L723-17
+{:.no_toc}
 
 Les conditions et les délais d'instruction des demandes d'asile dont l'office est saisi sont fixés par décret en Conseil d'Etat.
 
@@ -3512,11 +3853,13 @@ Les conditions et les délais d'instruction des demandes d'asile dont l'office e
 #### Chapitre IV : Fin de la protection
 
 #### Article L724-1
+{:.no_toc}
 
 Lorsque l'Office français de protection des réfugiés et apatrides envisage de mettre fin au statut de réfugié en application des articles [L. 711-4](#article-l711-4) ou [L. 711-6](#article-l711-6) ou au bénéfice de la protection subsidiaire en application de l'article [L. 712-3](#article-l712-3), il en informe par écrit la personne concernée, ainsi que des motifs de l'engagement de cette procédure.
 
 
 #### Article L724-2
+{:.no_toc}
 
 La personne concernée est mise à même de présenter par écrit ses observations sur les motifs de nature à faire obstacle à la fin du statut de réfugié ou du bénéfice de la protection subsidiaire.
 
@@ -3524,6 +3867,7 @@ Si l'office estime toutefois nécessaire de procéder à un entretien personnel,
 
 
 #### Article L724-3
+{:.no_toc}
 
 La décision de l'Office français de protection des réfugiés et apatrides mettant fin au statut de réfugié ou au bénéfice de la protection subsidiaire est notifiée par écrit à la personne concernée. Elle est motivée en fait et en droit et précise les voies et délais de recours.
 
@@ -3533,11 +3877,13 @@ La décision de l'Office français de protection des réfugiés et apatrides met
 #### Chapitre Ier : Missions
 
 #### Article L731-1
+{:.no_toc}
 
 La Cour nationale du droit d'asile est une juridiction administrative, placée sous l'autorité d'un président, membre du Conseil d'Etat, désigné par le vice-président du Conseil d'Etat.
 
 
 #### Article L731-2
+{:.no_toc}
 
 La Cour nationale du droit d'asile statue sur les recours formés contre les décisions de l'Office français de protection des réfugiés et apatrides prises en application des articles [L. 711-1](#article-l711-1) à [L. 711-4](#article-l711-4), [L. 711-6](#article-l711-6), [L. 712-1](#article-l712-1) à [L. 712-3](#article-l712-3), [L. 713-1](#article-l713-1) à [L. 713-4](#article-l713-4), [L. 723-1](#article-l723-1) à [L. 723-8](#article-l723-8), [L. 723-11](#article-l723-11), [L. 723-15](#article-l723-15) et [L. 723-16](#article-l723-16). A peine d'irrecevabilité, ces recours doivent être exercés dans le délai d'un mois à compter de la notification de la décision de l'office, dans des conditions fixées par décret en Conseil d'Etat.
 
@@ -3545,11 +3891,13 @@ La Cour nationale du droit d'asile statue en formation collégiale, dans un dél
 
 
 #### Article L731-3
+{:.no_toc}
 
 La Cour nationale du droit d'asile examine les requêtes qui lui sont adressées par les réfugiés visés par l'une des mesures prévues par les articles 31, 32 et 33 de la convention de Genève du 28 juillet 1951 relative au statut des réfugiés et formule un avis quant au maintien ou à l'annulation de ces mesures. En cette matière, le recours est suspensif d'exécution. Dans ce cas, le droit au recours doit être exercé dans le délai d'une semaine dans des conditions fixées par décret en Conseil d'Etat.
 
 
 #### Article L731-4
+{:.no_toc}
 
 Le rapport d'activité de la Cour nationale du droit d'asile est rendu public. Il comprend notamment des données quantitatives et qualitatives présentées par sexe et les actions de formation des agents et des membres des formations de jugement, en particulier sur les persécutions en raison du sexe.
 
@@ -3557,6 +3905,7 @@ Le rapport d'activité de la Cour nationale du droit d'asile est rendu public. I
 #### Chapitre II : Organisation
 
 #### Article L732-1
+{:.no_toc}
 
 La Cour nationale du droit d'asile comporte des formations de jugement comprenant chacune :
 
@@ -3584,6 +3933,7 @@ La durée du mandat des membres de la Cour nationale du droit d'asile est fixée
 #### Chapitre III : Examen des recours
 
 #### Article L733-1
+{:.no_toc}
 
 Les intéressés peuvent présenter leurs explications à la Cour nationale du droit d'asile et s'y faire assister d'un conseil et d'un interprète.
 
@@ -3595,11 +3945,13 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 
 #### Article L733-1-1
+{:.no_toc}
 
 Les débats devant la Cour nationale du droit d'asile ont lieu en audience publique après lecture du rapport par le rapporteur. Toutefois, le huis clos est de droit si le requérant le demande. Le président de la formation de jugement peut également décider que l'audience aura lieu ou se poursuivra hors la présence du public, si les circonstances de l'affaire l'exigent. Il peut également interdire l'accès de la salle d'audience aux mineurs ou à certains d'entre eux.
 
 
 #### Article L733-2
+{:.no_toc}
 
 Le président et les présidents de section, de chambre ou de formation de jugement peuvent, par ordonnance, régler les affaires dont la nature ne justifie pas l'intervention de l'une des formations prévues à l'article [L. 731-2](#article-l731-2).
 
@@ -3607,6 +3959,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 
 #### Article L733-3
+{:.no_toc}
 
 Avant de statuer sur un recours soulevant une question de droit nouvelle, présentant une difficulté sérieuse et se posant dans de nombreux litiges, la Cour nationale du droit d'asile peut, par une décision qui n'est susceptible d'aucun recours, transmettre le dossier de l'affaire au Conseil d'Etat qui examine dans un délai de trois mois la question soulevée. Il est sursis à toute décision au fond jusqu'à l'avis du Conseil d'Etat ou, à défaut, jusqu'à l'expiration de ce délai.
 
@@ -3614,6 +3967,7 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 
 #### Article L733-4
+{:.no_toc}
 
 La collecte par la Cour nationale du droit d'asile d'informations nécessaires à l'examen d'un recours contre une décision du directeur général de l'Office français de protection des réfugiés et apatrides ne doit pas avoir pour effet de divulguer aux auteurs présumés de persécutions ou d'atteintes graves l'existence de cette demande d'asile ou d'informations la concernant.
 
@@ -3627,6 +3981,7 @@ La cour ne peut fonder sa décision exclusivement sur des informations dont la s
 
 
 #### Article L733-5
+{:.no_toc}
 
 Saisie d'un recours contre une décision du directeur général de l'Office français de protection des réfugiés et apatrides, la Cour nationale du droit d'asile statue, en qualité de juge de plein contentieux, sur le droit du requérant à une protection au titre de l'asile au vu des circonstances de fait dont elle a connaissance au moment où elle se prononce.
 
@@ -3640,6 +3995,7 @@ Sans préjudice du deuxième alinéa, le requérant ne peut utilement se préval
 #### Chapitre Ier : Enregistrement de la demande d'asile
 
 #### Article L741-1
+{:.no_toc}
 
 Tout étranger présent sur le territoire français et souhaitant demander l'asile se présente en personne à l'autorité administrative compétente, qui enregistre sa demande et procède à la détermination de l'Etat responsable en application du règlement (UE) n° 604/2013 du Parlement européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de détermination de l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des Etats membres par un ressortissant de pays tiers ou un apatride, ou en application d'engagements identiques à ceux prévus par le même règlement, dans des conditions fixées par décret en Conseil d'Etat.
 
@@ -3655,6 +4011,7 @@ Cette attestation n'est pas délivrée à l'étranger qui demande l'asile à la 
 
 
 #### Article L741-2
+{:.no_toc}
 
 Lorsque l'examen de la demande d'asile relève de la compétence de la France, l'étranger introduit sa demande auprès de l'Office français de protection des réfugiés et apatrides dans un délai fixé par décret en Conseil d'Etat. L'autorité administrative compétente informe immédiatement l'office de l'enregistrement de la demande et de la remise de l'attestation de demande d'asile.
 
@@ -3662,6 +4019,7 @@ L'office ne peut être saisi d'une demande d'asile que si celle-ci a été préa
 
 
 #### Article L741-3
+{:.no_toc}
 
 Lorsque la demande d'asile est présentée par un mineur sans représentant légal sur le territoire français, le procureur de la République, avisé immédiatement par l'autorité administrative, lui désigne sans délai un administrateur ad hoc. Celui-ci assiste le mineur et assure sa représentation dans le cadre des procédures administratives et juridictionnelles relatives à la demande d'asile.
 
@@ -3673,6 +4031,7 @@ Le président du conseil départemental est immédiatement informé, en applicat
 
 
 #### Article L741-4
+{:.no_toc}
 
 Dès que possible après la présentation d'une demande d'asile par un mineur non accompagné, l'autorité administrative procède à la recherche des membres de sa famille, tout en protégeant l'intérêt supérieur du mineur. Dans les cas où la vie ou l'intégrité physique d'un mineur ou de ses parents proches pourraient être menacées, cette recherche est menée de manière confidentielle.
 
@@ -3680,6 +4039,7 @@ Dès que possible après la présentation d'une demande d'asile par un mineur no
 #### Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile
 
 #### Article L742-1
+{:.no_toc}
 
 Lorsque l'autorité administrative estime que l'examen d'une demande d'asile relève de la compétence d'un autre Etat qu'elle entend requérir, l'étranger bénéficie du droit de se maintenir sur le territoire français jusqu'à la fin de la procédure de détermination de l'Etat responsable de l'examen de sa demande et, le cas échéant, jusqu'à son transfert effectif à destination de cet Etat. L'attestation délivrée en application de l'article [L. 741-1](#article-l741-1) mentionne la procédure dont il fait l'objet. Elle est renouvelable durant la procédure de détermination de l'Etat responsable et, le cas échéant, jusqu'à son transfert effectif à destination de cet Etat.
 
@@ -3687,6 +4047,7 @@ Le présent article ne fait pas obstacle au droit souverain de l'Etat d'accorder
 
 
 #### Article L742-2
+{:.no_toc}
 
 L'autorité administrative peut, aux fins de mise en œuvre de la procédure de détermination de l'Etat responsable de l'examen de la demande d'asile et du traitement rapide et du suivi efficace de cette demande, assigner à résidence le demandeur.
 
@@ -3704,6 +4065,7 @@ Les opérations de visite ne peuvent, à peine de nullité, avoir d'autres final
 
 
 #### Article L742-3
+{:.no_toc}
 
 Sous réserve du second alinéa de l'article [L. 742-1](#article-l742-1), l'étranger dont l'examen de la demande d'asile relève de la responsabilité d'un autre Etat peut faire l'objet d'un transfert vers l'Etat responsable de cet examen.
 
@@ -3713,6 +4075,7 @@ Cette décision est notifiée à l'intéressé. Elle mentionne les voies et dél
 
 
 #### Article L742-4
+{:.no_toc}
 
 I.-L'étranger qui a fait l'objet d'une décision de transfert mentionnée à l'article [L. 742-3](#article-l742-3) peut, dans le délai de quinze jours à compter de la notification de cette décision, en demander l'annulation au président du tribunal administratif.
 
@@ -3734,6 +4097,7 @@ Il est également statué selon la même procédure et dans le même délai sur 
 
 
 #### Article L742-5
+{:.no_toc}
 
 Les articles [L. 551-1](#article-l551-1) et [L. 561-2](#article-l561-2) sont applicables à l'étranger faisant l'objet d'une décision de transfert dès la notification de cette décision.
 
@@ -3741,6 +4105,7 @@ La décision de transfert ne peut faire l'objet d'une exécution d'office ni ava
 
 
 #### Article L742-6
+{:.no_toc}
 
 Si la décision de transfert est annulée, il est immédiatement mis fin aux mesures de surveillance prévues au livre V. L'autorité administrative statue à nouveau sur le cas de l'intéressé.
 
@@ -3748,11 +4113,13 @@ Si la décision de transfert est annulée, il est immédiatement mis fin aux mes
 #### Chapitre III : Droit au maintien sur le territoire français
 
 #### Article L743-1
+{:.no_toc}
 
 Le demandeur d'asile dont l'examen de la demande relève de la compétence de la France et qui a introduit sa demande auprès de l'Office français de protection des réfugiés et apatrides bénéficie du droit de se maintenir sur le territoire français jusqu'à la notification de la décision de l'office ou, si un recours a été formé, jusqu'à la notification de la décision de la Cour nationale du droit d'asile. L'attestation délivrée en application de l'article [L. 741-1](#article-l741-1), dès lors que la demande d'asile a été introduite auprès de l'office, vaut autorisation provisoire de séjour et est renouvelable jusqu'à ce que l'office et, le cas échéant, la cour statuent.
 
 
 #### Article L743-2
+{:.no_toc}
 
 Par dérogation à l'article [L. 743-1](#article-l743-1), sous réserve du respect des stipulations de l'article 33 de la convention relative au statut des réfugiés, signée à Genève le 28 juillet 1951, et de l'article 3 de la convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales, adoptée à Rome le 4 novembre 1950, le droit de se maintenir sur le territoire français prend fin et l'attestation de demande d'asile peut être refusée, retirée ou son renouvellement refusé lorsque :
 
@@ -3772,11 +4139,13 @@ Les conditions de renouvellement et de retrait de l'attestation de demande d'asi
 
 
 #### Article L743-3
+{:.no_toc}
 
 L'étranger auquel la reconnaissance de la qualité de réfugié ou le bénéfice de la protection subsidiaire a été définitivement refusé ou qui ne bénéficie plus du droit de se maintenir sur le territoire français en application de l'article [L. 743-2](#article-l743-2) et qui ne peut être autorisé à demeurer sur le territoire à un autre titre doit quitter le territoire français, sous peine de faire l'objet d'une mesure d'éloignement prévue au titre Ier du livre V et, le cas échéant, des pénalités prévues au chapitre Ier du titre II du livre VI.
 
 
 #### Article L743-4
+{:.no_toc}
 
 Sans préjudice des articles [L. 556-1](#article-l556-1) et [L. 743-2](#article-l743-2), lorsque l'étranger sollicitant l'enregistrement d'une demande d'asile a fait l'objet, préalablement à la présentation de sa demande, d'une mesure d'éloignement prise en application du livre V, celle-ci, qui n'est pas abrogée par la délivrance de l'attestation prévue à l'article [L. 741-1](#article-l741-1), ne peut être mise à exécution avant la notification de la décision de l'office, lorsqu'il s'agit d'une décision de rejet, d'irrecevabilité ou de clôture, ou, si un recours est formé devant la Cour nationale du droit d'asile contre une décision de rejet, avant la notification de la décision de la cour.
 
@@ -3786,6 +4155,7 @@ Sans préjudice des articles [L. 556-1](#article-l556-1) et [L. 743-2](#article-
 ##### Section 1 : Dispositif national d'accueil
 
 ##### Article L744-1
+{:.no_toc}
 
 Les conditions matérielles d'accueil du demandeur d'asile, au sens de la directive 2013/33/UE du Parlement européen et du Conseil, du 26 juin 2013, établissant des normes pour l'accueil des personnes demandant la protection internationale, sont proposées à chaque demandeur d'asile par l'Office français de l'immigration et de l'intégration après l'enregistrement de la demande d'asile par l'autorité administrative compétente, en application du présent chapitre. Les conditions matérielles d'accueil comprennent les prestations et l'allocation prévues au présent chapitre.
 
@@ -3795,6 +4165,7 @@ Le demandeur d'asile qui ne dispose ni d'un hébergement, au sens du 1° de l'ar
 
 
 ##### Article L744-2
+{:.no_toc}
 
 Le schéma national d'accueil des demandeurs d'asile fixe la répartition des places d'hébergement destinées aux demandeurs d'asile sur le territoire national. Il est arrêté par le ministre chargé de l'asile, après avis des ministres chargés du logement et des affaires sociales. Il est transmis au Parlement.
 
@@ -3804,6 +4175,7 @@ Sans préjudice de la participation financière demandée aux demandeurs d'asile
 
 
 ##### Article L744-3
+{:.no_toc}
 
 Les décisions d'admission dans un lieu d'hébergement pour demandeurs d'asile, de sortie de ce lieu et de changement de lieu sont prises par l'Office français de l'immigration et de l'intégration, après consultation du directeur du lieu d'hébergement, sur la base du schéma national d'accueil des demandeurs d'asile et, le cas échéant, du schéma régional prévus à l'article [L. 744-2](#article-l744-2) et en tenant compte de la situation du demandeur.
 
@@ -3819,6 +4191,7 @@ Le représentant de l'Etat dans le département peut s'opposer pour des motifs d
 
 
 ##### Article L744-4
+{:.no_toc}
 
 Dans le cadre de sa mission d'accueil des demandeurs d'asile définie à l'article L. 5223-1 du code du travail, l'Office français de l'immigration et de l'intégration coordonne la gestion de l'hébergement dans les lieux d'hébergement mentionnés à l'article [L. 744-3](#article-l744-3) du présent code.
 
@@ -3828,6 +4201,7 @@ Les personnes morales chargées de la gestion des lieux d'hébergement mentionn�
 
 
 ##### Article L744-5
+{:.no_toc}
 
 Les lieux d'hébergement mentionnés à l'article [L. 744-3](#article-l744-3) accueillent les demandeurs d'asile pendant la durée d'instruction de leur demande d'asile ou jusqu'à leur transfert effectif vers un autre Etat européen. Cette mission prend fin à l'expiration du délai de recours contre la décision de l'Office français de protection des réfugiés et apatrides ou à la date de la notification de la décision de la Cour nationale du droit d'asile ou à la date du transfert effectif vers un autre Etat, si sa demande relève de la compétence de cet Etat.
 
@@ -3845,6 +4219,7 @@ La demande est portée devant le président du tribunal administratif, qui statu
 ##### Section 2 : Evaluation des besoins
 
 ##### Article L744-6
+{:.no_toc}
 
 A la suite de la présentation d'une demande d'asile, l'Office français de l'immigration et de l'intégration est chargé de procéder, dans un délai raisonnable et après un entretien personnel avec le demandeur d'asile, à une évaluation de la vulnérabilité de ce dernier afin de déterminer, le cas échéant, ses besoins particuliers en matière d'accueil. Ces besoins particuliers sont également pris en compte s'ils deviennent manifestes à une étape ultérieure de la procédure d'asile. Dans la mise en œuvre des droits des demandeurs d'asile et pendant toute la période d'instruction de leur demande, il est tenu compte de la situation spécifique des personnes vulnérables.
 
@@ -3864,6 +4239,7 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 ##### Section 3 : Orientation des demandeurs
 
 ##### Article L744-7
+{:.no_toc}
 
 Le bénéfice des conditions matérielles d'accueil, définies à l'article L. 348-1 du code de l'action sociale et des familles et à l'article [L. 744-1](#article-l744-1) du présent code, est subordonné à l'acceptation par le demandeur d'asile de l'hébergement proposé, déterminé en tenant compte de ses besoins, de sa situation au regard de l'évaluation prévue à l'article [L. 744-6](#article-l744-6) et des capacités d'hébergement disponibles.
 
@@ -3875,6 +4251,7 @@ Après avis de la Commission nationale de l'informatique et des libertés, un d�
 
 
 ##### Article L744-8
+{:.no_toc}
 
 Le bénéfice des conditions matérielles d'accueil peut être :
 
@@ -3894,6 +4271,7 @@ Lorsque le bénéfice des conditions matérielles d'accueil a été suspendu, le
 ##### Section 4 : Allocation pour demandeur d'asile
 
 ##### Article L744-9
+{:.no_toc}
 
 Le demandeur d'asile qui a accepté les conditions matérielles d'accueil proposées en application de l'article [L. 744-1](#article-l744-1) bénéficie d'une allocation pour demandeur d'asile s'il satisfait à des conditions d'âge et de ressources. L'Office français de l'immigration et de l'intégration ordonne son versement dans l'attente de la décision définitive lui accordant ou lui refusant une protection au titre de l'asile ou jusqu'à son transfert effectif vers un autre Etat responsable de l'examen de sa demande d'asile.
 
@@ -3909,6 +4287,7 @@ Ce décret précise, en outre, les modalités de versement de l'allocation pour 
 
 
 ##### Article L744-10
+{:.no_toc}
 
 Peuvent également bénéficier de l'allocation mentionnée à l'article [L. 744-9](#article-l744-9) pendant une durée déterminée, s'ils satisfont à des conditions d'âge et de ressources :
 
@@ -3920,6 +4299,7 @@ Peuvent également bénéficier de l'allocation mentionnée à l'article [L. 744
 ##### Section 5 : Accès au marché du travail
 
 ##### Article L744-11
+{:.no_toc}
 
 L'accès au marché du travail peut être autorisé au demandeur d'asile lorsque l'Office français de protection des réfugiés et apatrides, pour des raisons qui ne sont pas imputables au demandeur, n'a pas statué sur la demande d'asile dans un délai de neuf mois à compter de l'introduction de la demande. Dans ce cas, le demandeur d'asile est soumis aux règles de droit commun applicables aux travailleurs étrangers pour la délivrance d'une autorisation de travail.
 
@@ -3931,6 +4311,7 @@ Le demandeur d'asile qui accède au marché du travail, dans les conditions pré
 #### Chapitre Ier : Information et accès aux droits
 
 #### Article L751-1
+{:.no_toc}
 
 L'étranger qui a obtenu le statut de réfugié ou le bénéfice de la protection subsidiaire en application du présent livre VII et a signé le contrat d'intégration républicaine prévu à l'article [L. 311-9](#article-l311-9) bénéficie d'un accompagnement personnalisé pour l'accès à l'emploi et au logement.
 
@@ -3938,6 +4319,7 @@ A cet effet, l'autorité administrative conclut avec les collectivités territor
 
 
 #### Article L751-2
+{:.no_toc}
 
 Dans la mise en œuvre des droits accordés aux réfugiés et aux bénéficiaires de la protection subsidiaire, il est tenu compte de la situation spécifique des personnes vulnérables ayant des besoins particuliers.
 
@@ -3945,6 +4327,7 @@ Dans la mise en œuvre des droits accordés aux réfugiés et aux bénéficiaire
 #### Chapitre II : Réunification familiale et intérêt supérieur de l'enfant
 
 #### Article L752-1
+{:.no_toc}
 
 I.-Sauf si sa présence constitue une menace pour l'ordre public, le ressortissant étranger qui s'est vu reconnaître la qualité de réfugié ou qui a obtenu le bénéfice de la protection subsidiaire peut demander à bénéficier de son droit à être rejoint, au titre de la réunification familiale :
 
@@ -3972,6 +4355,7 @@ Est exclu de la réunification familiale un membre de la famille dont la présen
 
 
 #### Article L752-2
+{:.no_toc}
 
 Lorsqu'une protection au titre de l'asile est octroyée à un mineur non accompagné, des mesures sont prises dès que possible pour assurer sa représentation légale. Dans toutes les décisions le concernant, notamment en matière de placement et de recherche des membres de sa famille, il est tenu compte de son intérêt supérieur, de ses besoins particuliers ainsi que de son avis, en fonction de son âge et de sa maturité.
 
@@ -3979,6 +4363,7 @@ Si la recherche des membres de sa famille n'a pas commencé, il y est procédé 
 
 
 #### Article L752-3
+{:.no_toc}
 
 Lorsqu'une protection au titre de l'asile a été octroyée à une mineure invoquant un risque de mutilation sexuelle, l'Office français de protection des réfugiés et apatrides, tant que ce risque existe et tant que l'intéressée est mineure, lui demande de se soumettre à un examen médical visant à constater l'absence de mutilation. L'office transmet au procureur de la République tout refus de se soumettre à cet examen ou tout constat de mutilation.
 
@@ -3992,26 +4377,31 @@ Un arrêté conjoint des ministres chargés de l'asile et de la santé, pris apr
 #### Chapitre III : Documents de voyage
 
 #### Article L753-1
+{:.no_toc}
 
 A moins que des raisons impérieuses de sécurité nationale ou d'ordre public ne s'y opposent, l'étranger titulaire d'un titre de séjour en cours de validité auquel la qualité de réfugié a été reconnue en application de l'article [L. 711-1](#article-l711-1) et qui se trouve toujours sous la protection de l'Office français de protection des réfugiés et apatrides peut se voir délivrer un document de voyage dénommé " titre de voyage pour réfugié " l'autorisant à voyager hors du territoire français. Ce titre permet à son titulaire de demander à se rendre dans tous les Etats, à l'exclusion de celui ou de ceux vis-à-vis desquels ses craintes de persécution ont été reconnues comme fondées en application du même article [L. 711-1](#article-l711-1).
 
 
 #### Article L753-2
+{:.no_toc}
 
 A moins que des raisons impérieuses de sécurité nationale ou d'ordre public ne s'y opposent, l'étranger titulaire d'un titre de séjour en cours de validité auquel le bénéfice de la protection subsidiaire a été accordé en application de l'article [L. 712-1](#article-l712-1) qui se trouve toujours sous la protection de l'office peut se voir délivrer un document de voyage dénommé “ titre d'identité et de voyage ” l'autorisant à voyager hors du territoire français. Ce titre permet à son titulaire de demander à se rendre dans tous les Etats, à l'exclusion de celui ou de ceux dans lesquels il est établi qu'il est exposé à l'une des atteintes graves énumérées au même article [L. 712-1](#article-l712-1).
 
 
 #### Article L753-3
+{:.no_toc}
 
 A moins que des raisons impérieuses de sécurité nationale ou d'ordre public ne s'y opposent, l'enfant étranger mineur du réfugié ou du bénéficiaire de la protection subsidiaire, présent sur le territoire français, qui ne peut bénéficier d'une protection au titre de l'asile peut se voir délivrer le document de voyage prévu à l'article [L. 753-2](#article-l753-2).
 
 
 #### Article L753-4
+{:.no_toc}
 
 Les durées de validité des documents de voyage délivrés aux étrangers en application des articles [L. 753-1](#article-l753-1) et [L. 753-2](#article-l753-2) sont fixées au IV de l'article 953 du code général des impôts.
 
 
 #### Article L753-5
+{:.no_toc}
 
 Le document de voyage mentionné aux articles [L. 753-1](#article-l753-1), [L. 753-2](#article-l753-2) ou [L. 753-3](#article-l753-3) peut être retiré ou son renouvellement refusé lorsqu'il apparaît, postérieurement à sa délivrance, que des raisons impérieuses de sécurité nationale ou d'ordre public le justifient.
 
@@ -4021,6 +4411,7 @@ Le document de voyage mentionné aux articles [L. 753-1](#article-l753-1), [L. 7
 #### Chapitre Ier : Dispositions applicables à Mayotte
 
 #### Article L761-1
+{:.no_toc}
 
 Pour l'application du présent livre à Mayotte :
 
@@ -4040,6 +4431,7 @@ Pour l'application du présent livre à Mayotte :
 #### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna
 
 #### Article L762-1
+{:.no_toc}
 
 Le présent livre est applicable dans les îles Wallis et Futuna dans sa rédaction résultant de la loi n° 2015-925 du 29 juillet 2015 relative à la réforme du droit d'asile et sous réserve des adaptations suivantes :
 
@@ -4097,6 +4489,7 @@ b) Aux deux derniers alinéas, les mots : " en France " sont remplacés par les 
 #### Chapitre III : Dispositions applicables en Polynésie française
 
 #### Article L763-1
+{:.no_toc}
 
 Le présent livre est applicable en Polynésie française dans sa rédaction résultant de la loi n° 2015-925 du 29 juillet 2015 relative à la réforme du droit d'asile et sous réserve des adaptations suivantes :
 
@@ -4154,6 +4547,7 @@ b) Aux deux derniers alinéas du II, le mot : " France " est remplacé par les m
 #### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie
 
 #### Article L764-1
+{:.no_toc}
 
 Le présent livre est applicable en Nouvelle-Calédonie dans sa rédaction résultant de la loi n° 2015-925 du 29 juillet 2015 relative à la réforme du droit d'asile et sous réserve des adaptations suivantes :
 
@@ -4211,6 +4605,7 @@ b) Aux deux derniers alinéas du II, le mot : " France " est remplacé par le mo
 #### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises
 
 #### Article L765-1
+{:.no_toc}
 
 L'étranger qui, arrivant ou séjournant dans les Terres australes et antarctiques françaises, demande l'admission au titre de l'asile est entendu par l'autorité administrative, laquelle recueille sa demande et lui en délivre récépissé.
 
@@ -4224,6 +4619,7 @@ Si l'étranger n'est pas en mesure de se rendre à La Réunion par ses propres m
 #### Chapitre VII : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion
 
 #### Article L767-1
+{:.no_toc}
 
 Pour l'application du présent livre en Guadeloupe, en Guyane, en Martinique et à La Réunion :
 
@@ -4241,16 +4637,19 @@ Pour l'application du présent livre en Guadeloupe, en Guyane, en Martinique et 
 #### Chapitre unique
 
 #### Article L811-1
+{:.no_toc}
 
 L'entrée et le séjour en France des étrangers appartenant à un groupe spécifique de personnes bénéficiaires de la protection temporaire instituée en application de la directive 2001/55/CE du Conseil du 20 juillet 2001 relative à des normes minimales pour l'octroi d'une protection temporaire en cas d'afflux massif de personnes déplacées et à des mesures tendant à assurer un équilibre entre les efforts consentis par les Etats membres pour accueillir ces personnes et supporter les conséquences de cet accueil sont régis par les dispositions du présent titre.
 
 
 #### Article L811-2
+{:.no_toc}
 
 Le bénéfice du régime de la protection temporaire est ouvert aux étrangers selon les modalités déterminées par la décision du Conseil de l'Union européenne mentionnée à l'article 5 de la directive 2001/55/CE du Conseil du 20 juillet 2001, définissant les groupes spécifiques de personnes auxquelles s'applique la protection temporaire, fixant la date à laquelle la protection temporaire entrera en vigueur et contenant notamment les informations communiquées par les Etats membres de l'Union européenne concernant leurs capacités d'accueil.
 
 
 #### Article L811-3
+{:.no_toc}
 
 L'étranger appartenant à un groupe spécifique de personnes visé par la décision du Conseil bénéficie de la protection temporaire à compter de la date mentionnée par cette décision. Il est mis en possession d'un document provisoire de séjour assorti, le cas échéant, d'une autorisation provisoire de travail. Ce document provisoire de séjour est renouvelé tant qu'il n'est pas mis fin à la protection temporaire.
 
@@ -4260,6 +4659,7 @@ Le document provisoire de séjour peut être refusé lorsque l'étranger est dé
 
 
 #### Article L811-4
+{:.no_toc}
 
 Le bénéfice de la protection temporaire ne préjuge pas de la reconnaissance du statut de réfugié au titre de la convention de Genève du 28 juillet 1951 relative au statut des réfugiés.
 
@@ -4267,6 +4667,7 @@ Le bénéfice de la protection temporaire ne peut être cumulé avec le statut d
 
 
 #### Article L811-5
+{:.no_toc}
 
 Un étranger peut être exclu du bénéfice de la protection temporaire :
 
@@ -4276,21 +4677,25 @@ Un étranger peut être exclu du bénéfice de la protection temporaire :
 
 
 #### Article L811-6
+{:.no_toc}
 
 S'ils sont astreints à la détention d'un titre de séjour, les membres de la famille d'un étranger bénéficiant de la protection temporaire qui ont obtenu le droit de le rejoindre sur le fondement des dispositions de l'article 15 de la directive 2001/55/CE du Conseil du 20 juillet 2001 reçoivent de plein droit un document provisoire de séjour de même nature que celui détenu par la personne qu'ils sont venus rejoindre, sauf si leur présence constitue une menace à l'ordre public.
 
 
 #### Article L811-7
+{:.no_toc}
 
 Dans les conditions fixées à l'article 7 de la directive 2001/55/CE du Conseil du 20 juillet 2001, peuvent bénéficier de la protection temporaire des catégories supplémentaires de personnes déplacées qui ne sont pas visées dans la décision du Conseil prévue à l'article 5 de cette même directive, lorsqu'elles sont déplacées pour les mêmes raisons et à partir du même pays ou de la même région d'origine. Les dispositions des articles [L. 811-3](#article-l811-3) à [L. 811-6](#article-l811-6) sont applicables à ces catégories supplémentaires de personnes.
 
 
 #### Article L811-8
+{:.no_toc}
 
 L'étranger exclu du bénéfice de la protection temporaire ou qui, ayant bénéficié de cette protection, cesse d'y avoir droit, et qui ne peut être autorisé à demeurer sur le territoire à un autre titre, doit quitter le territoire français, sous peine de faire l'objet d'une mesure d'éloignement prévue au titre Ier du livre V et, le cas échéant, des pénalités prévues au chapitre Ier du titre II du livre VI.
 
 
 #### Article L811-9
+{:.no_toc}
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent titre.
 
@@ -4300,16 +4705,19 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent titre
 #### Chapitre unique
 
 #### Article L812-1
+{:.no_toc}
 
 La qualité d'apatride est reconnue à toute personne qui répond à la définition de l'article 1er de la convention de New York, du 28 septembre 1954, relative au statut des apatrides. Ces personnes sont régies par les dispositions applicables aux apatrides en vertu de cette convention.
 
 
 #### Article L812-2
+{:.no_toc}
 
 L'Office français de protection des réfugiés et apatrides reconnaît la qualité d'apatride aux personnes remplissant les conditions mentionnées à l'article [L. 812-1](#article-l812-1), au terme d'une procédure définie par décret en Conseil d'Etat.
 
 
 #### Article L812-3
+{:.no_toc}
 
 L'Office français de protection des réfugiés et apatrides notifie par écrit sa décision au demandeur du statut d'apatride. Toute décision de rejet est motivée en fait et en droit et précise les voies et délais de recours.
 
@@ -4317,6 +4725,7 @@ Aucune décision sur une demande de statut d'apatride ne peut naître du silence
 
 
 #### Article L812-4
+{:.no_toc}
 
 L'Office français de protection des réfugiés et apatrides exerce la protection juridique et administrative des apatrides.
 
@@ -4326,16 +4735,19 @@ Il est habilité à délivrer aux apatrides les pièces nécessaires pour leur p
 
 
 #### Article L812-5
+{:.no_toc}
 
 Le ressortissant étranger qui a obtenu la qualité d'apatride et qui s'est vu délivrer la carte de séjour temporaire mentionnée au 10° de l'article [L. 313-11](#article-l313-11) ou la carte de résident mentionnée au 9° de l'article [L. 314-11](#article-l314-11) peut demander à bénéficier de la réunification familiale, dans les mêmes conditions que celles prévues à l'article [L. 752-1](#article-l752-1) pour le ressortissant étranger qui a obtenu la qualité de réfugié.
 
 
 #### Article L812-6
+{:.no_toc}
 
 L'article [L. 752-2](#article-l752-2) est applicable au mineur non accompagné qui a obtenu la qualité d'apatride.
 
 
 #### Article L812-7
+{:.no_toc}
 
 A moins que des raisons impérieuses de sécurité nationale ou d'ordre public ne s'y opposent, l'étranger reconnu apatride et titulaire d'un titre de séjour en cours de validité peut se voir délivrer un document de voyage dénommé “ titre de voyage pour apatride ” l'autorisant à voyager hors du territoire français.
 
@@ -4345,6 +4757,7 @@ Ce document de voyage peut être retiré ou son renouvellement refusé lorsqu'il
 
 
 #### Article L812-8
+{:.no_toc}
 
 Le présent titre est applicable, dans sa rédaction résultant de la loi n° 2015-925 du 29 juillet 2015 relative à la réforme du droit d'asile, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.
 
@@ -4354,16 +4767,19 @@ Le présent titre est applicable, dans sa rédaction résultant de la loi n° 20
 #### Chapitre unique
 
 #### Article L821-1
+{:.no_toc}
 
 Dans les conditions prévues par le code des marchés publics, l'Etat peut passer des marchés relatifs aux transports de personnes retenues en centres de rétention ou maintenues en zones d'attente avec des personnes de droit public ou des personnes de droit privé bénéficiant d'un agrément délivré en application de la loi n° 83-629 du 12 juillet 1983 réglementant les activités privées de sécurité.
 
 
 #### Article L821-2
+{:.no_toc}
 
 Ces marchés ne peuvent porter que sur la conduite des véhicules de transport et les mesures de sécurité inhérentes à cette dernière, à l'exclusion de ce qui concerne la surveillance des personnes retenues ou maintenues au cours du transport qui demeure assurée par l'Etat.
 
 
 #### Article L821-3
+{:.no_toc}
 
 Chaque agent concourant à ces missions doit être désigné par l'entreprise attributaire du marché et faire l'objet d'un agrément préalable, dont la durée est limitée, de l'autorité administrative compétente ainsi que du procureur de la République.
 
@@ -4371,6 +4787,7 @@ Il bénéficie d'une formation adaptée et doit avoir subi avec succès un exame
 
 
 #### Article L821-4
+{:.no_toc}
 
 Les agréments sont refusés ou retirés lorsque la moralité de la personne ou son comportement apparaissent incompatibles avec l'exercice de leurs missions. L'agrément ne peut être retiré par l'autorité administrative ou par le procureur de la République qu'après que l'intéressé a été mis en mesure de présenter ses observations. Il peut faire l'objet d'une suspension immédiate en cas d'urgence.
 
@@ -4378,6 +4795,7 @@ Dans le cadre de tout marché visé au présent article, l'autorité publique pe
 
 
 #### Article L821-5
+{:.no_toc}
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent chapitre ainsi que les conditions dans lesquelles les agents de sécurité privée investis des missions qu'il prévoit peuvent, le cas échéant, être armés.
 
@@ -4387,6 +4805,7 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 #### Chapitre Ier : Saint-Pierre-et-Miquelon
 
 #### Article L831-1
+{:.no_toc}
 
 Pour l'application des dispositions du présent code à Saint-Pierre-et-Miquelon, les termes : " département ", " conseil général", " tribunal de grande instance " et " cour d'appel " sont respectivement remplacés par les termes : " collectivité territoriale de Saint-Pierre-et-Miquelon ", " conseil territorial " et " tribunal de première instance " et " tribunal supérieur d'appel ".
 
@@ -4394,6 +4813,7 @@ Pour l'application des dispositions du présent code à Saint-Pierre-et-Miquelon
 #### Chapitre II : Mayotte
 
 #### Article L832-1
+{:.no_toc}
 
 Les dispositions du présent code sont applicables à Mayotte sous réserve des adaptations suivantes :
 
@@ -4447,6 +4867,7 @@ b) A l'avant-dernier alinéa, la référence à l'article L. 5422-1 du code du t
 
 
 #### Article L832-2
+{:.no_toc}
 
 Sans préjudice des dispositions des articles [L. 121-1](#article-l121-1) et [L. 121-3](#article-l121-3), les titres de séjour délivrés par le représentant de l'Etat à Mayotte, à l'exception des titres délivrés en application des dispositions des articles [L. 121-3](#article-l121-3), [L. 313-4-1](#article-l313-4-1), L. 313-8, du 6° de l'article [L. 313-10](#article-l313-10), de l'article [L. 313-13](#article-l313-13) et du chapitre IV du titre Ier du livre III, n'autorisent le séjour que sur le territoire de Mayotte.
 
@@ -4460,6 +4881,7 @@ Les conjoints, partenaires liés par un pacte civil de solidarité, descendants 
 ## LIVRE IX : LE CODÉVELOPPEMENT
 
 ## Article L900-1
+{:.no_toc}
 
 Le financement des projets de codéveloppement des migrants peut être assuré par la mise en oeuvre des dispositifs prévus par les articles L. 221-33 et L. 221-34 du code monétaire et financier, ci-après reproduits :
 
@@ -4511,6 +4933,7 @@ VII.-Les modalités d'application du présent article sont fixées par décret e
 ##### Section 1 : Interprètes traducteurs
 
 ##### Article R111-1
+{:.no_toc}
 
 La liste des interprètes traducteurs prévue à l'article [L. 111-9](#article-l111-9) est dressée chaque année par le procureur de la République dans chaque tribunal de grande instance.
 
@@ -4520,11 +4943,13 @@ La liste et ses annexes sont tenues à la disposition du public au greffe du tri
 
 
 ##### Article R111-2
+{:.no_toc}
 
 Les interprètes traducteurs inscrits sur la liste des experts judiciaires de la cour d'appel prévue à l'article 2 de la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires sont de droit inscrits sur la liste établie pour le tribunal de grande instance dans le ressort duquel est situé leur domicile ou le lieu d'exercice de leur activité professionnelle, s'ils en font la demande.
 
 
 ##### Article R111-3
+{:.no_toc}
 
 Une personne physique ne remplissant pas la condition prévue par l'article [R. 111-2](#article-r111-2) ne peut être inscrite ou réinscrite sur la liste que si elle remplit les conditions suivantes :
 
@@ -4536,6 +4961,7 @@ Une personne physique ne remplissant pas la condition prévue par l'article [R. 
 
 
 ##### Article R111-4
+{:.no_toc}
 
 Une personne morale ne remplissant pas la condition prévue par l'article [R. 111-2](#article-r111-2) ne peut être inscrite sur la liste que si :
 
@@ -4547,6 +4973,7 @@ Une personne morale ne remplissant pas la condition prévue par l'article [R. 11
 
 
 ##### Article R111-5
+{:.no_toc}
 
 La demande d'inscription est assortie de toutes précisions utiles, et notamment des renseignements suivants :
 
@@ -4562,11 +4989,13 @@ La demande d'inscription est assortie de toutes précisions utiles, et notamment
 
 
 ##### Article R111-6
+{:.no_toc}
 
 Les personnes physiques ou morales ayant sollicité ou obtenu leur inscription sur la liste portent sans délai à la connaissance du procureur de la République tout changement survenant dans leur situation en ce qui concerne les conditions prévues aux articles [R. 111-2](#article-r111-2), [R. 111-3](#article-r111-3) et [R. 111-4](#article-r111-4).
 
 
 ##### Article R111-7
+{:.no_toc}
 
 Le procureur de la République instruit les demandes formées en application des articles [R. 111-3](#article-r111-3) et [R. 111-4](#article-r111-4).
 
@@ -4574,11 +5003,13 @@ Après avoir recueilli l'avis du président du tribunal de grande instance, il d
 
 
 ##### Article R111-8
+{:.no_toc}
 
 Lors de la révision annuelle de la liste, le procureur de la République procède au retrait de la liste des personnes qui ne satisfont plus aux conditions prévues par les articles [R. 111-3](#article-r111-3) et [R. 111-4](#article-r111-4) ou à la radiation de celles qui n'ont pas accompli leur mission dans des conditions satisfaisantes.
 
 
 ##### Article R111-9
+{:.no_toc}
 
 En cours d'année, si l'interprète traducteur demande son retrait de la liste ou si ce retrait est rendu nécessaire par des circonstances de fait telles que l'éloignement prolongé, la maladie ou des infirmités graves et permanentes, le procureur de la République peut décider son retrait de la liste.
 
@@ -4588,16 +5019,19 @@ Un extrait de la décision de retrait ou de radiation, ne comportant que la seul
 
 
 ##### Article R111-10
+{:.no_toc}
 
 Au terme d'une durée de cinq ans, la réinscription est décidée sous les mêmes conditions et dans les mêmes formes et procédures que l'inscription.
 
 
 ##### Article R111-11
+{:.no_toc}
 
 Les décisions de refus d'inscription, de retrait ou de radiation prises sur le fondement des articles [R. 111-7](#article-r111-7), [R. 111-8](#article-r111-8), [R. 111-9](#article-r111-9) et [R. 111-10](#article-r111-10) sont motivées. Sauf dans le cas où elles interviennent sur demande de l'intéressé, celui-ci est mis en mesure de présenter ses observations. Elles sont notifiées à l'intéressé.
 
 
 ##### Article R111-12
+{:.no_toc}
 
 Lors de leur inscription initiale sur la liste ou de leur réinscription après radiation, les interprètes traducteurs inscrits en application des articles [R. 111-3](#article-r111-3) et [R. 111-4](#article-r111-4) prêtent serment devant le tribunal de grande instance du lieu d'inscription, selon la formule suivante :
 
@@ -4607,6 +5041,7 @@ Pour les personnes morales, le serment est prêté par leur représentant désig
 
 
 ##### Article R111-12-1
+{:.no_toc}
 
 L'autorité administrative compétente pour agréer un organisme d'interprétariat et de traduction en application du deuxième alinéa de l'article [L. 111-8](#article-l111-8) est le ministre chargé de l'immigration.
 
@@ -4614,6 +5049,7 @@ L'autorité administrative compétente pour agréer un organisme d'interprétari
 ##### Section 2 : Administrateurs ad hoc désignés pour la représentation des mineurs maintenus en zone d'attente ou demandeurs du statut de réfugié
 
 ##### Article R111-13
+{:.no_toc}
 
 Il est dressé tous les quatre ans, dans le ressort de chaque cour d'appel, une liste des administrateurs ad hoc désignés pour la représentation des mineurs maintenus en zone d'attente ou demandeurs du statut de réfugié en application des dispositions des articles [L. 221-5](#article-l221-5) et [L. 741-3](#article-l741-3). Cette liste peut, en tant que de besoin, faire l'objet de mises à jour.
 
@@ -4623,6 +5059,7 @@ Elle peut également être affichée dans ces locaux.
 
 
 ##### Article R111-14
+{:.no_toc}
 
 Une personne physique ne peut être inscrite sur la liste que si elle remplit les conditions suivantes :
 
@@ -4638,6 +5075,7 @@ Une personne physique ne peut être inscrite sur la liste que si elle remplit le
 
 
 ##### Article R111-15
+{:.no_toc}
 
 En vue de l'inscription d'une personne morale sur la liste d'administrateurs ad hoc, il doit être justifié :
 
@@ -4647,6 +5085,7 @@ En vue de l'inscription d'une personne morale sur la liste d'administrateurs ad 
 
 
 ##### Article R111-16
+{:.no_toc}
 
 Les demandes d'inscription sont adressées au procureur de la République près le tribunal de grande instance dans le ressort duquel le candidat a sa résidence. Le procureur instruit les demandes. Il recueille l'avis du juge des tutelles, du juge des enfants, du juge des libertés et de la détention, du président du conseil départemental et du directeur interrégional de la protection judiciaire de la jeunesse.
 
@@ -4658,11 +5097,13 @@ L'assemblée générale dresse la liste des administrateurs ad hoc, après avoir
 
 
 ##### Article R111-17
+{:.no_toc}
 
 Tous les quatre ans, les administrateurs ad hoc figurant sur la liste prévue à l'article [R. 111-13](#article-r111-13) formulent une nouvelle demande d'inscription qui est instruite conformément aux dispositions de l'article [R. 111-16](#article-r111-16). Ils justifient à cette occasion qu'ils ont respecté les obligations résultant des missions qui leur ont été confiées, et notamment celles qui figurent à l'article [R. 111-19](#article-r111-19).
 
 
 ##### Article R111-18
+{:.no_toc}
 
 La radiation d'un administrateur ad hoc peut être prononcée chaque année par l'assemblée générale de la cour d'appel, soit à la demande de l'intéressé, soit sur l'initiative du premier président ou du procureur général après que l'intéressé a été mis à même de présenter ses observations, dès lors que l'une des conditions prévues aux articles [R. 111-14](#article-r111-14) et [R. 111-15](#article-r111-15) cesse d'être remplie ou que l'administrateur ad hoc n'a pas respecté les obligations résultant de sa mission.
 
@@ -4672,11 +5113,13 @@ Les décisions prises en vertu du présent article ne peuvent donner lieu qu'à 
 
 
 ##### Article R111-19
+{:.no_toc}
 
 Dans le mois de l'achèvement de chaque mission, l'administrateur ad hoc transmet au procureur de la République un rapport détaillant les démarches effectuées et, le cas échéant, aux fins d'assurer au mieux sa protection, les éléments d'information recueillis sur le mineur.
 
 
 ##### Article R111-20
+{:.no_toc}
 
 En sus du remboursement de ses frais de déplacement, calculés dans les conditions fixées pour les déplacements des personnels civils de l'Etat pour le ministère de la justice, il est alloué à chaque personne désignée en qualité d'administrateur ad hoc lorsqu'elle figure sur la liste prévue à l'article [R. 111-13](#article-r111-13) :
 
@@ -4692,11 +5135,13 @@ Le montant des indemnités est fixé par arrêté du garde des sceaux, ministre 
 
 
 ##### Article R111-22
+{:.no_toc}
 
 Les indemnités forfaitaires des administrateurs ad hoc sont à la charge de l'Etat.
 
 
 ##### Article R111-23
+{:.no_toc}
 
 Lorsque, dans le ressort de la cour d'appel, il n'est pas possible de désigner l'une des personnes figurant sur la liste prévue à l'article [R. 111-13](#article-r111-13) ou que cette liste n'a pas été encore constituée, la désignation d'un administrateur ad hoc en application des dispositions de l'article [L. 221-5](#article-l221-5) ou de celles de l'article [L. 741-3](#article-l741-3) est faite, à titre provisoire et jusqu'à l'établissement ou la mise à jour annuelle de la liste, parmi les personnes physiques ou morales remplissant les conditions définies aux articles [R. 111-14](#article-r111-14) et [R. 111-15](#article-r111-15) ou parmi les personnes figurant sur la liste prévue à l'article R. 53 du code de procédure pénale.
 
@@ -4710,6 +5155,7 @@ Il est alloué aux personnes ainsi désignées l'indemnité prévue aux articles
 ##### Section 1 : Entrée en France
 
 ##### Article R121-1
+{:.no_toc}
 
 Tout ressortissant mentionné au premier alinéa de l'article [L. 121-1](#article-l121-1) muni d'une carte d'identité ou d'un passeport en cours de validité est admis sur le territoire français, à condition que sa présence ne constitue pas une menace pour l'ordre public.
 
@@ -4717,11 +5163,13 @@ Tout membre de sa famille mentionné à l'article [L. 121-3](#article-l121-3), r
 
 
 ##### Article R121-2
+{:.no_toc}
 
 Il est accordé aux ressortissants mentionnés au premier alinéa de l'article [L. 121-1](#article-l121-1) et à l'article [L. 121-3](#article-l121-3) qui ne disposent pas des documents d'entrée prévus à l'article [R. 121-1](#article-r121-1) tous les moyens raisonnables leur permettant de se les procurer dans un délai raisonnable ou de faire confirmer ou prouver par d'autres moyens leur qualité de bénéficiaires du droit de circuler et de séjourner librement en France, avant de procéder à leur refoulement.
 
 
 ##### Article R121-2-1
+{:.no_toc}
 
 Après un examen de sa situation personnelle, l'autorité administrative peut appliquer les dispositions des articles [R. 121-1](#article-r121-1) et [R. 121-2](#article-r121-2) à tout ressortissant étranger, quelle que soit sa nationalité, ne relevant pas des 4° et 5° de l'article [L. 121-1](#article-l121-1) :
 
@@ -4737,6 +5185,7 @@ Après un examen de sa situation personnelle, l'autorité administrative peut ap
 ##### Section 3 : Séjour d'une durée supérieure à trois mois
 
 ##### Article R121-4
+{:.no_toc}
 
 Les ressortissants qui remplissent les conditions mentionnées à l'article [L. 121-1](#article-l121-1) doivent être munis de l'un des deux documents prévus pour l'entrée sur le territoire français par l'article [R. 121-1](#article-r121-1).
 
@@ -4752,11 +5201,13 @@ Les ressortissants mentionnés au premier alinéa de l'article [L. 121-1](#artic
 
 
 ##### Article R121-4-1
+{:.no_toc}
 
 Les ressortissants qui remplissent l'une des conditions prévues à l'article [R. 121-2-1](#article-r121-2-1) peuvent se voir reconnaître le droit de séjourner en France après un examen de leur situation personnelle.
 
 
 ##### Article R121-5
+{:.no_toc}
 
 Une attestation, conforme au modèle fixé par arrêté du ministre chargé de l'immigration, est remise immédiatement par le maire aux ressortissants qui se soumettent à l'obligation d'enregistrement prévue à l'article [L. 121-2](#article-l121-2). Cette attestation n'établit pas un droit au séjour. Sa possession ne peut en aucun cas constituer une condition préalable à l'exercice d'un droit ou à l'accomplissement d'une autre formalité administrative.
 
@@ -4764,6 +5215,7 @@ Le maire communique au préfet et, à Paris, au préfet de police copie des atte
 
 
 ##### Article R121-5-1
+{:.no_toc}
 
 Aux fins d'établir si le ressortissant mentionné au premier alinéa de l'article [L. 121-1](#article-l121-1), à l'article [L. 121-3](#article-l121-3) et à l'article [R. 121-4-1](#article-r121-4-1) représente un danger pour l'ordre public ou la sécurité publique, le préfet peut, s'il le juge indispensable et sans y procéder de façon systématique, lors de la délivrance de l'attestation d'enregistrement, demander aux autorités de l'Etat membre de l'Union européenne d'origine du ressortissant communautaire et, éventuellement, à d'autres Etats membres des renseignements sur les antécédents judiciaires de l'intéressé. L'Etat membre consulté fait parvenir sa réponse dans un délai de deux mois. Le ministre de l'intérieur saisi par les autorités d'un Etat membre de l'Union européenne d'une demande visant les antécédents judiciaires d'un ressortissant national transmet la réponse des autorités françaises dans les mêmes délais.
 
@@ -4771,6 +5223,7 @@ Aux fins d'établir si le ressortissant mentionné au premier alinéa de l'artic
 ##### Section 4 : Maintien du droit au séjour
 
 ##### Article R121-6
+{:.no_toc}
 
 I.-Les ressortissants mentionnés au 1° de l'article [L. 121-1](#article-l121-1) conservent leur droit au séjour en qualité de travailleur salarié ou de non-salarié :
 
@@ -4788,6 +5241,7 @@ II.-Ils conservent au même titre leur droit de séjour pendant six mois :
 
 
 ##### Article R121-7
+{:.no_toc}
 
 Les ressortissants mentionnés aux 4° et 5° de l'article [L. 121-1](#article-l121-1), admis au séjour en leur qualité de membre de famille, conservent leur droit au séjour :
 
@@ -4799,6 +5253,7 @@ Avant l'acquisition du droit de séjour permanent prévu au premier alinéa de l
 
 
 ##### Article R121-8
+{:.no_toc}
 
 Les ressortissants d'un Etat tiers mentionnés à l'article [L. 121-3](#article-l121-3), admis au séjour en leur qualité de membre de famille, conservent leur droit au séjour :
 
@@ -4818,6 +5273,7 @@ Avant l'acquisition du droit de séjour permanent prévu au deuxième alinéa de
 
 
 ##### Article R121-9
+{:.no_toc}
 
 En cas de décès du ressortissant accompagné ou rejoint ou si celui-ci quitte la France, les enfants et le membre de la famille qui en a la garde conservent ce droit de séjour jusqu'à ce que ces enfants achèvent leur scolarité dans un établissement français d'enseignement secondaire.
 
@@ -4827,6 +5283,7 @@ En cas de décès du ressortissant accompagné ou rejoint ou si celui-ci quitte 
 ###### Sous-section 1 : Dispositions générales
 
 ###### Article R121-10
+{:.no_toc}
 
 Les ressortissants mentionnés au 1° de l'article [L. 121-1](#article-l121-1) qui ont établi leur résidence habituelle en France depuis moins de cinq ans bénéficient, à leur demande, d'un titre de séjour portant la mention : "Citoyen UE/EEE/Suisse - Toutes activités professionnelles". La reconnaissance de leur droit de séjour n'est pas subordonnée à la détention de ce titre.
 
@@ -4840,6 +5297,7 @@ Sa délivrance est subordonnée à la production par le demandeur des justificat
 
 
 ###### Article R121-11
+{:.no_toc}
 
 Les ressortissants mentionnés au 2° de l'article [L. 121-1](#article-l121-1) qui ont établi leur résidence habituelle en France depuis moins de cinq ans bénéficient, à leur demande, d'un titre de séjour portant la mention " Citoyen UE/EEE/Suisse - Non actif ". La reconnaissance de leur droit de séjour n'est pas subordonnée à la détention de ce titre.
 
@@ -4855,6 +5313,7 @@ Sa délivrance est subordonnée à la production par le demandeur des justificat
 
 
 ###### Article R121-12
+{:.no_toc}
 
 Les ressortissants mentionnés au 3° de l'article [L. 121-1](#article-l121-1) qui ont établi leur résidence habituelle en France depuis moins de cinq ans bénéficient, à leur demande, d'un titre de séjour portant la mention " Citoyen UE/EEE/Suisse - Etudiant ". La reconnaissance du droit de séjour n'est pas subordonnée à la détention de ce titre.
 
@@ -4872,6 +5331,7 @@ Sa délivrance est subordonnée à la production par le demandeur des justificat
 
 
 ###### Article R121-13
+{:.no_toc}
 
 Les membres de famille mentionnés aux 4° et 5° de l'article [L. 121-1](#article-l121-1) qui ont établi leur résidence habituelle en France depuis moins de cinq ans bénéficient, à leur demande, d'un titre de séjour portant la mention " Carte de séjour de membre de la famille d'un citoyen de l'Union/EEE/Suisse - Toutes activités professionnelles ". La reconnaissance du droit de séjour n'est pas subordonnée à la détention de ce titre.
 
@@ -4883,6 +5343,7 @@ Ils reçoivent un titre de séjour de même durée de validité que celui auquel
 
 
 ###### Article R121-14
+{:.no_toc}
 
 Les membres de famille ressortissants d'un Etat tiers mentionnés à l'article [L. 121-3](#article-l121-3) présentent dans les trois mois de leur entrée en France leur demande de titre de séjour avec leur passeport en cours de validité ainsi que les justificatifs établissant leur lien familial et garantissant le droit au séjour du ressortissant accompagné ou rejoint.
 
@@ -4896,11 +5357,13 @@ Le renouvellement du titre de séjour doit être sollicité dans le délai de de
 
 
 ###### Article R121-14-1
+{:.no_toc}
 
 Les dispositions des articles [R. 121-13](#article-r121-13) et [R. 121-14](#article-r121-14) s'appliquent également aux ressortissants visés à l'article [R. 121-4-1](#article-r121-4-1) lorsqu'ils séjournent en France au-delà de trois mois.
 
 
 ###### Article R121-15
+{:.no_toc}
 
 Il est remis un récépissé à tout ressortissant qui sollicite la délivrance ou le renouvellement d'une carte de séjour.
 
@@ -4910,6 +5373,7 @@ La délivrance de la carte de séjour aux ressortissants d'un Etat tiers intervi
 ###### Sous-section 2 : Dispositions particulières applicables aux ressortissants des Etats membres de l'Union européenne soumis à des mesures transitoires ainsi qu'aux membres de leur famille ressortissants de ces mêmes Etats ou d'Etats tiers
 
 ###### Article R121-16
+{:.no_toc}
 
 I.-Sans préjudice des dispositions du cinquième alinéa de l'article [L. 121-2](#article-l121-2), les ressortissants des Etats membres de l'Union européenne soumis à des mesures transitoires par leur traité d'adhésion qui souhaitent exercer une activité professionnelle en France sont tenus de solliciter la délivrance d'une carte de séjour ainsi que l'autorisation de travail prévue à l'article L. 5221-2 du code du travail pour l'exercice d'une activité salariée.
 
@@ -4925,6 +5389,7 @@ II.-Les ressortissants des Etats membres de l'Union européenne soumis à des me
 #### Chapitre II : Droit au séjour permanent
 
 #### Article R122-1
+{:.no_toc}
 
 Les ressortissants mentionnés au premier alinéa de l'article [L. 122-1](#article-l122-1) peuvent solliciter la délivrance d'une carte de séjour d'une durée de validité de dix ans renouvelable de plein droit portant la mention "Citoyen UE/EEE/Suisse - Séjour permanent - Toutes activités professionnelles", qui est remise dans les meilleurs délais. La reconnaissance du droit de séjour n'est pas subordonnée à la détention de ce titre.
 
@@ -4932,6 +5397,7 @@ Par dérogation au premier alinéa, les ressortissants des Etats membres de l'Un
 
 
 #### Article R122-2
+{:.no_toc}
 
 Les membres de famille ressortissants d'un Etat tiers mentionnés au deuxième alinéa de l'article [L. 122-1](#article-l122-1) sollicitent la délivrance d'une carte de séjour portant la mention " Directive 2004/38/CE - Séjour permanent - Toutes activités professionnelles " dans le délai de deux mois qui précède l'échéance de la période ininterrompue de cinq ans de séjour régulier.
 
@@ -4941,6 +5407,7 @@ Les membres de la famille d'un ressortissant d'un Etat membre de l'Union europé
 
 
 #### Article R122-3
+{:.no_toc}
 
 La continuité de séjour nécessaire à l'acquisition du droit au séjour permanent n'est pas affectée par :
 
@@ -4954,6 +5421,7 @@ La continuité du séjour nécessaire à l'acquisition et au maintien du droit a
 
 
 #### Article R122-4
+{:.no_toc}
 
 I.-Le ressortissant mentionné au 1° de l'article [L. 121-1](#article-l121-1) qui cesse son activité professionnelle sur le territoire français acquiert un droit au séjour permanent avant l'écoulement de la période ininterrompue de cinq ans de séjour prévue à l'article [L. 122-1](#article-l122-1) :
 
@@ -4975,6 +5443,7 @@ II.-Sont également considérés comme périodes d'emploi les périodes de chôm
 
 
 #### Article R122-5
+{:.no_toc}
 
 Quelle que soit leur nationalité, les membres de famille qui résident avec le travailleur mentionné au 1° de l'article [L. 121-1](#article-l121-1) acquièrent un droit au séjour permanent sur le territoire français avant l'écoulement de la période ininterrompue de cinq ans de séjour régulier prévue à l'article [L. 122-1](#article-l122-1) :
 
@@ -4992,6 +5461,7 @@ Quelle que soit leur nationalité, les membres de famille qui résident avec le 
 #### Chapitre unique
 
 #### Article D131-1
+{:.no_toc}
 
 Sont applicables aux ressortissants des Etats avec lesquels ils ont été conclus, en ce qui concerne leur entrée et leur séjour en France, les accords et conventions bilatéraux suivants :
 
@@ -5069,6 +5539,7 @@ b) Accord sous forme d'échange de lettres relatif à la circulation des personn
 ##### Section 1 : Généralités
 
 ##### Article R211-1
+{:.no_toc}
 
 Un arrêté du ministre chargé de l'immigration détermine la nature des documents prévus au 1° de l'article [L. 211-1](#article-l211-1) sous le couvert desquels les étrangers sont admis à franchir la frontière.
 
@@ -5076,11 +5547,13 @@ L'admission sur le territoire français d'un étranger porteur d'un visa peut ê
 
 
 ##### Article R211-2
+{:.no_toc}
 
 Tout étranger qui déclare vouloir séjourner en France pour une durée n'excédant pas trois mois est tenu de présenter, pour être admis sur le territoire français, outre les documents et visas mentionnés au 1° de l'article [L. 211-1](#article-l211-1), les documents mentionnés au 2° du même article et définis aux sections 3 et 4 du présent chapitre.
 
 
 ##### Article R211-3
+{:.no_toc}
 
 Lorsque l'entrée en France est motivée par un transit, l'étranger justifie qu'il satisfait aux conditions d'entrée dans le pays de destination.
 
@@ -5090,6 +5563,7 @@ Lorsque l'entrée en France est motivée par un transit, l'étranger justifie qu
 ###### Sous-section 1 : Instruction des demandes de visa
 
 ###### Article R211-4
+{:.no_toc}
 
 Pour effectuer les vérifications prévues à l'article [L. 111-6](#article-l111-6), et par dérogation aux dispositions de l'article L. 231-1 du code des relations entre le public et l'administration, les autorités diplomatiques et consulaires sursoient à statuer sur la demande de visa présentée par la personne qui se prévaut de l'acte d'état civil litigieux pendant une période maximale de quatre mois.
 
@@ -5097,6 +5571,7 @@ Lorsque, malgré les diligences accomplies, ces vérifications n'ont pas abouti,
 
 
 ###### Article R211-4-1
+{:.no_toc}
 
 La personne qui sollicite la délivrance d'un visa est tenue de produire une photographie d'identité et de se prêter au relevé de ses empreintes digitales, aux fins d'enregistrement dans le traitement automatisé mentionné à l'article [L. 611-6](#article-l611-6).
 
@@ -5104,11 +5579,13 @@ La personne qui sollicite la délivrance d'un visa est tenue de produire une pho
 ###### Sous-section 2 : Recours contre les refus de visa
 
 ###### Article D211-5
+{:.no_toc}
 
 Une commission placée auprès du ministre des affaires étrangères et du ministre chargé de l'immigration est chargée d'examiner les recours contre les décisions de refus de visa d'entrée en France prises par les autorités diplomatiques ou consulaires. La saisine de cette commission est un préalable obligatoire à l'exercice d'un recours contentieux, à peine d'irrecevabilité de ce dernier.
 
 
 ###### Article D211-6
+{:.no_toc}
 
 Les recours devant la commission doivent être formés dans un délai de deux mois à compter de la notification de la décision de refus. Ils doivent être motivés et rédigés en langue française. Ils sont seuls de nature à conserver le délai de recours contentieux jusqu'à l'intervention des décisions prévues à l'article [D. 211-9](#article-d211-9).
 
@@ -5116,6 +5593,7 @@ La commission ne peut être régulièrement saisie que par une personne justifia
 
 
 ###### Article D211-7
+{:.no_toc}
 
 Le président de la commission est choisi parmi les personnes ayant exercé des fonctions de chef de poste diplomatique ou consulaire.
 
@@ -5133,11 +5611,13 @@ Le président et les membres de la commission sont nommés par décret du Premie
 
 
 ###### Article D211-8
+{:.no_toc}
 
 Les autorités diplomatiques ou consulaires, les services du ministère des affaires étrangères et les services du ministère chargé de l'immigration fournissent à la commission, sur sa demande, les informations utiles à l'examen des recours dont elle est saisie.
 
 
 ###### Article D211-9
+{:.no_toc}
 
 La commission peut soit rejeter le recours, soit recommander au ministre des affaires étrangères et au ministre chargé de l'immigration d'accorder le visa demandé.
 
@@ -5145,6 +5625,7 @@ Le président de la commission peut rejeter, sans réunir la commission, les rec
 
 
 ###### Article R211-10
+{:.no_toc}
 
 Les modalités de fonctionnement de la commission sont définies par arrêté conjoint du ministre des affaires étrangères et du ministre chargé de l'immigration.
 
@@ -5154,6 +5635,7 @@ Les modalités de fonctionnement de la commission sont définies par arrêté co
 ###### Sous-section 1 : Souscription des attestations d'accueil
 
 ###### Article R211-11
+{:.no_toc}
 
 L'attestation d'accueil prévue à l'article [L. 211-3](#article-l211-3) pour les séjours à caractère familial ou privé est conforme à un modèle défini par arrêté du ministre chargé de l'immigration. Elle indique :
 
@@ -5177,11 +5659,13 @@ L'attestation précise également si l'étranger envisage de satisfaire lui-mêm
 
 
 ###### Article R211-12
+{:.no_toc}
 
 Si l'attestation d'accueil est souscrite par un Français ou par un étranger dispensé de l'obligation de détenir un titre de séjour en application de l'article [L. 121-2](#article-l121-2), elle comporte l'indication du lieu et de la date de délivrance d'un document établissant l'identité et la nationalité de celui-ci.
 
 
 ###### Article R211-13
+{:.no_toc}
 
 Si l'attestation d'accueil est souscrite par un étranger qui n'est pas dispensé de l'obligation de détenir un titre de séjour, elle comporte également l'indication du lieu, de la date de délivrance et de la durée de validité du titre de séjour du signataire. Celui-ci doit être obligatoirement titulaire de l'un des titres suivants :
 
@@ -5201,11 +5685,13 @@ Si l'attestation d'accueil est souscrite par un étranger qui n'est pas dispens�
 
 
 ###### Article R211-14
+{:.no_toc}
 
 Le signataire de l'attestation d'accueil doit, pour en obtenir la validation par le maire, se présenter personnellement en mairie, muni d'un des documents mentionnés aux articles [R. 211-12](#article-r211-12) et [R. 211-13](#article-r211-13), d'un document attestant de sa qualité de propriétaire, de locataire ou d'occupant du logement dans lequel il se propose d'héberger le visiteur ainsi que de tout document permettant d'apprécier ses ressources et sa capacité d'héberger l'étranger accueilli dans un logement décent au sens des dispositions réglementaires en vigueur et dans des conditions normales d'occupation.
 
 
 ###### Article R211-15
+{:.no_toc}
 
 Le conjoint et les enfants mineurs de dix-huit ans de l'étranger accueilli peuvent figurer sur l'attestation d'accueil souscrite à son profit.
 
@@ -5213,16 +5699,19 @@ Le conjoint et les enfants mineurs de dix-huit ans de l'étranger accueilli peuv
 ###### Sous-section 2 : Validation des attestations d'accueil
 
 ###### Article R211-16
+{:.no_toc}
 
 Par dérogation à l'article L. 231-1 du code des relations entre le public et l'administration, le silence gardé pendant plus d'un mois par le maire sur la demande de validation de l'attestation d'accueil ou par le préfet sur le recours administratif mentionné à l'article [R. 211-17](#article-r211-17) vaut décision de rejet.
 
 
 ###### Article R211-17
+{:.no_toc}
 
 Tout recours contentieux dirigé contre un refus de validation d'une attestation d'accueil doit être précédé, à peine d'irrecevabilité, d'un recours administratif auprès du préfet territorialement compétent dans un délai de deux mois à compter du refus. Le préfet peut soit rejeter le recours, soit valider l'attestation d'accueil, le cas échéant après vérification par l'Office français de l'immigration et de l'intégration dans les conditions prévues à l'article [L. 211-6](#article-l211-6).
 
 
 ###### Article R211-18
+{:.no_toc}
 
 Le maire est tenu informé par l'autorité consulaire des suites données à la demande de visa formulée sur la base de l'attestation d'accueil validée.
 
@@ -5232,11 +5721,13 @@ Le maire adresse au préfet un compte rendu annuel non nominatif relatif aux att
 ###### Sous-section 3 : Traitement automatisé de données à caractère personnel relatif aux demandes de validation des attestations d'accueil
 
 ###### Article R211-19
+{:.no_toc}
 
 En application de l'article [L. 211-7](#article-l211-7), le maire de la commune du lieu d'hébergement ou, à Paris, Lyon et Marseille, le maire d'arrondissement peut, en qualité d'agent de l'Etat, mettre en place un traitement automatisé de données à caractère personnel relatif aux demandes de validation des attestations d'accueil, dont la finalité est de lutter contre les détournements de procédure favorisant l'immigration irrégulière.
 
 
 ###### Article R211-20
+{:.no_toc}
 
 Les catégories de données enregistrées sont les suivantes :
 
@@ -5290,11 +5781,13 @@ b) Droits de l'hébergeant sur le logement (propriétaire, locataire ou occupant
 
 
 ###### Article R211-21
+{:.no_toc}
 
 La durée de conservation des données contenues dans le traitement mentionné à l'article [R. 211-19](#article-r211-19) est de cinq ans à compter de la date de validation ou du refus de validation par le maire de l'attestation d'accueil.
 
 
 ###### Article R211-22
+{:.no_toc}
 
 Sont destinataires des données enregistrées :
 
@@ -5304,6 +5797,7 @@ Sont destinataires des données enregistrées :
 
 
 ###### Article R211-23
+{:.no_toc}
 
 Le droit d'accès s'exerce conformément à l'article 39 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés auprès de la mairie du lieu d'hébergement ou, à Paris, Lyon et Marseille, de la mairie d'arrondissement.
 
@@ -5311,16 +5805,19 @@ Le maire met à jour les données enregistrées dans le traitement mentionné à
 
 
 ###### Article R211-24
+{:.no_toc}
 
 Le droit d'opposition prévu à l'article 38 de la loi n° 78-17 du 6 janvier 1978 ne s'applique pas au traitement mentionné à l'article [R. 211-19](#article-r211-19).
 
 
 ###### Article R211-25
+{:.no_toc}
 
 Les données enregistrées dans le traitement mentionné à l'article [R. 211-19](#article-r211-19) ne peuvent faire l'objet d'interconnexion, mise en relation ou rapprochement avec tout autre traitement automatisé de données à caractère personnel.
 
 
 ###### Article R211-26
+{:.no_toc}
 
 La mise en oeuvre du traitement mentionné à l'article [R. 211-19](#article-r211-19) par le maire de la commune du lieu d'hébergement ou, à Paris, Lyon et Marseille, par le maire d'arrondissement est subordonnée à l'envoi préalable à la Commission nationale de l'informatique et des libertés, en application du IV de l'article 26 de la loi n° 78-17 du 6 janvier 1978, d'une déclaration faisant référence au présent article et précisant le lieu exact d'implantation du traitement automatisé, les modalités d'exercice du droit d'accès ainsi que l'engagement spécifique du maire qu'ont été mises en oeuvre des mesures de sécurité et de confidentialité des données et des modalités d'habilitation individuelle des personnels communaux ayant accès au fichier.
 
@@ -5330,6 +5827,7 @@ La mise en oeuvre du traitement mentionné à l'article [R. 211-19](#article-r21
 ###### Sous-section 1 : Documents relatifs à l'objet et aux conditions du séjour
 
 ###### Article R211-27
+{:.no_toc}
 
 En fonction de ses déclarations sur les motifs de son voyage, l'étranger dont le séjour ne présente pas un caractère familial ou privé présente selon les cas :
 
@@ -5345,6 +5843,7 @@ En fonction de ses déclarations sur les motifs de son voyage, l'étranger dont 
 ###### Sous-section 2 : Documents relatifs aux moyens d'existence de l'étranger
 
 ###### Article R211-28
+{:.no_toc}
 
 L'étranger sollicitant son admission en France peut justifier qu'il possède les moyens d'existence lui permettant de faire face à ses frais de séjour, notamment, par la présentation d'espèces, de chèques de voyage, de chèques certifiés, de cartes de paiement à usage international, de lettres de crédit.
 
@@ -5354,6 +5853,7 @@ Les justifications énumérées au premier alinéa sont appréciées compte tenu
 ###### Sous-section 3 : Prise en charge des dépenses médicales et hospitalières
 
 ###### Article R211-29
+{:.no_toc}
 
 Les entreprises d'assurances, les mutuelles et les institutions de prévoyance habilitées à exercer en France une activité d'assurance ainsi que les organismes d'assurance ayant reçu les agréments des autorités de leur Etat d'origine pour l'exercice des opérations d'assurance concernées sont considérés comme agréés pour l'application des dispositions du 2° de l'article [L. 211-1](#article-l211-1).
 
@@ -5363,6 +5863,7 @@ Le contrat d'assurance souscrit par l'étranger ou par l'hébergeant pour le com
 ###### Sous-section 4 : Garanties de rapatriement
 
 ###### Article R211-30
+{:.no_toc}
 
 Les documents relatifs aux garanties de son rapatriement doivent permettre à l'étranger qui pénètre en France d'assumer les frais afférents à son retour du lieu, situé sur le territoire métropolitain ou en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, où il a l'intention de se rendre jusqu'au pays de sa résidence habituelle.
 
@@ -5372,6 +5873,7 @@ L'étranger doit être en possession des documents relatifs aux garanties de son
 
 
 ###### Article R211-31
+{:.no_toc}
 
 Peuvent être des documents relatifs aux garanties de rapatriement :
 
@@ -5383,11 +5885,13 @@ Peuvent être des documents relatifs aux garanties de rapatriement :
 ###### Sous-section 5 : Déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2
 
 ###### Article R211-32
+{:.no_toc}
 
 La déclaration obligatoire mentionnée à l'article [L. 531-2](#article-l531-2) est, sous réserve des dispositions de l'article [R. 212-6](#article-r212-6), souscrite à l'entrée sur le territoire métropolitain par l'étranger qui n'est pas ressortissant d'un Etat membre de la Communauté européenne et qui est en provenance directe d'un Etat partie à la convention signée à Schengen le 19 juin 1990.
 
 
 ###### Article R211-33
+{:.no_toc}
 
 La déclaration d'entrée sur le territoire français est souscrite auprès des services de la police nationale ou, en l'absence de tels services, des services des douanes ou des unités de la gendarmerie nationale.
 
@@ -5403,6 +5907,7 @@ Les modalités d'application du présent article, et notamment les mentions de l
 ##### Section 1 : Dispense de produire l'ensemble des documents mentionnés au 2° de l'article L. 211-1
 
 ##### Article R212-1
+{:.no_toc}
 
 Sont dispensés de présenter les documents prévus à l'article [R. 211-3](#article-r211-3) et aux sections 3 et 4 du chapitre Ier du présent titre :
 
@@ -5436,6 +5941,7 @@ Sont dispensés de présenter les documents prévus à l'article [R. 211-3](#art
 ##### Section 2 : Dispense de produire l'attestation d'accueil mentionnée à l'article L. 211-3
 
 ##### Article R212-2
+{:.no_toc}
 
 En application de l'article [L. 211-10](#article-l211-10), peuvent être dispensés de présenter l'attestation d'accueil définie à l'article [R. 211-11](#article-r211-11), outre les étrangers appartenant à l'une des catégories visées à l'article [R. 212-1](#article-r212-1), les étrangers entrant dans les cas suivants :
 
@@ -5447,6 +5953,7 @@ En application de l'article [L. 211-10](#article-l211-10), peuvent être dispens
 
 
 ##### Article R212-3
+{:.no_toc}
 
 Dans les cas prévus au 1° de l'article [R. 212-2](#article-r212-2), le séjour doit être prévu dans le cadre de l'activité d'un organisme menant une action à caractère humanitaire ou culturel. L'étranger indique le nom de cet organisme, son objet social, l'adresse de son siège social et, selon les cas, la référence des statuts de l'association ou le numéro d'inscription de la société au registre du commerce et des sociétés ou au registre des métiers. Il précise la nature et les dates du séjour humanitaire ou de l'échange culturel. Il produit enfin, d'une part, un document attestant qu'il est personnellement invité par l'organisme précité dans le cadre de ce séjour à caractère humanitaire ou de cet échange culturel et, d'autre part, si l'étranger n'est pas hébergé par l'organisme lui-même, le nom et l'adresse de la personne physique ou morale assurant son hébergement.
 
@@ -5454,6 +5961,7 @@ Si l'organisme mentionné à l'alinéa précédent est agréé, l'étranger peut
 
 
 ##### Article R212-4
+{:.no_toc}
 
 Dans les cas prévus au 2° de l'article [R. 212-2](#article-r212-2), un rapport médical attestant d'une cause médicale urgente concernant l'étranger qui souhaite se rendre en France ou attestant de la maladie grave d'un proche présent sur le sol français est adressé sous pli confidentiel par le médecin traitant au médecin responsable du centre médico-social auprès de l'ambassade de France dans le pays où réside l'étranger ou, à défaut, à un médecin de ce pays désigné à cet effet par les autorités diplomatiques ou consulaires françaises.
 
@@ -5465,6 +5973,7 @@ Le médecin destinataire du rapport médical communique sans délai son avis mot
 
 
 ##### Article R212-5
+{:.no_toc}
 
 Dans le cas prévu au 3° de l'article [R. 212-2](#article-r212-2), une attestation signée du maire de la commune où doivent se dérouler les obsèques du proche est produite par l'étranger lors de sa demande de visa si celui-ci est requis et lors du contrôle à la frontière.
 
@@ -5472,6 +5981,7 @@ Dans le cas prévu au 3° de l'article [R. 212-2](#article-r212-2), une attestat
 ##### Section 3 : Dispense de produire la déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2
 
 ##### Article R212-6
+{:.no_toc}
 
 L'étranger non ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse n'est pas astreint à la déclaration d'entrée sur le territoire français :
 
@@ -5483,6 +5993,7 @@ L'étranger non ressortissant d'un Etat membre de l'Union européenne, d'un autr
 ##### Section 4 : Composition et fonctionnement de la commission mentionnée à l'article L. 212-2
 
 ##### Article R212-7
+{:.no_toc}
 
 La commission prévue à l'article [L. 212-2](#article-l212-2) comprend :
 
@@ -5498,6 +6009,7 @@ Le secrétariat est assuré par le ministère des affaires étrangères.
 
 
 ##### Article R212-8
+{:.no_toc}
 
 L'étranger saisit la commission, préalablement à son entrée en France, par l'intermédiaire des représentants diplomatiques ou consulaires français, de la demande tendant à être dispensé de fournir les documents relatifs aux garanties de son rapatriement ou de présenter les autorisations nécessaires pour l'exercice d'une activité professionnelle. La demande est transmise à la commission accompagnée de l'avis motivé de ces représentants.
 
@@ -5505,11 +6017,13 @@ La demande précise les nom et prénoms, l'état civil complet, la profession et
 
 
 ##### Article R212-9
+{:.no_toc}
 
 Après l'enregistrement au secrétariat de la commission et la vérification que la demande contient les renseignements et documents prévus à l'article [R. 212-8](#article-r212-8), la demande est communiquée sans délai au ministre chargé de l'immigration qui présente ses observations à la commission. Elle peut être communiquée, en même temps, au ministre chargé de la recherche qui présente ses observations.
 
 
 ##### Article R212-10
+{:.no_toc}
 
 Pour l'instruction de chaque affaire, un rapporteur est désigné par le président de la commission. Il peut être choisi en dehors de la commission et, dans ce cas, n'a pas voix délibérative.
 
@@ -5517,6 +6031,7 @@ La commission se réunit sur convocation de son président. Elle peut recueillir
 
 
 ##### Article R212-11
+{:.no_toc}
 
 La commission formule un avis motivé sur la prise en considération de la demande au regard des conditions énoncées au 3° de l'article [L. 212-2](#article-l212-2).
 
@@ -5526,6 +6041,7 @@ Cet avis est transmis au ministre chargé de l'immigration. Le ministre chargé 
 #### Chapitre III : Refus d'entrée
 
 #### Article R213-1
+{:.no_toc}
 
 La décision écrite et motivée refusant l'entrée en France à un étranger, prévue à l'article [L. 213-2](#article-l213-2), est prise, sauf en cas de demande d'asile, par le chef du service de la police nationale ou des douanes, chargé du contrôle aux frontières, ou un fonctionnaire désigné par lui, titulaire au moins du grade de brigadier dans le premier cas et d'agent de constatation principal de deuxième classe dans le second, ou, à Saint-Barthélemy, par le commandant d'unité de la gendarmerie nationale ou un militaire désigné par lui, titulaire au moins du grade de gendarme.
 
@@ -5533,6 +6049,7 @@ Dans les aérodromes affectés à titre exclusif ou principal au ministère de l
 
 
 #### Article R213-2
+{:.no_toc}
 
 Lorsque l'étranger qui se présente à la frontière demande à bénéficier du droit d'asile, il est informé sans délai, dans une langue qu'il comprend ou dont il est raisonnable de penser qu'il la comprend, de la procédure de demande d'asile et de son déroulement, de ses droits et obligations au cours de cette procédure, des conséquences que pourrait avoir le non-respect de ses obligations ou le refus de coopérer avec les autorités et des moyens dont il dispose pour l'aider à présenter sa demande.
 
@@ -5540,6 +6057,7 @@ Lorsque l'examen de la demande d'asile est susceptible de relever de la responsa
 
 
 #### Article R213-3
+{:.no_toc}
 
 Toute personne intervenant en zone d'attente peut signaler au responsable de la zone ou à son représentant la situation de vulnérabilité d'un demandeur d'asile qu'elle aurait constatée, ou dont le demandeur d'asile aurait fait état.
 
@@ -5549,6 +6067,7 @@ Les informations attestant d'une situation particulière de vulnérabilité port
 
 
 #### Article R213-4
+{:.no_toc}
 
 Sauf dans le cas où l'examen de la demande d'asile relève de la compétence d'un autre Etat, l'étranger est entendu par l'Office français de protection des réfugiés et apatrides selon les modalités prévues par les articles [R. 723-5](#article-r723-5) à [R. 723-9](#article-r723-9).
 
@@ -5556,11 +6075,13 @@ Toutefois, en cas de besoin et par dérogation à l'article [R. 723-8](#article-
 
 
 #### Article R213-5
+{:.no_toc}
 
 L'office transmet son avis au ministre chargé de l'immigration dans le délai de deux jours ouvrés à compter de la demande à bénéficier de l'asile consignée par procès-verbal.
 
 
 #### Article R213-6
+{:.no_toc}
 
 L'étranger est informé, dans une langue qu'il comprend ou dont il est raisonnable de penser qu'il la comprend, du caractère positif ou négatif de la décision prise par le ministre chargé de l'immigration en application de l'article [L. 213-8-1](#article-l213-8-1).
 
@@ -5568,16 +6089,19 @@ Lorsque le ministre prend une décision de refus d'entrée au titre de l'asile, 
 
 
 #### Article R213-7
+{:.no_toc}
 
 Lorsque, à la suite de l'entretien personnel avec le demandeur, l'office considère, en application du troisième alinéa de l'article [L. 221-1](#article-l221-1), que l'étranger nécessite des garanties procédurales particulières qui ne sont pas compatibles avec le maintien en zone d'attente, il transmet, sans délai, sa décision à l'autorité qui a procédé au maintien en zone d'attente ainsi qu'au ministre chargé de l'immigration. Il est alors mis fin à ce maintien. Le visa de régularisation prévu à l'article [L. 224-1](#article-l224-1) est remis à l'étranger par le responsable de la zone d'attente ou son représentant.
 
 
 #### Article R213-8
+{:.no_toc}
 
 Dans le cas prévu au 1° de l'article [L. 213-8-1](#article-l213-8-1), l'autorité administrative compétente pour procéder à la détermination de l'Etat responsable de l'examen d'une demande d'asile et prendre la décision de transfert vers cet Etat est le ministre chargé de l'immigration. La décision de refuser l'entrée en France au titre de l'asile n'a pas à faire l'objet d'une motivation distincte de celle de la décision de transfert.
 
 
 #### Article R213-9
+{:.no_toc}
 
 I.-Le deuxième alinéa de l'article [R. 213-2](#article-r213-2) et l'article [R. 213-8](#article-r213-8) ne sont pas applicables en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion et à Saint-Pierre-et-Miquelon. II.-Pour l'application de l'article [R. 213-4](#article-r213-4) en Guadeloupe, en Guyane, à la Martinique, à Mayotte, à La Réunion, et à Saint-Pierre-et-Miquelon, au premier alinéa, les mots : “ Sauf dans le cas où l'examen de la demande d'asile relève de la compétence d'un autre Etat, ” sont supprimés.
 
@@ -5587,6 +6111,7 @@ III.-Le présent chapitre, à l'exception du deuxième alinéa de l'article [R. 
 #### Chapitre IV : Interdiction administrative du territoire
 
 #### Article R214-1
+{:.no_toc}
 
 L'autorité administrative compétente pour saisir le juge des libertés et de la détention aux fins de requérir les services de police ou les unités de gendarmerie en application du dernier alinéa de l'article [L. 214-4](#article-l214-4) est le préfet de département et, à Paris, le préfet de police.
 
@@ -5608,6 +6133,7 @@ L'article [R. 561-7](#article-r561-7) est applicable.
 ##### Section 1 : Délimitation de la zone d'attente
 
 ##### Article R221-1
+{:.no_toc}
 
 L'autorité administrative compétente pour délimiter la zone d'attente est le préfet du département et, à Paris, le préfet de police.
 
@@ -5619,11 +6145,13 @@ Dans les aérodromes affectés à titre exclusif ou principal au ministère de l
 ##### Section 2 : Droits des étrangers maintenus en zone d'attente
 
 ##### Article R221-2
+{:.no_toc}
 
 Les administrateurs ad hoc chargés d'assister les mineurs non accompagnés d'un représentant légal lors de leur maintien en zone d'attente, mentionnés à l'article [L. 221-5](#article-l221-5), sont désignés et indemnisés conformément aux dispositions des articles [R. 111-13](#article-r111-13) à R. 111-24.
 
 
 ##### Article R221-3
+{:.no_toc}
 
 L'administration met un interprète à la disposition des étrangers maintenus en zone d'attente qui ne comprennent pas le français, dans le seul cadre des procédures de non-admission dont ils font l'objet. Dans les autres cas, la rétribution du prestataire est à la charge de l'étranger.
 
@@ -5633,6 +6161,7 @@ Lorsque l'assistance d'un interprète se fait par téléphone ou un autre moyen 
 ##### Section 3 : Accès des parlementaires accompagnés de journalistes aux zones d'attente
 
 ##### Article R221-4
+{:.no_toc}
 
 Le responsable de la zone d'attente ou son représentant ne peut s'opposer à l'entrée de journalistes titulaires de la carte d'identité professionnelle mentionnée à l'article L. 7111-6 du code du travail accompagnant, conformément à l'article 719 du code de procédure pénale, un député, un sénateur ou un représentant au Parlement européen élu en France que pour des motifs impératifs liés à la sécurité, au bon ordre, à l'intérêt public dans la zone d'attente, et aux intérêts des personnes retenues, des personnels et des tiers présents dans celle-ci. Il peut mettre fin, à tout moment, à leur présence pour ces motifs.
 
@@ -5640,11 +6169,13 @@ Le nombre de journalistes accompagnant une visite parlementaire peut, de manièr
 
 
 ##### Article R221-5
+{:.no_toc}
 
 Les écrits, photographies, croquis, prises de vue et de son que les journalistes effectuent sont circonscrits au cadre de la visite du parlementaire.
 
 
 ##### Article R221-6
+{:.no_toc}
 
 Lorsque les productions des journalistes sont de nature à permettre l'identification des étrangers, des personnels et des intervenants dans les zones d'attente, ceux-ci doivent consentir par écrit à la diffusion ou à l'utilisation de leur image ou de leur voix.
 
@@ -5658,6 +6189,7 @@ Les obligations relatives à la diffusion des productions des journalistes menti
 ##### Section 4 : Accès des journalistes aux zones d'attente
 
 ##### Article R221-7
+{:.no_toc}
 
 Tout journaliste titulaire de la carte d'identité professionnelle mentionnée à l'article L. 7111-6 du code du travail peut demander à l'autorité administrative compétente à être autorisé à accéder à une zone d'attente.
 
@@ -5665,26 +6197,31 @@ Toute demande mentionne l'objet, la date, la durée et les modalités du reporta
 
 
 ##### Article R221-8
+{:.no_toc}
 
 L'autorité administrative compétente pour autoriser ou refuser l'accès des journalistes aux zones d'attente en application de l'article [L. 221-6](#article-l221-6) est le préfet de département dans lequel se situe la zone d'attente et, à Paris, le préfet de police.
 
 
 ##### Article R221-9
+{:.no_toc}
 
 Tout refus d'accès est motivé.
 
 
 ##### Article R221-10
+{:.no_toc}
 
 L'accès des journalistes à la zone d'attente ne doit pas entraver son fonctionnement et les activités qu'y exercent les services de l'Etat, et les tiers qui y participent, notamment les entreprises de transport et les exploitants d'infrastructures. Les journalistes respectent les consignes de sécurité et les conditions de la visite établies par le responsable de la zone d'attente ou son représentant.
 
 
 ##### Article R221-11
+{:.no_toc}
 
 Les journalistes ont accès, dans le respect des règles sanitaires et de sécurité et de la vie privée des personnes maintenues en zone d'attente, aux locaux accessibles à celles-ci ainsi qu'aux locaux mis à disposition des tiers exerçant une activité dans la zone avec l'accord de ces derniers.
 
 
 ##### Article R221-12
+{:.no_toc}
 
 L'article [R. 221-6](#article-r221-6) est applicable aux visites de journalistes régies par la présente section.
 
@@ -5694,11 +6231,13 @@ L'article [R. 221-6](#article-r221-6) est applicable aux visites de journalistes
 ##### Section 1 : Décision du juge des libertés et de la détention
 
 ##### Article R222-1
+{:.no_toc}
 
 Pour l'application des articles [L. 222-1](#article-l222-1) et [L. 222-2](#article-l222-2), le juge des libertés et de la détention compétent est celui du tribunal de grande instance dans le ressort duquel l'étranger est maintenu en zone d'attente.
 
 
 ##### Article R222-2
+{:.no_toc}
 
 Le juge des libertés et de la détention est saisi par simple requête de l'autorité administrative qui a ordonné le maintien en zone d'attente.
 
@@ -5710,6 +6249,7 @@ Le greffier l'enregistre et y appose, ainsi que sur les pièces jointes, un timb
 
 
 ##### Article R222-3
+{:.no_toc}
 
 Le juge des libertés et de la détention statue sur la requête de l'autorité administrative dans les conditions définies aux articles [R. 552-5](#article-r552-5) à [R. 552-10](#article-r552-10) sous réserve du délai qui lui est imparti pour statuer par l'article [L. 222-3](#article-l222-3). Pour l'application de ces dispositions, les références au placement en rétention administrative sont remplacées par des références au maintien en zone d'attente et la référence à l'article [L. 552-12](#article-l552-12) figurant à l'article [R. 552-8](#article-r552-8) est remplacée par une référence aux articles [L. 222-4](#article-l222-4) et [L. 222-6](#article-l222-6).
 
@@ -5717,6 +6257,7 @@ Le juge des libertés et de la détention statue sur la requête de l'autorité 
 ##### Section 2 : Voies de recours
 
 ##### Article R222-4
+{:.no_toc}
 
 Les recours contre les ordonnances du juge des libertés et de la détention s'exercent dans les conditions définies aux articles [R. 552-12](#article-r552-12) à [R. 552-16](#article-r552-16). Pour l'application de ces dispositions, les références au placement en rétention administrative sont remplacées par des références au maintien en zone d'attente.
 
@@ -5726,6 +6267,7 @@ Les recours contre les ordonnances du juge des libertés et de la détention s'e
 ##### Section 1 : Dispositions communes
 
 ##### Article R223-1
+{:.no_toc}
 
 Le délégué du Haut-Commissariat des Nations unies pour les réfugiés ou ses représentants et les associations ont accès, dans les conditions fixées par les sections 2 et 3 du présent chapitre, à la zone d'attente définie à l'article [L. 221-1](#article-l221-1).
 
@@ -5737,11 +6279,13 @@ Il s'exerce dans le respect des opinions politiques, philosophiques ou religieus
 ##### Section 2 : Conditions d'accès du délégué du Haut-Commissariat des Nations unies pour les réfugiés ou de ses représentants
 
 ##### Article R223-2
+{:.no_toc}
 
 Le délégué du Haut-Commissariat des Nations unies pour les réfugiés ou ses représentants ont accès à la zone d'attente dans des conditions permettant de garantir leur accès effectif aux demandeurs d'asile.
 
 
 ##### Article R223-3
+{:.no_toc}
 
 L'accès des représentants du haut-commissariat des Nations unies pour les réfugiés à la zone d'attente est subordonné à un agrément individuel.
 
@@ -5757,11 +6301,13 @@ L'agrément est également retiré sur demande du délégué du haut-commissaria
 
 
 ##### Article R*223-4
+{:.no_toc}
 
 L'autorité administrative compétente pour délivrer ou retirer l'agrément mentionné à l'article [R. 223-3](#article-r223-3) est le ministre chargé de l'asile.
 
 
 ##### Article R223-5
+{:.no_toc}
 
 Le délégué du Haut-Commissariat des Nations unies pour les réfugiés ou ses représentants agréés ont accès à chaque zone d'attente sur présentation de leur carte nominative et sous réserve des nécessités de l'ordre public et de la sécurité des transports.
 
@@ -5769,6 +6315,7 @@ Les modalités pratiques de cet accès, notamment la périodicité des visites, 
 
 
 ##### Article R223-6
+{:.no_toc}
 
 Le délégué du Haut-Commissariat des Nations unies pour les réfugiés ou ses représentants agréés peuvent s'entretenir avec le chef des services de contrôle aux frontières et, lorsqu'ils sont présents, avec les agents de l'Office français de protection des réfugiés et apatrides et les agents de l'Office français de l'immigration et de l'intégration chargés de l'assistance humanitaire.
 
@@ -5776,6 +6323,7 @@ Ils peuvent également s'entretenir confidentiellement avec les personnes mainte
 
 
 ##### Article R223-7
+{:.no_toc}
 
 Une réunion est organisée annuellement sur le fonctionnement des zones d'attente, à l'initiative du ministre chargé de l'asile, avec le délégué du Haut-Commissariat des Nations unies pour les réfugiés, ses représentants agréés et les services de l'Etat concernés.
 
@@ -5783,6 +6331,7 @@ Une réunion est organisée annuellement sur le fonctionnement des zones d'atten
 ##### Section 3 : Conditions d'accès des associations
 
 ##### Article R223-8
+{:.no_toc}
 
 L'autorité administrative compétente fixe la liste des associations habilitées à proposer des représentants en vue d'accéder à la zone d'attente dans les conditions fixées par la présente section.
 
@@ -5798,6 +6347,7 @@ L'accès à la zone d'attente des représentants des associations habilitées s'
 
 
 ##### Article R223-9
+{:.no_toc}
 
 L'accès des représentants des associations habilitées à la zone d'attente est subordonné à un agrément individuel accordé pour une durée de trois ans par l'autorité administrative compétente.
 
@@ -5811,21 +6361,25 @@ L'agrément d'un représentant d'une association est retiré sur demande de cell
 
 
 ##### Article R223-10
+{:.no_toc}
 
 Les décisions de retrait mentionnées aux articles [R. 223-8](#article-r223-8) et [R. 223-9](#article-r223-9) sont motivées.
 
 
 ##### Article R223-11
+{:.no_toc}
 
 L'autorité administrative compétente peut autoriser toute visite supplémentaire sur demande écrite et motivée du président d'une association habilitée ou de tout membre mandaté de l'association.
 
 
 ##### Article R*223-12
+{:.no_toc}
 
 L'autorité administrative mentionnée aux articles [R. 223-8](#article-r223-8), [R. 223-9](#article-r223-9) et [R. 223-11](#article-r223-11) est le ministre chargé de l'immigration.
 
 
 ##### Article R223-13
+{:.no_toc}
 
 Les représentants agréés d'une association peuvent s'entretenir avec le chef des services de contrôle aux frontières et, lorsqu'ils sont présents, avec les agents de l'Office français de protection des réfugiés et apatrides et les agents de l' Office français de l'immigration et de l'intégration chargés de l'assistance humanitaire.
 
@@ -5837,6 +6391,7 @@ Les représentants de plusieurs associations habilitées ne peuvent accéder le 
 
 
 ##### Article R223-14
+{:.no_toc}
 
 Une réunion est organisée annuellement sur le fonctionnement des zones d'attente, à l'initiative du ministre chargé de l'immigration, avec les présidents des associations habilitées, leurs représentants agréés et les services de l'Etat concernés. Le compte rendu de cette réunion, établi conjointement, est rendu public.
 
@@ -5852,6 +6407,7 @@ Une réunion est organisée annuellement sur le fonctionnement des zones d'atten
 ###### Sous-section 1 : Demandes de titre de séjour
 
 ###### Article R311-1
+{:.no_toc}
 
 Tout étranger, âgé de plus de dix-huit ans ou qui sollicite un titre de séjour en application de l'article [L. 311-3](#article-l311-3), est tenu de se présenter, à Paris, à la préfecture de police et, dans les autres départements, à la préfecture ou à la sous-préfecture, pour y souscrire une demande de titre de séjour du type correspondant à la catégorie à laquelle il appartient.
 
@@ -5869,6 +6425,7 @@ Par dérogation au premier alinéa, l'étranger résidant hors de France qui sol
 
 
 ###### Article R311-2
+{:.no_toc}
 
 La demande est présentée par l'intéressé dans les deux mois de son entrée en France. S'il y séjournait déjà, il présente sa demande :
 
@@ -5888,16 +6445,19 @@ Disposent du même délai pour présenter leur demande, le conjoint mentionné a
 
 
 ###### Article R311-2-1
+{:.no_toc}
 
 La délivrance ou le renouvellement du titre de séjour à un étranger est subordonné(e) à la collecte, lors de la présentation de sa demande, des informations le concernant qui doivent être mentionnées sur le titre de séjour selon le modèle prévu à l'article [R. 311-13-1](#article-r311-13-1), ainsi qu'au relevé d'images numérisées de sa photographie et, sauf impossibilité physique, des empreintes digitales de ses dix doigts aux fins d'enregistrement dans le traitement automatisé mentionné à l'article [R. 611-1](#article-r611-1).
 
 
 ###### Article R311-2-2
+{:.no_toc}
 
 L'étranger qui demande la délivrance ou le renouvellement d'un titre de séjour présente les documents justifiant de son état civil et de sa nationalité et, le cas échéant, de ceux de son conjoint, de ses enfants et de ses ascendants.
 
 
 ###### Article R311-3
+{:.no_toc}
 
 Sont dispensés de souscrire une demande de carte de séjour :
 
@@ -5942,6 +6502,7 @@ Lorsqu'un étranger est autorisé à séjourner en France sous couvert d'un titr
 
 
 ###### Article R311-3-1
+{:.no_toc}
 
 En application de l'article [L. 313-7](#article-l313-7), les étrangers titulaires du visa mentionné au 6° de l'article [R. 311-3](#article-r311-3) bénéficient d'un suivi sanitaire préventif au sein de l'établissement d'enseignement supérieur dans un délai d'un an à compter de la date de leur entrée en France.
 
@@ -5949,6 +6510,7 @@ En application de l'article [L. 313-7](#article-l313-7), les étrangers titulair
 ###### Sous-section 2 : Récépissé des demandes
 
 ###### Article R311-4
+{:.no_toc}
 
 Il est remis à tout étranger admis à souscrire une demande de première délivrance ou de renouvellement de titre de séjour un récépissé qui autorise la présence de l'intéressé sur le territoire pour la durée qu'il précise. Ce récépissé est revêtu de la signature de l'agent compétent ainsi que du timbre du service chargé, en vertu de l'article [R. 311-10](#article-r311-10), de l'instruction de la demande.
 
@@ -5956,11 +6518,13 @@ Un récépissé peut également être remis à l'étranger qui demande à béné
 
 
 ###### Article R311-5
+{:.no_toc}
 
 La durée de validité du récépissé mentionné à l'article [R. 311-4](#article-r311-4) ne peut être inférieure à un mois. Le récépissé peut être renouvelé.
 
 
 ###### Article R311-6
+{:.no_toc}
 
 Le récépissé de la demande de première délivrance d'une carte de séjour prévue aux 1°, 2° bis, 4°, 6°, 8°, 9° et 10° de l'article [L. 313-11](#article-l313-11), aux articles [L. 313-13](#article-l313-13), [L. 313-21](#article-l313-21) et [L. 313-24](#article-l313-24), aux 1° et 3° de l'article [L. 314-9](#article-l314-9), à l'article [L. 314-11](#article-l314-11), à l'article [L. 314-12](#article-l314-12) ou à l'article [L. 316-1](#article-l316-1), ainsi que le récépissé mentionné au deuxième alinéa de l'article [R. 311-4](#article-r311-4) autorisent son titulaire à travailler.
 
@@ -5972,16 +6536,19 @@ Le récépissé de la demande de renouvellement d'une carte de séjour permettan
 
 
 ###### Article R311-7
+{:.no_toc}
 
 Par dérogation au premier alinéa de l'article [R. 311-10](#article-r311-10), lorsque la demande de titre de séjour est déposée auprès d'un établissement d'enseignement supérieur conformément au 2° de l'article [R. 311-1](#article-r311-1), le préfet compétent pour délivrer la carte de séjour prévue à l'article [L. 313-7](#article-l313-7) est le préfet du département où se situe cet établissement. La demande de titre de séjour lui est transmise sans délai. Il est remis au demandeur un document attestant du dépôt de sa demande. Ce document ne vaut pas autorisation de séjour.
 
 
 ###### Article R311-8
+{:.no_toc}
 
 Au cas où la loi ne prévoit pas de l'en exonérer, le demandeur mentionné à l'article [R. 311-4](#article-r311-4) acquitte la taxe spéciale afférente à la délivrance du titre de séjour.
 
 
 ###### Article R311-9
+{:.no_toc}
 
 Pour l'application du deuxième alinéa de l'article [L. 311-4](#article-l311-4), l'étranger peut justifier de ses démarches en vue du renouvellement de la carte de résident dont il est titulaire par la présentation d'une attestation de dépôt de sa demande de renouvellement. Cette attestation est délivrée par les services qui ont reçu la demande. Elle vaut convocation pour la remise du titre de séjour sollicité.
 
@@ -5989,6 +6556,7 @@ Pour l'application du deuxième alinéa de l'article [L. 311-4](#article-l311-4)
 ###### Sous-section 3 : Délivrance du titre de séjour
 
 ###### Article R311-10
+{:.no_toc}
 
 Le titre de séjour est délivré par le préfet du département dans lequel l'étranger a sa résidence et, à Paris, par le préfet de police. Toutefois, lorsque son titulaire a déjà quitté la France, le titre de séjour mentionné à l'article [L. 317-1](#article-l317-1) est délivré par le préfet du département où l'étranger déclare vouloir séjourner, même temporairement, et, à Paris, par le préfet de police.
 
@@ -6000,6 +6568,7 @@ Pour l'application du premier alinéa de l'article [L. 313-5-1](#article-l313-5-
 
 
 ###### Article R311-11
+{:.no_toc}
 
 La délivrance d'un titre de séjour est refusée à l'étranger qui ne remplit pas les conditions auxquelles les dispositions du présent code subordonnent cette délivrance ou qui, sollicitant la délivrance d'une carte de séjour au titre de l'exercice d'une activité professionnelle soumise aux prescriptions de l'article L. 5221-2 du code du travail, n'est pas autorisé à exercer celle-ci.
 
@@ -6009,16 +6578,19 @@ Pour l'application des articles [L. 313-7-2](#article-l313-7-2) et [L. 313-24](#
 
 
 ###### Article R*311-12
+{:.no_toc}
 
 Le silence gardé par l'administration sur les demandes de titres de séjour vaut décision implicite de rejet.
 
 
 ###### Article R311-12-1
+{:.no_toc}
 
 La décision implicite mentionnée à l'article [R\*. 311-12](#article-r311-12) naît au terme d'un délai de quatre mois.
 
 
 ###### Article R311-13
+{:.no_toc}
 
 En cas de refus de délivrance de tout titre de séjour, l'étranger est tenu de quitter le territoire français.
 
@@ -6026,6 +6598,7 @@ En cas de refus de délivrance de tout titre de séjour, l'étranger est tenu de
 ###### Sous-section 3-1 : Modèle du titre de séjour
 
 ###### Article R311-13-1
+{:.no_toc}
 
 Le titre de séjour est établi selon un modèle conforme au modèle prévu par le règlement (CE) n° 1030/2002 du Conseil du 13 juin 2002 établissant un modèle uniforme de titre de séjour pour les ressortissants de pays tiers et son annexe, modifié par le règlement (CE) n° 380/2008 du Conseil du 18 avril 2008.
 
@@ -6035,6 +6608,7 @@ Il comporte les mentions énumérées au A de la section 2 de l'annexe 6-4 au pr
 ###### Sous-section 4 : Retrait du titre de séjour
 
 ###### Article R311-14
+{:.no_toc}
 
 Le titre de séjour est retiré :
 
@@ -6064,6 +6638,7 @@ Le titre de séjour est retiré :
 
 
 ###### Article R311-15
+{:.no_toc}
 
 I.-Le titre de séjour peut être retiré :
 
@@ -6101,6 +6676,7 @@ II.-La carte de résident peut être retirée et remplacée de plein droit par u
 
 
 ###### Article R311-16
+{:.no_toc}
 
 En cas de retrait de son titre de séjour, l'étranger est tenu de quitter le territoire français.
 
@@ -6108,11 +6684,13 @@ En cas de retrait de son titre de séjour, l'étranger est tenu de quitter le te
 ###### Sous-section 5 : Restitution du titre de séjour
 
 ###### Article R311-17
+{:.no_toc}
 
 Lorsque son titulaire acquiert la nationalité française par décret de naturalisation ou de réintégration, le titre de séjour est restitué à l'autorité qui lui a notifié la décision. Dans les autres cas d'acquisition, il est restitué au préfet du département de sa résidence.
 
 
 ###### Article R311-18
+{:.no_toc}
 
 Les bénéficiaires de l'aide publique à la réinsertion prévue à l'article [D. 331-1](#article-d331-1) restituent leur titre de séjour au préfet de leur département de résidence dans les conditions définies aux articles [D. 331-8](#article-d331-8) à [D. 331-14](#article-d331-14).
 
@@ -6122,11 +6700,13 @@ Les bénéficiaires de l'aide publique à la réinsertion prévue à l'article [
 ##### Section 2 : Dispositions relatives à l'intégration dans la société française
 
 ##### Article R311-19
+{:.no_toc}
 
 Le ministre chargé de l'accueil et de l'intégration conçoit l'information sur la vie en France ainsi que sur les droits et devoirs qui y sont liés mentionnée au premier alinéa de l'article [L. 311-9](#article-l311-9). Cette information est accessible par voie dématérialisée.
 
 
 ##### Article R311-20
+{:.no_toc}
 
 I.-L'étranger mentionné au deuxième alinéa de l'article [L. 311-9](#article-l311-9) s'engage dans un parcours personnalisé d'intégration républicaine. A cet effet, il signe le contrat d'intégration républicaine prévu au huitième alinéa du même article par lequel il s'engage à respecter les principes et valeurs de la société française et de la République et à suivre avec sérieux et assiduité les formations qui lui sont prescrites.
 
@@ -6144,6 +6724,7 @@ III.-Le contrat d'intégration républicaine peut être signé par l'étranger q
 
 
 ##### Article R311-21
+{:.no_toc}
 
 Le contrat d'intégration républicaine, avec sa traduction dans une langue que l'intéressé comprend, est présenté par l'Office français de l'immigration et de l'intégration à l'étranger au cours d'un entretien personnalisé. A l'issue de cet entretien, il est signé par l'étranger et en outre, le cas échéant, par son représentant légal admis régulièrement au séjour en France. Il est signé par le préfet qui a accordé le titre de séjour ou par le préfet du lieu de résidence pour l'étranger séjournant en France sous couvert d'un visa d'une durée supérieure à trois mois.
 
@@ -6153,6 +6734,7 @@ Le contrat d'intégration républicaine est préparé par l'Office français de 
 
 
 ##### Article R311-22
+{:.no_toc}
 
 L'Office français de l'immigration et de l'intégration organise les formations dispensées dans le cadre du contrat d'intégration républicaine. A cet effet, il assure l'inscription de l'étranger aux formations et veille à l'assiduité et au sérieux de sa participation.
 
@@ -6160,6 +6742,7 @@ La formation civique mentionnée à l'article [R. 311-23](#article-r311-23) et l
 
 
 ##### Article R311-23
+{:.no_toc}
 
 La formation civique, mentionnée au troisième alinéa de l'article [L. 311-9](#article-l311-9), comporte :
 
@@ -6173,6 +6756,7 @@ Un arrêté du ministre chargé de l'accueil et de l'intégration précise les c
 
 
 ##### Article R311-24
+{:.no_toc}
 
 Lors de l'entretien personnalisé mentionné à l'article [R. 311-21](#article-r311-21), l'Office français de l'immigration et de l'intégration évalue les besoins en formation linguistique de l'étranger en utilisant un test de connaissances orales et écrites en langue française. Ce test est fixé par un arrêté du ministre chargé de l'accueil et de l'intégration sur la base du cadre européen commun de référence pour les langues du Conseil de l'Europe tel qu'adopté par le comité des ministres du Conseil de l'Europe dans sa recommandation CM/ Rec (2008) 7 du 2 juillet 2008 (" niveau A1 ").
 
@@ -6186,11 +6770,13 @@ L'arrêté du ministre chargé de l'accueil et de l'intégration mentionné au p
 
 
 ##### Article R311-25
+{:.no_toc}
 
 A l'issue des formations prescrites, l'Office français de l'immigration et de l'intégration se prononce, au vu des informations transmises par les organismes ayant assuré les formations et, le cas échéant, des éléments fournis par l'étranger, sur l'assiduité et le sérieux de celui-ci aux formations. L'avis de l'office est transmis au préfet du lieu de résidence de l'étranger.
 
 
 ##### Article R311-26
+{:.no_toc}
 
 Le contrat d'intégration républicaine est conclu pour une durée d'un an. Il est respecté dès lors que les formations qu'il prévoit ont été suivies avec assiduité et sérieux et que l'étranger n'a pas manifesté de rejet des valeurs essentielles de la société française et de la République. Sous réserve du deuxième alinéa du présent article, la clôture du contrat intervient dans le mois suivant le terme de la durée prescrite de formation.
 
@@ -6202,11 +6788,13 @@ Le contrat peut être résilié par le préfet sur proposition de l'office lorsq
 ##### Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour
 
 ##### Article R311-31
+{:.no_toc}
 
 Pour l'application des articles [L. 311-10](#article-l311-10) à [L. 311-12](#article-l311-12), l'étranger présente à l'appui de sa demande outre les pièces prévues à l'article [R. 311-2-2](#article-r311-2-2), trois photographies de face, tête nue, de format 3,5 × 4,5 cm, récentes et parfaitement ressemblantes.
 
 
 ##### Article R311-32
+{:.no_toc}
 
 L'autorisation provisoire de séjour mentionnée à l'article [L. 311-10](#article-l311-10) est prévue pour l'exercice d'une mission d'intérêt général visant soit à promouvoir l'autonomie et la protection des personnes, à renforcer la cohésion sociale, à prévenir les exclusions ou, le cas échéant, à en corriger les effets, soit à mener des actions de solidarité en faveur de personnes défavorisées ou sinistrées résidant sur le territoire français.
 
@@ -6214,6 +6802,7 @@ Le contrat de volontariat mentionné à l'article [L. 311-10](#article-l311-10) 
 
 
 ##### Article D311-33
+{:.no_toc}
 
 L'agrément mentionné à l'article [L. 311-10](#article-l311-10) est délivré à l'association ou à la fondation qui justifie d'au moins trois années d'existence et qui est titulaire de l'agrément prévu à l'article 15 de la loi n° 2006-586 du 23 mai 2006 relative au volontariat associatif et à l'engagement éducatif. Sa validité prend fin en même temps que la validité de l'agrément prévu à l'article 15 de la loi du 23 mai 2006.
 
@@ -6227,6 +6816,7 @@ En cas de retrait de l'agrément mentionné à l'article [L. 311-10](#article-l3
 
 
 ##### Article R311-34
+{:.no_toc}
 
 Par dérogation à l'article [R. 311-2](#article-r311-2), l'étranger qui demande l'autorisation provisoire de séjour prévue à l'article [L. 311-10](#article-l311-10) dépose sa demande dans un délai d'un mois à compter de son entrée en France. Il présente, outre les pièces prévues à l'article [R. 311-31](#article-r311-31) :
 
@@ -6242,6 +6832,7 @@ La durée de l'autorisation provisoire de séjour ne peut excéder la durée du 
 
 
 ##### Article R311-35
+{:.no_toc}
 
 I.-Pour l'application de l'article [L. 311-11](#article-l311-11), l'étranger, qui sollicite la délivrance de l'autorisation provisoire de séjour, présente à l'appui de sa demande, outre les pièces prévues aux articles [R. 311-2-2](#article-r311-2-2) et [R. 311-31](#article-r311-31) :
 
@@ -6259,6 +6850,7 @@ Lorsque l'étranger concrétise, au plus tard à l'issue de son autorisation pro
 
 
 ##### Article R311-36
+{:.no_toc}
 
 Pour l'application de l'article [L. 311-12](#article-l311-12), l'étranger présente à l'appui de sa demande, outre les pièces prévues aux articles [R. 311-2-2](#article-r311-2-2) et [R. 311-31](#article-r311-31) :
 
@@ -6278,6 +6870,7 @@ L'avis médical est rendu dans les conditions prévues à l'article [R. 313-23](
 #### Chapitre II : La commission du titre de séjour
 
 #### Article R312-1
+{:.no_toc}
 
 Le préfet ou, à Paris, le préfet de police met en place la commission du titre de séjour mentionnée à l'article [L. 312-1](#article-l312-1) par un arrêté :
 
@@ -6289,6 +6882,7 @@ Le préfet ou, à Paris, le préfet de police met en place la commission du titr
 
 
 #### Article R312-2
+{:.no_toc}
 
 Le préfet ou, à Paris, le préfet de police saisit pour avis la commission lorsqu'il envisage de refuser de délivrer ou de renouveler l'un des titres mentionnés aux articles [L. 313-11](#article-l313-11), [L. 314-11](#article-l314-11) et [L. 314-12](#article-l314-12) à l'étranger qui remplit effectivement les conditions qui président à leur délivrance.
 
@@ -6298,16 +6892,19 @@ Cette demande d'avis est accompagnée des documents nécessaires à l'examen de 
 
 
 #### Article R312-3
+{:.no_toc}
 
 Le récépissé délivré à l'étranger en application du troisième alinéa de l'article [L. 312-2](#article-l312-2) vaut autorisation provisoire de séjour jusqu'à ce que le préfet ait statué après avis de la commission. Il porte, lorsque l'étranger était précédemment titulaire d'un titre de séjour l'autorisant à travailler, la mention " Il autorise son titulaire à travailler ".
 
 
 #### Article R312-4
+{:.no_toc}
 
 Le président fixe la date des réunions de la commission. Les membres de celle-ci sont avisés de cette date et de l'ordre du jour au moins quinze jours à l'avance par une lettre à laquelle sont annexés les documents mentionnés à l'article [R. 312-2](#article-r312-2).
 
 
 #### Article R312-5
+{:.no_toc}
 
 L'étranger est convoqué devant la commission dans les délais prévus au deuxième alinéa de l'article [L. 312-2](#article-l312-2) par une lettre qui précise la date, l'heure et le lieu de réunion de la commission et qui mentionne les droits résultant pour l'intéressé des dispositions dudit alinéa.
 
@@ -6315,26 +6912,31 @@ A sa demande, le maire de la commune dans laquelle réside l'étranger concerné
 
 
 #### Article R312-6
+{:.no_toc}
 
 Le chef du service des étrangers de la préfecture, ou son représentant, assure les fonctions de rapporteur auprès de la commission. Il ne prend pas part à sa délibération. Ledit service assure le secrétariat de la commission.
 
 
 #### Article R312-7
+{:.no_toc}
 
 Les séances de la commission ne sont pas publiques.
 
 
 #### Article R312-8
+{:.no_toc}
 
 Devant la commission, l'étranger fait valoir les motifs qu'il invoque à l'appui de sa demande d'octroi ou de renouvellement d'un titre de séjour. Un procès-verbal enregistrant ses explications est transmis au préfet avec l'avis motivé de la commission. L'avis de la commission est également communiqué à l'intéressé.
 
 
 #### Article R312-9
+{:.no_toc}
 
 Si la commission régulièrement saisie n'a pas émis son avis à l'issue des trois mois qui suivent la date d'enregistrement de la saisine du préfet à son secrétariat, son avis est réputé rendu et le préfet peut statuer.
 
 
 #### Article R312-10
+{:.no_toc}
 
 Le préfet, ou, à Paris, le préfet de police, peut également saisir la commission du titre de séjour pour toute question relative à l'application des dispositions du présent livre. Le président du conseil départemental ou son représentant est alors invité à participer à la réunion de la commission du titre de séjour. Il en est de même, en tant que de besoin, du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou de son représentant.
 
@@ -6344,6 +6946,7 @@ Le préfet, ou, à Paris, le préfet de police, peut également saisir la commis
 ##### Section 1 : Dispositions générales
 
 ##### Article R313-1
+{:.no_toc}
 
 L'étranger qui sollicite la délivrance d'une première carte de séjour doit présenter à l'appui de sa demande, outre les pièces mentionnées à l'article [R. 311-2-2](#article-r311-2-2), les pièces suivantes :
 
@@ -6359,11 +6962,13 @@ L'étranger qui sollicite la délivrance d'une première carte de séjour doit p
 
 
 ##### Article R313-2
+{:.no_toc}
 
 Ne sont pas soumis aux dispositions du 1° de l'article [R. 313-1](#article-r313-1) les étrangers mentionnés à l'article [L. 313-4-1](#article-l313-4-1), aux 2°, 2° bis, 6° à 11° de l'article [L. 313-11](#article-l313-11), et aux articles [L. 313-11-1](#article-l313-11-1), [L. 313-13](#article-l313-13), [L. 313-14](#article-l313-14), [L. 313-15](#article-l313-15) et [L. 316-1](#article-l316-1).
 
 
 ##### Article R313-3
+{:.no_toc}
 
 Ne sont pas soumis aux dispositions du 2° de l'article [R. 313-1](#article-r313-1) :
 
@@ -6373,6 +6978,7 @@ Ne sont pas soumis aux dispositions du 2° de l'article [R. 313-1](#article-r313
 
 
 ##### Article R313-3-1
+{:.no_toc}
 
 L'étranger résidant hors de France qui sollicite le bénéfice des dispositions du 3° du même article présente sa demande auprès des autorités diplomatiques ou consulaires françaises territorialement compétentes dans son pays de résidence.
 
@@ -6380,11 +6986,13 @@ L'étranger titulaire d'une carte de séjour ne l'autorisant pas à exercer une 
 
 
 ##### Article R313-4
+{:.no_toc}
 
 Les étrangers mentionnés au dernier alinéa de l'article [L. 211-2-1](#article-l211-2-1), aux articles [L. 313-7](#article-l313-7) (1), [L. 313-7-1](#article-l313-7-1) et [L. 313-7-2](#article-l313-7-2), aux 2°, 2° bis, 6°, 7°, 10° et 11° de l'article [L. 313-11](#article-l313-11), à l'article [L. 313-13](#article-l313-13) à l'exception de ceux qui sont visés à l'article [L. 752-1](#article-l752-1), aux articles [L. 313-14](#article-l313-14), [L. 313-15](#article-l313-15), [L. 316-1](#article-l316-1), [L. 316-1-1](#article-l316-1-1) et [L. 316-3](#article-l316-3) et aux articles [L. 313-20](#article-l313-20), [L. 313-21](#article-l313-21), [L. 313-24](#article-l313-24) ne sont pas soumis aux dispositions du 3° de l'article [R. 313-1](#article-r313-1), ainsi que les étrangers déjà admis à résider en France.
 
 
 ##### Article R313-4-1
+{:.no_toc}
 
 L'étranger déjà admis à résider en France qui sollicite le renouvellement d'une carte de séjour ou la délivrance de la carte de séjour pluriannuelle générale prévue à l'article [L. 313-17](#article-l313-17) doit présenter à l'appui de sa demande, outre les pièces mentionnées à l'article [R. 311-2-2](#article-r311-2-2), les pièces suivantes :
 
@@ -6396,11 +7004,13 @@ L'étranger déjà admis à résider en France qui sollicite le renouvellement d
 
 
 ##### Article R313-4-2
+{:.no_toc}
 
 La demande de carte de séjour pluriannuelle générale vaut aussi demande de renouvellement de la carte de séjour précédemment détenue. Toutefois, lorsque la demande de carte de séjour pluriannuelle est sollicitée sur un autre fondement que celui au titre duquel a été délivrée la carte de séjour dont l'étranger est titulaire, elle vaut aussi demande de délivrance de la carte de séjour temporaire correspondant au nouveau motif de séjour invoqué.
 
 
 ##### Article R313-5
+{:.no_toc}
 
 La durée de validité de la carte de séjour temporaire délivrée aux étrangers exerçant une activité professionnelle soumise à autorisation ne peut excéder la durée de cette autorisation.
 
@@ -6414,6 +7024,7 @@ La durée de validité de la carte de séjour temporaire ou pluriannuelle déliv
 ###### Sous-section 1 : La carte de séjour temporaire portant la mention "visiteur"
 
 ###### Article R313-6
+{:.no_toc}
 
 Pour l'application de l'article [L. 313-6](#article-l313-6), l'étranger qui demande la délivrance de la carte de séjour mention " visiteur " doit présenter, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-1](#article-r313-1), les pièces suivantes :
 
@@ -6425,6 +7036,7 @@ Pour l'application de l'article [L. 313-6](#article-l313-6), l'étranger qui dem
 ###### Sous-section 2 : La carte de séjour temporaire portant la mention "étudiant"
 
 ###### Article R313-7
+{:.no_toc}
 
 Pour l'application du I de l'article [L. 313-7](#article-l313-7), l'étranger qui demande la carte de séjour portant la mention " étudiant " doit présenter, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-1](#article-r313-1), les pièces suivantes :
 
@@ -6434,6 +7046,7 @@ Pour l'application du I de l'article [L. 313-7](#article-l313-7), l'étranger qu
 
 
 ###### Article R313-8
+{:.no_toc}
 
 Pour l'application du II de l'article [L. 313-7](#article-l313-7), l'étranger qui demande la délivrance de la carte de séjour portant la mention " étudiant " doit présenter en outre les pièces suivantes :
 
@@ -6445,11 +7058,13 @@ L'étranger visé au 2° du II de l'article [L. 313-7](#article-l313-7) présent
 
 
 ###### Article R313-9
+{:.no_toc}
 
 L'établissement d'accueil mentionné au 2° de l'article [R. 313-7](#article-r313-7) doit fonctionner dans des conditions conformes aux dispositions législatives et réglementaires en vigueur. Sa capacité à recevoir l'étudiant étranger dans de telles conditions peut faire l'objet d'une vérification par l'administration chargée du contrôle de l'établissement.
 
 
 ###### Article R313-10
+{:.no_toc}
 
 Peut être exempté, sur décision du préfet, de l'obligation de présentation du visa de long séjour prescrite au 2° de l'article [R. 313-1](#article-r313-1) :
 
@@ -6461,6 +7076,7 @@ Peut être exempté, sur décision du préfet, de l'obligation de présentation 
 ###### Sous-section 2 bis : Dispositions particulières applicables aux étrangers stagiaires
 
 ###### Article R313-10-1
+{:.no_toc}
 
 Pour l'obtention de la carte de séjour mentionnée à l'article [L. 313-7-1](#article-l313-7-1), est considéré comme stagiaire l'étranger qui vient en France :
 
@@ -6472,6 +7088,7 @@ Pour l'obtention de la carte de séjour mentionnée à l'article [L. 313-7-1](#a
 
 
 ###### Article R313-10-2
+{:.no_toc}
 
 L'étranger qui demande la délivrance de la carte de séjour portant la mention " stagiaire ” doit présenter, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-1](#article-r313-1), les pièces suivantes :
 
@@ -6487,6 +7104,7 @@ c) Dans le cas prévu au 3° de l'article [R. 313-10-1](#article-r313-10-1), au 
 
 
 ###### Article R313-10-3
+{:.no_toc}
 
 I. ― La convention de stage est conclue entre le stagiaire, l'établissement de formation ou l'employeur établi à l'étranger et l'entreprise d'accueil en France ou l'organisme de formation mentionné à l'article L. 6351-1 du code du travail. Elle est également signée par l'association mentionnée à l'article [R. 313-10-5](#article-r313-10-5) du présent code qui a, le cas échéant, permis sa conclusion.
 
@@ -6506,6 +7124,7 @@ Dans le cas prévu au 3° de l'article [R. 313-10-1](#article-r313-10-1), la dur
 
 
 ###### Article R313-10-4
+{:.no_toc}
 
 I. ― La convention de stage est transmise au préfet par lettre recommandée avec demande d'avis de réception au moins deux mois avant la date de début du stage, soit par l'entreprise, l'organisme de formation ou l'établissement public de santé ou l'organisme de formation qui souhaite accueillir un stagiaire, soit par l'association qui a, le cas échéant, également signé la convention.
 
@@ -6519,6 +7138,7 @@ III. ― La convention de stage, son avenant éventuel et les éléments de preu
 
 
 ###### Article R313-10-5
+{:.no_toc}
 
 I. ― L'agrément mentionné à l'article [L. 313-7-1](#article-l313-7-1) est délivré pour une durée de trois ans renouvelable par arrêté du ministre chargé de l'immigration aux associations ayant pour objet le placement d'étrangers désireux de venir en France en vue d'y accomplir un stage en entreprise ou d'y suivre une formation professionnelle.
 
@@ -6538,6 +7158,7 @@ IV. ― Le fait de se livrer à une activité de placement en entreprise d'un st
 
 
 ###### Article R313-10-6
+{:.no_toc}
 
 L'étranger qui demande la délivrance de la carte de séjour temporaire mentionnée au I de l'article [L. 313-7-2](#article-l313-7-2) doit présenter, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-1](#article-r313-1), les pièces suivantes :
 
@@ -6559,6 +7180,7 @@ Toute modification relative aux pièces justifiant la délivrance de la carte de
 
 
 ###### Article R313-10-7
+{:.no_toc}
 
 La convention de stage est conclue entre le stagiaire, l'employeur établi à l'étranger et l'établissement ou l'entreprise du groupe, assurant l'accueil en France.
 
@@ -6574,11 +7196,13 @@ La convention de stage comporte les clauses suivantes :
 
 
 ###### Article R*313-10-7-1
+{:.no_toc}
 
 Le silence gardé par le préfet sur une demande de visa d'une convention de stage en vue de l'obtention de la carte de séjour temporaire mentionnée au I de l'article [L. 313-7-2](#article-l313-7-2) vaut décision de rejet. Toutefois, le silence gardé sur une demande de visa d'un avenant de prolongation de la durée du stage d'une durée maximale d'un an incluant le stage initial, vaut décision d'acceptation.
 
 
 ###### Article R313-10-8
+{:.no_toc}
 
 I.-La convention de stage est transmise au préfet par lettre recommandée avec demande d'avis de réception au moins deux mois avant la date de début du stage, par l'établissement ou l'entreprise qui souhaite accueillir un stagiaire.
 
@@ -6590,11 +7214,13 @@ III.-La convention de stage, son avenant éventuel et les éléments de preuve d
 
 
 ###### Article R313-10-9
+{:.no_toc}
 
 Lorsque l'étranger dont l'un des parents ou le conjoint est titulaire de la carte de séjour temporaire portant la mention “ stagiaire ICT ” demande la délivrance de la carte de séjour temporaire portant la mention “ stagiaire ICT (famille) ”, il doit présenter, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-1](#article-r313-1), la carte de séjour temporaire portant la mention “ stagiaire ICT ” accordée à son parent ou conjoint.
 
 
 ###### Article R313-10-10
+{:.no_toc}
 
 I.-Pour l'application du quatrième alinéa du I de l'article [L. 313-7-2](#article-l313-7-2), l'établissement ou l'entreprise d'emploi de l'étranger qui effectue une mission en France notifie au préalable le projet de mobilité de l'étranger, dès lors qu'il est connu, à l'autorité administrative compétente désignée par arrêté du ministre chargé de l'immigration, et selon la procédure prévue par celui-ci.
 
@@ -6614,6 +7240,7 @@ La décision du préfet est notifiée par écrit à l'étranger dans les meilleu
 ###### Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle
 
 ###### Article R313-15
+{:.no_toc}
 
 Pour l'application du 1° de l'article [L. 313-10](#article-l313-10), l'étranger qui demande la carte de séjour temporaire portant la mention " salarié " doit présenter à l'appui de sa demande, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-1](#article-r313-1), les pièces suivantes :
 
@@ -6625,6 +7252,7 @@ Cette carte autorise l'exercice d'une activité professionnelle dans les conditi
 
 
 ###### Article R313-15-1
+{:.no_toc}
 
 Pour l'application du 2° de l'article [L. 313-10](#article-l313-10), l'étranger qui demande la carte de séjour temporaire portant la mention " travailleur temporaire " doit présenter à l'appui de sa demande, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-1](#article-r313-1), les pièces suivantes :
 
@@ -6636,11 +7264,13 @@ Cette carte autorise l'exercice d'une activité professionnelle dans les conditi
 
 
 ###### Article R313-16
+{:.no_toc}
 
 Les dispositions du 3° de l'article [L. 313-10](#article-l313-10) sont applicables à l'étranger dont l'activité non salariée nécessite une immatriculation soit au Répertoire des métiers ou au Registre du commerce et des sociétés, soit à l'URSSAF.
 
 
 ###### Article R313-16-1
+{:.no_toc}
 
 Pour l'application du 3° de l'article [L. 313-10](#article-l313-10), l'étranger qui demande la carte de séjour temporaire portant la mention " entrepreneur/ profession libérale " doit présenter à l'appui de sa demande, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-1](#article-r313-1), les justificatifs permettant d'évaluer, en cas de création, la viabilité économique de son projet.
 
@@ -6654,21 +7284,25 @@ Un arrêté du ministre chargé de l'immigration et du ministre chargé des fina
 
 
 ###### Article R313-16-2
+{:.no_toc}
 
 Lorsque l'étranger présente un projet tendant à la création d'une activité commerciale, industrielle ou artisanale, l'autorité diplomatique ou consulaire ou le préfet compétent saisit pour avis le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi compétent dans le département dans lequel l'étranger souhaite réaliser son projet.
 
 
 ###### Article R313-16-3
+{:.no_toc}
 
 Lors de la demande de délivrance ou de renouvellement de la carte de séjour prévue au 3° de l'article [L. 313-10](#article-l313-10), le préfet vérifie la compatibilité de l'activité en cause avec la sécurité, la salubrité et la tranquillité publiques ainsi que, le cas échéant, l'absence de condamnation ou de décision emportant en France, l'interdiction d'exercer une activité commerciale.
 
 
 ###### Article R313-16-4
+{:.no_toc}
 
 L'étranger titulaire de la carte de séjour temporaire prévue au 3° de l'article [L. 313-10](#article-l313-10) qui cesse définitivement toute activité commerciale, industrielle, artisanale ou libérale est tenu d'en informer la préfecture.
 
 
 ###### Article D313-16-5
+{:.no_toc}
 
 La liste mentionnée au premier alinéa de l'article [L. 311-11](#article-l311-11) et au dernier alinéa de l'article [L. 313-10](#article-l313-10) comprend :
 
@@ -6680,6 +7314,7 @@ La liste mentionnée au premier alinéa de l'article [L. 311-11](#article-l311-1
 ###### Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale"
 
 ###### Article R313-20
+{:.no_toc}
 
 Pour l'application des articles [L. 313-11](#article-l313-11), [L. 313-11-1](#article-l313-11-1), [L. 313-13](#article-l313-13) et [L. 313-14](#article-l313-14), l'étranger présente à l'appui de sa demande de délivrance de la carte de séjour temporaire, outre les pièces prévues aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-1](#article-r313-1), les pièces suivantes :
 
@@ -6693,6 +7328,7 @@ Pour l'application des articles [L. 313-11](#article-l313-11), [L. 313-11-1](#ar
 
 
 ###### Article R313-22
+{:.no_toc}
 
 Pour l'application du 11° de l'article [L. 313-11](#article-l313-11), le préfet délivre la carte de séjour au vu d'un avis émis par un collège de médecins à compétence nationale de l'Office français de l'immigration et de l'intégration.
 
@@ -6702,6 +7338,7 @@ Les orientations générales mentionnées à la quatrième phrase du 11° de l'a
 
 
 ###### Article R313-23
+{:.no_toc}
 
 Le rapport médical visé à l'article [R. 313-22](#article-r313-22) est établi par un médecin de l'Office français de l'immigration et de l'intégration à partir d'un certificat médical établi par le médecin qui le suit habituellement ou par un médecin praticien hospitalier inscrits au tableau de l'ordre, dans les conditions prévues par l'arrêté mentionné au deuxième alinéa de l'article [R. 313-22](#article-r313-22). Le médecin de l'office peut solliciter, le cas échéant, le médecin qui suit habituellement le demandeur ou le médecin praticien hospitalier. Il en informe le demandeur. Il peut également convoquer le demandeur pour l'examiner et faire procéder aux examens estimés nécessaires. Le demandeur présente au service médical de l'office les documents justifiant de son identité. A défaut de réponse dans le délai de quinze jours, ou si le demandeur ne se présente pas à la convocation qui lui a été fixée, ou s'il n'a pas présenté les documents justifiant de son identité le médecin de l'office établit son rapport au vu des éléments dont il dispose et y indique que le demandeur n'a pas répondu à sa convocation ou n'a pas justifié de son identité. Il transmet son rapport médical au collège de médecins.
 
@@ -6719,6 +7356,7 @@ L'avis est transmis au préfet territorialement compétent, sous couvert du dire
 
 
 ###### Article R313-24
+{:.no_toc}
 
 L'étranger mentionné au 11° de l'article [L. 313-11](#article-l313-11) qui ne remplit pas la condition de résidence habituelle peut recevoir une autorisation provisoire de séjour renouvelable pendant la durée de son traitement.
 
@@ -6726,6 +7364,7 @@ L'étranger mentionné au 11° de l'article [L. 313-11](#article-l313-11) qui ne
 ###### Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et aux membres de sa famille
 
 ###### Article R313-34-1
+{:.no_toc}
 
 L'étranger titulaire de la carte de résident de longue durée-UE dans un autre Etat membre de l'Union européenne qui sollicite la délivrance d'une carte de séjour temporaire en application de l'article [L. 313-4-1](#article-l313-4-1) doit présenter, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-1](#article-r313-1), les pièces suivantes :
 
@@ -6741,6 +7380,7 @@ L'étranger titulaire de la carte de résident de longue durée-UE dans un autre
 
 
 ###### Article R313-34-1-1
+{:.no_toc}
 
 L'étranger mentionné au I ou au II de l'article [L. 313-11-1](#article-l313-11-1) qui souhaite séjourner en France auprès de son conjoint ou parent titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et admis au séjour en France en application de l'article [L. 313-4-1](#article-l313-4-1) doit présenter, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-1](#article-r313-1), les pièces suivantes :
 
@@ -6762,16 +7402,19 @@ L'étranger mentionné au I ou au II de l'article [L. 313-11-1](#article-l313-11
 
 
 ###### Article R313-34-2
+{:.no_toc}
 
 Le maire de la commune de résidence des membres de famille du ressortissant d'un pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne dispose d'un délai d'un mois à compter de sa saisine par le préfet pour formuler un avis sur le caractère suffisant des conditions de ressources au regard des conditions de logement mentionnées à l'article [R. 313-34-1-1](#article-r313-34-1-1).
 
 
 ###### Article R313-34-3
+{:.no_toc}
 
 L'avis prévu à l'article [R. 313-34-2](#article-r313-34-2) est émis par le maire au vu des copies des pièces justificatives mentionnées aux 2° et 3° de l'article [R. 313-34-1-1](#article-r313-34-1-1) transmises par l'autorité administrative ; s'agissant du logement, le maire peut s'assurer de l'adéquation entre les pièces communiquées par le demandeur attestant sa qualité de propriétaire ou de locataire et les informations dont il dispose.
 
 
 ###### Article R313-34-4
+{:.no_toc}
 
 Cet avis est réputé favorable à l'expiration du délai mentionné à l'article [R. 313-34-2](#article-r313-34-2).
 
@@ -6779,6 +7422,7 @@ Cet avis est réputé favorable à l'expiration du délai mentionné à l'articl
 ##### Section 3 : Renouvellement des cartes de séjour temporaires.
 
 ##### Article R313-36
+{:.no_toc}
 
 Sauf dispositions réglementaires contraires, l'étranger qui sollicite le renouvellement d'une carte de séjour temporaire présente, outre les pièces mentionnées à l'article [R. 313-4-1](#article-r313-4-1), les pièces prévues pour une première délivrance et justifiant qu'il continue de satisfaire aux conditions requises pour celle-ci.
 
@@ -6788,6 +7432,7 @@ S'il sollicite le renouvellement de la carte de séjour temporaire prévue à l'
 
 
 ##### Article R313-36-1
+{:.no_toc}
 
 I.-Lorsque l'étranger sollicite le renouvellement de la carte de séjour temporaire délivrée au titre des dispositions du 1° de l'article [L. 313-10](#article-l313-10), il doit présenter, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-4-1](#article-r313-4-1), les pièces suivantes :
 
@@ -6813,11 +7458,13 @@ Un arrêté du ministre chargé de l'immigration et du ministre chargé des fina
 
 
 ##### Article R313-37
+{:.no_toc}
 
 L'étranger qui remplit les conditions de renouvellement de la carte de séjour prévue au 2° de l'article [L. 313-10](#article-l313-10) se voit délivrer un titre pour une durée égale soit à celle restante à courir du contrat de travail ou de détachement initial dont il est titulaire, soit à celle de son nouveau contrat de travail ou de prolongation de son détachement.
 
 
 ##### Article R313-38
+{:.no_toc}
 
 L'étranger titulaire de la carte de séjour temporaire portant la mention "salarié" qui se trouve involontairement privé d'emploi présente tout justificatif relatif à la cessation de son emploi et, le cas échéant, à ses droits au regard des régimes d'indemnisation des travailleurs involontairement privés d'emploi.
 
@@ -6829,6 +7476,7 @@ Le préfet statue sur sa demande de renouvellement de la carte de séjour tempor
 ###### Sous-section 1 : La carte de séjour pluriannuelle générale délivrée après un premier document de séjour
 
 ###### Article R313-39
+{:.no_toc}
 
 Outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-4-1](#article-r313-4-1), l'étranger qui sollicite la délivrance d'une carte de séjour pluriannuelle présente :
 
@@ -6838,6 +7486,7 @@ Outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [
 
 
 ###### Article R313-40
+{:.no_toc}
 
 Pour l'application du 1° du I de l'article [L. 313-17](#article-l313-17), le préfet apprécie si l'étranger a respecté les engagements souscrits dans le cadre du contrat d'intégration républicaine, lorsqu'il en a été conclu un conformément aux dispositions des articles [L. 311-9](#article-l311-9) et [R. 311-20](#article-r311-20). Il s'assure, au vu notamment des éléments transmis en application de l'article [R. 311-25](#article-r311-25) par l'Office français de l'immigration et de l'intégration, de l'assiduité et du sérieux de la participation de l'étranger aux deux modules de formation civique et, lorsqu'elle a été prescrite, à l'ensemble de la formation linguistique respectivement mentionnées aux articles [R. 311-23](#article-r311-23) et [R. 311-24](#article-r311-24) ainsi que, dans le cadre de la formation linguistique, de sa progression à l'issue de la formation par rapport au niveau initial évalué par l'office dans les conditions prévues aux articles [R. 311-21](#article-r311-21) et [R. 311-24](#article-r311-24).
 
@@ -6849,6 +7498,7 @@ Le préfet vérifie en outre que l'étranger n'a pas manifesté de rejet des val
 ####### Paragraphe 1 : Dispositions générales
 
 ####### Article R313-41
+{:.no_toc}
 
 Lorsque l'étranger, qui sollicite la carte de séjour visée aux articles [L. 313-20](#article-l313-20) et [L. 313-21](#article-l313-21), réside hors de France, la décision de délivrance du titre de séjour sollicitée est prise par l'autorité diplomatique et consulaire. La carte de séjour est remise à l'étranger par le préfet du département où l'étranger a établi sa résidence en France ou, à Paris, par le préfet de police, sur présentation de son passeport revêtu d'un visa de long séjour portant la mention “passeport talent”.
 
@@ -6856,6 +7506,7 @@ Lorsque l'étranger est déjà admis au séjour sur le territoire français, la 
 
 
 ####### Article R313-42
+{:.no_toc}
 
 I. - Lorsque la carte de séjour pluriannuelle portant la mention “passeport talent” est délivrée à l'étranger qui exerce une activité salariée prévue au 1°, 2°, 3° et 4° de l'article [L. 313-20](#article-l313-20), sa durée est identique à celle du contrat de travail ou de la convention d'accueil présentés à l'appui de sa demande de titre de séjour, dans la limite d'une durée de quatre ans.
 
@@ -6863,11 +7514,13 @@ II. - Lorsque la carte de séjour pluriannuelle portant la mention “passeport-
 
 
 ####### Article R313-43
+{:.no_toc}
 
 L'étranger titulaire de la carte de séjour pluriannuelle délivrée sur le fondement des 5°, 6° et 8° de l'article [L. 313-20](#article-l313-20) qui cesse définitivement son activité commerciale, industrielle ou artisanale est tenu d'en informer la préfecture de son lieu de résidence.
 
 
 ####### Article R313-44
+{:.no_toc}
 
 I. - Outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-1](#article-r313-1), l'étranger qui sollicite la délivrance de la carte de séjour pluriannuelle portant la mention “passeport talent” doit présenter, à l'appui de sa demande, selon les cas, les pièces justifiant qu'il remplit les conditions de la carte de séjour demandée et qui sont énumérées aux articles [R. 313-45](#article-r313-45) à [R. 313-71](#article-r313-71).
 
@@ -6881,6 +7534,7 @@ Lorsque la carte de séjour “passeport talent” a été délivrée sur le fon
 ####### Paragraphe 2 : La carte de séjour pluriannuelle délivrée sur le fondement du 1° de l'article L. 313-20
 
 ####### Article R313-45
+{:.no_toc}
 
 Pour l'application du 1° de l'article [L. 313-20](#article-l313-20), l'étranger présente en outre à l'appui de sa demande :
 
@@ -6900,11 +7554,13 @@ b) Tout document établissant la qualité de jeune entreprise innovante ainsi qu
 
 
 ####### Article R313-46
+{:.no_toc}
 
 La carte de séjour pluriannuelle délivrée sur le fondement du 1° de l'article [L. 313-20](#article-l313-20) permet l'exercice de l'activité professionnelle salariée ayant justifié sa délivrance.
 
 
 ####### Article D313-46-1
+{:.no_toc}
 
 La liste mentionnée au 1° de l'article [L. 313-20](#article-l313-20) comprend les diplômes de niveau I labellisés par la Conférence des grandes écoles.
 
@@ -6912,6 +7568,7 @@ La liste mentionnée au 1° de l'article [L. 313-20](#article-l313-20) comprend 
 ####### Paragraphe 3 : La carte de séjour pluriannuelle délivrée sur le fondement du 2° de l'article L. 313-20
 
 ####### Article R313-47
+{:.no_toc}
 
 Pour l'application du 2° de l'article [L. 313-20](#article-l313-20), l'étranger qui sollicite la délivrance de la carte de séjour pluriannuelle portant la mention “ passeport talent-carte bleue européenne ” présente en outre à l'appui de sa demande :
 
@@ -6923,16 +7580,19 @@ Pour l'application du 2° de l'article [L. 313-20](#article-l313-20), l'étrange
 
 
 ####### Article R313-48
+{:.no_toc}
 
 La carte de séjour pluriannuelle délivrée sur le fondement du 2° de l'article [L. 313-20](#article-l313-20) permet l'exercice de l'activité professionnelle salariée ayant justifié sa délivrance.
 
 
 ####### Article R313-49
+{:.no_toc}
 
 Les dispositions prévues à l'article [R. 313-47](#article-r313-47) s'appliquent lorsque l'étranger justifiant d'un séjour d'au moins dix-huit mois dans un autre Etat membre sous couvert d'une “ carte bleue européenne ” délivrée par cet Etat sollicite en France la carte de séjour pluriannuelle portant la mention “ passeport talent-carte bleue européenne ”. La décision d'admission au séjour en France est communiquée à l'autorité compétente de l'Etat membre concerné.
 
 
 ####### Article R313-50
+{:.no_toc}
 
 Par dérogation à l'article [R. 311-12-1](#article-r311-12-1), le délai au terme duquel la demande de titre de séjour déposée sur le fondement du 2° de l'article [L. 313-20](#article-l313-20) fait naître la décision implicite prévue à l'article [R\*. 311-12](#article-r311-12) est de quatre-vingt-dix jours.
 
@@ -6940,6 +7600,7 @@ Par dérogation à l'article [R. 311-12-1](#article-r311-12-1), le délai au ter
 ####### Paragraphe 4 : La carte de séjour pluriannuelle délivrée sur le fondement du 3° de l'article L. 313-20
 
 ####### Article R313-51
+{:.no_toc}
 
 Pour l'application du 3° de l'article [L. 313-20](#article-l313-20), l'étranger présente en outre à l'appui de sa demande :
 
@@ -6953,6 +7614,7 @@ Pour l'application du 3° de l'article [L. 313-20](#article-l313-20), l'étrange
 
 
 ####### Article R313-52
+{:.no_toc}
 
 La carte de séjour pluriannuelle délivrée sur le fondement du 3° de l'article [L. 313-20](#article-l313-20) permet l'exercice d'une activité professionnelle salariée dans le cadre de la mission ayant justifié la délivrance du titre de séjour.
 
@@ -6960,6 +7622,7 @@ La carte de séjour pluriannuelle délivrée sur le fondement du 3° de l'articl
 ####### Paragraphe 5 : La carte de séjour pluriannuelle délivrée sur le fondement du 4° de l'article L. 313-20
 
 ####### Article R313-53
+{:.no_toc}
 
 Pour l'application du 4° de l'article [L. 313-20](#article-l313-20), l'étranger qui sollicite la délivrance de la carte de séjour pluriannuelle portant la mention “ passeport talent-chercheur ” présente en outre à l'appui de sa demande :
 
@@ -6969,6 +7632,7 @@ Pour l'application du 4° de l'article [L. 313-20](#article-l313-20), l'étrange
 
 
 ####### Article R313-54
+{:.no_toc}
 
 Le chercheur étranger qui exerce son activité en France dans les conditions prévues au second alinéa du 4° de l'article [L. 313-20](#article-l313-20) et qui souhaite s'y maintenir plus de trois mois pour poursuivre les mêmes travaux doit présenter à l'appui de sa demande, outre les pièces mentionnées au I de l'article [R. 313-44](#article-r313-44), les pièces suivantes :
 
@@ -6980,11 +7644,13 @@ Le chercheur étranger qui exerce son activité en France dans les conditions pr
 
 
 ####### Article R313-55
+{:.no_toc}
 
 La carte de séjour pluriannuelle délivrée sur le fondement du 4° de l'article [L. 313-20](#article-l313-20) permet l'exercice d'une activité professionnelle salariée dans le cadre de la convention d'accueil ayant justifié la délivrance du titre de séjour.
 
 
 ####### Article R313-56
+{:.no_toc}
 
 La liste et les modalités d'agrément des organismes délivrant la convention d'accueil ainsi que le modèle type de cette convention sont établis par arrêté conjoint des ministres chargés de l'immigration et de l'enseignement supérieur et de la recherche.
 
@@ -6992,6 +7658,7 @@ La liste et les modalités d'agrément des organismes délivrant la convention d
 ####### Paragraphe 6 : La carte de séjour pluriannuelle délivrée sur le fondement du 5° de l'article L. 313-20
 
 ####### Article R313-57
+{:.no_toc}
 
 Pour l'application du 5° de l'article [L. 313-20](#article-l313-20), l'étranger présente en outre à l'appui de sa demande :
 
@@ -7007,16 +7674,19 @@ Pour l'application du 5° de l'article [L. 313-20](#article-l313-20), l'étrange
 
 
 ####### Article R313-58
+{:.no_toc}
 
 La carte de séjour pluriannuelle délivrée sur le fondement du 5° de l'article [L. 313-20](#article-l313-20) permet l'exercice d'une activité commerciale en lien avec la création de l'entreprise ayant justifié sa délivrance.
 
 
 ####### Article R313-59
+{:.no_toc}
 
 L'autorité diplomatique ou consulaire ou le préfet compétent saisit pour avis le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi compétent dans le département dans lequel l'étranger envisage de créer son entreprise.
 
 
 ####### Article R313-60
+{:.no_toc}
 
 L'autorité diplomatique ou consulaire ou le préfet compétent vérifie la compatibilité de l'activité en cause avec la sécurité, la salubrité et la tranquillité publiques ainsi que, le cas échéant, l'absence de condamnation ou de décision emportant en France, l'interdiction d'exercer une activité commerciale.
 
@@ -7024,6 +7694,7 @@ L'autorité diplomatique ou consulaire ou le préfet compétent vérifie la comp
 ####### Paragraphe 7 : La carte de séjour pluriannuelle délivrée sur le fondement du 6° de l'article L. 313-20
 
 ####### Article R313-61
+{:.no_toc}
 
 Pour l'application du 6° de l'article [L. 313-20](#article-l313-20), l'étranger présente en outre à l'appui de sa demande :
 
@@ -7035,6 +7706,7 @@ Pour l'application du 6° de l'article [L. 313-20](#article-l313-20), l'étrange
 
 
 ####### Article R313-62
+{:.no_toc}
 
 La carte de séjour pluriannuelle délivrée sur le fondement du 6° de l'article [L. 313-20](#article-l313-20) permet l'exercice d'une activité commerciale en lien avec le projet économique innovant ayant justifié sa délivrance.
 
@@ -7042,11 +7714,13 @@ La carte de séjour pluriannuelle délivrée sur le fondement du 6° de l'articl
 ####### Paragraphe 8 : La carte de séjour pluriannuelle délivrée sur le fondement du 7° de l'article L. 313-20
 
 ####### Article R313-63
+{:.no_toc}
 
 Pour l'application du 7° de l'article [L. 313-20](#article-l313-20), l'étranger présente en outre à l'appui de sa demande, les pièces justifiant qu'il satisfait aux conditions de délivrance prévues à l'article [R. 313-64](#article-r313-64) pour la carte sollicitée.
 
 
 ####### Article R313-64
+{:.no_toc}
 
 Peut être regardé comme procédant à un investissement économique direct pour la délivrance de la carte sollicitée, l'étranger qui, personnellement ou par l'intermédiaire d'une société qu'il dirige ou dont il détient au moins 30 % du capital, remplit les conditions cumulatives suivantes :
 
@@ -7056,6 +7730,7 @@ Peut être regardé comme procédant à un investissement économique direct pou
 
 
 ####### Article R313-64-1
+{:.no_toc}
 
 La carte de séjour pluriannuelle délivrée sur le fondement du 7° de l'article [L. 313-20](#article-l313-20) permet l'exercice d'une activité commerciale en lien avec le projet d'investissement ayant justifié sa délivrance.
 
@@ -7063,6 +7738,7 @@ La carte de séjour pluriannuelle délivrée sur le fondement du 7° de l'articl
 ####### Paragraphe 9 : La carte de séjour pluriannuelle délivrée sur le fondement du 8° de l'article L. 313-20
 
 ####### Article R313-65
+{:.no_toc}
 
 Pour l'application du 8° de l'article [L. 313-20](#article-l313-20), l'étranger présente en outre à l'appui de sa demande :
 
@@ -7074,6 +7750,7 @@ Pour l'application du 8° de l'article [L. 313-20](#article-l313-20), l'étrange
 
 
 ####### Article R313-66
+{:.no_toc}
 
 La carte de séjour pluriannuelle délivrée sur le fondement du 8° de l'article [L. 313-20](#article-l313-20) permet l'exercice de l'activité commerciale ayant justifié sa délivrance.
 
@@ -7081,6 +7758,7 @@ La carte de séjour pluriannuelle délivrée sur le fondement du 8° de l'articl
 ####### Paragraphe 10 : La carte de séjour pluriannuelle délivrée sur le fondement du 9° de l'article L. 313-20
 
 ####### Article R313-67
+{:.no_toc}
 
 Pour l'application du 9° de l'article [L. 313-20](#article-l313-20), l'étranger artiste ou auteur d'œuvre littéraire ou artistique, qui exerce une activité salariée, présente en outre à l'appui de sa demande :
 
@@ -7092,6 +7770,7 @@ Pour l'application du 9° de l'article [L. 313-20](#article-l313-20), l'étrange
 
 
 ####### Article R313-68
+{:.no_toc}
 
 Pour l'application du 9° de l'article [L. 313-20](#article-l313-20), l'étranger artiste ou auteur d'œuvre littéraire ou artistique, qui exerce une activité non salariée, présente en outre à l'appui de sa demande :
 
@@ -7101,6 +7780,7 @@ Pour l'application du 9° de l'article [L. 313-20](#article-l313-20), l'étrange
 
 
 ####### Article R313-69
+{:.no_toc}
 
 La carte de séjour pluriannuelle délivrée sur le fondement du 9° de l'article [L. 313-20](#article-l313-20) permet l'exercice de l'activité professionnelle ayant justifié sa délivrance.
 
@@ -7108,6 +7788,7 @@ La carte de séjour pluriannuelle délivrée sur le fondement du 9° de l'articl
 ####### Paragraphe 11 : La carte de séjour pluriannuelle délivrée sur le fondement du 10° de l'article L. 313-20
 
 ####### Article R313-70
+{:.no_toc}
 
 Pour l'application du 10° de l'article [L. 313-20](#article-l313-20), l'étranger présente en outre à l'appui de sa demande :
 
@@ -7119,6 +7800,7 @@ Pour l'application du 10° de l'article [L. 313-20](#article-l313-20), l'étrang
 
 
 ####### Article R313-71
+{:.no_toc}
 
 La carte de séjour pluriannuelle délivrée sur le fondement du 10° de l'article [L. 313-20](#article-l313-20) permet l'exercice de toute activité professionnelle.
 
@@ -7126,6 +7808,7 @@ La carte de séjour pluriannuelle délivrée sur le fondement du 10° de l'artic
 ###### Sous-section 3 : La carte de séjour pluriannuelle portant la mention “salarié détaché ICT”, “salarié détaché ICT (famille)”, “salarié détaché mobile ICT” et “salarié détaché mobile ICT (famille)”
 
 ###### Article R313-72
+{:.no_toc}
 
 Pour l'application du I de l'article [L. 313-24](#article-l313-24), l'étranger qui demande la délivrance de la carte de séjour pluriannuelle portant la mention “ salarié détaché ICT ” doit présenter, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-1](#article-r313-1), les pièces suivantes :
 
@@ -7149,11 +7832,13 @@ Toute modification relative aux pièces justifiant la délivrance de la carte de
 
 
 ###### Article R313-73
+{:.no_toc}
 
 Pour l'application du II de l'article [L. 313-24](#article-l313-24), l'étranger dont l'un des parents ou le conjoint est titulaire de la carte de séjour pluriannuelle portant la mention “ salarié détaché ICT ” et qui demande la délivrance de la carte de séjour pluriannuelle portant la mention “ salarié détaché ICT (famille) ” doit présenter à l'appui de sa demande, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-1](#article-r313-1), la carte de séjour pluriannuelle portant la mention “ salarié détaché ICT ” accordée à son parent ou conjoint.
 
 
 ###### Article R313-73-1
+{:.no_toc}
 
 Lorsque l'étranger, qui sollicite la carte de séjour visée aux I et II de l'article [L. 313-24](#article-l313-24), réside hors de France, la décision de délivrance du titre de séjour sollicitée est prise par l'autorité diplomatique et consulaire. La carte de séjour est remise à l'étranger par le préfet du département où l'étranger a établi sa résidence en France ou, à Paris, par le préfet de police, sur présentation de son passeport revêtu d'un visa de long séjour portant la mention “ salarié détaché ICT ” ou “ salarié détaché ICT (famille) ”.
 
@@ -7161,6 +7846,7 @@ Lorsque l'étranger est déjà admis au séjour sur le territoire français, la 
 
 
 ###### Article R313-74
+{:.no_toc}
 
 I.-Pour l'application du III de l'article [L. 313-24](#article-l313-24), l'établissement ou l'entreprise d'emploi de l'étranger qui effectue une mission en France notifie au préalable le projet de mobilité de l'étranger, dès lors qu'il est connu, à l'autorité administrative compétente désignée par arrêté du ministre chargé de l'immigration, et selon la procédure prévue par celui-ci.
 
@@ -7184,6 +7870,7 @@ Par dérogation à l'article [R. 311-12-1](#article-r311-12-1), le délai au ter
 ###### Sous-section 4 : La carte de séjour pluriannuelle portant la mention “ travailleur saisonnier ”
 
 ###### Article R313-75
+{:.no_toc}
 
 Pour l'application de l'article [L. 313-23](#article-l313-23), l'étranger qui sollicite une carte de séjour d'une durée maximale de trois ans, renouvelable, portant la mention “ travailleur saisonnier ” doit présenter à l'appui de sa demande, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-1](#article-r313-1), un formulaire de demande d'autorisation de travail revêtu du visa des services compétents, dans les conditions prévues aux articles R. 5221-23 et suivants du code du travail.
 
@@ -7193,6 +7880,7 @@ Pour l'application de l'article [L. 313-23](#article-l313-23), l'étranger qui s
 ###### Sous-section 1 : La carte de séjour pluriannuelle générale
 
 ###### Article R313-76
+{:.no_toc}
 
 L'étranger déjà admis à résider en France qui sollicite le renouvellement d'une carte de séjour pluriannuelle doit présenter à l'appui de sa demande, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-4-1](#article-r313-4-1), les pièces prévues pour une première délivrance de la carte de séjour temporaire correspondant au motif de séjour de la carte de séjour pluriannuelle dont il est détenteur et justifiant qu'il continue de satisfaire aux conditions requises pour celle-ci.
 
@@ -7204,16 +7892,19 @@ Les dispositions du présent article s'appliquent sous réserve de celles du II 
 ###### Sous-section 2 : La carte de séjour pluriannuelle portant la mention “ passeport ” et la carte de séjour pluriannuelle portant la mention “ passeport talent (famille) ”
 
 ###### Article R313-77
+{:.no_toc}
 
 Sauf dispositions réglementaires contraires, l'étranger qui sollicite le renouvellement d'une carte de séjour pluriannuelle portant la mention “ passeport-talent ” ou “ passeport talent (famille) ” doit présenter à l'appui de sa demande, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-4-1](#article-r313-4-1), les pièces prévues pour une première délivrance et justifiant qu'il continue de satisfaire aux conditions requises pour celle-ci.
 
 
 ###### Article R313-78
+{:.no_toc}
 
 Lorsque la carte de séjour a été délivrée sur le fondement du 4° de l'article [L. 313-20](#article-l313-20), il présente en outre la convention d'accueil délivrée par un organisme ayant une mission de recherche ou d'enseignement supérieur agréé à cet effet dans les conditions prévues à l'article [R. 313-53](#article-r313-53) et, le cas échéant, une attestation du même organisme établissant la poursuite des activités de recherche ou d'enseignement supérieur prévues par la convention.
 
 
 ###### Article R313-79
+{:.no_toc}
 
 Lorsque la carte de séjour a été délivrée sur le fondement du 5° de l'article [L. 313-20](#article-l313-20), il doit en outre produire tout justificatif établissant que les ressources qu'il tire de son activité sont au moins équivalentes au salaire minimum de croissance correspondant à un emploi à temps plein.
 
@@ -7221,6 +7912,7 @@ Un arrêté du ministre chargé de l'immigration et du ministre chargé des fina
 
 
 ###### Article R313-80
+{:.no_toc}
 
 Lorsque l'étranger titulaire de la carte de séjour délivrée sur le fondement des 1°, 2° et 4° de l'article [L. 313-20](#article-l313-20) se trouve involontairement privé d'emploi, il présente, outre les pièces prévues à l'article [R. 313-4-1](#article-r313-4-1), tout justificatif relatif à la cessation de son emploi et, le cas échéant, à ses droits au regard des régimes d'indemnisation des travailleurs involontairement privés d'emploi.
 
@@ -7228,11 +7920,13 @@ Lorsque l'étranger titulaire de la carte de séjour délivrée sur le fondement
 ###### Sous-section 3 : La carte de séjour pluriannuelle portant la mention “travailleur saisonnier”
 
 ###### Article R313-81
+{:.no_toc}
 
 L'étranger qui sollicite le renouvellement de la carte de séjour pluriannuelle portant la mention “ travailleur saisonnier ” doit présenter à l'appui de sa demande, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-4-1](#article-r313-4-1), les pièces prévues pour une première délivrance et justifiant qu'il satisfait aux conditions requises pour celle-ci.
 
 
 ###### Article R313-82
+{:.no_toc}
 
 Il justifie en outre du respect des conditions de séjour et de travail prévues par la carte de séjour “ travailleur saisonnier ” dont il était précédemment titulaire.
 
@@ -7246,6 +7940,7 @@ Il justifie en outre du respect des conditions de séjour et de travail prévues
 ###### Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier
 
 ###### Article R314-1
+{:.no_toc}
 
 Pour l'application des dispositions des articles [L. 314-8](#article-l314-8), [L. 314-8-1](#article-l314-8-1), [L. 314-8-2](#article-l314-8-2) et [L. 314-9](#article-l314-9), l'étranger présente à l'appui de sa demande de carte de résident ou de carte de résident portant la mention " résident de longue durée-UE ", outre les pièces mentionnées à l'article [R. 311-2-2](#article-r311-2-2), les pièces suivantes :
 
@@ -7273,6 +7968,7 @@ Lorsque les moyens d'existence de l'intéressé sont tirés de l'exercice d'une 
 
 
 ###### Article R314-1-1
+{:.no_toc}
 
 L'étranger qui sollicite la délivrance de la carte de résident portant la mention "résident de longue durée-UE" doit justifier qu'il remplit les conditions prévues aux articles [L. 314-8](#article-l314-8), [L. 314-8-1](#article-l314-8-1) ou [L. 314-8-2](#article-l314-8-2) en présentant, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 314-1](#article-r314-1), les pièces suivantes :
 
@@ -7290,6 +7986,7 @@ Les justificatifs prévus au 2° du présent article ne sont pas exigés de l'é
 
 
 ###### Article R314-1-3
+{:.no_toc}
 
 La demande de carte de résident portant la mention " résident de longue durée-UE " au titre des articles [L. 314-8](#article-l314-8), [L. 314-8-1](#article-l314-8-1) ou [L. 314-8-2](#article-l314-8-2) vaut demande de renouvellement du titre de séjour précédemment acquis. Il en va de même en cas de demande de carte de résident au titre du 1° de l'article [L. 314-9](#article-l314-9), lorsqu'elle est présentée après trois années de résidence régulière ininterrompue, au titre du 2° du même article, lorsqu'elle est présentée par un étranger qui est titulaire depuis au moins trois années de la carte de séjour temporaire mentionnée au 6° de l'article [L. 313-11](#article-l313-11) ou d'une carte de séjour pluriannuelle mentionnée au 2° de l'article [L. 313-18](#article-l313-18), et, le cas échéant, au titre du 3° du même article lorsqu'elle est présentée par un étranger qui est marié depuis au moins trois ans avec un ressortissant de nationalité française.
 
@@ -7297,6 +7994,7 @@ Par dérogation au 4° de l'article [R. 311-2](#article-r311-2), l'étranger, ti
 
 
 ###### Article R314-1-4
+{:.no_toc}
 
 La carte de résident portant la mention " résident de longue durée-UE ", délivrée sur le fondement de l'article [L. 314-8-2](#article-l314-8-2) à l'étranger qui a la qualité de réfugié ou qui bénéficie de la protection subsidiaire, porte la mention suivante sous la rubrique " Remarques " : " La France a accordé la protection internationale le [date] ".
 
@@ -7308,6 +8006,7 @@ Lorsqu'un autre Etat membre demande à la France si un étranger, déjà titulai
 
 
 ###### Article R314-1-5
+{:.no_toc}
 
 Lorsqu'un étranger qui dispose déjà d'une carte de résident de longue durée-UE délivrée par un autre Etat membre de l'Union européenne se voit reconnaître la qualité de réfugié ou accorder le bénéfice de la protection subsidiaire en France, le préfet ou, à Paris, le préfet de police, en informe les autorités de cet Etat membre afin de leur permettre de modifier en conséquence la rubrique "Remarques" de la carte de séjour de l'intéressé. Il en va de même lorsque l'étranger était déjà placé sous la protection de cet Etat et que cette protection a été transférée à la France.
 
@@ -7315,6 +8014,7 @@ Lorsqu'un étranger qui dispose déjà d'une carte de résident de longue durée
 ###### Sous-section 2 : Délivrance de plein droit
 
 ###### Article R314-2
+{:.no_toc}
 
 Pour l'application des dispositions des articles [L. 314-11](#article-l314-11) et [L. 314-12](#article-l314-12), l'étranger présente à l'appui de sa demande :
 
@@ -7342,6 +8042,7 @@ Le certificat médical prévu au 4° du présent article n'est pas exigé de l'�
 ##### Section 3 : Renouvellement de la carte de résident
 
 ##### Article R314-3
+{:.no_toc}
 
 Pour l'application des dispositions de l'article [L. 314-1](#article-l314-1), l'étranger présente à l'appui de sa demande de renouvellement de carte de résident ou de statut de résident de longue durée-UE accordé par la France en application des articles [L. 314-8](#article-l314-8) , [L. 314-8-1](#article-l314-8-1) et [L. 314-8-2](#article-l314-8-2), outre les pièces mentionnées à l'article [R. 311-2-2](#article-r311-2-2), les pièces suivantes :
 
@@ -7361,6 +8062,7 @@ Pour l'application des dispositions de l'article [L. 314-1](#article-l314-1), l'
 ##### Section 4 : Délivrance de la carte de résident permanent
 
 ##### Article R314-4
+{:.no_toc}
 
 A l'expiration de sa carte de résident délivrée sur le fondement de l'article [L. 314-8](#article-l314-8), [L. 314-8-1](#article-l314-8-1), [L. 314-9](#article-l314-9), [L. 314-11](#article-l314-11) ou [L. 314-12](#article-l314-12) l'étranger qui sollicite la carte de résident permanent présente à l'appui de sa demande, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 314-3](#article-r314-3), celles prévues au 5° de l'article [R. 314-1](#article-r314-1) lorsque son intégration républicaine dans la société française n'a pas été vérifiée en application des dispositions de l'article [L. 314-2](#article-l314-2) à l'occasion d'une précédente demande de titre de séjour.
 
@@ -7373,6 +8075,7 @@ Lorsque l'étranger qui sollicite le renouvellement de sa carte de résident ou 
 coopérant avec les autorités judiciaires
 
 ##### Article R316-1
+{:.no_toc}
 
 Le service de police ou de gendarmerie qui dispose d'éléments permettant de considérer qu'un étranger, victime d'une des infractions constitutives de la traite des êtres humains ou du proxénétisme prévues et réprimées par les articles 225-4-1 à 225-4-6 et 225-5 à 225-10 du code pénal, est susceptible de porter plainte contre les auteurs de cette infraction ou de témoigner dans une procédure pénale contre une personne poursuivie pour une infraction identique, l'informe :
 
@@ -7390,6 +8093,7 @@ Ces informations peuvent être fournies, complétées ou développées auprès d
 
 
 ##### Article R316-2
+{:.no_toc}
 
 L'étranger à qui un service de police ou de gendarmerie fournit les informations mentionnées à l'article [R. 316-1](#article-r316-1) et qui choisit de bénéficier du délai de réflexion de trente jours mentionné au cinquième alinéa du même article se voit délivrer un récépissé de même durée par le préfet ou, à Paris, par le préfet de police, conformément aux dispositions du deuxième alinéa de l'article [R. 311-4](#article-r311-4). Ce délai court à compter de la remise du récépissé. Pendant le délai de réflexion, aucune mesure d'éloignement ne peut être prise à l'encontre de l'étranger en application de l'article [L. 511-1](#article-l511-1), ni exécutée.
 
@@ -7397,6 +8101,7 @@ Le délai de réflexion peut, à tout moment, être interrompu et le récépiss�
 
 
 ##### Article R316-3
+{:.no_toc}
 
 Une carte de séjour temporaire portant la mention "vie privée et familiale" d'une durée minimale de six mois est délivrée par le préfet territorialement compétent à l'étranger qui satisfait aux conditions définies à l'article [L. 316-1](#article-l316-1) et qui a rompu tout lien avec les auteurs présumés des infractions mentionnées à cet article.
 
@@ -7408,6 +8113,7 @@ La carte de séjour temporaire est renouvelable pendant toute la durée de la pr
 
 
 ##### Article R316-4
+{:.no_toc}
 
 La carte de séjour temporaire "vie privée et familiale" délivrée dans les conditions prévues à l'article [R. 316-3](#article-r316-3) peut faire l'objet d'une décision de retrait dans les cas suivants :
 
@@ -7419,11 +8125,13 @@ La carte de séjour temporaire "vie privée et familiale" délivrée dans les co
 
 
 ##### Article R316-5
+{:.no_toc}
 
 En cas de condamnation définitive des personnes mises en cause pour les infractions mentionnées à l'article [L. 316-1](#article-l316-1), une carte de résident est délivrée à l'étranger qui satisfait aux conditions prévues par les articles [L. 314-1](#article-l314-1) et [L. 314-3](#article-l314-3) à [L. 314-7](#article-l314-7).
 
 
 ##### Article R316-5-1
+{:.no_toc}
 
 Pour l'application de l'article [L. 316-1-1](#article-l316-1-1), l'étranger doit présenter à l'appui de sa demande, outre les pièces mentionnées aux articles [R. 311-2-2](#article-r311-2-2) et [R. 311-31](#article-r311-31), les pièces suivantes :
 
@@ -7437,11 +8145,13 @@ Pour l'application de l'article [L. 316-1-1](#article-l316-1-1), l'étranger doi
 ##### Section 2 : Protection, accueil et hébergement des étrangers victimes de la traite des êtres humains et du proxénétisme coopérant avec les autorités judiciaires
 
 ##### Article R316-6
+{:.no_toc}
 
 Pendant le délai de réflexion mentionné à l'article [R. 316-2](#article-r316-2), l'étranger bénéficie des dispositions des premier, quatrième, cinquième et sixième alinéas de l'article [R. 316-7](#article-r316-7). Les soins qui lui sont délivrés sont pris en charge dans les conditions prévues au deuxième alinéa de l'article L. 251-1 du code de l'action sociale et des familles.
 
 
 ##### Article R316-7
+{:.no_toc}
 
 La carte de séjour temporaire " vie privée et familiale " délivrée dans les conditions prévues à l'article [R. 316-3](#article-r316-3) ouvre droit à l'exercice d'une activité professionnelle et à la formation professionnelle, en application des dispositions de l'article [L. 316-1](#article-l316-1).
 
@@ -7457,6 +8167,7 @@ L'étranger détenteur de cette carte de séjour temporaire peut également bén
 
 
 ##### Article R316-8
+{:.no_toc}
 
 L'étranger titulaire d'une carte de séjour temporaire "vie privée et familiale" délivrée dans les conditions prévues à l'article [R. 316-3](#article-r316-3) bénéficie de l'accès aux dispositifs d'accueil, d'hébergement, de logement temporaire et de veille sociale pour les personnes défavorisées mentionnés au 8° du I de l'article [L. 312-1](#article-l312-1) et à l'article L. 345-2 du code de l'action sociale et des familles, et notamment aux centres d'hébergement et de réinsertion sociale mentionnés au quatrième alinéa de l'article L. 345-1 du même code.
 
@@ -7464,11 +8175,13 @@ Lorsque sa sécurité nécessite un changement de lieu de résidence, l'étrange
 
 
 ##### Article R316-9
+{:.no_toc}
 
 L'étranger titulaire d'une carte de séjour temporaire " vie privée et familiale " délivrée dans les conditions prévues à l'article [R. 316-3](#article-r316-3) qui souhaite retourner dans son pays d'origine ou se rendre dans un autre pays peut bénéficier du dispositif d'aide au retour financé par l'Office français de l'immigration et de l'intégration.
 
 
 ##### Article R316-10
+{:.no_toc}
 
 Lorsque la victime des infractions mentionnées à l'article [L. 316-1](#article-l316-1) est mineure, le service de police ou de gendarmerie informe le procureur de la République qui détermine les mesures de protection appropriées à la situation de ce mineur.
 
@@ -7476,6 +8189,7 @@ Lorsque la victime des infractions mentionnées à l'article [L. 316-1](#article
 #### Chapitre VII : La carte de séjour portant la mention "retraité"
 
 #### Article R317-1
+{:.no_toc}
 
 Pour l'application du premier alinéa de l'article [L. 317-1](#article-l317-1), l'étranger présente à l'appui de sa demande de délivrance d'une carte de séjour portant la mention " retraité " :
 
@@ -7493,6 +8207,7 @@ Pour l'application du premier alinéa de l'article [L. 317-1](#article-l317-1), 
 
 
 #### Article R317-2
+{:.no_toc}
 
 L'étranger qui demande le bénéfice de la carte mentionnée au deuxième alinéa de l'article [L. 317-1](#article-l317-1), en sa qualité de conjoint du titulaire d'une carte de séjour mention " retraité ", présente à l'appui de sa demande :
 
@@ -7510,6 +8225,7 @@ L'étranger qui demande le bénéfice de la carte mentionnée au deuxième alin�
 
 
 #### Article R317-3
+{:.no_toc}
 
 L'étranger présente à l'appui de sa demande de renouvellement de la carte de séjour prévue à l'article [L. 317-1](#article-l317-1) :
 
@@ -7529,6 +8245,7 @@ L'étranger présente à l'appui de sa demande de renouvellement de la carte de 
 ##### Section 1 : Dispositions générales
 
 ##### Article R321-1
+{:.no_toc}
 
 Les étrangers séjournant régulièrement en France y circulent librement.
 
@@ -7540,6 +8257,7 @@ Les dispositions des deuxième et troisième alinéas ne sont pas applicables au
 
 
 ##### Article R321-2
+{:.no_toc}
 
 Lorsqu'un étranger non titulaire de la carte de résident doit, en raison de son attitude ou de ses antécédents, être soumis à une surveillance spéciale, l'autorité administrative peut :
 
@@ -7551,31 +8269,37 @@ Ces dispositions ne sont pas applicables aux ressortissants d'un Etat membre de 
 
 
 ##### Article R*321-3
+{:.no_toc}
 
 L'autorité administrative compétente pour prendre la décision mentionnée au 1° de l'article [R. 321-2](#article-r321-2) est le ministre de l'intérieur.
 
 
 ##### Article R321-4
+{:.no_toc}
 
 L'autorité administrative compétente pour prendre la décision mentionnée au 2° de l'article [R. 321-2](#article-r321-2) est le préfet.
 
 
 ##### Article R321-5
+{:.no_toc}
 
 Quand l'autorité administrative a fait usage des pouvoirs prévus à l'article [R. 321-2](#article-r321-2), sa décision est mentionnée sur le titre de séjour de l'intéressé. Celui-ci ne peut se déplacer en dehors de la zone de validité de son titre de séjour sans être muni d'un sauf-conduit délivré par le commissaire de police ou, à défaut de commissaire de police, par la gendarmerie du lieu de leur résidence.
 
 
 ##### Article R321-6
+{:.no_toc}
 
 Lorsqu'un étranger est autorisé à séjourner en France sous couvert d'un titre de voyage revêtu d'un visa requis pour les séjours n'excédant pas trois mois, ce visa peut être abrogé si l'étranger titulaire de ce visa exerce en France une activité lucrative sans y avoir été régulièrement autorisé, s'il existe des indices concordants permettant de présumer que l'intéressé est venu en France pour s'y établir ou si son comportement trouble l'ordre public.
 
 
 ##### Article R321-7
+{:.no_toc}
 
 L'abrogation du visa mentionnée à l'article [R. 321-6](#article-r321-6) est décidée par le préfet du département où séjourne l'étranger qui en est titulaire ou du département où la situation de cet étranger est contrôlée. Le préfet qui a prononcé l'abrogation en avertit sans délai le ministre des affaires étrangères.
 
 
 ##### Article R321-8
+{:.no_toc}
 
 Tout étranger, séjournant en France et astreint à la possession d'une autorisation de séjour d'une durée supérieure à un an, est tenu, lorsqu'il transfère le lieu de sa résidence effective et permanente, d'en faire la déclaration, dans les trois mois de son arrivée, à la préfecture territorialement compétente.
 
@@ -7585,11 +8309,13 @@ Tout étranger, séjournant en France et astreint à la possession d'une autoris
 ###### Sous-section 1 : Le titre d'identité républicain
 
 ###### Article D321-9
+{:.no_toc}
 
 Le mineur né en France de parents étrangers titulaires d'un titre de séjour peut justifier de son identité sur présentation d'un titre d'identité républicain établi et délivré dans les conditions définies par la présente sous-section.
 
 
 ###### Article D321-10
+{:.no_toc}
 
 Le titre d'identité républicain est délivré par le préfet du département où réside habituellement le mineur et, à Paris, par le préfet de police, sur demande d'une personne exerçant l'autorité parentale.
 
@@ -7599,6 +8325,7 @@ La délivrance du titre d'identité républicain implique la restitution du docu
 
 
 ###### Article D321-11
+{:.no_toc}
 
 Le demandeur présente :
 
@@ -7610,11 +8337,13 @@ Le demandeur présente :
 
 
 ###### Article D321-12
+{:.no_toc}
 
 Le titre d'identité républicain est établi suivant un modèle défini par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre de l'intérieur et du ministre chargé de l'immigration.
 
 
 ###### Article D321-13
+{:.no_toc}
 
 Le titre d'identité républicain mentionne :
 
@@ -7628,6 +8357,7 @@ Le titre d'identité républicain comprend également la photographie et la sign
 
 
 ###### Article D321-14
+{:.no_toc}
 
 Le titre d'identité républicain a une durée de validité de cinq ans.
 
@@ -7637,6 +8367,7 @@ Il est restitué en cas d'acquisition de la nationalité française avant la maj
 
 
 ###### Article D321-15
+{:.no_toc}
 
 Le titulaire d'un titre d'identité républicain peut être réadmis en France en dispense de visa, sur présentation de ce titre.
 
@@ -7644,6 +8375,7 @@ Le titulaire d'un titre d'identité républicain peut être réadmis en France e
 ###### Sous-section 2 : Le document de circulation délivré à l'étranger mineur
 
 ###### Article D321-16
+{:.no_toc}
 
 Le document de circulation est délivré de plein droit à l'étranger mineur résidant en France, non titulaire d'un titre de séjour et ne remplissant pas les conditions pour obtenir la délivrance du titre d'identité républicain institué par l'article [L. 321-3](#article-l321-3), s'il satisfait aux conditions posées par l'article [L. 321-4](#article-l321-4).
 
@@ -7659,6 +8391,7 @@ Le document de circulation peut également être délivré à l'étranger mineur
 
 
 ###### Article D321-17
+{:.no_toc}
 
 Le document de circulation pour étranger mineur est délivré par le préfet du département où réside habituellement le mineur et, lorsque ce dernier réside à Paris, par le préfet de police, sur demande de la personne exerçant l'autorité parentale ou de son mandataire.
 
@@ -7666,6 +8399,7 @@ La demande est déposée à la préfecture ou à la sous-préfecture.
 
 
 ###### Article D321-18
+{:.no_toc}
 
 Le demandeur présente :
 
@@ -7677,11 +8411,13 @@ Le demandeur présente :
 
 
 ###### Article D321-19
+{:.no_toc}
 
 Le document de circulation pour étranger mineur est établi suivant un modèle défini par arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'immigration.
 
 
 ###### Article D321-20
+{:.no_toc}
 
 Le document de circulation pour étranger mineur est délivré pour une durée de cinq ans renouvelable.
 
@@ -7691,6 +8427,7 @@ Il peut être retiré lorsque son titulaire ne remplit plus les autres condition
 
 
 ###### Article D321-21
+{:.no_toc}
 
 Le titulaire du document de circulation pour étranger mineur peut être réadmis en France, en dispense de visa, sur présentation de ce titre.
 
@@ -7698,6 +8435,7 @@ Le titulaire du document de circulation pour étranger mineur peut être réadmi
 ##### Section 3 : Titres de voyage
 
 ##### Article R321-22
+{:.no_toc}
 
 Sous réserve des dispositions particulières prévues au chapitre III du titre V du livre VII, tout titre de voyage délivré pour une durée supérieure à un an intègre les éléments de sécurité et les éléments biométriques prévus par le règlement (CE) n° 2252/2004 du Conseil du 13 décembre 2004 établissant des normes pour les éléments de sécurité et les éléments biométriques intégrés dans les passeports et les documents de voyage délivrés par les Etats membres et son annexe, modifié par le règlement (CE) n° 444/2009 du Parlement européen et du Conseil du 28 mai 2009.
 
@@ -7709,11 +8447,13 @@ Il comporte, outre les mentions énumérées au B de la section 2 de l'annexe 6-
 ##### Section 1 : Activité professionnelle salariée
 
 ##### Article R322-1
+{:.no_toc}
 
 L'exercice par un étranger d'une activité professionnelle salariée en France métropolitaine et en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion est autorisé dans les conditions définies par les articles R. 5221-1 à R. 5221-48 du code du travail.
 
 
 ##### Article R322-2
+{:.no_toc}
 
 L'exercice d'une activité professionnelle salariée à Saint-Pierre-et-Miquelon est autorisé dans les conditions définies par les articles R. 5523-3 à R. 5523-15 du code du travail.
 
@@ -7727,11 +8467,13 @@ L'exercice d'une activité professionnelle salariée à Saint-Pierre-et-Miquelon
 ##### Section 1 : Aide publique à la réinsertion des travailleurs étrangers
 
 ##### Article D331-1
+{:.no_toc}
 
 Une aide dénommée "aide publique à la réinsertion" peut être accordée, sur leur demande et dans la limite des crédits disponibles, aux travailleurs étrangers majeurs de dix-huit ans qui quittent la France pour regagner leur pays d'origine.
 
 
 ##### Article D331-2
+{:.no_toc}
 
 Peuvent bénéficier de l'aide publique à la réinsertion les travailleurs étrangers entrant dans l'une des catégories suivantes :
 
@@ -7741,6 +8483,7 @@ Peuvent bénéficier de l'aide publique à la réinsertion les travailleurs étr
 
 
 ##### Article D331-3
+{:.no_toc}
 
 Pour bénéficier de l'aide publique à la réinsertion, les personnes répondant aux conditions fixées aux articles [D. 331-1](#article-d331-1) et [D. 331-2](#article-d331-2) doivent avoir exercé en France une activité professionnelle salariée à caractère permanent, en vertu d'un titre en cours de validité et non en raison d'un régime de libre circulation ou d'assimilation au national.
 
@@ -7748,6 +8491,7 @@ Ces personnes ne peuvent prétendre à cette aide si elles ont qualité soit pou
 
 
 ##### Article D331-4
+{:.no_toc}
 
 L'aide publique comprend :
 
@@ -7757,6 +8501,7 @@ L'aide publique comprend :
 
 
 ##### Article D331-5
+{:.no_toc}
 
 Pour les deux catégories de travailleurs mentionnés à l'article [D. 331-2](#article-d331-2), l'allocation mentionnée au 1° de l'article [D. 331-4](#article-d331-4) est prise en charge par l'Etat.
 
@@ -7766,11 +8511,13 @@ Pour les demandeurs d'emploi, indemnisés par le régime d'assurance chômage de
 
 
 ##### Article D331-6
+{:.no_toc}
 
 Pour les travailleurs étrangers ayant déposé une demande avant la rupture du contrat de travail, l'aide publique s'ajoute aux mesures propres à faciliter la réinsertion des bénéficiaires dans leurs pays d'origine prises par leur dernier employeur, en application d'une convention conclue par celui-ci, directement ou par l'entremise d'un organisme professionnel, avec l'Etat ou avec l'Office français de l'immigration et de l'intégration.
 
 
 ##### Article D331-7
+{:.no_toc}
 
 Les modalités d'évaluation et de versement de l'aide publique prise en charge par l'Etat sont déterminées par arrêté conjoint du ministre chargé de l'immigration et du ministre chargé des finances.
 
@@ -7778,6 +8525,7 @@ Les modalités d'évaluation et de versement de l'aide publique prise en charge 
 ##### Section 2 : Restitution des titres de séjour et de travail
 
 ##### Article D331-8
+{:.no_toc}
 
 Les bénéficiaires d'une aide publique à la réinsertion restituent leurs titres de séjour et de travail au préfet de leur département de résidence.
 
@@ -7787,6 +8535,7 @@ Il peut confier à l'Office français de l'immigration et de l'intégration le s
 
 
 ##### Article D331-9
+{:.no_toc}
 
 Pour l'application de l'article [D. 331-8](#article-d331-8), sont considérés comme bénéficiaires d'une aide publique à la réinsertion :
 
@@ -7796,11 +8545,13 @@ Pour l'application de l'article [D. 331-8](#article-d331-8), sont considérés c
 
 
 ##### Article D331-10
+{:.no_toc}
 
 Les titres de séjour et de travail mentionnés à l'article [D. 331-8](#article-d331-8) sont, selon le cas, ceux délivrés en application des dispositions du présent code, des dispositions du titre IV du livre III et du titre II du livre VIII du code du travail reproduites à l'article [L. 322-1](#article-l322-1) du présent code, des dispositions des articles [L. 122-1](#article-l122-1) à [L. 122-3](#article-l122-3) du code de commerce reproduites à l'article L. 322-3 du présent code ou des stipulations des traités et accords internationaux.
 
 
 ##### Article D331-11
+{:.no_toc}
 
 La restitution des titres de séjour et de travail a lieu préalablement au versement des aides publiques à la réinsertion. Elle est effectuée par leur titulaire. Sauf cas de force majeure, celui-ci ne peut désigner une tierce personne à l'effet de le représenter lors de cette opération.
 
@@ -7808,6 +8559,7 @@ Lorsque ces aides servent à financer une formation, la restitution des titres i
 
 
 ##### Article D331-12
+{:.no_toc}
 
 La restitution des titres intervient au plus tard :
 
@@ -7821,6 +8573,7 @@ Sauf motif légitime, l'absence de restitution des titres dans le délai prescri
 
 
 ##### Article D331-13
+{:.no_toc}
 
 Les bénéficiaires d'une aide publique à la réinsertion reçoivent une autorisation de séjour provisoire d'une durée de deux mois à compter de la date de restitution de leurs titres de séjour et de travail.
 
@@ -7828,6 +8581,7 @@ Lorsque l'aide publique à la réinsertion concourt à la prise en charge d'un s
 
 
 ##### Article D331-14
+{:.no_toc}
 
 Le bénéficiaire d'une aide publique à la formation en vue du retour et son conjoint ou son concubin reçoivent une autorisation de séjour provisoire de même durée.
 
@@ -7841,11 +8595,13 @@ Lorsque le conjoint ou le concubin, mentionné au premier alinéa du présent ar
 #### Chapitre unique
 
 #### Article R411-1
+{:.no_toc}
 
 Le document de séjour dont doit justifier un ressortissant étranger pour formuler une demande de regroupement familial est soit une carte de séjour temporaire, d'une durée de validité d'au moins un an, soit une carte de séjour pluriannuelle, soit une carte de résident, d'une durée de dix ans ou à durée indéterminée, soit le récépissé de demande de renouvellement de l'un de ces documents.
 
 
 #### Article R411-2
+{:.no_toc}
 
 Le séjour régulier en France d'au moins dix-huit mois mentionné à l'article [L. 411-1](#article-l411-1) doit avoir été accompli sous couvert des documents de séjour mentionnés à l'article [R. 411-1](#article-r411-1) ou des documents suivants :
 
@@ -7861,11 +8617,13 @@ Le séjour régulier en France d'au moins dix-huit mois mentionné à l'article 
 
 
 #### Article R411-3
+{:.no_toc}
 
 L'âge du conjoint et des enfants pouvant bénéficier du regroupement familial est apprécié à la date du dépôt de la demande.
 
 
 #### Article R411-4
+{:.no_toc}
 
 Pour l'application du 1° de l'article [L. 411-5](#article-l411-5), les ressources du demandeur et de son conjoint qui alimenteront de façon stable le budget de la famille sont appréciées sur une période de douze mois par référence à la moyenne mensuelle du salaire minimum de croissance au cours de cette période. Ces ressources sont considérées comme suffisantes lorsqu'elles atteignent un montant équivalent à :
 
@@ -7877,6 +8635,7 @@ Pour l'application du 1° de l'article [L. 411-5](#article-l411-5), les ressourc
 
 
 #### Article R411-5
+{:.no_toc}
 
 Pour l'application du 2° de l'article [L. 411-5](#article-l411-5), est considéré comme normal un logement qui :
 
@@ -7900,6 +8659,7 @@ Pour l'application du 2° de l'article [L. 411-5](#article-l411-5) à Mayotte et
 
 
 #### Article R411-6
+{:.no_toc}
 
 Le bénéfice du regroupement familial ne peut être refusé à un ou plusieurs membres de la famille résidant sur le territoire français dans le cas où l'étranger qui réside régulièrement en France dans les conditions prévues aux articles [R. 411-1](#article-r411-1) et [R. 411-2](#article-r411-2) contracte mariage avec une personne de nationalité étrangère régulièrement autorisée à séjourner sur le territoire national sous couvert d'une carte de séjour temporaire d'une durée de validité d'un an. Le bénéfice du droit au regroupement familial est alors accordé sans recours à la procédure d'introduction. Peuvent en bénéficier le conjoint et, le cas échéant, les enfants de moins de dix-huit ans de celui-ci résidant en France, sauf si l'un des motifs de refus ou d'exclusion mentionnés aux 1°, 2° et 3° de l'article [L. 411-5](#article-l411-5) leur est opposé.
 
@@ -7911,6 +8671,7 @@ Le bénéfice du regroupement familial ne peut être refusé à un ou plusieurs 
 ##### Section 1 : Demandes de regroupement familial
 
 ##### Article R421-1
+{:.no_toc}
 
 La demande de regroupement familial est formulée sur un imprimé dont le modèle est établi par arrêté du ministre chargé de l'immigration.
 
@@ -7922,11 +8683,13 @@ Elle comporte l'engagement du demandeur :
 
 
 ##### Article R421-2
+{:.no_toc}
 
 La demande de regroupement familial comporte la liste de tous les membres de la famille désignés aux articles [L. 411-1](#article-l411-1) à [L. 411-3](#article-l411-3).
 
 
 ##### Article R421-3
+{:.no_toc}
 
 Dans le cas où le regroupement sollicité n'est que partiel, la demande comporte en outre :
 
@@ -7936,6 +8699,7 @@ Dans le cas où le regroupement sollicité n'est que partiel, la demande comport
 
 
 ##### Article R421-4
+{:.no_toc}
 
 A l'appui de sa demande de regroupement, le ressortissant étranger présente les copies intégrales des pièces énumérées au 1° et joint les copies des pièces énumérées aux 2° à 4° des pièces suivantes :
 
@@ -7949,6 +8713,7 @@ A l'appui de sa demande de regroupement, le ressortissant étranger présente le
 
 
 ##### Article R421-5
+{:.no_toc}
 
 Outre les pièces mentionnées à l'article [R. 421-4](#article-r421-4), le ressortissant étranger produit, le cas échéant :
 
@@ -7962,6 +8727,7 @@ Outre les pièces mentionnées à l'article [R. 421-4](#article-r421-4), le ress
 
 
 ##### Article R421-6
+{:.no_toc}
 
 Toutes les pièces et documents mentionnés aux articles [R. 421-4](#article-r421-4) et [R. 421-5](#article-r421-5) sont accompagnés, le cas échéant, de leur traduction en langue française par un traducteur interprète agréé près une cour d'appel.
 
@@ -7969,21 +8735,25 @@ Toutes les pièces et documents mentionnés aux articles [R. 421-4](#article-r42
 ##### Section 2 : Réception des demandes
 
 ##### Article R421-7
+{:.no_toc}
 
 Le ressortissant étranger fait sa demande auprès des services de l'Office français de l'immigration et de l'intégration. Le préfet territorialement compétent ou, à Paris, le préfet de police en est immédiatement informé. Un arrêté du ministre chargé de l'immigration fixe la compétence territoriale des services de l'Office français de l'immigration et de l'intégration.
 
 
 ##### Article R421-8
+{:.no_toc}
 
 Au vu du dossier complet, les services de l'Office français de l'immigration et de l'intégration délivrent sans délai une attestation de dépôt de dossier qui fait courir le délai de six mois prévu à l'article [L. 421-4](#article-l421-4).
 
 
 ##### Article R421-9
+{:.no_toc}
 
 Après vérification des pièces du dossier et délivrance à l'intéressé de l'attestation de dépôt de sa demande, les services de l'Office français de l'immigration et de l'intégration transmettent une copie du dossier au maire de la commune de résidence de l'étranger ou au maire de la commune où l'étranger envisage de s'établir.
 
 
 ##### Article R421-10
+{:.no_toc}
 
 L'autorité diplomatique ou consulaire dans la circonscription de laquelle habite la famille du demandeur est immédiatement informée du dépôt de la demande par les services de l'Office français de l'immigration et de l'intégration et procède sans délai, dès le dépôt de la demande de visa de long séjour, aux vérifications d'actes d'état civil étranger qui lui sont demandées.
 
@@ -7991,51 +8761,61 @@ L'autorité diplomatique ou consulaire dans la circonscription de laquelle habit
 ##### Section 3 : Vérification des conditions du regroupement familial
 
 ##### Article R421-11
+{:.no_toc}
 
 Le maire dispose d'un délai de deux mois à compter de la réception du dossier pour vérifier si les conditions de ressources et de logement mentionnées à l'article [L. 411-5](#article-l411-5) sont remplies. Il dispose d'un délai de durée égale, s'il a été saisi à cette fin par le préfet ou, à Paris, par le préfet de police, pour émettre un avis sur la condition mentionnée au 3° du même article.
 
 
 ##### Article R421-12
+{:.no_toc}
 
 Pour procéder à la vérification des conditions de ressources mentionnées à l'article [R. 411-4](#article-r411-4), le maire examine les pièces justificatives mentionnées au 3° de l'article [R. 421-4](#article-r421-4).
 
 
 ##### Article R421-13
+{:.no_toc}
 
 Le maire et l'Office français de l'immigration et de l'intégration peuvent saisir, en tant que de besoin, la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi compétente d'une demande d'enquête sur l'emploi qui procure au demandeur tout ou partie des ressources dont il fait état.
 
 
 ##### Article R421-14
+{:.no_toc}
 
 Pour procéder à la vérification des conditions de logement mentionnées à l'article [R. 411-5](#article-r411-5), le maire examine les pièces justificatives mentionnées au 4° de l'article [R. 421-4](#article-r421-4).
 
 
 ##### Article R421-15
+{:.no_toc}
 
 Des agents spécialement habilités des services de la commune chargés des affaires sociales ou du logement ou, à la demande du maire, des agents de l'Office français de l'immigration et de l'intégration peuvent procéder à la visite du logement, s'il est disponible, pour vérifier s'il réunit les conditions minimales de confort et d'habitabilité. Cette visite doit faire l'objet d'une autorisation écrite du demandeur lors du dépôt de la demande. En cas de refus de l'occupant, les conditions de logement sont réputées non remplies.
 
 
 ##### Article R421-15-1
+{:.no_toc}
 
 Le recours du maire aux services de l'Office français de l'immigration et de l'intégration peut faire l'objet d'une convention d'organisation conclue avec le directeur général de l'office.
 
 
 ##### Article R421-16
+{:.no_toc}
 
 La vérification sur place des conditions de logement donne lieu à l'établissement d'un compte rendu, dont le modèle est établi par arrêté du ministre chargé de l'immigration.
 
 
 ##### Article R421-17
+{:.no_toc}
 
 Lorsque le demandeur ne dispose pas encore du logement au moment de la demande, la vérification est opérée au vu des documents établis et signés par le propriétaire ou le vendeur et le demandeur mentionnant la date de disponibilité, ainsi que la superficie et l'ensemble des caractéristiques permettant d'apprécier le confort et l'habitabilité du logement conformément aux conditions mentionnées à l'article [R. 411-5](#article-r411-5).
 
 
 ##### Article R421-18
+{:.no_toc}
 
 A l'issue des vérifications sur les ressources et le logement, le maire de la commune où doit résider la famille transmet à l'Office français de l'immigration et de l'intégration le dossier accompagné des résultats de ces vérifications et de son avis motivé. En l'absence de réponse du maire à l'expiration du délai de deux mois prévu à l'article [L. 421-3](#article-l421-3), cet avis est réputé favorable.
 
 
 ##### Article R421-19
+{:.no_toc}
 
 Dès réception du dossier et de l'avis motivé du maire ou, à défaut d'avis, à l'expiration du délai mentionné à l'article [R. 421-18](#article-r421-18), l'Office français de l'immigration et de l'intégration :
 
@@ -8047,6 +8827,7 @@ Dès réception du dossier et de l'avis motivé du maire ou, à défaut d'avis, 
 
 
 ##### Article R421-19-1
+{:.no_toc}
 
 Le maire, s'il a été saisi à cette fin par le préfet ou, à Paris, par le préfet de police, dispose d'un délai de deux mois pour transmettre à celui-ci son avis sur le respect par le demandeur des principes fondamentaux reconnus par les lois de la République. En l'absence de réponse du maire à l'expiration de ce délai, cet avis est réputé rendu.
 
@@ -8054,26 +8835,31 @@ Le maire, s'il a été saisi à cette fin par le préfet ou, à Paris, par le pr
 ##### Section 4 : Décision du préfet
 
 ##### Article R421-20
+{:.no_toc}
 
 L'autorité compétente pour délivrer l'autorisation d'entrer en France dans le cadre du regroupement familial est le préfet et, à Paris, le préfet de police. Cette autorité statue sur la demande de regroupement familial dans le délai de six mois prévu à l'article [L. 421-4](#article-l421-4). L'absence de décision dans ce délai vaut rejet de la demande de regroupement familial.
 
 
 ##### Article R421-21
+{:.no_toc}
 
 Dans le cas où le demandeur était, au moment de la demande, titulaire d'un récépissé de renouvellement d'un titre de séjour, le préfet vérifie que le titre de séjour a été délivré avant de prendre sa décision.
 
 
 ##### Article R421-22
+{:.no_toc}
 
 La décision portant sur la demande de regroupement familial est notifiée par le préfet au requérant.
 
 
 ##### Article R421-23
+{:.no_toc}
 
 Lorsqu'une décision de refus est motivée par la non-conformité du logement aux normes de superficie, ou de confort et d'habitabilité, ou par le caractère non probant des pièces attestant de la disponibilité du logement à l'arrivée de la famille, le demandeur qui présente, dans un délai de six mois suivant la notification du refus, une nouvelle demande est alors dispensé de la production des pièces mentionnées aux 1°, 2° et 3° de l'article [R. 421-4](#article-r421-4) et à l'article [R. 421-5](#article-r421-5).
 
 
 ##### Article R421-24
+{:.no_toc}
 
 Le préfet informe les services de l'Office français de l'immigration et de l'intégration de sa décision et de la date à laquelle elle a été notifiée au demandeur. Les services de l'Office français de l'immigration et de l'intégration transmettent sans délai cette information au maire et à l'autorité diplomatique ou consulaire de la circonscription dans laquelle habite la famille du demandeur.
 
@@ -8081,26 +8867,31 @@ Le préfet informe les services de l'Office français de l'immigration et de l'i
 ##### Section 5 : Contrôle médical et introduction en France
 
 ##### Article R421-25
+{:.no_toc}
 
 L'Office français de l'immigration et de l'intégration est chargée d'effectuer le contrôle médical des membres de la famille pour lesquels est demandé le bénéfice du regroupement familial.
 
 
 ##### Article R421-26
+{:.no_toc}
 
 Les conditions dans lesquelles est passé l'examen médical sont fixées par arrêté conjoint du ministre chargé de l'intégration et du ministre chargé de la santé.
 
 
 ##### Article R421-27
+{:.no_toc}
 
 L'Office français de l'immigration et de l'intégration est chargé de la mise en oeuvre de la procédure d'introduction en France ou, exceptionnellement, de la procédure d'admission au séjour à partir du territoire national des familles des étrangers dans les conditions prévues à l'article [R. 411-6](#article-r411-6). Il est également chargé de leur accueil sous la responsabilité du préfet.
 
 
 ##### Article R421-28
+{:.no_toc}
 
 Pour être admis sur le territoire français, les membres de la famille du ressortissant étranger doivent être munis du visa d'entrée délivré par l'autorité diplomatique et consulaire. L'autorisation du regroupement familial est réputée caduque si l'entrée de la famille sur le territoire français n'est pas intervenue dans un délai de trois mois à compter de la délivrance du visa.
 
 
 ##### Article R421-29
+{:.no_toc}
 
 La délivrance de l'autorisation de regroupement familial est soumise, s'il y a lieu, au versement à l'Office français de l'immigration et de l'intégration par le demandeur d'une redevance pour services rendus au titre de l'article [R. 421-27](#article-r421-27), dont le montant est fixé forfaitairement par arrêté conjoint du ministre chargé de l'intégration et du ministre chargé du budget.
 
@@ -8110,6 +8901,7 @@ La délivrance de l'autorisation de regroupement familial est soumise, s'il y a 
 #### Chapitre unique
 
 #### Article R431-1
+{:.no_toc}
 
 La délivrance des titres de séjour et, s'agissant des enfants mineurs, l'admission en France au titre du regroupement familial sont subordonnées à la production du certificat de contrôle médical délivré par l'Office français de l'immigration et de l'intégration.
 
@@ -8127,6 +8919,7 @@ La carte de séjour temporaire porte la mention " vie privée et familiale ". El
 #### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière
 
 #### Article R511-1
+{:.no_toc}
 
 L'état de santé défini au 10° de l'article [L. 511-4](#article-l511-4) est constaté au vu d'un avis émis par un collège de médecins à compétence nationale de l'Office français de l'immigration et de l'intégration.
 
@@ -8138,6 +8931,7 @@ En cas de rétention ou d'assignation à résidence en application de l'article 
 
 
 #### Article R511-2
+{:.no_toc}
 
 L'étranger qui bénéficie d'un délai pour quitter le territoire en application du premier alinéa du II de l'article [L. 511-1](#article-l511-1) est informé que l'autorité administrative compétente peut, au cours de ce délai, décider de l'obliger à quitter sans délai le territoire français dans le cas prévus au dernier alinéa du II du même article.
 
@@ -8145,12 +8939,14 @@ La décision relative au délai de départ volontaire prévue au dernier alinéa
 
 
 #### Article R511-3
+{:.no_toc}
 
 L'interdiction de retour sur le territoire français prononcée en application du sixième alinéa du III de l'article [L. 511-1](#article-l511-1) est notifiée par voie administrative. Il en est de même de la décision de prolongation d'une interdiction de retour prévue au septième alinéa du même III.
 Les modalités de suppression du signalement d'un étranger effectué au titre d'une décision d'interdiction de retour prise en application du III de l'article [L. 511-1](#article-l511-1) sont celles qui s'appliquent, en vertu de l'article 7 du décret n° 2010-569 du 28 mai 2010, aux cas d'extinction du motif d'inscription au fichier des personnes recherchées.
 
 
 #### Article R511-4
+{:.no_toc}
 
 Lorsque les documents de voyage d'un étranger faisant l'objet d'une obligation de quitter le territoire français assortie d'une interdiction de retour ont été revêtus du cachet mentionné à l'article 11 du règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l'Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen) lors de sa sortie du territoire français par un point de contrôle français aux frontières extérieures des Etats parties à la convention signée à Schengen le 19 juin 1990, il est réputé avoir satisfait à cette obligation.
 
@@ -8162,6 +8958,7 @@ L'étranger peut également justifier de sa sortie du territoire français en é
 ##### Section 1 : Procédure administrative
 
 ##### Article R512-1
+{:.no_toc}
 
 L'autorité administrative mentionnée aux articles [L. 511-1](#article-l511-1), [L. 511-3-1](#article-l511-3-1) et [L. 511-3-2](#article-l511-3-2) est le préfet de département et, à Paris, le préfet de police.
 
@@ -8169,11 +8966,13 @@ La notification de l'obligation de quitter le territoire français prononcée en
 
 
 ##### Article R512-1-1
+{:.no_toc}
 
 L'étranger auquel un délai de départ volontaire est imparti peut demander que les principaux éléments des décisions qui lui sont notifiées en application de l'article [L. 511-1](#article-l511-1) lui soient communiqués dans une langue qu'il comprend ou dont il est raisonnable de supposer qu'il la comprend.
 
 
 ##### Article R512-1-2
+{:.no_toc}
 
 Les conditions d'octroi et le montant de l'aide au retour mentionnée à l'article [L. 512-5](#article-l512-5) sont déterminés par le ministre chargé de l'immigration, après avis du conseil d'administration de l'Office français de l'immigration et de l'intégration.
 
@@ -8191,6 +8990,7 @@ L'aide peut comprendre :
 ##### Section 2 : Procédure contentieuse
 
 ##### Article R512-2
+{:.no_toc}
 
 La présentation, l'instruction et le jugement par les juridictions administratives des recours en annulation mentionnés à l'article [L. 512-1](#article-l512-1) obéissent aux règles définies par le chapitre VI du titre VII du livre VII du code de justice administrative.
 
@@ -8200,11 +9000,13 @@ La présentation, l'instruction et le jugement par les juridictions administrati
 ##### Section 1 : Décision fixant le pays de renvoi
 
 ##### Article R513-1
+{:.no_toc}
 
 L'autorité administrative compétente pour prononcer la décision fixant le pays de renvoi d'un étranger en cas d'exécution d'office de la mesure d'éloignement est le préfet de département et, à Paris, le préfet de police.
 
 
 ##### Article R513-1-1
+{:.no_toc}
 
 L'autorité administrative compétente pour prononcer la décision fixant le pays de renvoi dans le cas prévu au deuxième alinéa de l'article [L. 214-4](#article-l214-4) est le ministre de l'intérieur.
 
@@ -8212,16 +9014,19 @@ L'autorité administrative compétente pour prononcer la décision fixant le pay
 ##### Section 2 : Obligations de l'étranger pendant le délai accordé pour son départ
 
 ##### Article R513-2
+{:.no_toc}
 
 L'autorité administrative compétente pour astreindre un étranger aux obligations de présentation prévues à l'article [L. 513-4](#article-l513-4) est le préfet de département et, à Paris, le préfet de police.
 
 
 ##### Article R513-3
+{:.no_toc}
 
 L'autorité administrative désigne le service auprès duquel l'étranger doit effectuer les présentations prescrites et fixe leur fréquence qui ne peut excéder trois présentations par semaine.
 
 
 ##### Article R513-4
+{:.no_toc}
 
 L'étranger qui bénéficie d'un délai de départ volontaire en application du II de l'article [L. 511-1](#article-l511-1) ou du sixième alinéa de l'article [L. 511-3-1](#article-l511-3-1) peut être tenu de remettre à l'autorité administrative qui lui a accordé ce délai l'original de son passeport ou de tout autre document d'identité ou de voyage en sa possession en échange d'un récépissé valant justification d'identité sur lequel est portée la mention du délai accordé pour son départ.
 
@@ -8229,11 +9034,13 @@ L'étranger qui bénéficie d'un délai de départ volontaire en application du 
 ##### Section 3 : Obligations de l'étranger assigné à résidence en vue de la préparation de son départ
 
 ##### Article R513-5
+{:.no_toc}
 
 L'autorité administrative compétente pour faire conduire l'étranger assigné à résidence devant les autorités consulaires en application de l'article [L. 513-5](#article-l513-5) est le préfet de département et, à Paris, le préfet de police.
 
 
 ##### Article R513-6
+{:.no_toc}
 
 L'autorité administrative compétente pour saisir le juge des libertés et de la détention aux fins de requérir les services de police ou les unités de gendarmerie en application du deuxième alinéa de l'article [L. 513-5](#article-l513-5) est le préfet de département et, à Paris, le préfet de police.
 
@@ -8255,6 +9062,7 @@ L'article [R. 561-7](#article-r561-7) est applicable.
 #### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion
 
 #### Article R521-1
+{:.no_toc}
 
 L'état de santé défini au 5° de l'article [L. 521-3](#article-l521-3) est constaté dans les mêmes conditions que celles qui sont prévues à l'article [R. 511-1](#article-r511-1).
 
@@ -8262,21 +9070,25 @@ L'état de santé défini au 5° de l'article [L. 521-3](#article-l521-3) est co
 #### Chapitre II : Procédure administrative
 
 #### Article R522-1
+{:.no_toc}
 
 L'autorité administrative compétente pour prononcer l'expulsion d'un étranger en application de l'article [L. 521-1](#article-l521-1), après accomplissement des formalités prévues à l'article [L. 522-1](#article-l522-1), est le préfet de département et, à Paris, le préfet de police.
 
 
 #### Article R*522-2
+{:.no_toc}
 
 L'autorité administrative compétente pour prononcer l'expulsion d'un étranger en application des articles [L. 521-2](#article-l521-2) ou [L. 521-3](#article-l521-3) ainsi qu'en cas d'urgence absolue est le ministre de l'intérieur.
 
 
 #### Article R522-3
+{:.no_toc}
 
 En Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, l'autorité compétente dans les cas prévus à l'article [R\*. 522-2](#article-r522-2) est le préfet.
 
 
 #### Article R522-4
+{:.no_toc}
 
 Sauf en cas d'urgence absolue, l'étranger à l'encontre duquel une procédure d'expulsion est engagée doit en être avisé au moyen d'un bulletin de notification, valant convocation devant la commission prévue aux articles [L. 522-1](#article-l522-1) et [L. 522-2](#article-l522-2).
 
@@ -8284,6 +9096,7 @@ La notification est effectuée à la diligence du préfet du département où es
 
 
 #### Article R522-5
+{:.no_toc}
 
 Le bulletin de notification doit :
 
@@ -8307,6 +9120,7 @@ Le bulletin de notification doit :
 
 
 #### Article R522-6
+{:.no_toc}
 
 Le bulletin de notification est remis à l'étranger, quinze jours au moins avant la date prévue pour la réunion de la commission soit par un fonctionnaire de police, soit par le greffier de l'établissement pénitentiaire. L'étranger donne décharge de cette remise.
 
@@ -8316,11 +9130,13 @@ Si l'étranger a changé de résidence sans en informer l'administration comme l
 
 
 #### Article R522-7
+{:.no_toc}
 
 Si l'étranger convoqué dans les conditions prévues aux articles [R. 522-4](#article-r522-4) à [R. 522-6](#article-r522-6) ne se présente pas personnellement devant la commission à la date prévue, celle-ci émet son avis. Toutefois, elle renvoie l'affaire à une date ultérieure, conformément aux dispositions du quatrième alinéa de l'article [L. 522-2](#article-l522-2), lorsque l'étranger ou son conseil le lui demande pour un motif légitime, dans la période comprise entre la notification du bulletin prévu à l'article [R. 522-4](#article-r522-4) et le début de la séance de la commission. Cette demande de renvoi peut également être formulée au cours de la séance de la commission par l'intermédiaire du conseil de l'étranger.
 
 
 #### Article R522-8
+{:.no_toc}
 
 Dans tous les cas, la commission doit émettre son avis dans le délai d'un mois.
 
@@ -8328,11 +9144,13 @@ Le préfet ou son représentant assure les fonctions de rapporteur ; le directeu
 
 
 #### Article R522-8-1
+{:.no_toc}
 
 Si, à l'issue du délai fixé au quatrième alinéa de l'article [L. 522-2](#article-l522-2), éventuellement prolongé dans les conditions prévues à cet article, la commission n'a pas émis son avis, le préfet informe l'étranger que les formalités de consultation de la commission sont réputées remplies.
 
 
 #### Article R522-9
+{:.no_toc}
 
 La notification des décisions d'expulsion prises à l'encontre des ressortissants mentionnés à l'article [L. 121-4](#article-l121-4) comporte le délai imparti pour quitter le territoire. Sauf urgence, ce délai ne peut être inférieur à un mois.
 
@@ -8342,16 +9160,19 @@ La notification des décisions d'expulsion prises à l'encontre des ressortissan
 ##### Section 1 : Décision fixant le pays de renvoi
 
 ##### Article R523-1
+{:.no_toc}
 
 L'autorité administrative compétente pour prendre la décision fixant le pays de renvoi d'un étranger qui fait l'objet d'un arrêté d'expulsion pris en application de l'article [L. 521-1](#article-l521-1), après accomplissement des formalités prévues à l'article [L. 522-1](#article-l522-1), est le préfet de département et, à Paris, le préfet de police.
 
 
 ##### Article R*523-2
+{:.no_toc}
 
 L'autorité administrative compétente pour prendre la décision fixant le pays de renvoi d'un étranger qui fait l'objet d'un arrêté d'expulsion pris en application des articles [L. 521-2](#article-l521-2) ou [L. 521-3](#article-l521-3) ainsi qu'en cas d'urgence absolue est le ministre de l'intérieur.
 
 
 ##### Article R523-3
+{:.no_toc}
 
 En Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, l'autorité compétente dans les cas prévus à l'article [R\*. 523-2](#article-r523-2) est le préfet.
 
@@ -8359,16 +9180,19 @@ En Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, l'autorit
 ##### Section 2 : Assignation à résidence
 
 ##### Article R523-4
+{:.no_toc}
 
 L'autorité administrative compétente pour prononcer par arrêté, sur le fondement des articles [L. 523-3](#article-l523-3) à [L. 523-5](#article-l523-5), l'assignation à résidence d'un étranger faisant l'objet d'une mesure d'expulsion est le préfet du département où se situe le lieu d'assignation à résidence, à Paris, le préfet de police, quand la mesure d'expulsion est prise sur le fondement de l'article [L. 521-1](#article-l521-1) après accomplissement des formalités prévues à l'article [L. 522-1](#article-l522-1).
 
 
 ##### Article R*523-5
+{:.no_toc}
 
 L'autorité administrative compétente pour prononcer par arrêté, sur le fondement des articles [L. 523-3](#article-l523-3) à [L. 523-5](#article-l523-5), l'assignation à résidence d'un étranger faisant l'objet d'un arrêté d'expulsion est le ministre de l'intérieur quand l'arrêté d'expulsion est pris en application des articles [L. 521-2](#article-l521-2) ou [L. 521-3](#article-l521-3) ainsi qu'en cas d'urgence absolue.
 
 
 ##### Article R523-6
+{:.no_toc}
 
 I.-En Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, l'autorité administrative compétente dans les cas prévus à l'article [R\*. 523-5](#article-r523-5) est le préfet.
 
@@ -8388,16 +9212,19 @@ III.-Par dérogation à l'article [R. 523-4](#article-r523-4), l'autorité admin
 
 
 ##### Article R523-7
+{:.no_toc}
 
 Le ministre de l'intérieur est dans tous les cas l'autorité administrative compétente pour prononcer l'assignation à résidence d'un étranger dans un département de France métropolitaine, dans un département d'outre-mer, à Saint-Barthélemy, à Saint-Martin ou à Saint-Pierre-et-Miquelon lorsqu'au moment du prononcé de l'assignation à résidence, l'étranger se trouve dans les îles Wallis et Futuna, en Polynésie française ou en Nouvelle-Calédonie.
 
 
 ##### Article R523-8
+{:.no_toc}
 
 L'état de santé défini à l'article [L. 523-4](#article-l523-4) est constaté dans les mêmes conditions que celles qui sont prévues à l'article [R. 511-1](#article-r511-1).
 
 
 ##### Article R523-9
+{:.no_toc}
 
 Les dispositions de l'article [R. 214-1](#article-r214-1) sont applicables à la reconduite à la frontière des étrangers faisant l'objet d'une mesure d'expulsion.
 
@@ -8405,6 +9232,7 @@ Les dispositions de l'article [R. 214-1](#article-r214-1) sont applicables à la
 #### Chapitre IV : Abrogation des arrêtés d'expulsion
 
 #### Article R524-1
+{:.no_toc}
 
 L'arrêté d'expulsion peut à tout moment être abrogé par l'autorité qui l'a pris.
 
@@ -8412,6 +9240,7 @@ L'abrogation d'un arrêté d'expulsion pris, avant l'entrée en vigueur du décr
 
 
 #### Article R524-2
+{:.no_toc}
 
 Le silence gardé pendant plus de quatre mois sur une demande d'abrogation d'un arrêté d'expulsion vaut décision de rejet.
 
@@ -8423,6 +9252,7 @@ Le silence gardé pendant plus de quatre mois sur une demande d'abrogation d'un 
 ##### Section 1 : Autorités administratives compétentes
 
 ##### Article R531-1
+{:.no_toc}
 
 L'autorité administrative compétente pour prendre, en application de l'article [L. 531-1](#article-l531-1), la décision de remise d'un étranger qui a pénétré ou séjourné irrégulièrement en France aux autorités compétentes de l'Etat membre de l'Union européenne qui l'a admis à entrer ou à séjourner sur son territoire, ou dont il provient directement, est le préfet de département et, à Paris, le préfet de police.
 
@@ -8430,26 +9260,31 @@ Le préfet ne peut déléguer sa signature à un fonctionnaire de police que dan
 
 
 ##### Article R531-3-1
+{:.no_toc}
 
 L'autorité administrative compétente pour prendre, en application du premier alinéa de l'article [L. 531-2](#article-l531-2), la décision de remettre un étranger non ressortissant d'un Etat membre de l'Union européenne aux autorités compétentes d'un Etat membre est le préfet de département et, à Paris, le préfet de police.
 
 
 ##### Article R531-3-2
+{:.no_toc}
 
 L'autorité administrative compétente pour prendre, en application du deuxième alinéa de l'article [L. 531-2](#article-l531-2), la décision de remettre aux autorités compétentes d'un Etat membre de l'Union européenne un étranger titulaire du statut de résident de longue durée-UE accordé par cet autre Etat membre ainsi que son conjoint et ses enfants mentionnés aux I et II de l'article [L. 313-11-1](#article-l313-11-1) est le préfet et, à Paris, le préfet de police.
 
 
 ##### Article R531-3-3
+{:.no_toc}
 
 L'autorité administrative compétente pour prendre la décision prévue au troisième alinéa de l'article [L. 531-2](#article-l531-2) est le préfet de département et, à Paris, le préfet de police.
 
 
 ##### Article R531-3-4
+{:.no_toc}
 
 L'autorité administrative compétente pour prendre la décision prévue au quatrième alinéa de l'article [L. 531-2](#article-l531-2) est le préfet de département et, à Paris, le préfet de police.
 
 
 ##### Article R531-4
+{:.no_toc}
 
 L'autorité administrative compétente pour décider qu'un étranger sera d'office reconduit à la frontière en application de l'article [L. 531-3](#article-l531-3) est le préfet de département et, à Paris, le préfet de police.
 
@@ -8457,6 +9292,7 @@ L'autorité administrative compétente pour décider qu'un étranger sera d'offi
 ##### Section 2 : Etrangers ayant fait l'objet d'une mesure d'éloignement prise par un Etat membre de l'Union européenne
 
 ##### Article R531-5
+{:.no_toc}
 
 Sans préjudice des dispositions de l'article [L. 531-2](#article-l531-2), l'éloignement décidé en application du deuxième alinéa de l'article [L. 531-3](#article-l531-3) intervient à l'égard des ressortissants étrangers faisant l'objet d'une mesure d'éloignement exécutoire et non suspendue prise par un autre Etat membre de l'Union européenne dans les cas suivants :
 
@@ -8466,11 +9302,13 @@ Sans préjudice des dispositions de l'article [L. 531-2](#article-l531-2), l'él
 
 
 ##### Article R531-6
+{:.no_toc}
 
 L'existence d'une mesure d'éloignement prise par un Etat membre à l'égard d'un ressortissant de pays tiers dans les cas visés au 1° de l'article [R. 531-5](#article-r531-5) permet le retrait du titre de séjour délivré par la France ou par un autre Etat membre dans les limites fixées par la législation interne.
 
 
 ##### Article R531-7
+{:.no_toc}
 
 Lorsque le préfet de département et, à Paris, le préfet de police constate qu'une mesure d'éloignement exécutoire a été prise par un Etat membre dans les cas visés au 1° de l'article [R. 531-5](#article-r531-5) à l'égard d'un étranger ressortissant d'un Etat tiers titulaire d'un titre de séjour délivré par un autre Etat membre, il procède à la consultation de l'Etat membre auteur de la décision d'éloignement et de l'Etat membre qui a délivré ce titre.
 
@@ -8480,11 +9318,13 @@ Après notification à l'intéressé de la décision de retrait du titre de séj
 
 
 ##### Article R531-8
+{:.no_toc}
 
 Si le préfet de département et, à Paris, le préfet de police constate qu'un étranger titulaire d'un titre de séjour délivré par les autorités françaises fait l'objet d'une mesure d'éloignement exécutoire prise par un autre Etat membre dans les cas visés au 1° de l'article [R. 531-5](#article-r531-5), il consulte l'Etat auteur de la mesure aux fins de s'assurer du caractère exécutoire de celle-ci et engage sans délai l'examen du retrait du titre de séjour.
 
 
 ##### Article R531-9
+{:.no_toc}
 
 La compensation financière des frais exposés à l'occasion de la mise en oeuvre d'une mesure d'éloignement prise en application du deuxième alinéa de l'article [L. 531-3](#article-l531-3) se fait dans les conditions fixées par la décision du Conseil n° 2004/191/CE du 23 février 2004.
 
@@ -8492,6 +9332,7 @@ La compensation financière des frais exposés à l'occasion de la mise en oeuvr
 ##### Section 3 : Conditions de la remise et de l'éloignement des étrangers titulaires du statut de résident longue durée-UE accordé par un Etat membre de l'Union européenne
 
 ##### Article R531-10
+{:.no_toc}
 
 I. - Les dispositions du deuxième alinéa de l'article [L. 531-2](#article-l531-2) sont applicables à l'étranger titulaire du statut de résident longue durée-UE accordé par un autre Etat membre de l'Union européenne qui aura soit séjourné sur le territoire français plus de trois mois consécutifs sans se conformer aux dispositions de l'article [L. 313-4-1](#article-l313-4-1), soit fait l'objet d'un refus de délivrance ou de renouvellement d'une carte de séjour temporaire ou pluriannuelle en application de l'article [L. 313-4-1](#article-l313-4-1) ou du retrait d'une carte de séjour temporaire ou pluriannuelle délivrée en application de l'article [L. 313-4-1](#article-l313-4-1).
 
@@ -8499,6 +9340,7 @@ II. - Les dispositions du deuxième alinéa de l'article [L. 531-2](#article-l53
 
 
 ##### Article R531-11
+{:.no_toc}
 
 Sans préjudice de la possibilité de l'assignation à résidence sur le fondement du 1° de l'article [L. 561-2](#article-l561-2) ou du placement en rétention administrative en application de l'article [L. 551-1](#article-l551-1), le préfet ou, à Paris, le préfet de police qui constate l'existence d'une mesure d'éloignement exécutoire prise en raison de l'existence d'une menace grave pour l'ordre public à l'encontre d'un étranger titulaire du statut de résident longue durée-CE accordé par un autre Etat membre de l'Union européenne consulte cet Etat membre aux fins de l'examen du droit au séjour sur son territoire.
 
@@ -8508,6 +9350,7 @@ L'étranger dont le droit au séjour sur le territoire de l'Etat membre de l'Uni
 
 
 ##### Article R531-12
+{:.no_toc}
 
 I.-L'existence d'une mesure d'éloignement exécutoire prise pour des motifs graves d'ordre ou de sécurité publique par un autre Etat membre de l'Union européenne à l'encontre d'un étranger admis au séjour sur son territoire au titre du statut de résident de longue durée-UE accordé par la France en application des dispositions des articles [L. 314-8](#article-l314-8), [L. 314-8-1](#article-l314-8-1) et [L. 314-8-2](#article-l314-8-2) permet à l'autorité administrative française qui a accordé ce statut à l'intéressé de le lui retirer. Ce retrait implique le retrait du droit au séjour, sauf si son titulaire ne peut faire l'objet d'une mesure d'expulsion en application des engagements internationaux de la France.
 
@@ -8517,6 +9360,7 @@ Dans le cas où l'étranger s'est vu reconnaître la qualité de réfugié ou ac
 
 
 ##### Article R531-13
+{:.no_toc}
 
 L'étranger titulaire du statut de résident longue durée-UE accordé par la France et, le cas échéant, les membres de sa famille sont réadmis sans formalités sur le territoire national à la demande d'un autre Etat membre de l'Union européenne.
 
@@ -8526,11 +9370,13 @@ L'étranger titulaire du statut de résident longue durée-UE accordé par la Fr
 ### TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANçAIS
 
 ### Article R*541-1
+{:.no_toc}
 
 L'autorité administrative compétente pour prononcer par arrêté, sur le fondement de l'article [L. 561-1](#article-l561-1), l'assignation à résidence d'un étranger faisant l'objet de la peine d'interdiction du territoire français prévue à l'article [L. 541-1](#article-l541-1) est le ministre de l'intérieur.
 
 
 ### Article R541-2
+{:.no_toc}
 
 Les dispositions de l'article [R. 214-1](#article-r214-1) sont applicables à la reconduite à la frontière des étrangers faisant l'objet d'une peine d'interdiction du territoire français.
 
@@ -8540,11 +9386,13 @@ Les dispositions de l'article [R. 214-1](#article-r214-1) sont applicables à la
 #### Chapitre Ier : Placement en rétention
 
 #### Article R551-1
+{:.no_toc}
 
 L'autorité compétente pour ordonner le placement en rétention administrative d'un étranger est le préfet de département et, à Paris, le préfet de police. La même autorité est compétente pour décider de déplacer un étranger d'un lieu de rétention vers un autre lieu de rétention, dans les conditions prévues à l'article [L. 553-2](#article-l553-2).
 
 
 #### Article R551-2
+{:.no_toc}
 
 Les étrangers retenus, en application du présent titre, dans des locaux ne relevant pas de l'administration pénitentiaire sont placés, sous réserve des dispositions de l'article [R. 551-3](#article-r551-3), dans des établissements dénommés "centres de rétention administrative", régis par les articles [R. 553-1](#article-r553-1) à R. 553-4.
 
@@ -8552,6 +9400,7 @@ Les centres de rétention administrative, qui ont une vocation nationale, reçoi
 
 
 #### Article R551-3
+{:.no_toc}
 
 Lorsqu'en raison de circonstances particulières, notamment de temps ou de lieu, des étrangers mentionnés à l'article [R. 551-2](#article-r551-2) ne peuvent être placés immédiatement dans un centre de rétention administrative, le préfet peut les placer dans des locaux adaptés à cette fin, dénommés " locaux de rétention administrative " régis par les articles [R. 553-5](#article-r553-5) et [R. 553-6](#article-r553-6).
 
@@ -8561,6 +9410,7 @@ A Mayotte, les étrangers peuvent être maintenus dans ces locaux pendant une du
 
 
 #### Article R551-4
+{:.no_toc}
 
 Dès son arrivée au lieu de rétention, chaque étranger est mis en mesure de communiquer avec toute personne de son choix, avec les autorités consulaires du pays dont il déclare avoir la nationalité et avec son avocat s'il en a un, ou, s'il n'en a pas, avec la permanence du barreau du tribunal de grande instance dans le ressort duquel se trouve le lieu de rétention.
 
@@ -8574,21 +9424,25 @@ Quel que soit le lieu de rétention dans lequel l'étranger est placé, un proc�
 ###### Sous-section 1 : Saisine du juge par l'autorité administrative
 
 ###### Article R552-1
+{:.no_toc}
 
 Pour l'application des articles [L. 552-1](#article-l552-1) à [L. 552-8](#article-l552-8), le juge des libertés et de la détention compétent est celui du tribunal de grande instance dans le ressort duquel l'étranger est maintenu en rétention ou assigné à résidence.
 
 
 ###### Article R552-2
+{:.no_toc}
 
 Le juge des libertés et de la détention est saisi par simple requête de l'autorité administrative qui a ordonné le placement en rétention.
 
 
 ###### Article R552-3
+{:.no_toc}
 
 A peine d'irrecevabilité, la requête est motivée, datée, signée et accompagnée de toutes pièces justificatives utiles, notamment une copie du registre prévu à l'article [L. 553-1](#article-l553-1).
 
 
 ###### Article R552-4
+{:.no_toc}
 
 La requête est transmise par tout moyen au greffe du tribunal avant l'expiration des délais mentionnés à la première phrase des articles [L. 552-1](#article-l552-1) et [L. 552-7](#article-l552-7).
 
@@ -8596,26 +9450,31 @@ Le greffier l'enregistre et y appose, ainsi que sur les pièces jointes, un timb
 
 
 ###### Article R552-5
+{:.no_toc}
 
 Dès réception de la requête, le greffier avise aussitôt et par tout moyen l'autorité administrative qui a ordonné le placement en rétention, le procureur de la République, l'étranger et son avocat, s'il en a un, du jour et de l'heure de l'audience fixés par le juge.
 
 
 ###### Article R552-6
+{:.no_toc}
 
 L'étranger est avisé de son droit de choisir un avocat. Le juge lui en fait désigner un d'office si l'étranger le demande.
 
 
 ###### Article R552-7
+{:.no_toc}
 
 La requête et les pièces qui y sont jointes sont, dès leur arrivée au greffe, mises à la disposition de l'avocat de l'étranger. Elles peuvent y être également consultées, avant l'ouverture des débats, par l'étranger lui-même, assisté, le cas échéant, par un interprète s'il ne connaît pas suffisamment la langue française.
 
 
 ###### Article R552-8
+{:.no_toc}
 
 L'autorité administrative compétente pour proposer au juge que l'audience se déroule avec l'utilisation de moyens de télécommunication audiovisuelle, comme prévu à l'article [L. 552-12](#article-l552-12), est le préfet de département et, à Paris, le préfet de police.
 
 
 ###### Article R552-9
+{:.no_toc}
 
 A l'audience, l'autorité administrative qui a ordonné le placement en rétention ou son représentant, sur sa demande ou sur celle du juge, est entendue en ses observations.
 
@@ -8625,6 +9484,7 @@ Le ministère public peut faire connaître son avis.
 
 
 ###### Article R552-10
+{:.no_toc}
 
 L'ordonnance du juge des libertés et de la détention est rendue dans le délai accordé à l'article [L. 552-1](#article-l552-1) pour statuer. Elle est notifiée sur place aux parties présentes à l'audience qui en accusent réception. Le magistrat fait connaître verbalement aux parties présentes le délai d'appel et les modalités selon lesquelles cette voie de recours peut être exercée. Il les informe simultanément que seul l'appel formé par le ministère public peut être déclaré suspensif par le premier président de la cour d'appel ou son délégué.
 
@@ -8636,6 +9496,7 @@ Lorsqu'une ordonnance met fin à la rétention ou assigne à résidence l'étran
 ###### Sous-section 2 : Contestation de la décision de placement en rétention par l'étranger
 
 ###### Article R552-10-1
+{:.no_toc}
 
 L'étranger qui conteste la régularité de la décision de placement en rétention administrative saisit le juge des libertés et de la détention par simple requête adressée par tout moyen au juge, avant l'expiration du délai mentionné à la dernière phrase du premier alinéa du III de l'article [L. 512-1](#article-l512-1). Le greffier l'enregistre et y appose, ainsi que sur les pièces jointes, un timbre indiquant la date et l'heure de la réception. A peine d'irrecevabilité, la requête est motivée et signée de l'étranger ou de son représentant. La décision attaquée est produite par l'administration.
 
@@ -8647,6 +9508,7 @@ Il est procédé, pour le surplus, comme il est dit aux articles [R. 552-1](#art
 ##### Section 2 : Nouvelle saisine du juge des libertés et de la détention aux fins de prolongation de la rétention
 
 ##### Article R552-11
+{:.no_toc}
 
 Pour la mise en oeuvre de l'article [L. 552-7](#article-l552-7), les règles prévues à la section 1 du présent chapitre sont applicables.
 
@@ -8658,6 +9520,7 @@ Toutefois, par dérogation à l'article [R. 552-1](#article-r552-1), le juge des
 ###### Sous-section 1 : Appel
 
 ###### Article R552-12
+{:.no_toc}
 
 L'ordonnance est susceptible d'appel devant le premier président de la cour d'appel ou son délégué, dans les vingt-quatre heures de son prononcé, par l'étranger, par le préfet de département et, à Paris, par le préfet de police. Lorsque l'étranger n'assiste pas à l'audience, le délai court pour ce dernier à compter de la notification qui lui est faite. Le délai ainsi prévu est calculé et prorogé conformément aux articles 640 et 642 du code de procédure civile.
 
@@ -8669,6 +9532,7 @@ Dans le cas prévu à l'alinéa précédent, le ministère public fait notifier 
 
 
 ###### Article R552-13
+{:.no_toc}
 
 A peine d'irrecevabilité, le premier président ou son délégué est saisi par une déclaration d'appel motivée transmise par tout moyen au greffe de la cour d'appel. La déclaration est enregistrée avec mention de la date et de l'heure.
 
@@ -8676,6 +9540,7 @@ Le greffier de la cour d'appel avise immédiatement le greffier du tribunal de g
 
 
 ###### Article R552-14
+{:.no_toc}
 
 Le premier président ou son délégué statue sur la demande visant à déclarer l'appel suspensif, après que l'étranger ou son conseil a été mis à même de transmettre ses observations, suivant les modalités définies au dernier alinéa de l'article [R. 552-12](#article-r552-12).
 
@@ -8685,6 +9550,7 @@ Lorsque l'étranger est maintenu à la disposition de la justice, le procureur d
 
 
 ###### Article R552-14-1
+{:.no_toc}
 
 Lorsque le premier président envisage de faire application des dispositions du deuxième alinéa de l'article [L. 552-9](#article-l552-9), il recueille par tout moyen les observations des parties sur le caractère manifestement irrecevable de l'appel.
 
@@ -8696,6 +9562,7 @@ L'ordonnance est communiquée au ministère public. Elle est notifiée par tout 
 
 
 ###### Article R552-15
+{:.no_toc}
 
 Lorsque le premier président de la cour d'appel ou son délégué ne fait pas application du second alinéa de l'article [L. 552-9](#article-l552-9), le greffier de la cour d'appel fait connaître aux parties et au ministère public la date de l'audience au fond.
 
@@ -8711,6 +9578,7 @@ L'ordonnance est communiquée au ministère public. Elle est notifiée à l'étr
 ###### Sous-section 2 : Pourvoi en cassation
 
 ###### Article R552-16
+{:.no_toc}
 
 L'ordonnance du premier président de la cour d'appel ou de son délégué n'est pas susceptible d'opposition. Le pourvoi en cassation est ouvert à l'étranger, à l'autorité administrative qui a prononcé la rétention et au ministère public.
 
@@ -8722,6 +9590,7 @@ L'ordonnance du premier président de la cour d'appel ou de son délégué n'est
 ###### Sous-section 1 : Saisine et décision du juge des libertés et de la détention
 
 ###### Article R552-17
+{:.no_toc}
 
 L'étranger en rétention qui demande, hors des audiences prévues aux articles [R. 552-9](#article-r552-9) et [R. 552-15](#article-r552-15), qu'il soit mis fin à sa rétention saisit le juge des libertés et de la détention par simple requête adressée par tout moyen au juge. A peine d'irrecevabilité, la requête est motivée et signée de l'étranger ou de son représentant, et accompagnée de toutes les pièces justificatives. La décision de maintien en rétention d'un demandeur d'asile ne peut être contestée que devant le juge administratif.
 
@@ -8729,11 +9598,13 @@ Il est procédé comme il est dit à la section 1 du présent chapitre. Toutefoi
 
 
 ###### Article R552-18
+{:.no_toc}
 
 Indépendamment de la mise en oeuvre des dispositions de l'article [R. 552-17](#article-r552-17), le juge des libertés et de la détention peut, à tout moment, après avoir mis l'autorité administrative en mesure de présenter ses observations, de sa propre initiative ou à la demande du ministère public, décider la mise en liberté de l'étranger lorsque les circonstances de droit ou de fait le justifient, sous réserve de la compétence exclusive du juge administratif sur la décision de maintien en rétention d'un demandeur d'asile.
 
 
 ###### Article R552-19
+{:.no_toc}
 
 L'ordonnance du juge des libertés et de la détention est notifiée sans délai et par tout moyen à l'étranger et à son conseil, au préfet de département et, à Paris, au préfet de police ainsi qu'au ministère public.
 
@@ -8741,6 +9612,7 @@ L'ordonnance du juge des libertés et de la détention est notifiée sans délai
 ###### Sous-section 2 : Appel
 
 ###### Article R552-20
+{:.no_toc}
 
 L'ordonnance mentionnée à l'article [R. 552-19](#article-r552-19) est susceptible d'appel devant le premier président de la cour d'appel ou son délégué, dans les vingt-quatre heures de sa notification, par l'étranger, par le ministère public, par le préfet de département et, à Paris, par le préfet de police. Le délai ainsi prévu est calculé et prorogé conformément aux articles 640 et 642 du code de procédure civile.
 
@@ -8754,6 +9626,7 @@ La notification mentionne que des observations en réponse à la demande de déc
 
 
 ###### Article R552-21
+{:.no_toc}
 
 Le premier président ou son délégué est saisi par une déclaration d'appel motivée transmise par tout moyen au greffe de la cour d'appel. La déclaration est enregistrée avec mention de la date et de l'heure.
 
@@ -8761,6 +9634,7 @@ Le greffier de la cour d'appel avise immédiatement le greffier du tribunal de g
 
 
 ###### Article R552-22
+{:.no_toc}
 
 Le premier président ou son délégué statue sans délai sur la demande visant à déclarer l'appel suspensif, en fonction des garanties de représentation dont dispose l'étranger ou de la menace grave pour l'ordre public, après que l'étranger ou son conseil a été mis à même de transmettre ses observations, suivant les modalités définies au dernier alinéa de l'article [R. 552-20](#article-r552-20), par une ordonnance motivée rendue contradictoirement, non susceptible de recours.
 
@@ -8772,6 +9646,7 @@ Lorsque l'étranger est maintenu à la disposition de la justice, le procureur d
 
 
 ###### Article R552-23
+{:.no_toc}
 
 Le premier président ou son délégué statue en faisant application des dispositions de l'article [R. 552-14-1](#article-r552-14-1) ou de l'article [R. 552-15](#article-r552-15).
 
@@ -8779,6 +9654,7 @@ Le premier président ou son délégué statue en faisant application des dispos
 ###### Sous-section 3 : Pourvoi en cassation
 
 ###### Article R552-24
+{:.no_toc}
 
 L'ordonnance du premier président ou de son délégué n'est pas susceptible d'opposition. Le pourvoi en cassation est ouvert à l'étranger, à l'autorité administrative qui a prononcé la rétention et au ministère public.
 
@@ -8790,6 +9666,7 @@ L'ordonnance du premier président ou de son délégué n'est pas susceptible d'
 ###### Sous-section 1 : Centres de rétention administrative
 
 ###### Article R553-1
+{:.no_toc}
 
 Les centres de rétention administrative sont créés, sur proposition du ministre chargé de l'immigration, par arrêté conjoint du ministre chargé des affaires sociales, du ministre chargé de l'immigration, du ministre de l'intérieur et du ministre de la justice. Cet arrêté mentionne l'adresse du centre et précise, d'une part, si sa surveillance en est confiée à la police nationale ou à la gendarmerie nationale et, d'autre part, si ce centre est susceptible d'accueillir des familles.
 
@@ -8797,6 +9674,7 @@ Cet arrêté désigne en outre les centres dans lesquels les étrangers auxquels
 
 
 ###### Article R553-2
+{:.no_toc}
 
 Les centres de rétention administrative sont placés sous la responsabilité du préfet territorialement compétent et, à Paris, du préfet de police, qui désigne par arrêté le chef du centre, après accord du directeur général de la police nationale ou du directeur général de la gendarmerie nationale. Cet arrêté désigne aussi, le cas échéant, dans des conditions définies par arrêté conjoint du ministre chargé de l'immigration et du ministre de l'intérieur, le responsable de la gestion hôtelière et le responsable de la gestion des dossiers administratifs des étrangers admis au centre.
 
@@ -8804,6 +9682,7 @@ Le chef de centre est responsable de l'ordre et de la sécurité du centre et de
 
 
 ###### Article R553-3
+{:.no_toc}
 
 Les centres de rétention administrative, dont la capacité d'accueil ne pourra pas dépasser cent quarante places, offrent aux étrangers retenus des équipements de type hôtelier et des prestations de restauration collective. Ils répondent aux normes suivantes :
 
@@ -8855,6 +9734,7 @@ Les centres de rétention administrative susceptibles d'accueillir des familles 
 
 
 ###### Article R553-4-1
+{:.no_toc}
 
 Les étrangers auxquels il est fait application des dispositions du quatrième alinéa de l'article [L. 552-7](#article-l552-7) sont maintenus en rétention dans un espace qui leur est réservé.
 
@@ -8862,11 +9742,13 @@ Les étrangers auxquels il est fait application des dispositions du quatrième a
 ###### Sous-section 2 : Locaux de rétention administrative
 
 ###### Article R553-5
+{:.no_toc}
 
 Les locaux mentionnés à l'article [R. 551-3](#article-r551-3) sont créés, à titre permanent ou pour une durée déterminée, par arrêté préfectoral précisant si le local est susceptible d'accueillir des familles. Une copie de cet arrêté est transmise sans délai au procureur de la République et au Contrôleur général des lieux de privation de liberté.
 
 
 ###### Article R553-6
+{:.no_toc}
 
 Les locaux de rétention administrative doivent disposer des équipements suivants :
 
@@ -8890,11 +9772,13 @@ Les dispositions des alinéas précédents ne sont pas applicables à Mayotte po
 ###### Sous-section 3 : Dispositions communes
 
 ###### Article R553-7
+{:.no_toc}
 
 Un local réservé aux avocats et permettant de préserver la confidentialité des entretiens est aménagé dans chaque lieu de rétention. Il est accessible en toutes circonstances, sauf en cas de force majeure, sur simple requête de l'avocat auprès du service en charge de l'accueil des étrangers retenus et avec l'accord de la personne intéressée.
 
 
 ###### Article R553-8
+{:.no_toc}
 
 Dans les conditions prévues aux articles [R. 553-3](#article-r553-3) et [R. 553-6](#article-r553-6), des locaux et des moyens matériels adaptés doivent permettre au personnel de santé de donner des consultations et de dispenser des soins dans les centres et locaux de rétention.
 
@@ -8902,6 +9786,7 @@ Les conditions dans lesquelles les établissements de santé interviennent au b�
 
 
 ###### Article R553-9
+{:.no_toc}
 
 Dans chaque lieu de rétention, un règlement intérieur, dont les modèles sont fixés, pour les centres et les locaux de rétention, par arrêté conjoint du ministre chargé de l'immigration et du ministre de l'intérieur, organise la vie quotidienne, dans des conditions conformes à la dignité et à la sécurité de ses occupants. Il rappelle notamment les droits et devoirs des étrangers retenus, ainsi que les modalités pratiques d'exercice par ces derniers de leurs droits. Il mentionne notamment les conditions dans lesquelles s'exerce la circulation des étrangers dans le lieu de rétention, notamment, le cas échéant, l'accès aux espaces à l'air libre.
 
@@ -8917,6 +9802,7 @@ Les informations mentionnées à l'article R. 8252-2 du code du travail sont aff
 ##### Section 2 : Droits des étrangers retenus
 
 ##### Article R553-11
+{:.no_toc}
 
 L'administration met un interprète à la disposition des étrangers maintenus en centre ou en local de rétention administrative qui ne comprennent pas le français, dans le seul cadre des procédures d'éloignement dont ils font l'objet et des demandes d'asile. Dans les autres cas, la rétribution du prestataire est à la charge de l'étranger.
 
@@ -8924,11 +9810,13 @@ Lorsque l'assistance d'un interprète se fait par téléphone ou un autre moyen 
 
 
 ##### Article R553-12
+{:.no_toc}
 
 Pendant la durée de leur séjour en rétention, les étrangers sont hébergés et nourris à titre gratuit. Ils sont soignés gratuitement.
 
 
 ##### Article R553-13
+{:.no_toc}
 
 Les étrangers placés ou maintenus dans un centre de rétention administrative bénéficient d'actions d'accueil, d'information, de soutien moral et psychologique et d'aide pour préparer les conditions matérielles de leur départ, qui portent notamment sur la récupération des bagages des personnes retenues, la réalisation de formalités administratives, l'achat de produits de vie courante et, le cas échéant, les liens avec le pays d'origine, notamment la famille. Pour la conduite de ces actions, l'Etat a recours à l'Office français de l'immigration et de l'intégration. Une convention détermine les conditions d'affectation et d'intervention des agents de cet établissement public.
 
@@ -8938,11 +9826,13 @@ Les étrangers placés ou maintenus dans un centre de rétention administrative 
 ###### Sous-section 1 : Cas des centres de rétention administrative
 
 ###### Article R553-14
+{:.no_toc}
 
 Pour permettre l'exercice effectif de leurs droits par les étrangers maintenus dans un centre de rétention administrative, le ministre chargé de l'immigration conclut une convention avec une ou plusieurs personnes morales ayant pour mission d'informer les étrangers et de les aider à exercer leurs droits. A cette fin, la personne morale assure, dans chaque centre dans lequel elle est chargée d'intervenir, des prestations d'information, par l'organisation de permanences et la mise à disposition de documentation. Ces prestations sont assurées par une seule personne morale par centre. Les étrangers retenus en bénéficient sans formalité dans les conditions prévues par le règlement intérieur.
 
 
 ###### Article R553-14 bis
+{:.no_toc}
 
 Les dispositions des articles [R. 553-13](#article-r553-13) et [R. 553-14](#article-r553-14) ne sont pas applicables à Mayotte. Les étrangers maintenus dans un centre de rétention administrative dans ce département bénéficient d'actions d'accueil, d'information, d'aide à l'exercice de leurs droits, de soutien moral et psychologique et, le cas échéant, d'aide pour préparer les conditions matérielles de leur départ.
 
@@ -8950,6 +9840,7 @@ Pour concourir aux actions et à l'aide définies à l'alinéa précédent, le r
 
 
 ###### Article R553-14-1
+{:.no_toc}
 
 L'accès aux centres de rétention administrative des représentants des personnes morales ayant conclu une convention en application de l'article [R. 553-14](#article-r553-14) est subordonné à un agrément individuel accordé pour une durée de trois ans par le préfet ou, à Paris, par le préfet de police, sur proposition de chacune des personnes morales avec lesquelles le ministre chargé de l'immigration a conclu une convention.
 
@@ -8967,11 +9858,13 @@ Une personne physique ne peut représenter plus d'une personne morale.
 ###### Sous-section 2 : Cas des locaux de rétention administrative
 
 ###### Article R553-14-2
+{:.no_toc}
 
 Pour permettre l'exercice effectif de leurs droits, les étrangers maintenus dans un des locaux de rétention mentionnés à l'article [R. 551-3](#article-r551-3) peuvent bénéficier du concours d'une personne morale, à leur demande ou à l'initiative de celle-ci, dans des conditions définies par convention conclue par le préfet ou, à Paris, par le préfet de police. Dans chaque local de rétention, ce concours est assuré par une seule personne morale.
 
 
 ###### Article R553-14-3
+{:.no_toc}
 
 L'accès à un local de rétention administrative des représentants des personnes morales ayant conclu une convention en application de l'article [R. 553-14-2](#article-r553-14-2) est subordonné à un agrément individuel accordé pour une durée de trois ans par le préfet ou, à Paris, par le préfet de police, sur proposition de chacune des personnes morales avec lesquelles il a passé une convention.
 
@@ -8985,11 +9878,13 @@ Une personne physique ne peut représenter plus d'une personne morale.
 ##### Section 2 ter : Accès des associations humanitaires aux lieux de rétention
 
 ##### Article R553-14-4
+{:.no_toc}
 
 Les associations humanitaires ont accès, dans les conditions fixées par la présente section, aux lieux de rétention. Cet accès ne doit pas entraver le fonctionnement du lieu de rétention ni les activités qu'y exercent les services de l'Etat et les personnes morales mentionnés à l'article [R. 553-14](#article-r553-14).
 
 
 ##### Article R553-14-5
+{:.no_toc}
 
 Toute association régulièrement déclarée depuis au moins cinq années, ayant pour objet la défense des étrangers, la défense des droits de l'homme, l'assistance médicale et sociale ou l'assistance aux personnes privées de liberté, peut demander à être habilitée à proposer des représentants en vue d'accéder aux lieux de rétention.
 
@@ -9003,6 +9898,7 @@ Le ministre chargé de l'immigration peut, par décision motivée, retirer l'hab
 
 
 ##### Article R553-14-6
+{:.no_toc}
 
 Chaque association habilitée peut transmettre au ministre chargé de l'immigration une liste de cinq personnes au plus ayant vocation à accéder à l'ensemble des lieux de rétention.
 
@@ -9014,6 +9910,7 @@ Il est mis fin au droit d'accès d'un représentant d'une association à la dema
 
 
 ##### Article R553-14-7
+{:.no_toc}
 
 Les représentants des associations ont accès, dans le respect des règles sanitaires et de sécurité, aux locaux susceptibles d'accueillir les retenus. Toutefois, ils n'ont accès aux locaux mis à disposition des intervenants et au local réservé aux avocats qu'avec l'accord des intéressés.
 
@@ -9023,6 +9920,7 @@ Les représentants des associations peuvent s'entretenir confidentiellement avec
 
 
 ##### Article R553-14-7-1
+{:.no_toc}
 
 Un même lieu de rétention peut recevoir, au plus, la visite de cinq représentants d'associations habilitées par période de vingt-quatre heures.
 
@@ -9034,6 +9932,7 @@ Le responsable du lieu de rétention peut, par une décision motivée, ajourner 
 
 
 ##### Article R553-14-8
+{:.no_toc}
 
 Une réunion est organisée annuellement sur le fonctionnement des lieux de rétention à l'initiative du ministre chargé de l'immigration, avec les associations habilitées et les services de l'Etat concernés. Le compte rendu de cette réunion, établi conjointement, est rendu public.
 
@@ -9043,6 +9942,7 @@ Le préfet territorialement compétent ou, à Paris, le préfet de police organi
 ##### Section 3 : Accès des parlementaires accompagnés de journalistes aux lieux de rétention
 
 ##### Article R553-15
+{:.no_toc}
 
 Le chef du centre de rétention, son adjoint ou le responsable de la gestion des dossiers administratifs, ou, dans un local de rétention, le responsable du local ou son adjoint ne peut s'opposer à l'entrée de journalistes titulaires de la carte d'identité professionnelle mentionnée à l'article L. 7111-6 du code du travail accompagnant, conformément à l'article 719 du code de procédure pénale, un député, un sénateur ou un représentant au Parlement européen élu en France que pour des motifs impératifs liés à la sécurité, au bon ordre, à l'intérêt public dans le lieu de rétention et aux intérêts des personnes retenues, des personnels et des tiers présents dans le lieu de rétention. Il peut mettre fin, à tout moment, à leur présence pour ces motifs.
 
@@ -9050,11 +9950,13 @@ Le nombre de journalistes accompagnant une visite parlementaire peut, de manièr
 
 
 ##### Article R553-16
+{:.no_toc}
 
 Les écrits, photographies, croquis, prises de vue et de son que les journalistes effectuent sont circonscrits au cadre de la visite du parlementaire.
 
 
 ##### Article R553-17
+{:.no_toc}
 
 Lorsque les productions des journalistes sont de nature à permettre l'identification des étrangers, des personnels et des intervenants dans les lieux de rétention, ceux-ci doivent consentir par écrit à la diffusion ou à l'utilisation de leur image ou de leur voix.
 
@@ -9068,6 +9970,7 @@ Les obligations relatives à la diffusion des productions des journalistes menti
 ##### Section 4 : Accès des journalistes aux lieux de rétention
 
 ##### Article R553-18
+{:.no_toc}
 
 Tout journaliste titulaire de la carte d'identité professionnelle mentionnée à l'article L. 7111-6 du code du travail peut demander à l'autorité administrative compétente à être autorisé à accéder à un lieu de rétention.
 
@@ -9075,26 +9978,31 @@ Toute demande mentionne l'objet, la date, la durée et les modalités du reporta
 
 
 ##### Article R553-19
+{:.no_toc}
 
 L'autorité administrative compétente pour autoriser ou refuser l'accès des journalistes aux lieux de rétention en application de l'article [L. 553-7](#article-l553-7) est le préfet de département dans lequel se situe le lieu de rétention et, à Paris, le préfet de police.
 
 
 ##### Article R553-20
+{:.no_toc}
 
 Tout refus d'accès est motivé.
 
 
 ##### Article R553-21
+{:.no_toc}
 
 L'accès des journalistes au lieu de rétention ne doit pas entraver le fonctionnement du lieu ni les activités qu'y exercent les services de l'Etat et les tiers qui y participent. Les journalistes respectent les consignes de sécurité et les conditions de la visite établies par le chef du centre de rétention, son adjoint ou le responsable de la gestion des dossiers administratifs, ou, dans un local de rétention, par le responsable du local ou son adjoint.
 
 
 ##### Article R553-22
+{:.no_toc}
 
 Les journalistes ont accès, dans le respect des règles sanitaires et de sécurité, aux locaux accessibles aux retenus ainsi qu'aux locaux mis à disposition des intervenants, avec l'accord de ces derniers.
 
 
 ##### Article R553-23
+{:.no_toc}
 
 L'article [R. 553-17](#article-r553-17) est applicable aux visites de journalistes régies par la présente section.
 
@@ -9108,11 +10016,13 @@ L'article [R. 553-17](#article-r553-17) est applicable aux visites de journalist
 ##### Section 1 : Présentation de la demande d'asile
 
 ##### Article R556-1
+{:.no_toc}
 
 L'étranger maintenu en centre ou local de rétention administrative qui souhaite demander l'asile est informé, sans délai, dans une langue qu'il comprend ou dont il est raisonnable de penser qu'il la comprend, de la procédure de demande d'asile, de ses droits et de ses obligations au cours de cette procédure, des conséquences que pourrait avoir le non-respect de ces obligations ou le refus de coopérer avec les autorités et des moyens dont il dispose pour l'aider à présenter sa demande.
 
 
 ##### Article R556-2
+{:.no_toc}
 
 I. - L'étranger maintenu dans un centre de rétention qui souhaite demander l'asile remet sa demande sous pli fermé soit au chef du centre de rétention soit à son adjoint ou, le cas échéant, au responsable de la gestion des dossiers administratifs.
 
@@ -9124,11 +10034,13 @@ II. - La demande d'asile formulée en centre ou en local de rétention est rédi
 
 
 ##### Article R556-3
+{:.no_toc}
 
 Lorsqu'un étranger ayant déposé sa demande d'asile en local de rétention administrative est transféré en centre de rétention avant que l'office ait statué, le préfet responsable de la procédure d'éloignement en informe l'office sans délai.
 
 
 ##### Article R556-4
+{:.no_toc}
 
 L'étranger retenu qui souhaite demander l'asile peut bénéficier, pour présenter sa demande, de l'assistance juridique apportée par les personnes morales mentionnées aux articles [R. 553-14](#article-r553-14) et [R. 553-14-2](#article-r553-14-2), en application des conventions qui y sont prévues.
 
@@ -9136,6 +10048,7 @@ Il peut bénéficier également d'une assistance linguistique pour présenter sa
 
 
 ##### Article R556-5
+{:.no_toc}
 
 Lorsque l'étranger remet sa demande à l'autorité dépositaire, celle-ci enregistre la date et l'heure de la remise sur le registre mentionné à l'article [L. 553-1](#article-l553-1).
 L'autorité dépositaire de la demande en informe sans délai le préfet qui a ordonné le placement en rétention afin que celui-ci statue sur le maintien en rétention conformément au premier alinéa de l'article [L. 556-1](#article-l556-1).
@@ -9144,12 +10057,14 @@ La présentation, l'instruction et le jugement par les juridictions administrati
 
 
 ##### Article R556-6
+{:.no_toc}
 
 Dans le cas où le préfet décide du maintien en rétention, l'autorité dépositaire de la demande, dès qu'elle en est informée, saisit sans délai, par lettre recommandée avec demande d'avis de réception, ou par tout autre moyen permettant de garantir la confidentialité de la demande d'asile et d'en accuser réception, le directeur général de l'Office français de protection des réfugiés et apatrides du dossier de demande d'asile, tel qu'il lui a été remis sous pli fermé par l'étranger, en vue de son examen selon les modalités prévues à l'article [R. 723-4](#article-r723-4).
 L'autorité dépositaire de la demande informe sans délai le directeur général de l'office de la transmission de la demande ainsi que de l'identité du demandeur et, le cas échéant, du besoin d'interprète.
 
 
 ##### Article R556-7
+{:.no_toc}
 
 Les dispositions du présent chapitre ne sont pas applicables à l'étranger dont la demande d'asile relève de l'article [L. 742-1](#article-l742-1) et qui est placé en rétention en vue de l'exécution d'une décision de transfert en application de l'article [L. 742-3](#article-l742-3).
 
@@ -9159,6 +10074,7 @@ L'étranger en est informé dans une langue qu'il comprend ou dont il est raison
 ##### Section 2 : Examen de la demande d'asile par l'office
 
 ##### Article R556-8
+{:.no_toc}
 
 Le demandeur est entendu par l'office selon les modalités prévues par les articles [R. 723-5](#article-r723-5) à [R. 723-9](#article-r723-9).
 
@@ -9166,6 +10082,7 @@ Toutefois, en cas de besoin et par dérogation à l'article [R. 723-8](#article-
 
 
 ##### Article R556-9
+{:.no_toc}
 
 Lorsque l'office décide, en application du septième alinéa de l'article [L. 556-1](#article-l556-1), de ne pas statuer en procédure accélérée, le directeur général de l'office transmet sa décision au chef du centre de rétention, son adjoint ou au responsable de la gestion des dossiers administratifs du centre de rétention ou au responsable du local de rétention ou à son adjoint et au préfet qui a ordonné le maintien en rétention.
 
@@ -9173,6 +10090,7 @@ Le préfet met fin immédiatement à la rétention et communique sa décision au
 
 
 ##### Article R556-10
+{:.no_toc}
 
 I.-Lorsque l'étranger a été maintenu en rétention et que l'office statue en procédure accélérée, le directeur général de l'office prend sa décision dans le délai prévu par le deuxième alinéa du I de l'article [R. 723-4](#article-r723-4).
 Il transmet sans délai au responsable du centre ou du local de rétention dans lequel l'étranger est maintenu en application de l'article [L. 556-1](#article-l556-1) sa décision de rejet sous pli fermé par lettre recommandée avec demande d'avis de réception. Le pli fermé est remis à l'étranger par le responsable du centre ou du local de rétention. La décision de rejet peut également être transmise par tout autre moyen assurant la confidentialité de la demande d'asile et permettant d'en accuser réception avant remise au demandeur.
@@ -9191,11 +10109,13 @@ IV.-Le chef du centre de rétention, son adjoint ou le responsable de la gestion
 ##### Section 3 : Droits des demandeurs d'asile
 
 ##### Article R556-11
+{:.no_toc}
 
 Le délégué du Haut-Commissariat des Nations unies pour les réfugiés accède aux lieux de rétention dans les mêmes conditions que celles prévues aux articles [R. 223-1](#article-r223-1) à [R. 223-6](#article-r223-6).
 
 
 ##### Article R556-12
+{:.no_toc}
 
 Toute personne intervenant en rétention peut signaler au chef du centre ou à son représentant, ou au responsable du local de rétention, la situation de vulnérabilité d'un demandeur d'asile qu'elle aurait constatée, ou dont le demandeur d'asile aurait fait état.
 
@@ -9205,6 +10125,7 @@ Les informations attestant d'une situation particulière de vulnérabilité sont
 
 
 ##### Article R556-13
+{:.no_toc}
 
 L'avocat ou le représentant d'une des associations mentionnées au huitième alinéa de l'article [L. 723-6](#article-l723-6), désigné par le demandeur d'asile, est autorisé à pénétrer dans le lieu de rétention pour assister à son entretien dans les conditions prévues au même article [L. 723-6](#article-l723-6).
 
@@ -9212,6 +10133,7 @@ L'avocat ou le représentant d'une des associations mentionnées au huitième al
 ##### Section 4 : Dispositions diverses
 
 ##### Article R556-14
+{:.no_toc}
 
 I.-L'article [R. 556-7](#article-r556-7) n'est pas applicable en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion et à Saint-Pierre-et-Miquelon.
 
@@ -9223,16 +10145,19 @@ II.-Le présent chapitre, à l'exception de l'article [R. 556-7](#article-r556-7
 #### Chapitre unique
 
 #### Article R561-1
+{:.no_toc}
 
 L'autorité administrative compétente pour assigner un étranger à résidence en application des 1° à 4° de l'article [L. 561-1](#article-l561-1) ou de l'article [L. 561-2](#article-l561-2) est le préfet de département et, à Paris, le préfet de police.
 
 
 #### Article R561-1-1
+{:.no_toc}
 
 L'autorité administrative compétente pour assigner un étranger à résidence en application du 6° de l'article [L. 561-1](#article-l561-1) est le ministre de l'intérieur.
 
 
 #### Article R561-2
+{:.no_toc}
 
 L'autorité administrative détermine le périmètre dans lequel l'étranger assigné à résidence en application de l'article [L. 561-1](#article-l561-1), de l'article [L. 561-2](#article-l561-2) ou d'une des mesures prévues aux articles [L. 523-3](#article-l523-3), [L. 523-4](#article-l523-4) et [L. 523-5](#article-l523-5) est autorisé à circuler muni des documents justifiant de son identité et de sa situation administrative et au sein duquel est fixée sa résidence. Elle lui désigne le service auquel il doit se présenter, selon une fréquence qu'il fixe dans la limite d'une présentation par jour, en précisant si cette obligation s'applique les dimanches et les jours fériés ou chômés.
 
@@ -9240,16 +10165,19 @@ Toutefois, lorsque l'étranger est assigné à résidence en application de l'ar
 
 
 #### Article R561-3
+{:.no_toc}
 
 L'étranger assigné à résidence en application de l'article [L. 561-1](#article-l561-1), de l'article [L. 561-2](#article-l561-2) ou d'une des mesures prévues aux articles [L. 523-3](#article-l523-3), [L. 523-4](#article-l523-4) et [L. 523-5](#article-l523-5) peut être tenu de remettre à l'autorité administrative l'original de son passeport et de tout autre document d'identité ou de voyage en sa possession en échange d'un récépissé valant justification d'identité sur lequel est portée la mention de l'assignation à résidence jusqu'à l'exécution de la mesure d'éloignement dont il fait l'objet.
 
 
 #### Article R561-4
+{:.no_toc}
 
 L'assignation à résidence prononcée en application de l'article [L. 561-1](#article-l561-1) peut être assortie d'une autorisation de travail.
 
 
 #### Article R561-5
+{:.no_toc}
 
 L'étranger auquel est notifiée une assignation à résidence en application de l'article [L. 552-4](#article-l552-4) ou de l'article [L. 561-2](#article-l561-2) est informé de ses droits et obligations par la remise d'un formulaire à l'occasion de la notification de la décision par l'autorité administrative ou, au plus tard, lors de sa première présentation aux services de police ou de gendarmerie.
 
@@ -9259,6 +10187,7 @@ Ce formulaire est traduit dans les langues les plus couramment utilisées désig
 
 
 #### Article R561-6
+{:.no_toc}
 
 L'autorité administrative compétente pour saisir le juge des libertés et de la détention aux fins de requérir les services de police ou les unités de gendarmerie en application du II de l'article [L. 561-2](#article-l561-2) est le préfet de département ou, à Paris, le préfet de police.
 
@@ -9272,6 +10201,7 @@ Le greffier l'enregistre et y appose, ainsi que sur les pièces jointes, un timb
 
 
 #### Article R561-7
+{:.no_toc}
 
 L'ordonnance du juge des libertés et de la détention est susceptible d'appel dans les vingt-quatre heures de sa notification, par l'étranger. A peine d'irrecevabilité, la déclaration d'appel est motivée. Elle est enregistrée avec mention de la date et de l'heure.
 
@@ -9295,11 +10225,13 @@ L'ordonnance est communiquée au ministère public. Elle est notifiée par tout 
 #### Chapitre unique
 
 #### Article R571-1
+{:.no_toc}
 
 L'autorité compétente pour prononcer par arrêté, sur le fondement de l'article [L. 571-3](#article-l571-3), le placement sous surveillance électronique mobile d'un étranger est celle qui est compétente pour prononcer son assignation à résidence en vertu des articles [R. 523-4](#article-r523-4) à [R. 523-6](#article-r523-6) et R. 541-1.
 
 
 #### Article R571-2
+{:.no_toc}
 
 Avant que l'autorité compétente prononce une mesure de placement sous surveillance électronique mobile, l'administration pénitentiaire s'assure, à la demande de celle-ci, de la disponibilité d'un dispositif technique permettant le contrôle à distance et de la faisabilité technique de la surveillance électronique mobile.
 
@@ -9307,6 +10239,7 @@ L'autorité compétente s'assure que l'étranger a reçu une information sur le 
 
 
 #### Article R571-3
+{:.no_toc}
 
 L'autorité compétente peut, lors du placement d'un étranger sous surveillance électronique mobile, adapter la périodicité de ses obligations de présentation aux services de police et de gendarmerie qui ont été fixées, en application de l'article [R. 561-2](#article-r561-2), lors de son assignation à résidence. L'étranger est informé de cette adaptation avant que soit recueilli son accord en application de l'article [R. 571-2](#article-r571-2).
 
@@ -9318,6 +10251,7 @@ La décision de placement sous surveillance électronique mobile est notifiée �
 
 
 #### Article R571-4
+{:.no_toc}
 
 Le dispositif de localisation à distance dont le port est imposé à l'étranger placé sous surveillance électronique mobile en vertu du troisième alinéa de l'article [L. 571-3](#article-l571-3) doit avoir été homologué par le garde des sceaux, ministre de la justice, qui s'assure qu'il ne peut être enlevé par l'étranger sans que soit émis un signal d'alarme et qu'il permet une communication, pouvant être enregistrée, entre l'étranger et un centre de surveillance.
 
@@ -9329,16 +10263,19 @@ Les services de police ou de gendarmerie rappellent à l'étranger qu'il est ten
 
 
 #### Article R571-5
+{:.no_toc}
 
 L'autorité compétente peut à tout moment mettre fin au placement, notamment en cas de manquement de l'étranger aux prescriptions liées à son assignation à résidence ou à son placement, en cas de dysfonctionnement technique du dispositif de localisation à distance ou si la mise en œuvre de ce dispositif présente pour la santé de l'étranger des inconvénients attestés par un médecin agréé désigné par l'autorité compétente. A la demande de l'étranger, cette désignation est de droit.
 
 
 #### Article R571-6
+{:.no_toc}
 
 Les agents de l'administration pénitentiaire chargés de la surveillance du placement avisent sans délai les services de police et de gendarmerie compétents lorsqu'ils sont alertés de ce qu'un étranger placé sous surveillance électronique mobile se trouve en dehors de la zone d'inclusion ou de ce que le dispositif est détérioré.
 
 
 #### Article R571-7
+{:.no_toc}
 
 L'habilitation pour la mise en œuvre du dispositif de localisation à distance, prévue par le quatrième alinéa de l'article [L. 571-3](#article-l571-3), est régie par les articles R. 61-36 à R. 61-42 du code de procédure pénale.
 
@@ -9354,6 +10291,7 @@ L'habilitation pour la mise en œuvre du dispositif de localisation à distance,
 ###### Sous-section 1 : Finalités du traitement
 
 ###### Article R611-1
+{:.no_toc}
 
 Est autorisée la création d'un traitement automatisé de données à caractère personnel dénommé AGDREF2 (Application de gestion des dossiers des ressortissants étrangers en France), relevant du ministre chargé de l'immigration.
 
@@ -9377,6 +10315,7 @@ Le traitement peut être consulté et mis en relation avec d'autres traitements 
 ###### Sous-section 2 : Données enregistrées dans le traitement
 
 ###### Article R611-2
+{:.no_toc}
 
 Le traitement automatisé de données à caractère personnel mentionné à l'article [R. 611-1](#article-r611-1) comporte les images numérisées de la photographie et des empreintes digitales des dix doigts des étrangers suivants :
 
@@ -9394,6 +10333,7 @@ Le traitement ne comporte pas de dispositif de reconnaissance faciale à partir 
 
 
 ###### Article R611-3
+{:.no_toc}
 
 Les autres catégories de données à caractère personnel enregistrées dans le traitement informatisé prévu à l'article [R. 611-1](#article-r611-1) sont énumérées à l'annexe 6-4 du présent code.
 
@@ -9401,6 +10341,7 @@ Les autres catégories de données à caractère personnel enregistrées dans le
 ###### Sous-section 3 : Destinataires des données
 
 ###### Article R611-4
+{:.no_toc}
 
 Outre les agents chargés de la mise en œuvre du traitement et ceux de l'Agence nationale des titres sécurisés chargés de la fabrication des titres, peuvent accéder à tout ou partie des données à caractère personnel enregistrées dans le traitement automatisé prévu à l'article [R. 611-1](#article-r611-1) et dans le composant électronique prévu aux articles [R. 311-13-1](#article-r311-13-1) et [R. 321-22](#article-r321-22), pour les besoins exclusifs de leurs missions liées à l'entrée, au séjour ou à l'éloignement :
 
@@ -9422,6 +10363,7 @@ Outre les agents chargés de la mise en œuvre du traitement et ceux de l'Agence
 ###### Sous-section 4 : Accès aux données en consultation
 
 ###### Article R611-5
+{:.no_toc}
 
 Pour les besoins exclusifs des missions énumérées ci-après, peuvent consulter les données pertinentes enregistrées dans le traitement automatisé prévu à l'article [R. 611-1](#article-r611-1) et dans le composant électronique prévu aux articles [R. 311-13-1](#article-r311-13-1) et [R. 321-22](#article-r321-22), à l'exclusion des images numérisées des empreintes digitales :
 
@@ -9471,6 +10413,7 @@ b) Les agents de l'Institut national de la statistique et des études économiqu
 
 
 ###### Article R611-6
+{:.no_toc}
 
 Par dérogation à l'article [R. 611-5](#article-r611-5), pour les besoins exclusifs de l'accomplissement de leurs missions, les personnels chargés des missions de recherche et de contrôle de l'identité des personnes, de vérification de la validité et de l'authenticité des titres de séjour et de voyage au sein de la police nationale, de la gendarmerie nationale et des douanes peuvent consulter les images numérisées des empreintes digitales contenues dans le composant électronique du titre prévu aux articles [R. 311-13-1](#article-r311-13-1) et [R. 321-22](#article-r321-22) et dans celui de la carte de frontalier mentionnée à l'annexe 6-4.
 
@@ -9480,6 +10423,7 @@ Les agents mentionnés au 3° de l'article [R. 611-5](#article-r611-5) lorsqu'il
 
 
 ###### Article R611-7
+{:.no_toc}
 
 Les données enregistrées dans le traitement automatisé prévu à l'article [R. 611-1](#article-r611-1) et dans le composant électronique prévu aux articles [R. 311-13-1](#article-r311-13-1) et [R. 321-22](#article-r321-22) peuvent être consultées, aux fins notamment d'identification, par les agents d'organismes de coopération internationale en matière de lutte contre l'immigration irrégulière dans les conditions prévues par tout engagement liant la France à des organismes internationaux ou à des Etats étrangers, lorsque ces organismes et ces Etats assurent à la vie privée, aux libertés et aux droits fondamentaux des personnes à l'égard de données à caractère personnel un niveau de protection suffisant au sens de l'article 68 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
@@ -9487,6 +10431,7 @@ Les données enregistrées dans le traitement automatisé prévu à l'article [R
 ###### Sous-section 5 : Conservation des données
 
 ###### Article R611-7-1
+{:.no_toc}
 
 Les données à caractère personnel sont classées, au sein du traitement AGDREF2, dans des dossiers électroniques. Il ne peut y avoir qu'un seul dossier pour un même étranger.
 
@@ -9516,11 +10461,13 @@ Les consultations font l'objet d'un enregistrement comprenant l'identification d
 ###### Sous-section 6 : Droits d'accès, de rectification et d'opposition
 
 ###### Article R611-7-2
+{:.no_toc}
 
 La remise du titre de séjour ou d'un titre de voyage s'accompagne d'une copie sur papier des données à caractère personnel enregistrées dans le composant électronique prévu aux articles [R. 311-13-1](#article-r311-13-1) et [R. 321-22](#article-r321-22). Cette copie ne comporte, s'agissant des empreintes digitales recueillies, que l'indication du nombre et de la nature des empreintes enregistrées dans le composant électronique.
 
 
 ###### Article R611-7-3
+{:.no_toc}
 
 Le droit d'accès et de rectification s'exerce dans les conditions fixées aux articles 39 et 40 de la loi du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés :
 
@@ -9530,6 +10477,7 @@ Le droit d'accès et de rectification s'exerce dans les conditions fixées aux a
 
 
 ###### Article R611-7-4
+{:.no_toc}
 
 Le droit d'opposition prévu à l'article 38 de la loi du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ne s'applique pas au présent traitement.
 
@@ -9537,6 +10485,7 @@ Le droit d'opposition prévu à l'article 38 de la loi du 6 janvier 1978 relativ
 ##### Section 2 : Traitement automatisé de données à caractère personnel relatives aux étrangers sollicitant la délivrance d'un visa
 
 ##### Article R611-8
+{:.no_toc}
 
 Est autorisée la création, sur le fondement de l'article [L. 611-6](#article-l611-6), d'un traitement automatisé de données à caractère personnel dénommé VISABIO, relevant du ministère des affaires étrangères et du ministère chargé de l'immigration.
 
@@ -9560,6 +10509,7 @@ Il vise :
 
 
 ##### Article R611-9
+{:.no_toc}
 
 Les données à caractère personnel enregistrées dans le traitement automatisé prévu à l'article [R. 611-8](#article-r611-8) sont :
 
@@ -9579,6 +10529,7 @@ Les données mentionnées aux 1° et 2° peuvent également être enregistrées 
 
 
 ##### Article R611-10
+{:.no_toc}
 
 Les données à caractère personnel mentionnées au 1° de l'article [R. 611-9](#article-r611-9) peuvent également être collectées, à la condition que la collecte présente un niveau de protection et des garanties équivalents à ceux du droit interne :
 
@@ -9588,11 +10539,13 @@ Les données à caractère personnel mentionnées au 1° de l'article [R. 611-9]
 
 
 ##### Article R611-11
+{:.no_toc}
 
 La durée de conservation des données à caractère personnel mentionnées à l'article [R. 611-9](#article-r611-9) est de cinq ans à compter de leur inscription.
 
 
 ##### Article R611-12
+{:.no_toc}
 
 I.-Les destinataires des données à caractère personnel enregistrées dans le traitement automatisé prévu à l'article [R. 611-8](#article-r611-8) sont :
 
@@ -9620,6 +10573,7 @@ III.-Peuvent également accéder aux données à caractère personnel enregistr�
 
 
 ##### Article R611-13
+{:.no_toc}
 
 Les droits d'accès et de rectification, prévus par les articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978, s'exercent auprès, du ministère des affaires étrangères (direction des Français à l'étranger et de l'administration consulaire), du ministère chargé de l'immigration (direction de l'immigration) ou du service où la demande de visa a été déposée.
 
@@ -9627,11 +10581,13 @@ Les services ci-dessus mentionnés, saisis de demandes tendant à l'exercice du 
 
 
 ##### Article R611-14
+{:.no_toc}
 
 Le droit d'opposition prévu à l'article 38 de la loi du 6 janvier 1978 susmentionnée ne s'applique pas au présent traitement.
 
 
 ##### Article R611-15
+{:.no_toc}
 
 Il est procédé tous les trois ans, par les ministères mentionnés à l'article [R. 611-8](#article-r611-8), à une évaluation du traitement VISABIO donnant lieu à un rapport communiqué à la Commission nationale de l'informatique et des libertés.
 
@@ -9639,6 +10595,7 @@ Il est procédé tous les trois ans, par les ministères mentionnés à l'articl
 ##### Section 3 : Du fichier automatisé des empreintes digitales
 
 ##### Article R611-16
+{:.no_toc}
 
 Le fichier automatisé des empreintes digitales est régi par le décret n° 87-249 du 8 avril 1987 modifié relatif au fichier automatisé des empreintes digitales géré par le ministère de l'intérieur.
 
@@ -9646,6 +10603,7 @@ Le fichier automatisé des empreintes digitales est régi par le décret n° 87-
 ##### Section 5 : Traitement automatisé de données à caractère personnel relatives aux étrangers bénéficiaires du dispositif d'aide au retour géré par l'Office français de l'immigration et de l'intégration
 
 ##### Article R611-35
+{:.no_toc}
 
 Est autorisée la création d'un traitement automatisé de données à caractère personnel dénommé Outil de statistique et de contrôle de l'aide au retour relevant de l'Office français de l'immigration et de l'intégration.Ce traitement a pour finalités :
 
@@ -9657,6 +10615,7 @@ c) D'établir des statistiques relatives à ces procédures et à leur exécutio
 
 
 ##### Article R611-36
+{:.no_toc}
 
 Les données enregistrées dans le traitement sont les suivantes :1° Les images numérisées des empreintes des dix doigts du bénéficiaire et de ses enfants mineurs âgés d'au moins douze ans, ou la mention de l'impossibilité de collecte totale ou partielle de ces empreintes ;
 
@@ -9666,6 +10625,7 @@ Le traitement ne comporte pas de dispositif d'identification nominative à parti
 
 
 ##### Article R611-37
+{:.no_toc}
 
 Les données mentionnées à l'article [R. 611-36](#article-r611-36) sont effacées :
 
@@ -9677,6 +10637,7 @@ Les intéressés sont informés par écrit dans une langue qu'ils comprennent de
 
 
 ##### Article R611-38
+{:.no_toc}
 
 Sont autorisés à accéder aux données mentionnées à l'article [R. 611-36](#article-r611-36), à l'exception des données biométriques, les agents de l'Office français de l'immigration et de l'intégration chargés de la mise en œuvre du dispositif d'aide au retour, individuellement désignés et spécialement habilités à cette fin par le directeur général de cet office.
 
@@ -9690,16 +10651,19 @@ Peuvent également recevoir communication par l'intermédiaire du responsable du
 
 
 ##### Article R611-39
+{:.no_toc}
 
 Lors du dépôt d'une demande d'aide au retour, il est procédé au recueil des empreintes digitales des dix doigts des personnes âgées d'au moins douze ans au bénéfice desquelles l'aide est demandée, aux fins de comparaison avec les empreintes enregistrées dans le traitement automatisé mentionné à l'article [R. 611-35](#article-r611-35).
 
 
 ##### Article R611-40
+{:.no_toc}
 
 Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés s'exercent auprès du directeur général de l'Office français de l'immigration et de l'intégration.
 
 
 ##### Article R611-41
+{:.no_toc}
 
 Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas au traitement.
 
@@ -9707,6 +10671,7 @@ Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas a
 ##### Section 6 : Droit de communication
 
 ##### Article R611-41-1
+{:.no_toc}
 
 L'autorité administrative compétente mentionnée à l'article [L. 611-12](#article-l611-12) est le préfet de département.
 
@@ -9714,6 +10679,7 @@ Les demandes d'informations et de documents auprès des autorités et personnes 
 
 
 ##### Article R611-41-2
+{:.no_toc}
 
 Les autorités et personnes privées mentionnées aux 1° à 8° de l'article [L. 611-12](#article-l611-12) transmettent les documents et informations suivantes :
 
@@ -9745,16 +10711,19 @@ b) Pour les établissements d'enseignement supérieur : l'attestation d'inscript
 #### Chapitre Ier : Méconnaissance des obligations incombant aux citoyens de l'Union européenne, aux ressortissants des autres Etats parties à l'accord sur l'Espace économique européen, aux ressortissants de la Confédération suisse ainsi qu'aux membres de leur famille
 
 #### Article R621-1
+{:.no_toc}
 
 Les ressortissants mentionnés à l'article [L. 121-1](#article-l121-1) qui auront omis de se conformer à la formalité d'enregistrement prévue à l'article [L. 121-2](#article-l121-2) sont punis de la peine d'amende prévue pour les contraventions de quatrième classe.
 
 
 #### Article R621-2
+{:.no_toc}
 
 Les membres de famille ressortissants d'un Etat tiers mentionnés à l'article [L. 121-3](#article-l121-3) qui auront omis de solliciter dans les délais réglementaires la délivrance de la carte de séjour prévue à l'article [R. 121-14](#article-r121-14) sont punis de la peine d'amende prévue pour les contraventions de cinquième classe.
 
 
 #### Article R621-3
+{:.no_toc}
 
 Les membres de famille ressortissants d'un Etat tiers mentionnés au deuxième alinéa de l'article [L. 122-1](#article-l122-1) qui auront omis de solliciter dans les délais réglementaires la délivrance de la carte de séjour prévue à l'article [R. 122-2](#article-r122-2) sont punis de la peine d'amende prévue pour les contraventions de cinquième classe.
 
@@ -9772,6 +10741,7 @@ Les membres de famille ressortissants d'un Etat tiers mentionnés au deuxième a
 ###### Sous-section 1 : Procédure
 
 ###### Article R625-1
+{:.no_toc}
 
 Le procès-verbal mentionné au premier alinéa de l'article [L. 625-2](#article-l625-2) est signé :
 
@@ -9785,11 +10755,13 @@ Ce procès-verbal est transmis au ministre chargé de l'immigration. Il comporte
 
 
 ###### Article R*625-2
+{:.no_toc}
 
 L'autorité administrative compétente pour prononcer l'amende prévue à l'article [L. 625-2](#article-l625-2) est le ministre chargé de l'immigration.
 
 
 ###### Article R625-3
+{:.no_toc}
 
 L'autorité mentionnée à l'article [R\*. 625-2](#article-r625-2) notifie à l'entreprise de transport, par lettre recommandée avec accusé de réception, le projet de sanction prévu au deuxième alinéa de l'article [L. 625-2](#article-l625-2). L'entreprise de transport est invitée à faire valoir ses observations éventuelles dans le délai d'un mois à compter de cette notification.
 
@@ -9801,6 +10773,7 @@ L'amende est recouvrée dans les conditions prévues pour les créances de l'Eta
 
 
 ###### Article R625-4
+{:.no_toc}
 
 La procédure prévue par les articles [R. 625-1](#article-r625-1) et [R. 625-3](#article-r625-3) est applicable aux entreprises de transport routier mentionnées à l'article [L. 625-6](#article-l625-6).
 
@@ -9810,6 +10783,7 @@ Les services compétents pour procéder aux contrôles mentionnés au deuxième 
 ###### Sous-section 2 : Consignation d'une somme par l'entreprise de transport
 
 ###### Article R625-13
+{:.no_toc}
 
 Le montant de la somme consignée en vertu du premier alinéa de l'article [L. 625-4](#article-l625-4) est mentionné sur le procès-verbal prévu à l'article [L. 625-2](#article-l625-2). L'absence de consignation est mentionnée dans les mêmes conditions.
 
@@ -9817,16 +10791,19 @@ La somme consignée est remise sans délai entre les mains d'un comptable de la 
 
 
 ###### Article R625-14
+{:.no_toc}
 
 La somme consignée par une entreprise de transport aérien ou maritime s'impute sur le montant de l'amende fixé par décision du ministre chargé de l'immigration.
 
 
 ###### Article R625-15
+{:.no_toc}
 
 Dès qu'il décide de ne pas prononcer d'amende, le ministre chargé de l'immigration émet un ordre de restitution du montant de la somme consignée.
 
 
 ###### Article R625-16
+{:.no_toc}
 
 Lorsque le montant de l'amende prononcée est inférieur au montant de la somme consignée, le comptable de la direction générale des finances publiques mentionné au deuxième alinéa de l'article [R. 625-13](#article-r625-13), au vu du titre exécutoire, restitue à l'entreprise de transport la somme correspondant à la différence entre le second montant et le premier.
 
@@ -9836,6 +10813,7 @@ Le même comptable procède à la restitution de tout ou partie de la somme cons
 ##### Section 2 : Amende aux entreprises n'ayant pas respecté leurs obligations liées au réacheminement d'un étrange
 
 ##### Article R625-17
+{:.no_toc}
 
 Le manquement aux obligations de réacheminement prévues aux articles [L. 213-4](#article-l213-4), [L. 213-5](#article-l213-5), [L. 213-7](#article-l213-7) et [L. 213-8](#article-l213-8) est constaté par procès-verbal signé :
 
@@ -9849,11 +10827,13 @@ Ce procès-verbal est transmis au ministre chargé de l'immigration. Il comporte
 
 
 ##### Article R625-18
+{:.no_toc}
 
 L'autorité administrative compétente pour prononcer l'amende pour manquement aux obligations de réacheminement prévue à l'article [L. 625-7](#article-l625-7) est le ministre chargé de l'immigration.
 
 
 ##### Article R625-19
+{:.no_toc}
 
 L'autorité mentionnée à l'article [R. 625-18](#article-r625-18) notifie à l'entreprise de transport, par lettre recommandée avec accusé de réception, le projet de sanction. L'entreprise de transport est invitée à faire valoir ses observations écrites éventuelles dans le délai d'un mois à compter de cette notification.
 
@@ -9867,6 +10847,7 @@ L'autorité administrative ne peut infliger d'amende à raison d'un manquement a
 
 
 ##### Article R625-20
+{:.no_toc}
 
 L'amende est recouvrée dans les conditions prévues pour les créances de l'Etat mentionnées aux articles 112 à 124 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
@@ -9874,6 +10855,7 @@ L'amende est recouvrée dans les conditions prévues pour les créances de l'Eta
 #### Chapitre VI : Dispositions diverses
 
 #### Article R626-1
+{:.no_toc}
 
 I.-La contribution forfaitaire représentative des frais de réacheminement de l'étranger dans son pays d'origine prévue à l'article [L. 626-1](#article-l626-1) est due pour chaque employé en situation irrégulière au regard du droit au séjour.
 
@@ -9883,6 +10865,7 @@ II.-Le montant de cette contribution forfaitaire est fixé par arrêté du minis
 
 
 #### Article R626-2
+{:.no_toc}
 
 I. - Au vu des procès-verbaux qui lui sont transmis en application de l'article L. 8271-17 du code du travail, le directeur général de l'Office français de l'immigration et de l'intégration indique à l'employeur, par lettre recommandée avec avis de réception ou par tout autre moyen permettant de faire la preuve de sa date de réception par le destinataire, que les dispositions de l'article [L. 626-1](#article-l626-1) sont susceptibles de lui être appliquées et qu'il peut présenter ses observations dans un délai de quinze jours.
 
@@ -9892,11 +10875,13 @@ La créance est recouvrée par le comptable public compétent comme en matière 
 
 
 #### Article R626-3
+{:.no_toc}
 
 Est puni des peines prévues pour les contraventions de cinquième classe le fait pour un étranger soumis à l'obligation de garantir son rapatriement de ne plus être en mesure de produire le titre de transport ou l'attestation bancaire mentionnés à l'article [R. 211-31](#article-r211-31).
 
 
 #### Article R626-4
+{:.no_toc}
 
 Est puni des peines prévues pour les contraventions de cinquième classe le fait pour un étranger d'établir son domicile ou de séjourner dans une circonscription territoriale en infraction aux dispositions des articles [R. 321-1](#article-r321-1) à [R. 321-5](#article-r321-5).
 
@@ -9908,6 +10893,7 @@ Est puni des peines prévues pour les contraventions de cinquième classe le fai
 #### Chapitre Ier : La qualité de réfugié
 
 #### Article R711-1
+{:.no_toc}
 
 L'autorité administrative compétente pour demander à l'Office français de protection des réfugiés et apatrides, en application du premier ou du deuxième alinéa de l'article [L. 711-4](#article-l711-4), de mettre fin au statut de réfugié est le ministre chargé de l'asile ou le préfet du département où réside habituellement l'étranger ou, lorsque ce dernier réside à Paris, le préfet de police.
 
@@ -9915,6 +10901,7 @@ L'autorité administrative compétente pour demander à l'Office français de pr
 #### Chapitre II : La protection subsidiaire
 
 #### Article R712-1
+{:.no_toc}
 
 L'autorité administrative compétente pour demander à l'Office français de protection des réfugiés et apatrides, en application du premier ou du troisième alinéa de l'article [L. 712-3](#article-l712-3), de mettre fin au bénéfice de la protection subsidiaire est le ministre chargé de l'asile ou le préfet du département où réside habituellement l'étranger ou, lorsque ce dernier réside à Paris, le préfet de police.
 
@@ -9926,6 +10913,7 @@ L'autorité administrative compétente pour demander à l'Office français de pr
 #### Chapitre Ier : Missions
 
 #### Article R721-1
+{:.no_toc}
 
 L'Office français de protection des réfugiés et apatrides reconnaît la qualité de réfugié ou d'apatride et accorde le bénéfice de la protection subsidiaire.
 
@@ -9935,6 +10923,7 @@ L'Office français de protection des réfugiés et apatrides reconnaît la quali
 ##### Section 1 : Le conseil d'administration de l'office
 
 ##### Article R722-1
+{:.no_toc}
 
 Le président du conseil d'administration de l'Office français de protection des réfugiés et apatrides est nommé pour une durée de trois ans, renouvelable.
 
@@ -9972,6 +10961,7 @@ Le conseil d'administration peut inviter toute personne concernée par l'ordre d
 
 
 ##### Article R722-2
+{:.no_toc}
 
 I.-Dans le cadre de ses attributions fixées à l'article [L. 722-1](#article-l722-1), le conseil d'administration de l'office délibère sur les objets suivants :
 
@@ -9997,6 +10987,7 @@ III.-L'office adresse chaque année le rapport d'activité aux ministres intére
 
 
 ##### Article R722-2-1
+{:.no_toc}
 
 Pour l'application des dispositions du huitième alinéa de l'article [L. 722-1](#article-l722-1), les personnalités ou associations mentionnées à cet article saisissent le président du conseil d'administration de l'office par lettre recommandée avec demande d'avis de réception. La demande mentionne toutes précisions utiles ainsi que les éléments de fait et de droit susceptibles de justifier l'inscription ou la radiation d'un Etat de la liste des pays considérés comme des pays d'origine sûrs. Toute association qui saisit le président du conseil d'administration de l'office sur ce fondement lui adresse copie de ses statuts.
 
@@ -10004,6 +10995,7 @@ Le président du conseil d'administration de l'office n'est pas tenu d'inscrire 
 
 
 ##### Article R722-3
+{:.no_toc}
 
 Le conseil d'administration de l'office se réunit au moins deux fois par an et chaque fois que cela est nécessaire, sur convocation de son président ou à la demande d'au moins six de ses membres adressée au président et comportant un projet d'ordre du jour précis.
 
@@ -10021,6 +11013,7 @@ Les délibérations en matière d'inscription, de radiation ou de suspension de 
 ##### Section 2 : Le directeur général de l'office
 
 ##### Article R722-4
+{:.no_toc}
 
 Le directeur général de l'office est nommé pour une durée de trois ans, renouvelable.
 
@@ -10038,6 +11031,7 @@ Dans le cadre des fonctions plus spécialement dévolues à l'office par l'artic
 
 
 ##### Article R722-5
+{:.no_toc}
 
 Le directeur général prépare et exécute les délibérations du conseil d'administration.
 
@@ -10063,6 +11057,7 @@ En cas d'absence ou d'empêchement du directeur général, le secrétaire géné
 
 
 ##### Article R722-6
+{:.no_toc}
 
 Le directeur général peut déléguer sa signature. Cette délégation peut porter sur les décisions prises en application des articles [L. 711-1](#article-l711-1) et [L. 712-1](#article-l712-1) et [L. 812-2](#article-l812-2) sur la délivrance d'actes et de certificats, et sur les actes de gestion et d'administration courante.
 
@@ -10070,6 +11065,7 @@ Le directeur général peut déléguer sa signature. Cette délégation peut por
 ##### Section 4 : Opérations comptables et financières
 
 ##### Article R722-8
+{:.no_toc}
 
 L'établissement public est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
@@ -10077,6 +11073,7 @@ Le directeur général de l'office peut créer des régies de recettes et d'avan
 
 
 ##### Article R722-9
+{:.no_toc}
 
 Les recettes de l'office sont celles mentionnées à l'article [L. 722-5](#article-l722-5).
 
@@ -10096,6 +11093,7 @@ Les dépenses de l'office comprennent :
 ###### Sous-section 1 : Introduction de la demande
 
 ###### Article R723-1
+{:.no_toc}
 
 A compter de la remise de l'attestation de demande d'asile selon la procédure prévue à l'article [R. 741-4](#article-r741-4), l'étranger dispose d'un délai de vingt et un jours pour introduire sa demande d'asile complète auprès de l'office.
 
@@ -10109,16 +11107,19 @@ Lorsque la demande n'est pas complète, l'office demande au demandeur de la comp
 ###### Sous-section 2 : Délais d'examen
 
 ###### Article R723-2
+{:.no_toc}
 
 L'office statue sur la demande d'asile dans les délais prévus aux paragraphes 3 et 4 de l'article 31 de la directive 2013/32/UE du Parlement européen et du Conseil du 26 juin 2013 relative à des procédures communes pour l'octroi et le retrait de la protection internationale.
 
 
 ###### Article R723-3
+{:.no_toc}
 
 Lorsqu'une décision ne peut pas être prise dans le délai de six mois, l'office en informe l'intéressé au moins quinze jours avant l'expiration de ce délai. A la demande de l'intéressé, l'office l'informe également des motifs du retard et du délai prévisible dans lequel il sera statué sur sa demande.
 
 
 ###### Article R723-4
+{:.no_toc}
 
 I.-Lorsque l'office examine une demande d'asile en procédure accélérée en application de l'article [L. 723-2](#article-l723-2), il statue dans un délai de quinze jours à compter de l'introduction de la demande.
 
@@ -10134,11 +11135,13 @@ IV.-Dans les cas mentionnés au II et au III le préfet compétent est informé 
 ###### Sous-section 3 : Entretien personnel
 
 ###### Article R723-5
+{:.no_toc}
 
 Lorsque l'entretien personnel mené avec le demandeur d'asile nécessite l'assistance d'un interprète, sa rétribution est prise en charge par l'office.
 
 
 ###### Article R723-6
+{:.no_toc}
 
 Le directeur général de l'office fixe par décision la liste des associations habilitées à proposer des représentants en vue d'accompagner le demandeur à l'entretien personnel.
 
@@ -10160,6 +11163,7 @@ L'agrément d'un représentant d'une association est retiré sur demande de cell
 
 
 ###### Article R723-7
+{:.no_toc}
 
 A l'issue de l'entretien personnel, le demandeur et son avocat ou le représentant de l'association qui l'accompagne sont informés de leur droit d'obtenir communication de la transcription. S'ils en font la demande, elle est consignée dans le dossier du demandeur.
 
@@ -10169,6 +11173,7 @@ S'il est fait application de la procédure accélérée prévue à l'article [L.
 
 
 ###### Article R723-8
+{:.no_toc}
 
 L'entretien personnel fait également l'objet d'un enregistrement sonore.
 
@@ -10180,6 +11185,7 @@ Dans le cas où il existe une impossibilité technique de procéder à l'enregis
 
 
 ###### Article R723-9
+{:.no_toc}
 
 L'office peut décider de procéder à l'entretien personnel en ayant recours à un moyen de communication audiovisuelle dans les cas suivants :
 
@@ -10201,6 +11207,7 @@ L'intéressé entendu par un moyen de communication audiovisuelle doit, si besoi
 ###### Sous-section 4 : Examen médical
 
 ###### Article R723-10
+{:.no_toc}
 
 Pour l'application de l'article [L. 723-5](#article-l723-5), l'office s'assure que le demandeur comprenne que son refus de se soumettre à un examen médical ne fait pas obstacle à ce que l'office statue sur sa demande.
 
@@ -10210,11 +11217,13 @@ Pour l'application de l'article [L. 752-3](#article-l752-3), l'office informe le
 ##### Section 2 : Demandes irrecevables
 
 ##### Article R723-11
+{:.no_toc}
 
 Lorsque l'office fait usage de la faculté prévue aux 1° ou 2° de l'article [L. 723-11](#article-l723-11), il statue dans un délai d'un mois suivant l'introduction de la demande ou, si les motifs d'irrecevabilité sont révélés au cours de l'entretien, dans un délai d'un mois suivant cet entretien.
 
 
 ##### Article R723-12
+{:.no_toc}
 
 Pour l'application du 2° de l'article [L. 723-11](#article-l723-11), l'office saisit le préfet compétent, en lui communiquant tous les éléments nécessaires aux vérifications, afin de s'assurer que le demandeur est effectivement réadmissible dans le pays où il bénéficie du statut de réfugié. Cette saisine suspend le délai prévu à l'article [R. 723-11](#article-r723-11). A défaut de réponse dans un délai de deux mois, l'office statue au fond.
 
@@ -10222,11 +11231,13 @@ Pour l'application du 2° de l'article [L. 723-11](#article-l723-11), l'office s
 ##### Section 3 : Retrait d'une demande et clôture d'examen d'une demande
 
 ##### Article R723-13
+{:.no_toc}
 
 Lorsqu'il souhaite retirer sa demande d'asile en application de l'article [L. 723-12](#article-l723-12), l'intéressé en informe l'office au cours de l'entretien ou par courrier.
 
 
 ##### Article R723-14
+{:.no_toc}
 
 Lorsqu'à la suite d'une décision de clôture, la personne intéressée entend solliciter la réouverture de son dossier ou présente une nouvelle demande, cette démarche doit être précédée d'un nouvel enregistrement auprès du préfet compétent. Ce dernier informe le demandeur de la procédure qui lui est applicable, en application de l'article [L. 723-14](#article-l723-14).
 
@@ -10236,6 +11247,7 @@ Le délai d'introduction de cette demande en réouverture auprès de l'office es
 ##### Section 4 : Demandes de réexamen
 
 ##### Article R723-15
+{:.no_toc}
 
 Lorsque dans les cas et conditions prévues à l'article [L. 723-15](#article-l723-15), la personne intéressée entend présenter une demande de réexamen, elle doit procéder à une nouvelle demande d'enregistrement auprès du préfet compétent.
 
@@ -10243,11 +11255,13 @@ Les dispositions de l'article [R. 723-1](#article-r723-1) sont applicables pour 
 
 
 ##### Article R723-16
+{:.no_toc}
 
 L'office procède à un examen préliminaire, en application de l'article [L. 723-16](#article-l723-16), dans un délai de huit jours suivant l'introduction de la demande.
 
 
 ##### Article R723-17
+{:.no_toc}
 
 Lorsque, après l'examen préliminaire, l'office décide de poursuivre l'examen de la demande, il en informe sans délai le préfet compétent.
 
@@ -10255,11 +11269,13 @@ Lorsque, après l'examen préliminaire, l'office décide de poursuivre l'examen 
 ##### Section 5 : Décisions du directeur général de l'Office français de protection des réfugiés et apatrides
 
 ##### Article R723-18
+{:.no_toc}
 
 Lorsque le directeur général de l'office a statué en procédure accélérée en application de l'article [L. 723-2](#article-l723-2), la décision en fait mention et en indique les motifs de droit et de fait.
 
 
 ##### Article R723-19
+{:.no_toc}
 
 I.-La décision du directeur général de l'office est notifiée à l'intéressé par lettre recommandée avec demande d'avis de réception. II.-La notification de la décision du directeur général de l'office mentionne :
 
@@ -10273,16 +11289,19 @@ III.-La date de notification de la décision de l'office et, le cas échéant, d
 
 
 ##### Article R723-20
+{:.no_toc}
 
 La décision de clôture prise à la suite du retrait d'une demande d'asile en application de l'article [L. 723-12](#article-l723-12) peut également faire l'objet d'une remise contre émargement ou récépissé.
 
 
 ##### Article R723-21
+{:.no_toc}
 
 Le directeur général de l'office fait connaître le caractère positif ou négatif de la décision de l'office ou, en cas de recours, de la Cour nationale du droit d'asile au préfet compétent, ainsi qu'au directeur général de l'Office français de l'immigration et de l'intégration. Il communique au préfet compétent, à sa demande, une copie de la décision et de l'avis de réception.
 
 
 ##### Article R723-22
+{:.no_toc}
 
 En cas de rejet de la demande d'asile et à la demande du préfet, le directeur général de l'office communique les documents mentionnés à l'article [L. 723-9](#article-l723-9) aux agents personnellement et spécialement habilités par arrêté préfectoral en raison de leur mission et de leurs responsabilités dans le domaine de l'application de la réglementation des étrangers ou de son contentieux.
 
@@ -10294,6 +11313,7 @@ En cas de rejet de la demande d'asile et à la demande du préfet, le directeur 
 #### Chapitre II : Organisation
 
 #### Article R732-1
+{:.no_toc}
 
 Le président de la Cour nationale du droit d'asile est nommé pour une durée de cinq ans, renouvelable.
 
@@ -10313,6 +11333,7 @@ Pour les actes de gestion et d'administration courante, le président peut dél�
 
 
 #### Article R732-2
+{:.no_toc}
 
 Le secrétariat de la Cour nationale du droit d'asile est assuré par un secrétaire général nommé par le vice-président du Conseil d'Etat sur proposition du président de la cour.
 
@@ -10322,6 +11343,7 @@ Le président de la cour peut déléguer sa signature au secrétaire général, 
 
 
 #### Article R732-3
+{:.no_toc}
 
 Le vice-président du Conseil d'Etat ordonnance les dépenses de la Cour nationale du droit d'asile.
 
@@ -10333,11 +11355,13 @@ Le président de la Cour nationale du droit d'asile est institué ordonnateur se
 
 
 #### Article R732-4
+{:.no_toc}
 
 Les membres des formations de jugement de la cour sont nommés pour une période de trois ans, renouvelable.
 
 
 #### Article R732-5
+{:.no_toc}
 
 I. - La grande formation de la cour comprend la formation de jugement saisie du recours, complétée par un président, deux assesseurs choisis parmi les personnalités mentionnées au 2° de l'article [L. 732-1](#article-l732-1) et deux assesseurs choisis parmi les personnalités mentionnées au 3° du même article.
 
@@ -10351,6 +11375,7 @@ II. - Les formations collégiales de jugement autres que la grande formation peu
 
 
 #### Article R732-6
+{:.no_toc}
 
 Chaque année, avant le 1er février, le président de la cour adresse au vice-président du Conseil d'Etat un rapport d'activité.
 
@@ -10358,11 +11383,13 @@ Le président de la cour joint à ce rapport toutes observations utiles au sujet
 
 
 #### Article R732-7
+{:.no_toc}
 
 L'assemblée générale des présidents de formation de jugement se réunit au moins une fois par an. Le président de la cour la convoque pour la consulter sur les sujets d'intérêt commun.
 
 
 #### Article R732-8
+{:.no_toc}
 
 Les actes relatifs à la gestion et à l'administration des personnels de la Cour nationale du droit d'asile sont pris sous les réserves prévues par l'article [R. 121-13](#article-r121-13) du code de justice administrative par le vice-président du Conseil d'Etat sur proposition du président de la cour.
 
@@ -10376,21 +11403,25 @@ Pour les actes qui ne font pas l'objet de cette délégation de pouvoir, il peut
 ##### Section 1 : Dispositions générales
 
 ##### Article R733-1
+{:.no_toc}
 
 La cour se réunit sur convocation de son président toutes les fois que le nombre ou l'urgence des affaires l'exige.
 
 
 ##### Article R733-2
+{:.no_toc}
 
 La procédure devant la cour est gratuite et sans frais.
 
 
 ##### Article R733-3
+{:.no_toc}
 
 A tout moment de la procédure, le président de la cour ou de la formation de jugement à laquelle une affaire est attribuée peut renvoyer le jugement du recours à la formation prévue par l'article [R. 732-5](#article-r732-5).
 
 
 ##### Article R733-4
+{:.no_toc}
 
 Le président de la cour et les présidents qu'il désigne à cet effet peuvent, par ordonnance motivée :
 
@@ -10414,6 +11445,7 @@ Les dispositions du deuxième alinéa de l'article [R. 733-16](#article-r733-16)
 
 
 ##### Article R733-4-1
+{:.no_toc}
 
 Les attributions dévolues par les dispositions réglementaires du présent chapitre à la formation de jugement ou à son président sont exercées par le magistrat compétent, en application du deuxième alinéa de l'article [L. 731-2](#article-l731-2), pour statuer sur les recours formés contre les décisions de l'Office français de protection des réfugiés et apatrides prises en application des articles [L. 723-2](#article-l723-2) ou [L. 723-11](#article-l723-11).
 
@@ -10425,6 +11457,7 @@ Les attributions dévolues par les dispositions réglementaires du présent chap
 ###### Sous-section 2 : Présentation des recours
 
 ###### Article R733-5
+{:.no_toc}
 
 Le recours formé par un demandeur d'asile doit contenir les nom, prénoms, date et lieu de naissance, nationalité et domicile du requérant. Il mentionne l'objet de la demande et l'exposé des circonstances de fait et de droit invoquées à son appui. Il est établi en langue française. Il doit être signé par le requérant ou son avocat.
 
@@ -10436,6 +11469,7 @@ Il peut lui être annexé toutes pièces de nature à établir le bien-fondé de
 
 
 ###### Article R733-6
+{:.no_toc}
 
 Un arrêté du ministre de la justice et du ministre chargé de l'asile définit les modes de dépôt ou de transmission des recours, des mémoires, des pièces et des actes de procédure admis par le secrétariat de la cour.
 
@@ -10445,11 +11479,13 @@ Les recours sont enregistrés suivant leur date d'arrivée à la cour.
 
 
 ###### Article R733-8
+{:.no_toc}
 
 La cour adresse au requérant un avis de réception de son recours. Cet avis l'informe des modalités de consultation de son dossier.
 
 
 ###### Article R733-7
+{:.no_toc}
 
 Le recours doit, à peine d'irrecevabilité, être exercé dans le délai d'un mois à compter de la notification de la décision de l'office. Le délai de recours ainsi que les voies de recours ne sont toutefois opposables qu'à la condition d'avoir été mentionnés dans la notification de la décision.
 
@@ -10457,6 +11493,7 @@ Le délai de recours est augmenté d'un mois pour les requérants qui demeurent 
 
 
 ###### Article R733-9
+{:.no_toc}
 
 Lorsqu'un recours est entaché d'une irrecevabilité susceptible d'être couverte après l'expiration du délai de recours, la cour ne peut le rejeter en relevant d'office cette irrecevabilité qu'après avoir invité son auteur à le régulariser.
 
@@ -10466,6 +11503,7 @@ La demande de régularisation mentionne qu'à défaut de régularisation les con
 ###### Sous-section 3 : Instruction
 
 ###### Article R733-10
+{:.no_toc}
 
 Le recours est communiqué à l'Office français de protection des réfugiés et des apatrides. L'office transmet sans délai le dossier du requérant à la cour qui le tient à disposition de ce dernier. Les autres mémoires et pièces produits par le requérant sont communiqués à l'office s'ils contiennent des éléments nouveaux.
 
@@ -10475,6 +11513,7 @@ Les mémoires et pièces produits par l'office dans le cadre de la procédure so
 
 
 ###### Article R733-11
+{:.no_toc}
 
 Lorsque le requérant est représenté par un avocat, les actes de procédure sont accomplis à l'égard de ce mandataire, à l'exception de la notification de l'avis de réception prévu à l'article [R. 733-8](#article-r733-8), de l'avis d'audience prévu à l'article [R. 733-19](#article-r733-19) et de la décision elle-même, adressés personnellement au requérant.
 
@@ -10482,6 +11521,7 @@ L'information prévue au deuxième alinéa de l'article [R. 733-13](#article-r73
 
 
 ###### Article R733-12
+{:.no_toc}
 
 Les communications avec les requérants sont effectuées au moyen de lettres simples, à l'exception de l'avis de réception prévu à l'article [R. 733-8](#article-r733-8), de l'ordonnance de clôture de l'instruction prévue au premier alinéa de l'article [R. 733-13](#article-r733-13), de l'information prévue à l'article [R. 733-16](#article-r733-16), de l'avis d'audience prévu à l'article [R. 733-19](#article-r733-19) et de la décision elle-même, notifiés par lettre recommandée avec demande d'avis de réception.
 
@@ -10497,6 +11537,7 @@ Les communications avec l'office sont faites par voie électronique, dans des co
 
 
 ###### Article R733-13
+{:.no_toc}
 
 Le président de la formation de jugement ou, avant enrôlement du dossier, le président de la cour peut fixer la date de clôture de l'instruction écrite par une ordonnance notifiée aux parties quinze jours au moins avant cette date. L'ordonnance n'est pas motivée et ne peut faire l'objet d'aucun recours. L'instruction écrite peut être rouverte dans les mêmes formes.
 
@@ -10508,6 +11549,7 @@ Lorsque l'instruction écrite est close, seule la production des originaux des d
 
 
 ###### Article R733-13-1
+{:.no_toc}
 
 Pour les affaires relevant de sa compétence en application du deuxième alinéa de l'article [L. 731-2](#article-l731-2), le président de la cour ou le président désigné peut, dès l'enregistrement du recours, par une décision qui tient lieu d'avis d'audience, fixer la date à laquelle l'affaire sera appelée à l'audience. Dans ce cas, l'instruction écrite est close trois jours avant la date de l'audience.
 
@@ -10515,6 +11557,7 @@ La décision prévue à l'alinéa précédent est adressée aux parties par tout
 
 
 ###### Article R733-13-2
+{:.no_toc}
 
 Lorsque le président de la cour ou le président désigné décide avant l'audience, de sa propre initiative ou sur demande, de renvoyer l'examen du recours à une formation collégiale en application du deuxième alinéa de l'article [L. 731-2](#article-l731-2), les parties en sont avisées par tout moyen.
 
@@ -10522,6 +11565,7 @@ Lorsqu'il est saisi par un requérant d'une demande de renvoi à une formation c
 
 
 ###### Article R733-14
+{:.no_toc}
 
 Les mémoires et pièces produits après la clôture de l'instruction ne donnent pas lieu à communication.
 
@@ -10529,6 +11573,7 @@ Toutefois, en cas de réouverture de l'instruction écrite, les mémoires et les
 
 
 ###### Article R733-15
+{:.no_toc}
 
 La cour peut prescrire toute mesure d'instruction qu'elle jugera utile.
 
@@ -10536,6 +11581,7 @@ En cas d'expertise ordonnée par la formation de jugement, le rapport déposé p
 
 
 ###### Article R733-16
+{:.no_toc}
 
 La formation de jugement ne peut se fonder sur des éléments d'information extérieurs au dossier relatifs à des circonstances de fait propres au demandeur d'asile ou spécifiques à son récit, sans en avoir préalablement informé les parties.
 
@@ -10547,6 +11593,7 @@ Un délai est fixé aux parties pour déposer leurs observations, sans qu'y fass
 ###### Sous-section 4 : Audience
 
 ###### Article R733-17
+{:.no_toc}
 
 La cour met gratuitement à disposition du requérant, pour l'assister à l'audience, un interprète qui a prêté serment d'apporter son concours à la justice en son honneur et en sa conscience, devant le président de la cour ou l'un des vice-présidents.
 
@@ -10558,11 +11605,13 @@ En cas de difficulté pour obtenir le concours d'un interprète qualifié prése
 
 
 ###### Article R733-18
+{:.no_toc}
 
 Le rôle de chaque audience est arrêté par le président de la cour. Il est affiché à la porte de la salle d'audience.
 
 
 ###### Article R733-19
+{:.no_toc}
 
 L'avis d'audience est adressé aux parties trente jours au moins avant le jour où l'affaire sera appelée à l'audience.
 
@@ -10576,6 +11625,7 @@ Lorsque le président de la formation de jugement fait droit sur le siège à un
 
 
 ###### Article R733-20
+{:.no_toc}
 
 Lorsque le président de la cour envisage de faire usage de la faculté prévue au deuxième alinéa de l'article [L. 733-1](#article-l733-1), le requérant en est préalablement avisé.
 
@@ -10583,16 +11633,19 @@ Si l'intéressé réside sur le territoire métropolitain, cet avis lui est adre
 
 
 ###### Article R733-21
+{:.no_toc}
 
 Dans le cas prévu à l'article [R. 733-20](#article-r733-20), les intéressés sont régulièrement convoqués dans une salle d'audience distincte de celle de la cour, dans les conditions prévues par les dispositions de l'article [L. 733-1](#article-l733-1) et de la présente sous-section.
 
 
 ###### Article R733-22
+{:.no_toc}
 
 Lorsqu'il est fait usage de la possibilité prévue par le deuxième alinéa de l'article [L. 733-1](#article-l733-1), la communication audiovisuelle est mise en œuvre par des moyens dont les caractéristiques techniques assurent une retransmission fidèle, loyale et confidentielle à l'égard des tiers, selon des modalités définies par arrêté conjoint du ministre de la justice et du ministre chargé de l'asile.
 
 
 ###### Article R733-23
+{:.no_toc}
 
 Sauf dans le cas où il est procédé à un enregistrement audiovisuel ou sonore de l'audience, un procès-verbal est rédigé par l'agent chargé du greffe dans chacune des deux salles d'audience.
 
@@ -10616,6 +11669,7 @@ Ces procès-verbaux attestent l'ouverture au public des deux salles d'audience, 
 
 
 ###### Article R733-24
+{:.no_toc}
 
 Les audiences de la cour sont publiques.
 
@@ -10631,6 +11685,7 @@ Les décisions prises sur le fondement du quatrième alinéa ne sont pas motivé
 
 
 ###### Article R733-25
+{:.no_toc}
 
 Le rapporteur donne lecture du rapport, qui analyse, en toute indépendance, l'objet de la demande et les éléments de fait et de droit exposés par les parties, et fait mention des éléments propres à éclairer le débat, sans prendre parti sur le sens de la décision.
 
@@ -10646,6 +11701,7 @@ La partie qui, moins de sept jours francs avant la clôture de l'instruction éc
 
 
 ###### Article R733-26
+{:.no_toc}
 
 La formation de jugement délibère hors la présence des parties. Le rapporteur n'a pas voix délibérative.
 
@@ -10655,6 +11711,7 @@ Les personnes qui participent ou assistent au délibéré sont soumises à l'obl
 
 
 ###### Article R733-27
+{:.no_toc}
 
 Le membre de la formation de jugement qui suppose en sa personne une cause de récusation ou estime en conscience devoir s'abstenir se fait remplacer par un autre membre que désigne le président de la cour.
 
@@ -10672,6 +11729,7 @@ La décision ne peut être contestée devant le juge de cassation qu'à l'occasi
 ###### Sous-section 5 : Jugement
 
 ###### Article R733-28
+{:.no_toc}
 
 La formation de jugement se prononce sur le recours, en fonction des pièces du dossier et des observations présentées oralement par les parties, dans les conditions prévues par l'article [R. 733-25](#article-r733-25).
 
@@ -10679,6 +11737,7 @@ Lorsqu'elle est saisie de recours formés contre les décisions de l'Office fran
 
 
 ###### Article R733-29
+{:.no_toc}
 
 Lorsque le président de la formation de jugement décide d'ordonner un supplément d'instruction, les parties sont invitées à présenter un mémoire ou des pièces complémentaires pour les seuls besoins de ce supplément d'instruction. La même formation de jugement délibère, à l'expiration du délai imparti aux parties pour produire ces éléments ou, le cas échéant, y répliquer. Ce délai ne peut excéder une durée d'un mois à compter de la date de l'audience.
 
@@ -10686,6 +11745,7 @@ Les parties ne sont convoquées à une nouvelle audience que si le président de
 
 
 ###### Article R733-30
+{:.no_toc}
 
 Les décisions de la cour sont motivées.
 
@@ -10703,11 +11763,13 @@ La minute de chaque décision est signée par le président de la formation de j
 
 
 ###### Article R733-31
+{:.no_toc}
 
 Les décisions de la cour sont lues en audience publique. Leur sens est affiché dans les locaux de la cour le jour de leur lecture.
 
 
 ###### Article R733-32
+{:.no_toc}
 
 Le secrétaire général de la cour notifie la décision de la cour au requérant par lettre recommandée avec demande d'avis de réception dans les conditions prévues au deuxième alinéa de l'article [R. 213-3](#article-r213-3). Il la notifie également au directeur général de l'Office français de protection des réfugiés et des apatrides.
 
@@ -10717,6 +11779,7 @@ Les décisions de rejet sont transmises, sur sa demande, au ministre chargé de 
 
 
 ###### Article R733-33
+{:.no_toc}
 
 Lorsque le président de la cour constate que la minute d'une décision est entachée d'une erreur ou d'une omission matérielle non susceptible d'avoir exercé une influence sur le jugement de l'affaire, il peut y apporter, par ordonnance rendue dans le délai d'un mois à compter de la notification aux parties, les corrections que la raison commande.
 
@@ -10728,6 +11791,7 @@ Lorsqu'une partie signale au président de la cour l'existence d'une erreur ou d
 ###### Sous-section 6 : Demande d'avis au Conseil d'Etat
 
 ###### Article R733-34
+{:.no_toc}
 
 La décision de renvoi d'une question en application de l'article [L. 733-3](#article-l733-3) est prononcée par la formation visée à l'article [R. 732-5](#article-r732-5).
 
@@ -10741,11 +11805,13 @@ Les dispositions des articles R. 113-2 à R. 113-4 du code de justice administra
 ###### Sous-section 8 : Voies de recours
 
 ###### Article R733-35
+{:.no_toc}
 
 Les décisions de la cour peuvent faire l'objet d'un recours en cassation devant le Conseil d'Etat, dans les conditions prévues par les articles [R. 821-1](#article-r821-1) et suivants du code de justice administrative.
 
 
 ###### Article R733-36
+{:.no_toc}
 
 La cour peut être saisie d'un recours en révision dans les cas prévus aux articles [L. 711-5](#article-l711-5) et [L. 712-4](#article-l712-4).
 
@@ -10755,6 +11821,7 @@ Les dispositions du deuxième alinéa de l'article [R. 733-7](#article-r733-7) s
 
 
 ###### Article R733-37
+{:.no_toc}
 
 Lorsqu'une décision de la cour est entachée d'une erreur matérielle susceptible d'avoir exercé une influence sur le jugement de l'affaire, la partie intéressée peut saisir la cour d'un recours en rectification.
 
@@ -10766,6 +11833,7 @@ Les dispositions du deuxième alinéa de l'article [R. 733-7](#article-r733-7) s
 ##### Section 3 : Procédure d'avis de l'article L. 731-3
 
 ##### Article R733-38
+{:.no_toc}
 
 Le réfugié auquel il est fait application de l'une des mesures prévues aux articles 31, 32 et 33 de la convention de Genève relative au statut des réfugiés du 28 juillet 1951 peut saisir la Cour nationale du droit d'asile, dans le délai prévu par l'article [L. 731-3](#article-l731-3) et selon l'une des modalités énumérées par l'arrêté du ministre de la justice et du ministre chargé de l'asile auquel renvoie l'article [R. 733-6](#article-r733-6).
 
@@ -10775,6 +11843,7 @@ L'intéressé expose, dans sa demande, les circonstances de fait et de droit qui
 
 
 ##### Article R733-39
+{:.no_toc}
 
 Sous réserve de l'application de l'article [R. 733-41](#article-r733-41), la demande est immédiatement communiquée au ministre de l'intérieur et au ministre chargé de l'asile, qui disposent d'un délai d'une semaine pour produire leurs observations.
 
@@ -10782,6 +11851,7 @@ Ces observations sont, dès leur réception, communiquées, par tout moyen, à l
 
 
 ##### Article R733-40
+{:.no_toc}
 
 Sous réserve de l'application de l'article [R. 733-41](#article-r733-41), l'intéressé est convoqué devant une formation collégiale composée dans les conditions prévues par l'article [L. 732-1](#article-l732-1), dans un délai maximal de vingt jours à compter de la réception de sa demande.
 
@@ -10789,6 +11859,7 @@ La formation collégiale formule un avis motivé sur le maintien ou l'annulation
 
 
 ##### Article R733-41
+{:.no_toc}
 
 Le président de la cour et les présidents qu'il désigne à cet effet peuvent rejeter une demande manifestement insusceptible d'être examinée en application de l'article [L. 731-3](#article-l731-3).
 
@@ -10798,6 +11869,7 @@ Le président de la cour et les présidents qu'il désigne à cet effet peuvent 
 #### Chapitre Ier : Enregistrement de la demande d'asile
 
 #### Article R*741-1
+{:.no_toc}
 
 I.-Lorsqu'un étranger, se trouvant à l'intérieur du territoire français, demande à bénéficier de l'asile, l'enregistrement de sa demande relève du préfet de département et, à Paris, du préfet de police.
 
@@ -10807,6 +11879,7 @@ II.-Par dérogation aux dispositions du I du présent article, lorsqu'un étrang
 
 
 #### Article R741-2
+{:.no_toc}
 
 Lorsque l'étranger présente sa demande auprès de l'Office français de l'immigration et de l'intégration, des services de police ou de gendarmerie ou de l'administration pénitentiaire, la personne est orientée vers l'autorité compétente. Il en est de même lorsque l'étranger a introduit directement sa demande auprès de l'Office français de protection des réfugiés et apatrides, sans que sa demande ait été préalablement enregistrée par le préfet compétent. Ces autorités fournissent à l'étranger les informations utiles en vue de l'enregistrement de sa demande d'asile. Pour cela, elles dispensent à leurs personnels la formation adéquate.
 
@@ -10814,6 +11887,7 @@ Pour l'application du deuxième alinéa de l'article [L. 741-1](#article-l741-1)
 
 
 #### Article R741-3
+{:.no_toc}
 
 L'étranger qui, n'étant pas déjà titulaire d'un titre de séjour, demande l'asile en application de l'article [L. 741-1](#article-l741-1) présente à l'appui de sa demande en vue de son enregistrement :
 
@@ -10831,6 +11905,7 @@ Si la personne est déjà titulaire d'un titre de séjour délivré par les auto
 
 
 #### Article R741-4
+{:.no_toc}
 
 Après qu'il a satisfait aux obligations prévues à l'article [R. 741-3](#article-r741-3), si l'examen de la demande relève de la compétence de la France et sans préjudice des dispositions de l'article [R. 741-6](#article-r741-6), l'étranger est mis en possession de l'attestation de demande d'asile mentionnée à l'article [L. 741-1](#article-l741-1). Cette attestation ne permet pas de circuler librement dans les autres Etats membres de l'Union européenne.
 
@@ -10844,16 +11919,19 @@ Lorsque le préfet compétent pour enregistrer la demande constate qu'un demande
 
 
 #### Article R741-5
+{:.no_toc}
 
 Lorsque l'étranger n'a pas fourni l'ensemble des éléments mentionnés à l'article [R. 741-3](#article-r741-3) ou lorsque ses empreintes relevées en application du même article sont inexploitables, le préfet compétent enregistre la demande sur la base des éléments dont il dispose et convoque l'intéressé à une date ultérieure pour compléter l'enregistrement de sa demande ou pour procéder à un nouveau relevé de ses empreintes. L'attestation n'est remise qu'une fois que l'ensemble des conditions prévues à l'article [R. 741-3](#article-r741-3) sont réunies.
 
 
 #### Article R741-6
+{:.no_toc}
 
 Lorsque l'étranger se trouve dans le cas prévu aux 5° ou 6° de l'article [L. 743-2](#article-l743-2), le préfet peut prendre à son encontre une décision de refus de délivrance de l'attestation de demande d'asile.
 
 
 #### Article R741-7
+{:.no_toc}
 
 Les administrateurs ad hoc chargés d'assister les mineurs non accompagnés d'un représentant légal qui demandent l'asile, mentionnés à l'article [L. 741-3](#article-l741-3), sont désignés et indemnisés conformément aux dispositions des articles [R. 111-13](#article-r111-13) à [R. 111-23](#article-r111-23).
 
@@ -10861,6 +11939,7 @@ Les administrateurs ad hoc chargés d'assister les mineurs non accompagnés d'un
 #### Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile
 
 #### Article R*742-1
+{:.no_toc}
 
 L'autorité compétente pour procéder à la détermination de l'Etat responsable de l'examen d'une demande d'asile, assigner à résidence un demandeur d'asile en application de l'article [L. 742-2](#article-l742-2) et prendre une décision de transfert en application de l'article [L. 742-3](#article-l742-3) est le préfet de département et, à Paris, le préfet de police.
 
@@ -10870,16 +11949,19 @@ Un arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'asi
 
 
 #### Article R742-2
+{:.no_toc}
 
 Après qu'il a satisfait aux obligations prévues à l'article [R. 741-3](#article-r741-3), le demandeur d'asile est mis en possession de l'attestation de demande d'asile mentionnée à l'article [L. 742-1](#article-l742-1). Elle précise que l'étranger fait l'objet d'une procédure en application du règlement n° 604/2013 du 26 juin 2013. Cette attestation ne permet pas de circuler librement dans les autres Etats membres de l'Union européenne.
 
 
 #### Article R742-3
+{:.no_toc}
 
 L'attestation de demande d'asile peut être retirée ou ne pas être renouvelée lorsque l'étranger se soustrait de manière intentionnelle et systématique aux convocations ou contrôles de l'autorité administrative en vue de faire échec à l'exécution d'une décision de transfert.
 
 
 #### Article R742-4
+{:.no_toc}
 
 L'autorité administrative détermine le périmètre dans lequel l'étranger assigné à résidence en application de l'article [L. 742-2](#article-l742-2) est autorisé à circuler muni des documents justifiant de son identité et de sa situation administrative et au sein duquel est fixée sa résidence. Elle lui désigne le service auquel il doit se présenter, selon une fréquence qu'il fixe dans la limite d'une présentation par jour, en précisant si cette obligation s'applique les dimanches et les jours fériés ou chômés.
 
@@ -10887,6 +11969,7 @@ L'étranger peut être assigné à résidence dans l'hébergement prévu au 2° 
 
 
 #### Article R742-5
+{:.no_toc}
 
 Pour l'application du cinquième alinéa de l'article [L. 742-2](#article-l742-2), le juge compétent est celui du tribunal de grande instance dans le ressort duquel l'étranger est assigné à résidence.
 
@@ -10902,6 +11985,7 @@ L'article [R. 561-7](#article-r561-7) est applicable.
 #### Chapitre III : Droit au maintien sur le territoire français
 
 #### Article R743-1
+{:.no_toc}
 
 L'attestation de demande d'asile est renouvelée jusqu'à l'expiration du délai fixé à l'article [L. 743-1](#article-l743-1).
 
@@ -10911,6 +11995,7 @@ Sous réserve des dispositions prévues à l'article [L. 743-2](#article-l743-2)
 
 
 #### Article R743-2
+{:.no_toc}
 
 L'étranger qui sollicite le renouvellement de l'attestation de demande d'asile, présente à l'appui de sa demande :
 
@@ -10920,6 +12005,7 @@ L'étranger qui sollicite le renouvellement de l'attestation de demande d'asile,
 
 
 #### Article R743-3
+{:.no_toc}
 
 L'étranger auquel la qualité de réfugié est reconnue par l'Office français de protection des réfugiés et apatrides ou la Cour nationale du droit d'asile est admis à souscrire une demande de délivrance de carte de résident telle que prévue à l'article [L. 314-11](#article-l314-11).
 
@@ -10931,6 +12017,7 @@ Le préfet procède à la délivrance de la carte de résident dans un délai de
 
 
 #### Article R743-4
+{:.no_toc}
 
 L'étranger qui s'est vu accorder le bénéfice de la protection subsidiaire par l'Office français de protection des réfugiés et apatrides ou la Cour nationale du droit d'asile est admis à déposer une demande de carte de séjour temporaire telle que prévue à l'article [L. 313-13](#article-l313-13).
 
@@ -10942,6 +12029,7 @@ Le préfet procède à la délivrance de la carte de séjour temporaire dans un 
 
 
 #### Article R743-5
+{:.no_toc}
 
 Lorsqu'après le rejet définitif de sa demande d'asile, l'étranger dépose une demande de titre de séjour, le préfet statue sur cette demande dans un délai d'un mois.
 
@@ -10953,6 +12041,7 @@ Lorsqu'après le rejet définitif de sa demande d'asile, l'étranger dépose une
 ###### Sous-section 1 : Domiciliation des demandeurs d'asile
 
 ###### Article R744-1
+{:.no_toc}
 
 Pour l'application du troisième alinéa de l'article [L. 744-1](#article-l744-1), sont considérés comme des hébergements stables les lieux mentionnés à l'article [L. 744-3](#article-l744-3) autres que les établissements hôteliers.
 
@@ -10960,6 +12049,7 @@ Ces lieux d'hébergement valent élection de domicile pour les demandeurs d'asil
 
 
 ###### Article R744-2
+{:.no_toc}
 
 Les organismes conventionnés en application de l'article [L. 744-1](#article-l744-1) ou hébergeant de manière stable des demandeurs d'asile remettent aux intéressés une déclaration de domiciliation dont le modèle est fixé par arrêté du ministre chargé de l'asile.
 
@@ -10973,6 +12063,7 @@ L'absence d'une adresse effective ne peut être opposée à un demandeur d'asile
 
 
 ###### Article R744-3
+{:.no_toc}
 
 I.-Les organismes conventionnés en application de l'article [L. 744-1](#article-l744-1) procèdent à la domiciliation des demandeurs d'asile qui sont orientés vers eux par l'Office français de l'immigration et de l'intégration. Ils ne peuvent refuser l'élection de domicile que dans les cas prévus par leur convention. L'organisme qui assure la domiciliation y met fin lorsque l'intéressé le demande, lorsqu'il acquiert un domicile stable ou lorsqu'il ne se manifeste plus.
 
@@ -10992,6 +12083,7 @@ II.-Les organismes conventionnés en application de l'article [L. 744-1](#articl
 
 
 ###### Article R744-4
+{:.no_toc}
 
 Les lieux d'hébergement mentionnés à l'article [L. 744-3](#article-l744-3) sont tenus de recevoir la correspondance destinée aux personnes domiciliées et de la mettre à leur disposition.
 
@@ -10999,11 +12091,13 @@ Les lieux d'hébergement mentionnés à l'article [L. 744-3](#article-l744-3) so
 ###### Sous-section 2 : Lieux d'hébergement pour demandeurs d'asile
 
 ###### Article R744-5
+{:.no_toc}
 
 Les centres d'accueil pour demandeurs d'asile sont régis par les dispositions de la présente sous-section ainsi que par les dispositions du code de l'action sociale et des familles.
 
 
 ###### Article R744-6
+{:.no_toc}
 
 Aux fins de la gestion des lieux d'hébergement pour demandeurs d'asile, mentionnés à l'article [L. 744-3](#article-l744-3) autres que les établissements hôteliers, le ministre chargé de l'asile fixe par arrêté les documents-types suivants :
 
@@ -11015,6 +12109,7 @@ Aux fins de la gestion des lieux d'hébergement pour demandeurs d'asile, mention
 
 
 ###### Article R744-7
+{:.no_toc}
 
 Si le demandeur d'asile accepte l'offre d'hébergement, l'Office français de l'immigration et de l'intégration l'informe du lieu qu'il doit rejoindre.
 
@@ -11024,11 +12119,13 @@ Le demandeur d'asile qui ne s'est pas présenté au gestionnaire de ce lieu dans
 
 
 ###### Article R744-8
+{:.no_toc}
 
 En application de l'article [L. 744-3](#article-l744-3), le préfet peut signifier à l'office son opposition à l'admission d'une personne dans un lieu d'hébergement pour demandeur d'asile de son territoire pour des motifs d'ordre public dans un délai de quarante-huit heures à partir de la date de la décision d'admission. A cet effet, le préfet a accès au traitement automatisé des données géré par l'Office français de l'immigration et de l'intégration concernant les entrées et sorties dans les lieux d'hébergement pour demandeurs d'asile situés dans le département.
 
 
 ###### Article R744-9
+{:.no_toc}
 
 I.-Les modalités de refus ou de réouverture des conditions matérielles d'accueil sont précisées par l'office lors de l'offre de prise en charge dans une langue que le demandeur d'asile comprend ou dont il est raisonnable de penser qu'il la comprend.
 II.-Pour l'application du 1° de l'article [L. 744-8](#article-l744-8), un demandeur d'asile est considéré comme ayant abandonné son lieu d'hébergement s'il s'en absente plus d'une semaine sans justification valable.
@@ -11037,6 +12134,7 @@ Dès qu'une absence pouvant être considérée comme un abandon du lieu d'héber
 
 
 ###### Article R744-10
+{:.no_toc}
 
 Les personnes hébergées dans un lieu d'hébergement pour demandeurs d'asile mentionné à l'article [L. 744-3](#article-l744-3) dont le niveau de ressources mensuelles est égal ou supérieur au montant du revenu de solidarité active défini à l'article L. 262-2 du code de l'action sociale et des familles s'acquittent d'une participation financière à leurs frais d'hébergement et d'entretien. Le montant de cette participation est fixé par le préfet sur la base d'un barème établi par arrêté des ministres chargés des affaires sociales, de l'asile et du budget. La décision est notifiée à l'intéressé par le directeur du lieu d'hébergement. Le barème tient compte notamment :
 
@@ -11050,11 +12148,13 @@ Le montant de la participation financière perçu par la structure d'hébergemen
 
 
 ###### Article R744-11
+{:.no_toc}
 
 Le gestionnaire du lieu d'hébergement signale, dans les meilleurs délais, toute absence injustifiée et prolongée, tout comportement violent et tout manquement grave au règlement du lieu d'hébergement à l'Office français de l'immigration et de l'intégration et au préfet du département dans lequel se situe le centre. Pour l'application du cinquième alinéa de l'article [L. 744-5](#article-l744-5), les actes contraires à l'ordre public sont constatés par le préfet du département dans lequel est domiciliée la personne hébergée.
 
 
 ###### Article R744-12
+{:.no_toc}
 
 I.-Dès qu'une décision définitive au sens de l'article [L. 743-3](#article-l743-3) a été prise sur une demande d'asile, l'Office français de l'immigration et de l'intégration en informe sans délai le gestionnaire du lieu qui héberge la personne concernée, en précisant la date à laquelle cette décision a été notifiée au demandeur.
 
@@ -11080,6 +12180,7 @@ Si la mise en demeure est infructueuse, le préfet peut, après une décision de
 
 
 ###### Article R744-13
+{:.no_toc}
 
 Le centre d'accueil pour demandeurs d'asile conserve les dossiers des personnes accueillies deux années civiles après leur sortie. Les dossiers ainsi conservés peuvent à tout moment faire l'objet d'un contrôle sur place diligenté par le préfet.
 
@@ -11087,6 +12188,7 @@ Le centre d'accueil pour demandeurs d'asile conserve les dossiers des personnes 
 ##### Section 2 : Evaluation des besoins
 
 ##### Article R744-14
+{:.no_toc}
 
 L'appréciation de la vulnérabilité des demandeurs d'asile est effectuée par les agents de l'Office français de l'immigration et de l'intégration, en application de l'article [L. 744-6](#article-l744-6), à l'aide d'un questionnaire dont le contenu est fixé par arrêté des ministres chargés de l'asile et de la santé.
 
@@ -11098,6 +12200,7 @@ Si le demandeur d'asile présente des documents à caractère médical, en vue d
 ###### Sous-section 1 : Conditions d'attribution
 
 ###### Article D744-17
+{:.no_toc}
 
 Sont admis au bénéfice de l'allocation pour demandeur d'asile :
 
@@ -11107,11 +12210,13 @@ Sont admis au bénéfice de l'allocation pour demandeur d'asile :
 
 
 ###### Article D744-18
+{:.no_toc}
 
 Pour bénéficier de l'allocation pour demandeur d'asile, les personnes mentionnées aux 1° et 2° de l'article [D. 744-17](#article-d744-17) doivent être âgées de dix-huit ans révolus.
 
 
 ###### Article D744-19
+{:.no_toc}
 
 Pour les personnes mentionnées au 1° de l'article [D. 744-17](#article-d744-17), l'allocation pour demandeur d'asile est due à compter de l'acceptation des conditions matérielles d'accueil. Elle leur est attribuée pour la durée fixée au premier alinéa de l'article [L. 744-9](#article-l744-9).
 
@@ -11119,21 +12224,25 @@ Les personnes mentionnées au 2° de l'article [D. 744-17](#article-d744-17) bé
 
 
 ###### Article D744-20
+{:.no_toc}
 
 Pour bénéficier de l'allocation pour demandeur d'asile, la personne doit justifier de ressources mensuelles inférieures au montant du revenu de solidarité active.
 
 
 ###### Article D744-21
+{:.no_toc}
 
 Les ressources prises en considération pour l'application de l'article [D. 744-20](#article-d744-20) comprennent celles de l'intéressé et, le cas échéant, de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin, telles qu'elles doivent être déclarées à l'administration fiscale pour le calcul de l'impôt sur le revenu avant déduction des divers abattements. Le montant pris en compte est le douzième du total des ressources perçues pendant les douze mois précédant celui au cours duquel les ressources sont examinées.
 
 
 ###### Article D744-22
+{:.no_toc}
 
 La condition relative aux ressources peut faire l'objet d'un contrôle ultérieur par l'Office français de l'immigration et de l'intégration.
 
 
 ###### Article D744-23
+{:.no_toc}
 
 Ne sont pas prises en compte pour la détermination du droit à l'allocation pour demandeur d'asile les ressources suivantes :
 
@@ -11145,11 +12254,13 @@ La pension alimentaire ou la prestation compensatoire fixée par une décision d
 
 
 ###### Article D744-24
+{:.no_toc}
 
 Le demandeur d'allocation fait connaître à l'Office français de l'immigration et de l'intégration toutes informations relatives à son domicile, à sa situation de famille, à ses activités professionnelles, à ses ressources et à ses biens ainsi qu'à ceux des membres du foyer. Il fait connaître à l'office tout changement intervenu dans l'un ou l'autre de ces éléments, le cas échéant sous couvert de l'opérateur d'hébergement ou de la structure chargée de son accompagnement.
 
 
 ###### Article D744-25
+{:.no_toc}
 
 Au sein du foyer, le bénéficiaire de l'allocation est celui qui a déposé la demande. Toutefois, le bénéficiaire peut être désigné d'un commun accord. Ce droit d'option peut être exercé à tout moment. L'option ne peut être remise en cause qu'au bout d'un an, sauf changement de situation, sur demande motivée.
 
@@ -11157,6 +12268,7 @@ Lorsqu'un même foyer compte plusieurs demandeurs d'asile, une seule allocation 
 
 
 ###### Article D744-26
+{:.no_toc}
 
 En application du cinquième alinéa de l'article [L. 744-9](#article-l744-9), l'allocation pour demandeur d'asile est composée d'un montant forfaitaire, dont le niveau varie en fonction du nombre de personnes composant le foyer, et, le cas échéant, d'un montant additionnel dans le cas où le demandeur d'asile n'est pas hébergé.
 
@@ -11166,6 +12278,7 @@ Le barème de l'allocation pour demandeur d'asile figure à l'annexe 7-1 du pré
 
 
 ###### Article D744-27
+{:.no_toc}
 
 Pour la détermination du montant de l'allocation, les enfants non mariés sont pris en compte, à la date d'enregistrement de la demande, à la condition d'être à la charge de l'allocataire.
 
@@ -11175,6 +12288,7 @@ En cas de divorce, de séparation de droit ou de fait des époux ou de cessation
 
 
 ###### Article D744-28
+{:.no_toc}
 
 Le membre majeur de la famille du demandeur d'asile qui le rejoint postérieurement au dépôt de sa demande d'allocation est pris en compte dans le calcul de l'allocation s'il a été déclaré par le demandeur lors de l'enregistrement de cette demande. Lorsque le membre qui le rejoint est mineur, cette prise en compte est de droit.
 
@@ -11182,11 +12296,13 @@ Le montant de l'allocation versé à la famille est révisé à compter de la da
 
 
 ###### Article D744-29
+{:.no_toc}
 
 Le décès d'un membre de la famille, son incarcération ou son hospitalisation prolongée entraînent la suspension ou la limitation des droits à l'allocation pour la part imputable à cette personne. Ces événements sont pris en compte à partir de leur signalement à l'Office français de l'immigration et de l'intégration, le cas échéant sous couvert de l'opérateur d'hébergement ou de la structure chargée de l'accompagnement du demandeur.
 
 
 ###### Article D744-30
+{:.no_toc}
 
 Le montant de l'allocation versée est révisé après instruction de la demande de modification par l'Office français de l'immigration et de l'intégration, à la date de la décision de l'office.
 
@@ -11194,16 +12310,19 @@ Le montant de l'allocation versée est révisé après instruction de la demande
 ###### Sous-section 2 : Gestion et versement
 
 ###### Article D744-31
+{:.no_toc}
 
 Le montant de l'allocation pour demandeur d'asile à verser mensuellement à chaque allocataire est arrêté par l'Office français de l'immigration et de l'intégration.
 
 
 ###### Article D744-32
+{:.no_toc}
 
 L'Agence de services et de paiement est chargée, pour le compte de l'Office français de l'immigration et de l'intégration, de verser l'allocation aux bénéficiaires dont l'éligibilité a été déterminée préalablement par l'office.
 
 
 ###### Article D744-33
+{:.no_toc}
 
 L'office transmet à l'Agence de services et de paiement, par voie dématérialisée, les données mentionnées à l'article [D. 744-41](#article-d744-41), sans les éléments détaillés de la liquidation.
 
@@ -11215,6 +12334,7 @@ L'allocation pour demandeur d'asile est versée mensuellement sur la base de cet
 
 
 ###### Article D744-34
+{:.no_toc}
 
 Le versement de l'allocation prend fin, sur demande de l'Office français de l'immigration et de l'intégration :
 
@@ -11228,6 +12348,7 @@ Le versement de l'allocation prend fin, sur demande de l'Office français de l'i
 
 
 ###### Article D744-35
+{:.no_toc}
 
 Le versement de l'allocation peut être suspendu lorsqu'un bénéficiaire :
 
@@ -11245,6 +12366,7 @@ L'interruption du versement de l'allocation prend effet à compter de la date de
 
 
 ###### Article D744-36
+{:.no_toc}
 
 Le bénéfice de l'allocation pour demandeur d'asile peut être retiré par l'Office français de l'immigration et de l'intégration si le bénéficiaire a dissimulé tout ou partie de ses ressources, au sens de l'article [D. 744-21](#article-d744-21), a fourni des informations mensongères relatives à sa situation familiale, a eu un comportement violent ou a commis des manquements graves au règlement du lieu d'hébergement.
 
@@ -11252,6 +12374,7 @@ L'interruption du versement de l'allocation prend effet à compter de la date de
 
 
 ###### Article D744-37
+{:.no_toc}
 
 Le bénéfice de l'allocation pour demandeur d'asile peut être refusé par l'Office français de l'immigration et de l'intégration :
 
@@ -11261,6 +12384,7 @@ Le bénéfice de l'allocation pour demandeur d'asile peut être refusé par l'Of
 
 
 ###### Article D744-38
+{:.no_toc}
 
 La décision de suspension, de retrait ou de refus de l'allocation est écrite, motivée et prise après que l'allocataire a été mis en mesure de présenter à l'Office français de l'immigration et de l'intégration ses observations écrites dans le délai de quinze jours. Elle prend en compte la vulnérabilité du demandeur.
 
@@ -11270,11 +12394,13 @@ La reprise du versement intervient à compter de la date de la décision de réo
 
 
 ###### Article D744-39
+{:.no_toc}
 
 L'offre de prise en charge faite au demandeur d'asile en application de l'article [L. 744-1](#article-l744-1) fait mention de la possibilité pour le demandeur d'asile de se voir refuser, retirer ou suspendre le bénéfice de l'allocation pour demandeur d'asile dans les conditions prévues par la présente sous-section.
 
 
 ###### Article D744-40
+{:.no_toc}
 
 La constatation des allocations indûment versées ainsi que leur recouvrement sont assurés par l'Office français de l'immigration et de l'intégration.
 
@@ -11284,6 +12410,7 @@ Le montant maximal des retenues pouvant être opérées sur les échéances à v
 ###### Sous-section 3 : Communication d'informations
 
 ###### Article D744-41
+{:.no_toc}
 
 L'Office français de l'immigration et de l'intégration communique, mensuellement, à l'Agence de services et de paiement :
 
@@ -11297,16 +12424,19 @@ Chaque transmission d'informations de l'Office français de l'immigration et de 
 
 
 ###### Article D744-42
+{:.no_toc}
 
 L'Office français de protection des réfugiés et apatrides communique, sans délai, à l'Office français de l'immigration et de l'intégration les informations suivantes : la date d'introduction de la demande d'asile, la procédure suivie, la date de la décision de clôture ou d'irrecevabilité, la date et le sens de la décision définitive prise par l'Office français de protection des réfugiés et apatrides ou la Cour nationale du droit d'asile sur la demande d'asile.
 
 
 ###### Article D744-43
+{:.no_toc}
 
 Le préfet transmet sans délai à l'Office français de l'immigration et de l'intégration les informations relatives à la durée de validité des attestations de demande d'asile ainsi que l'état d'avancement des procédures de détermination de l'Etat responsable de l'examen de la demande d'asile et de transfert, en particulier les dates de fuite ou de transfert effectif des intéressés.
 
 
 ###### Article D744-44
+{:.no_toc}
 
 La direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi indique mensuellement à l'Office français de l'immigration et de l'intégration les bénéficiaires de l'allocation disposant d'un contrat de travail.
 
@@ -11318,11 +12448,13 @@ La direction régionale des entreprises, de la concurrence, de la consommation, 
 #### Chapitre II : Réunification familiale et intérêt supérieur de l'enfant
 
 #### Article R752-1
+{:.no_toc}
 
 La demande de réunification familiale est initiée par la demande de visa mentionnée au troisième alinéa du II de l'article [L. 752-1](#article-l752-1) ; elle est déposée auprès de l'autorité diplomatique ou consulaire dans la circonscription de laquelle résident les membres de la famille du réfugié ou du bénéficiaire de la protection subsidiaire.
 
 
 #### Article R752-2
+{:.no_toc}
 
 Au vu des justificatifs d'identité et des preuves des liens familiaux des membres de la famille du réfugié ou du bénéficiaire de la protection subsidiaire, l'autorité diplomatique ou consulaire enregistre la demande de visa au réseau mondial des visas et délivre sans délai une attestation de dépôt de la demande.
 
@@ -11330,6 +12462,7 @@ Lorsque l'autorité diplomatique ou consulaire estime nécessaire de procéder a
 
 
 #### Article R752-3
+{:.no_toc}
 
 Dès l'enregistrement de la demande par l'autorité diplomatique ou consulaire, le ministre chargé de l'asile sollicite de l'Office français de protection des réfugiés et apatrides la certification de la situation de famille du réfugié ou du bénéficiaire de la protection subsidiaire ainsi que de son état civil.
 
@@ -11339,21 +12472,25 @@ L'office transmet la certification de la situation de famille et de l'état civi
 #### Chapitre III : Documents de voyage
 
 #### Article R753-1
+{:.no_toc}
 
 Les titres de voyage délivrés en application des articles [L. 753-1](#article-l753-1) et [L. 753-2](#article-l753-2), [L. 753-3](#article-l753-3) comportent les mentions énumérées au B de la section 2 de l'annexe 6-4 du présent code.
 
 
 #### Article R753-2
+{:.no_toc}
 
 Les titres de voyage mentionnés à l'article précédent sont délivrés par le préfet du département où réside habituellement l'étranger ou, lorsque ce dernier réside à Paris, le préfet de police.
 
 
 #### Article R753-3
+{:.no_toc}
 
 La délivrance d'un titre de voyage implique la restitution du titre de voyage délivré antérieurement.
 
 
 #### Article R753-4
+{:.no_toc}
 
 L'étranger qui sollicite un titre de voyage présente à l'appui de sa demande :
 
@@ -11365,6 +12502,7 @@ L'étranger qui sollicite un titre de voyage présente à l'appui de sa demande 
 
 
 #### Article R753-5
+{:.no_toc}
 
 Lorsque la demande est faite pour un mineur, le demandeur présente :
 
@@ -11380,11 +12518,13 @@ Lorsque la demande est faite pour un mineur, le demandeur présente :
 
 
 #### Article R753-6
+{:.no_toc}
 
 En dehors des cas de retrait prévus par la loi, le titre de voyage peut être retiré et doit être restitué par l'étranger lorsque son titulaire ne remplit plus les conditions auxquelles est subordonnée sa délivrance ou en cas d'acquisition de la nationalité française.
 
 
 #### Article R753-7
+{:.no_toc}
 
 Le titulaire du titre de voyage est réadmis en France sur simple présentation de ce titre en cours de validité.
 
@@ -11394,6 +12534,7 @@ Le titulaire du titre de voyage est réadmis en France sur simple présentation 
 #### Chapitre Ier : Dispositions applicables à Mayotte
 
 #### Article R761-1
+{:.no_toc}
 
 Pour l'application du présent livre à Mayotte :
 
@@ -11401,11 +12542,13 @@ Pour l'application du présent livre à Mayotte :
 
 
 #### Article R*761-2
+{:.no_toc}
 
 L'article [R\*. 742-1](#article-r742-1) n'est pas applicable à Mayotte.
 
 
 #### Article D761-3
+{:.no_toc}
 
 La section 3 du chapitre IV du titre IV du présent livre n'est pas applicable à Mayotte.
 
@@ -11413,6 +12556,7 @@ La section 3 du chapitre IV du titre IV du présent livre n'est pas applicable �
 #### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna
 
 #### Article R762-1
+{:.no_toc}
 
 Le présent livre, à l'exception des chapitres II et IV du titre IV, est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du décret n° 2016-1456 du 28 octobre 2016 pris pour l'application de la loi n° 2016-274 du 7 mars 2016 et portant diverses dispositions relatives à l'entrée, au séjour et au travail des étrangers en France et sous réserve des adaptations suivantes : 1° Le président de la Cour nationale du droit d'asile peut prendre les mesures nécessaires à la constitution et au fonctionnement de formations de jugement de la cour siégeant dans les îles Wallis et Futuna ;
 
@@ -11486,6 +12630,7 @@ b) Les mots : " au ministre chargé de l'asile " sont remplacés par les mots : 
 
 
 #### Article R*762-2
+{:.no_toc}
 
 Le premier alinéa du I de l'article [R\*. 741-1](#article-r741-1) est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du décret n° 2015-1177 du 24 septembre 2015 relatif à la compétence du préfet pour statuer sur l'enregistrement de la demande d'asile et pour procéder à la détermination de l'Etat responsable de l'examen de cette demande.
 
@@ -11495,6 +12640,7 @@ Pour son application dans les îles Wallis et Futuna, les mots : " à l'intérie
 #### Chapitre III : Dispositions applicables en Polynésie française
 
 #### Article R763-1
+{:.no_toc}
 
 Le présent livre, à l'exception des chapitres II et IV du titre IV, est applicable en Polynésie française dans sa rédaction résultant du décret n° 2016-1456 du 28 octobre 2016 pris pour l'application de la loi n° 2016-274 du 7 mars 2016 et portant diverses dispositions relatives à l'entrée, au séjour et au travail des étrangers en France et sous réserve des adaptations suivantes : 1° Le président de la Cour nationale du droit d'asile peut prendre les mesures nécessaires à la constitution et au fonctionnement de formations de jugement de la cour siégeant en Polynésie française ;
 
@@ -11566,6 +12712,7 @@ b) Les mots : " au ministre chargé de l'asile " sont remplacés par les mots : 
 
 
 #### Article R*763-2
+{:.no_toc}
 
 Le premier alinéa du I de l'article [R\*. 741-1](#article-r741-1) est applicable en Polynésie française dans sa rédaction résultant du décret n° 2015-1177 du 24 septembre 2015 relatif à la compétence du préfet pour statuer sur l'enregistrement de la demande d'asile et pour procéder à la détermination de l'Etat responsable de l'examen de cette demande.
 
@@ -11575,6 +12722,7 @@ Pour son application en Polynésie française, les mots : " à l'intérieur du t
 #### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie
 
 #### Article R764-1
+{:.no_toc}
 
 Le présent livre, à l'exception des chapitres II et IV du titre IV, est applicable en Nouvelle-Calédonie dans sa rédaction résultant du décret n° 2016-1456 du 28 octobre 2016 pris pour l'application de la loi n° 2016-274 du 7 mars 2016 et portant diverses dispositions relatives à l'entrée, au séjour et au travail des étrangers en France et sous réserve des adaptations suivantes : 1° Le président de la Cour nationale du droit d'asile peut prendre les mesures nécessaires à la constitution et au fonctionnement de formations de jugement de la cour siégeant en Nouvelle-Calédonie ;
 
@@ -11648,6 +12796,7 @@ b) Les mots : " au ministre chargé de l'asile"sont remplacés par les mots : " 
 
 
 #### Article R*764-2
+{:.no_toc}
 
 Le premier alinéa du I de l'article [R\*. 741-1](#article-r741-1) est applicable en Nouvelle-Calédonie dans sa rédaction résultant du décret n° 2015-1177 du 24 septembre 2015 relatif à la compétence du préfet pour statuer sur l'enregistrement de la demande d'asile et pour procéder à la détermination de l'Etat responsable de l'examen de cette demande.
 
@@ -11657,6 +12806,7 @@ Pour son application en Nouvelle-Calédonie, les mots : " à l'intérieur du ter
 #### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises
 
 #### Article R765-1
+{:.no_toc}
 
 I.-L'étranger qui arrive ou séjourne dans les Terres australes et antarctiques françaises et demande l'asile en application de l'article [L. 765-1](#article-l765-1) présente à l'appui de sa demande :
 
@@ -11676,6 +12826,7 @@ IV.-L'autorité administrative mentionnée à l'article 12 de la loi n° 71-569 
 #### Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon
 
 #### Article R766-1
+{:.no_toc}
 
 Le présent livre, à l'exception des chapitres II et IV du titre IV est applicable à Saint-Barthélemy dans sa rédaction résultant du décret n° 2016-1456 du 28 octobre 2016 pris pour l'application de la loi n° 2016-274 du 7 mars 2016 et portant diverses dispositions relatives à l'entrée, au séjour et au travail des étrangers en France et sous réserve des adaptations suivantes :
 
@@ -11687,6 +12838,7 @@ Le présent livre, à l'exception des chapitres II et IV du titre IV est applica
 
 
 #### Article R766-2
+{:.no_toc}
 
 Le présent livre, à l'exception des chapitres II et IV du titre IV, est applicable à Saint-Martin dans sa rédaction résultant du décret n° 2016-1456 du 28 octobre 2016 pris pour l'application de la loi n° 2016-274 du 7 mars 2016 et portant diverses dispositions relatives à l'entrée, au séjour et au travail des étrangers en France et sous réserve des adaptations suivantes :
 
@@ -11694,6 +12846,7 @@ Le présent livre, à l'exception des chapitres II et IV du titre IV, est applic
 
 
 #### Article R*766-3
+{:.no_toc}
 
 Le présent livre, à l'exception du second alinéa du I et du II de l'article [R\*. 741-1](#article-r741-1) et de l'article [R\*. 742-1](#article-r742-1), est applicable à Saint-Barthélemy et à Saint-Martin dans sa rédaction résultant du décret n° 2015-1177 du 24 septembre 2015 relatif à la compétence du préfet pour statuer sur l'enregistrement de la demande d'asile et pour procéder à la détermination de l'Etat responsable de l'examen de cette demande.
 
@@ -11701,6 +12854,7 @@ Pour son application à Saint-Barthélemy et à Saint-Martin, les mots : " à l'
 
 
 #### Article R766-4
+{:.no_toc}
 
 Pour l'application du présent livre à Saint-Pierre-et-Miquelon :
 
@@ -11714,6 +12868,7 @@ Pour l'application du présent livre à Saint-Pierre-et-Miquelon :
 
 
 #### Article R*766-5
+{:.no_toc}
 
 L'article [R\*. 742-1](#article-r742-1) n'est pas applicable à Saint-Pierre-et-Miquelon.
 
@@ -11721,12 +12876,14 @@ L'article [R\*. 742-1](#article-r742-1) n'est pas applicable à Saint-Pierre-et-
 #### Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion
 
 #### Article R767-1
+{:.no_toc}
 
 Pour l'application du présent livre en Guadeloupe, en Guyane, en Martinique et à La Réunion :
 1. Les articles [R. 742-2](#article-r742-2) à [R. 742-5](#article-r742-5) ne sont pas applicables.
 
 
 #### Article R*767-2
+{:.no_toc}
 
 L'article [R\*. 742-1](#article-r742-1) n'est pas applicable à la Guadeloupe, en Guyane, à la Martinique et à La Réunion.
 
@@ -11740,6 +12897,7 @@ L'article [R\*. 742-1](#article-r742-1) n'est pas applicable à la Guadeloupe, e
 ##### Section 1 : Le séjour des bénéficiaires de la protection temporaire.
 
 ##### Article R811-1
+{:.no_toc}
 
 Le bénéficiaire de la protection temporaire mentionné à l'article [L. 811-1](#article-l811-1) se présente, s'il est âgé de plus de dix-huit ans, à la préfecture du département où il a sa résidence ou, à Paris, à la préfecture de police, pour solliciter la délivrance du document provisoire de séjour mentionné à l'article [L. 811-3](#article-l811-3).
 
@@ -11761,6 +12919,7 @@ Lors de la demande d'admission au séjour au titre de la protection temporaire e
 
 
 ##### Article R811-2
+{:.no_toc}
 
 Lorsqu'il satisfait aux obligations prévues à l'article [R. 811-1](#article-r811-1), le bénéficiaire de la protection temporaire est mis en possession d'une autorisation provisoire de séjour valable six mois portant la mention "bénéficiaire de la protection temporaire".
 
@@ -11768,11 +12927,13 @@ L'autorisation provisoire de séjour est renouvelée automatiquement pendant tou
 
 
 ##### Article R811-3
+{:.no_toc}
 
 Sans préjudice des dispositions du troisième alinéa de l'article [L. 811-3](#article-l811-3), l'autorisation provisoire de séjour est refusée ou retirée ou son renouvellement est refusé si l'étranger est exclu du bénéfice de la protection temporaire sur le fondement de l'article [L. 811-5](#article-l811-5).
 
 
 ##### Article R811-4
+{:.no_toc}
 
 La délivrance d'une autorisation provisoire de travail à un étranger ayant obtenu une autorisation provisoire de séjour au titre de l'article [R. 811-2](#article-r811-2) est régie par les dispositions de l'article L. 341-4 et des articles R. 341-1, R. 341-3, R. 341-4 et R. 341-7 du code du travail.
 
@@ -11784,6 +12945,7 @@ Lorsque la durée de validité du contrat de travail présenté par le bénéfic
 ###### Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille
 
 ###### Article R811-5
+{:.no_toc}
 
 L'étranger admis au séjour en France au titre de la protection temporaire peut demander à être rejoint par un membre de sa famille qui bénéficie de la protection temporaire dans un autre Etat membre de l'Union européenne.
 
@@ -11791,16 +12953,19 @@ Lorsque la demande concerne le conjoint de l'étranger admis au séjour en Franc
 
 
 ###### Article R811-6
+{:.no_toc}
 
 Lorsqu'un étranger bénéficie de la protection temporaire en France, son conjoint, ses enfants mineurs ou les enfants mineurs de son conjoint bénéficient, lorsqu'ils ne sont pas encore présents sur le territoire d'un Etat membre de l'Union européenne, d'une mesure de regroupement sur le territoire français à la condition qu'ils nécessitent une protection et sous réserve des capacités d'accueil. La décision est prise par le préfet de département et, à Paris, par le préfet de police.
 
 
 ###### Article R811-7
+{:.no_toc}
 
 Lorsqu'un bénéficiaire de la protection temporaire dans un autre Etat membre de l'Union européenne sollicite son transfert vers la France, le ministre chargé de l'immigration, saisi de cette demande par les autorités compétentes de l'Etat membre dans lequel l'intéressé a sa résidence, statue sur cette demande en tenant compte notamment des capacités d'accueil.
 
 
 ###### Article R811-8
+{:.no_toc}
 
 Lorsqu'un bénéficiaire de la protection temporaire en France cherche à entrer sans autorisation ou se trouve irrégulièrement sur le territoire d'un autre Etat membre de l'Union européenne pendant la période couverte par la décision mentionnée à l'article [L. 811-2](#article-l811-2), la France le réadmet sur son territoire au titre de la protection temporaire, sauf si un accord bilatéral prévoit des dispositions contraires.
 
@@ -11808,6 +12973,7 @@ La demande de reprise en charge est adressée au ministre chargé de l'immigrati
 
 
 ###### Article R811-9
+{:.no_toc}
 
 Les bénéficiaires de la protection temporaire et les membres de leur famille, admis en France en application des articles [R. 811-5](#article-r811-5) à [R. 811-8](#article-r811-8), sont admis au séjour dans les conditions prévues aux articles [R. 811-2](#article-r811-2) et [R. 811-3](#article-r811-3).
 
@@ -11817,11 +12983,13 @@ L'autorisation provisoire de séjour délivrée à un membre de famille admis en
 ###### Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne
 
 ###### Article R811-10
+{:.no_toc}
 
 Un bénéficiaire de la protection temporaire en France peut demander à rejoindre un membre de sa famille qui bénéficie de la protection temporaire dans un autre Etat membre de l'Union européenne. Le préfet de département et, à Paris, le préfet de police saisit alors par écrit les autorités compétentes de cet Etat membre en vue du transfert de l'intéressé vers le territoire de cet Etat.
 
 
 ###### Article R811-11
+{:.no_toc}
 
 Le préfet de département et, à Paris, le préfet de police peut saisir un autre Etat membre de l'Union européenne aux fins de transfert d'un étranger bénéficiaire en France de la protection temporaire vers le territoire de cet Etat. Cette saisine peut intervenir, à tout moment, à la demande de l'étranger ou avec son consentement.
 
@@ -11829,6 +12997,7 @@ Le préfet de département et, à Paris, le préfet de police peut saisir un aut
 
 
 ###### Article R811-12
+{:.no_toc}
 
 En cas de transfert d'un bénéficiaire de la protection temporaire vers un autre Etat membre de l'Union européenne en application des articles [R. 811-10](#article-r811-10) et [R. 811-11](#article-r811-11), l'autorisation provisoire de séjour délivrée sur le fondement de l'article [R. 811-2](#article-r811-2) est retirée. Il est également mis fin aux obligations de la France en matière de protection temporaire à l'égard de l'intéressé.
 
@@ -11838,6 +13007,7 @@ Pour permettre la mise en oeuvre du transfert, le préfet de département et, à
 ###### Sous-section 3 : La coopération en vue du transfert
 
 ###### Article R811-13
+{:.no_toc}
 
 Les informations relatives à un bénéficiaire de la protection temporaire qui sont nécessaires pour instruire une demande de transfert autre que celles mentionnées aux articles [R. 811-7](#article-r811-7) et [R. 811-8](#article-r811-8) sont demandées ou fournies à l'Etat membre de l'Union européenne où réside l'intéressé ou dans lequel il souhaite résider par le représentant de l'Etat dans le département vers lequel ou à partir duquel doit s'opérer le transfert.
 
@@ -11859,6 +13029,7 @@ Ces informations comprennent au moins l'un des documents ou l'une des données s
 
 
 ###### Article R811-14
+{:.no_toc}
 
 Le ministre chargé de l'immigration informe la Commission de l'Union européenne et le Haut-Commissariat des Nations Unies pour les réfugiés des demandes de transfert.
 
@@ -11866,6 +13037,7 @@ Le ministre chargé de l'immigration informe la Commission de l'Union européenn
 ##### Section 3 : Dispositions diverses
 
 ##### Article R811-15
+{:.no_toc}
 
 Les catégories de personnes déplacées qui peuvent bénéficier de la protection temporaire en France en application des dispositions de l'article [L. 811-7](#article-l811-7) sont désignées par arrêté conjoint du ministre chargé de l'immigration, du ministre de l'intérieur et du ministre des affaires étrangères.
 
@@ -11875,6 +13047,7 @@ Le ministre chargé de l'immigration informe immédiatement le Conseil et la Com
 
 
 ##### Article R811-16
+{:.no_toc}
 
 Les dispositions du règlement (CE) n° 343/2003 du Conseil du 18 février 2003 établissant les critères et mécanismes de détermination de l'Etat membre responsable de l'examen d'une demande d'asile présentée dans l'un des Etats membres par un ressortissant d'un pays tiers ou d'engagements identiques à ceux prévus par ledit règlement conclu avec d'autres Etats sont applicables aux demandes d'asile présentées par un bénéficiaire de la protection temporaire.
 
@@ -11888,6 +13061,7 @@ Lorsqu'une demande d'asile a été enregistrée par l'Office français de protec
 #### Chapitre unique
 
 #### Article R812-1
+{:.no_toc}
 
 La demande de statut d'apatride est déposée à l'Office français de protection des réfugiés et apatrides. Elle est rédigée en français sur un imprimé établi par l'office. L'imprimé doit être signé et accompagné de deux photographies d'identité récentes et, le cas échéant, du document de voyage, des documents d'état civil et de la copie du document de séjour en cours de validité.
 
@@ -11895,6 +13069,7 @@ Lorsque la demande introduite est complète, l'office en accuse réception sans 
 
 
 #### Article R812-2
+{:.no_toc}
 
 L'office peut convoquer le demandeur à un entretien personnel.
 
@@ -11906,6 +13081,7 @@ L'office peut procéder à un entretien en ayant recours à un moyen de communic
 
 
 #### Article R812-3
+{:.no_toc}
 
 La décision du directeur général de l'office est notifiée à l'intéressé par lettre recommandée avec demande d'avis de réception.
 
@@ -11913,6 +13089,7 @@ En cas de décision reconnaissant la qualité d'apatride, le directeur général
 
 
 #### Article R812-4
+{:.no_toc}
 
 I.-En application de l'article [L. 812-5](#article-l812-5), les articles [R. 752-1](#article-r752-1) à [R. 752-3](#article-r752-3) relatifs à la réunification familiale et à l'intérêt supérieur de l'enfant sont applicables aux étrangers reconnus apatrides.
 
@@ -11920,16 +13097,19 @@ II.-Les dispositions des articles [R. 753-1](#article-r753-1) à [R. 753-7](#art
 
 
 #### Article R812-5
+{:.no_toc}
 
 Le présent titre est applicable, dans sa rédaction résultant du décret n° 2015-1166 du 21 septembre 2015 pris pour l'application de la loi relative à la réforme de l'asile, dans les îles Wallis et Futuna sous réserve des dispositions suivantes : les mots : “le préfet compétent” sont remplacés par les mots : “l'administrateur supérieur des îles Wallis et Futuna”.
 
 
 #### Article R812-6
+{:.no_toc}
 
 Le présent titre est applicable, dans sa rédaction résultant du décret n° 2015-1166 du 21 septembre 2015 pris pour l'application de la loi relative à la réforme de l'asile, en Polynésie française sous réserve des dispositions suivantes : les mots : “le préfet compétent” sont remplacés par les mots : “le haut-commissaire de la République en Polynésie française”.
 
 
 #### Article R812-7
+{:.no_toc}
 
 Le présent titre est applicable, dans sa rédaction résultant du décret n° 2015-1166 du 21 septembre 2015 pris pour l'application de la loi relative à la réforme de l'asile, en Nouvelle-Calédonie sous réserve des dispositions suivantes : les mots : “le préfet compétent” sont remplacés par les mots : “le haut-commissaire de la République en Nouvelle-Calédonie”.
 
@@ -11937,6 +13117,7 @@ Le présent titre est applicable, dans sa rédaction résultant du décret n° 2
 ### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE
 
 ### Article R821-1
+{:.no_toc}
 
 Pour les besoins de la procédure d'éloignement, le transport des étrangers maintenus en zone d'attente ou dans un lieu de rétention peut faire l'objet d'un marché public passé par le préfet territorialement compétent dans les conditions prévues par le code des marchés publics. Dans ce cas, l'objet du marché est limité à la mise à disposition de véhicules, la conduite et l'entretien de ces véhicules à l'exclusion de la surveillance directe des étrangers et de la mise en oeuvre à leur égard de toute mesure à caractère coercitif, qui relèvent de la compétence exclusive des fonctionnaires de la police nationale et des militaires de la gendarmerie nationale.
 
@@ -11946,6 +13127,7 @@ Pour les besoins de la procédure d'éloignement, le transport des étrangers ma
 #### Chapitre Ier : Saint-Pierre-et-Miquelon
 
 #### Article R831-1
+{:.no_toc}
 
 Pour l'application de l'article [R. 313-45](#article-r313-45) à Saint-Pierre-et-Miquelon, la référence à l'article 44 sexies 0A du code général des impôts est remplacée par la référence aux dispositions ayant le même objet applicables localement
 
@@ -11953,6 +13135,7 @@ Pour l'application de l'article [R. 313-45](#article-r313-45) à Saint-Pierre-et
 #### Chapitre II : Mayotte
 
 #### Article R832-1
+{:.no_toc}
 
 Les dispositions du présent code sont applicables à Mayotte sous réserve des adaptations suivantes :
 
@@ -12012,6 +13195,7 @@ VII. - Le dernier alinéa de l'article [R. 553-9](#article-r553-9) est supprimé
 
 
 #### Article R832-2
+{:.no_toc}
 
 L'étranger qui sollicite le visa prévu à l'article [L. 832-2](#article-l832-2) présente son document de voyage, le titre sous couvert duquel il est autorisé à séjourner à Mayotte, les documents permettant d'établir les conditions de son séjour dans le département de destination, les moyens d'existence lui permettant de faire face à ses frais de séjour ainsi que les garanties de son retour à Mayotte.
 
@@ -12023,6 +13207,7 @@ Le représentant de l'Etat à Mayotte recueille l'avis du préfet du départemen
 #### Chapitre III : Saint-Barthélemy et Saint-Martin
 
 #### Article R833-1
+{:.no_toc}
 
 Pour leur application à Saint-Barthélemy et Saint-Martin, les dispositions suivantes sont ainsi rédigées :
 
@@ -12054,6 +13239,7 @@ Pour leur application à Saint-Barthélemy et Saint-Martin, les dispositions sui
 ## Annexe 6.3 mentionnée à l'article [R. 611-9](#article-r611-9) LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8
 
 ## Article Annexe 6.3
+{:.no_toc}
 
 Liste des données à caractère personnel communiquées automatiquement par le traitement automatisé de données à caractère personnel dénommé réseau mondial visas 2 (RMV2), enregistrées dans le traitement automatisé prévu à l'article R. 611-8
 
@@ -12111,6 +13297,7 @@ Information visa prorogé ; nom et localisation de l'autorité ayant prorogé le
 ## Annexe 6-4 mentionnée à l'article [R. 611-3](#article-r611-3) CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES
 
 ## Article Annexe 6-4
+{:.no_toc}
 
 Section 1
 
@@ -12416,6 +13603,7 @@ Les données sont celles figurant au b du C de la section 2 de la présente anne
 ## Annexe 6-8 mentionnée à l'article R. 611-36
 
 ## Article Annexe 6-8
+{:.no_toc}
 
 LISTE DES DONNÉES À CARACTÈRE PERSONNEL RELATIVES À UN ÉTRANGER BÉNÉFICIAIRE D'UNE AIDE AU RETOUR SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS LE TRAITEMENT PRÉVU À L'ARTICLE R. 611-35
 
@@ -12481,6 +13669,7 @@ C. ― Organisation du voyage :
 ## Annexe  7-1 (mentionnée à l'article D. 744-26)
 
 ## Article Annexe 7-1
+{:.no_toc}
 
 BARÈME DE L'ALLOCATION POUR DEMANDEUR D'ASILE
 
