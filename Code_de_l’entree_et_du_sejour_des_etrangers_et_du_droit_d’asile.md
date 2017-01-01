@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 4 décembre 2016
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20161204)
+- Date de consolidation : 1er janvier 2017
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20170101)
 
 
 # Partie législative
@@ -800,9 +800,9 @@ A l'issue de la période de douze mois mentionnée au premier alinéa du présen
 
 ##### Article L311-12
 
-Sauf si sa présence constitue une menace pour l'ordre public, une autorisation provisoire de séjour peut être délivrée à l'un des parents étranger de l'étranger mineur qui remplit les conditions mentionnées au 11° de l'article [L. 313-11](#article-l313-11), sous réserve qu'il justifie résider habituellement en France avec lui et subvenir à son entretien et à son éducation, sans que la condition prévue à l'article L. L313-2 soit exigée.
+Sauf si leur présence constitue une menace pour l'ordre public, une autorisation provisoire de séjour est délivrée aux parents étrangers de l'étranger mineur qui remplit les conditions mentionnées au 11° de l'article [L. 313-11](#article-l313-11), ou à l'étranger titulaire d'un jugement lui ayant conféré l'exercice de l'autorité parentale sur ce mineur, sous réserve qu'ils justifient résider habituellement en France avec lui et subvenir à son entretien et à son éducation, sans que la condition prévue à l'article [L. 313-2](#article-l313-2) soit exigée.
 
-L'autorisation provisoire de séjour mentionnée au premier alinéa, qui ne peut être d'une durée supérieure à six mois, est délivrée par l'autorité administrative, après avis du médecin de l'agence régionale de santé de la région de résidence de l'intéressé, désigné par le directeur général de l'agence, ou, à Paris, du médecin, chef du service médical de la préfecture de police, dans les conditions prévues au 11° de l'article [L. 313-11](#article-l313-11). Elle est renouvelable et n'autorise pas son titulaire à travailler. Toutefois, cette autorisation peut être assortie d'une autorisation provisoire de travail, sur présentation d'un contrat de travail.
+L'autorisation provisoire de séjour mentionnée au premier alinéa, qui ne peut être d'une durée supérieure à six mois, est délivrée par l'autorité administrative, après avis d'un collège de médecins du service médical de l'Office français de l'immigration et de l'intégration, dans les conditions prévues au 11° de l'article [L. 313-11](#article-l313-11). Cette autorisation provisoire de séjour ouvre droit à l'exercice d'une activité professionnelle. Elle est renouvelée pendant toute la durée de la prise en charge médicale de l'étranger mineur, sous réserve que les conditions prévues pour sa délivrance continuent d'être satisfaites.
 
 
 ##### Section 4 : Dispositions fiscales
@@ -989,6 +989,8 @@ II.-Sauf si sa présence constitue une menace pour l'ordre public, la carte ment
 
 5. A l'étranger ressortissant d'un pays ayant signé avec la France un accord de réciprocité relatif à l'admission au séjour des étudiants.
 
+Les établissements d'enseignement supérieur sont responsables du suivi sanitaire préventif des étudiants étrangers.
+
 Un décret en Conseil d'Etat précise les conditions d'application des dispositions du présent article, en particulier en ce qui concerne les ressources exigées, les conditions d'inscription dans un établissement d'enseignement et celles dans lesquelles l'étranger entrant dans les prévisions du 2° peut être dispensé de l'obligation prévue à l'article [L. 313-2](#article-l313-2).
 
 
@@ -1067,7 +1069,7 @@ Sauf si sa présence constitue une menace pour l'ordre public, la carte de séjo
 
 10. A l'étranger qui a obtenu le statut d'apatride en application du titre Ier bis du livre VIII du présent code, ainsi qu'à son conjoint et à ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article [L. 311-3](#article-l311-3), lorsque le mariage est antérieur à la date de cette obtention ou, à défaut, lorsqu'il a été célébré depuis au moins un an, sous réserve d'une communauté de vie effective entre les époux, sans que la condition prévue à l'article [L. 313-2](#article-l313-2) soit exigée ;
 
-11. A l'étranger résidant habituellement en France dont l'état de santé nécessite une prise en charge médicale dont le défaut pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve de l'absence d'un traitement approprié dans le pays dont il est originaire, sauf circonstance humanitaire exceptionnelle appréciée par l'autorité administrative après avis du directeur général de l'agence régionale de santé, sans que la condition prévue à l'article L. 311-7 soit exigée. La décision de délivrer la carte de séjour est prise par l'autorité administrative, après avis du médecin de l'agence régionale de santé de la région de résidence de l'intéressé, désigné par le directeur général de l'agence, ou, à Paris, du médecin, chef du service médical de la préfecture de police. Le médecin de l'agence régionale de santé ou, à Paris, le chef du service médical de la préfecture de police peut convoquer le demandeur pour une consultation médicale devant une commission médicale régionale dont la composition est fixée par décret en Conseil d'Etat.
+11. A l'étranger résidant habituellement en France, si son état de santé nécessite une prise en charge médicale dont le défaut pourrait avoir pour lui des conséquences d'une exceptionnelle gravité et si, eu égard à l'offre de soins et aux caractéristiques du système de santé dans le pays dont il est originaire, il ne pourrait pas y bénéficier effectivement d'un traitement approprié. La condition prévue à l'article [L. 313-2](#article-l313-2) n'est pas exigée. La décision de délivrer la carte de séjour est prise par l'autorité administrative après avis d'un collège de médecins du service médical de l'Office français de l'immigration et de l'intégration, dans des conditions définies par décret en Conseil d'Etat. Les médecins de l'office accomplissent cette mission dans le respect des orientations générales fixées par le ministre chargé de la santé. Chaque année, un rapport présente au Parlement l'activité réalisée au titre du présent 11° par le service médical de l'Office français de l'immigration et de l'intégration ainsi que les données générales en matière de santé publique recueillies dans ce cadre.
 
 
 ###### Article L313-11-1
@@ -5934,6 +5936,11 @@ Les étrangers mentionnés aux 4°, 5°, 6°, 7°, 8°, 9°, 10°, 11°, 13° et
 Lorsqu'un étranger est autorisé à séjourner en France sous couvert d'un titre de voyage revêtu du visa requis pour un séjour d'une durée supérieure à trois mois et au plus égale à un an, ce visa peut être abrogé par le préfet du département où séjourne l'étranger qui en est titulaire, ou par le préfet du département où la situation de cet étranger est contrôlée, s'il existe des indices concordants permettant de présumer que l'intéressé a obtenu son visa frauduleusement ou qu'il est entré en France pour s'y établir à d'autres fins que celles qui ont justifié la délivrance du visa, ou si le comportement de l'intéressé trouble l'ordre public. Le préfet qui a prononcé l'abrogation en avertit sans délai l'autorité qui a délivré le visa.
 
 
+###### Article R311-3-1
+
+En application de l'article [L. 313-7](#article-l313-7), les étrangers titulaires du visa mentionné au 6° de l'article [R. 311-3](#article-r311-3) bénéficient d'un suivi sanitaire préventif au sein de l'établissement d'enseignement supérieur dans un délai d'un an à compter de la date de leur entrée en France.
+
+
 ###### Sous-section 2 : Récépissé des demandes
 
 ###### Article R311-4
@@ -6244,6 +6251,23 @@ II.-L'étranger peut, sous couvert de cette autorisation provisoire de séjour, 
 III.-Lorsque l'étranger justifie, au plus tard à l'issue de son autorisation provisoire de séjour, exercer un emploi ou bénéficier d'une promesse d'embauche répondant aux conditions prévues au 1° de l'article [L. 311-11](#article-l311-11), il sollicite la délivrance de la carte de séjour correspondant à son nouveau motif de séjour, dans le respect d'un délai maximal de quinze jours après la conclusion de son contrat de travail.
 
 Lorsque l'étranger concrétise, au plus tard à l'issue de son autorisation provisoire de séjour, un projet de création d'entreprise répondant aux conditions prévues au 2° de l'article [L. 311-11](#article-l311-11), il sollicite la délivrance de la carte de séjour correspondant à son nouveau motif de séjour.
+
+
+##### Article R311-36
+
+Pour l'application de l'article [L. 311-12](#article-l311-12), l'étranger présente à l'appui de sa demande, outre les pièces prévues aux articles [R. 311-2-2](#article-r311-2-2) et [R. 311-31](#article-r311-31) :
+
+1. Les documents justifiant de l'état civil et de la nationalité de l'étranger mineur ;
+
+2. Un justificatif de domicile ;
+
+3. L'acte de naissance du mineur comportant l'établissement du lien de filiation ou la décision judiciaire portant délégation de l'autorité parentale sur l'étranger mineur prononcée par une juridiction étrangère ou française ;
+
+4. Les justificatifs permettant d'apprécier la durée de sa résidence habituelle en France avec l'étranger mineur ;
+
+5. Les justificatifs permettant d'apprécier qu'il subvient à l'entretien et à l'éducation de l'étranger mineur.
+
+L'avis médical est rendu dans les conditions prévues à l'article [R. 313-23](#article-r313-23).
 
 
 #### Chapitre II : La commission du titre de séjour
@@ -6650,9 +6674,7 @@ La liste mentionnée au premier alinéa de l'article [L. 311-11](#article-l311-1
 
 ###### Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale"
 
-####### Paragraphe 1 : Dispositions générales
-
-####### Article R313-20
+###### Article R313-20
 
 Pour l'application des articles [L. 313-11](#article-l313-11), [L. 313-11-1](#article-l313-11-1), [L. 313-13](#article-l313-13) et [L. 313-14](#article-l313-14), l'étranger présente à l'appui de sa demande de délivrance de la carte de séjour temporaire, outre les pièces prévues aux articles [R. 311-2-2](#article-r311-2-2) et [R. 313-1](#article-r313-1), les pièces suivantes :
 
@@ -6665,90 +6687,35 @@ Pour l'application des articles [L. 313-11](#article-l313-11), [L. 313-11-1](#ar
 4. Pour l'application du 2° de l'article [L. 313-11](#article-l313-11), l'étranger doit en outre présenter les documents justifiant de l'état civil et de la nationalité de son ou de ses parents. A Mayotte, il doit également présenter le titre de séjour de l'un de ses parents.
 
 
-####### Article R313-21
+###### Article R313-22
 
-Pour l'application du 7° de l'article [L. 313-11](#article-l313-11), l'étranger qui invoque la protection due à son droit au respect de la vie privée et familiale en France doit apporter toute justification permettant d'apprécier la réalité et la stabilité de ses liens personnels et familiaux effectifs en France au regard de ceux qu'il a conservés dans son pays d'origine.
+Pour l'application du 11° de l'article [L. 313-11](#article-l313-11), le préfet délivre la carte de séjour au vu d'un avis émis par un collège de médecins à compétence nationale de l'Office français de l'immigration et de l'intégration.
 
+L'avis est émis dans les conditions fixées par arrêté du ministre chargé de l'immigration et du ministre chargé de la santé au vu, d'une part, d'un rapport médical établi par un médecin de l'Office français de l'immigration et de l'intégration et, d'autre part, des informations disponibles sur les possibilités de bénéficier effectivement d'un traitement approprié dans le pays d'origine de l'intéressé.
 
-####### Article R313-22
-
-Pour l'application du 11° de l'article [L. 313-11](#article-l313-11), le préfet délivre la carte de séjour temporaire au vu d'un avis émis par le médecin de l'agence régionale de santé compétente au regard du lieu de résidence de l'intéressé, désigné par le directeur général. Par dérogation, à Paris, ce médecin est désigné par le préfet de police.
-
-L'avis est émis dans les conditions fixées par arrêté du ministre chargé de l'immigration et du ministre chargé de la santé au vu, d'une part, d'un rapport médical établi par un médecin agréé ou un médecin praticien hospitalier et, d'autre part, des informations disponibles sur l'existence d'un traitement dans le pays d'origine de l'intéressé. Quand la commission médicale régionale a été saisie dans les conditions prévues à l'article [R. 313-26](#article-r313-26), l'avis mentionne cette saisine.
-
-Le préfet peut, après avis du directeur général de l'agence régionale de santé, prendre en considération une circonstance humanitaire exceptionnelle pour délivrer la carte de séjour temporaire même s'il existe un traitement approprié dans le pays d'origine de l'intéressé.
-
-L'étranger mentionné au 11° de l'article [L. 313-11](#article-l313-11) qui ne remplirait pas la condition de résidence habituelle peut recevoir une autorisation provisoire de séjour renouvelable pendant la durée du traitement.
+Les orientations générales mentionnées à la quatrième phrase du 11° de l'article [L. 313-11](#article-l313-11) sont fixées par arrêté du ministre chargé de la santé.
 
 
-####### Paragraphe 2 : Commission médicale régionale
+###### Article R313-23
 
-####### Article R313-23
+Le rapport médical visé à l'article [R. 313-22](#article-r313-22) est établi par un médecin de l'Office français de l'immigration et de l'intégration à partir d'un certificat médical établi par le médecin qui le suit habituellement ou par un médecin praticien hospitalier inscrits au tableau de l'ordre, dans les conditions prévues par l'arrêté mentionné au deuxième alinéa de l'article [R. 313-22](#article-r313-22). Le médecin de l'office peut solliciter, le cas échéant, le médecin qui suit habituellement le demandeur ou le médecin praticien hospitalier. Il en informe le demandeur. Il peut également convoquer le demandeur pour l'examiner et faire procéder aux examens estimés nécessaires. Le demandeur présente au service médical de l'office les documents justifiant de son identité. A défaut de réponse dans le délai de quinze jours, ou si le demandeur ne se présente pas à la convocation qui lui a été fixée, ou s'il n'a pas présenté les documents justifiant de son identité le médecin de l'office établit son rapport au vu des éléments dont il dispose et y indique que le demandeur n'a pas répondu à sa convocation ou n'a pas justifié de son identité. Il transmet son rapport médical au collège de médecins.
 
-La commission médicale régionale mentionnée au 11° de l'article [L. 313-11](#article-l313-11) est créée, dans chaque région, par arrêté du préfet de région et, dans la collectivité territoriale de Corse, par arrêté du préfet de Corse.
+Sous couvert du directeur général de l'Office français de l'immigration et de l'intégration le service médical de l'office informe le préfet qu'il a transmis au collège de médecins le rapport médical. En cas de défaut de présentation de l'étranger lorsqu'il a été convoqué par le médecin de l'office ou de présentation des examens complémentaires demandés dans les conditions prévues au premier alinéa, il en informe également le préfet ; dans ce cas le récépissé prévu à l'article [R. 311-4](#article-r311-4) n'est pas délivré.
 
+Le collège à compétence nationale, composé de trois médecins, émet un avis dans les conditions de l'arrêté mentionné au premier alinéa du présent article. La composition du collège et, le cas échéant, de ses formations est fixée par décision du directeur général de l'office. Le médecin ayant établi le rapport médical ne siège pas au sein du collège.
 
-####### Article R313-24
+Le collège peut délibérer au moyen d'une conférence téléphonique ou audiovisuelle.
 
-La commission médicale régionale comprend deux médecins de l'agence régionale de santé et deux praticiens hospitaliers, désignés par le directeur général de l'agence.
+Le collège peut demander au médecin qui suit habituellement le demandeur, au médecin praticien hospitalier ou au médecin qui a rédigé le rapport de lui communiquer, dans un délai de quinze jours, tout complément d'information. Le demandeur en est simultanément informé. Le collège de médecins peut entendre et, le cas échéant, examiner le demandeur et faire procéder aux examens estimés nécessaires. Le demandeur présente au service médical de l'office les documents justifiant de son identité. Il peut être assisté d'un interprète et d'un médecin. Lorsque l'étranger est mineur, il est accompagné de son représentant légal.
 
-Les membres de la commission médicale régionale sont nommés pour une durée de trois ans renouvelable.
+L'avis est rendu par le collège dans un délai de trois mois à compter de la transmission par le demandeur des éléments médicaux conformément à la première phrase du premier alinéa. Lorsque le demandeur n'a pas présenté au médecin de l'office ou au collège les documents justifiant son identité, n'a pas produit les examens complémentaires qui lui ont été demandés ou n'a pas répondu à la convocation du médecin de l'office ou du collège qui lui a été adressée, l'avis le constate.
 
-Pour chacun des membres de la commission médicale régionale, un suppléant est désigné dans les mêmes conditions. Les suppléants ne siègent qu'en cas d'absence ou d'empêchement des titulaires.
-
-
-####### Article R313-25
-
-La commission médicale régionale est présidée par l'un des médecins de l'agence régionale de santé membre de la commission ou son suppléant ; le président et son suppléant sont désignés par le directeur général de l'agence.
-
-La commission médicale régionale ne peut valablement délibérer que si trois de ses membres au moins sont présents.
-
-Les séances de la commission médicale régionale ne sont pas publiques.
+L'avis est transmis au préfet territorialement compétent, sous couvert du directeur général de l'Office français de l'immigration et de l'intégration.
 
 
-####### Article R313-26
+###### Article R313-24
 
-Le médecin de l'agence régionale de santé mentionné au premier alinéa de l'article [R. 313-22](#article-r313-22) ou, à Paris, le médecin, chef du service médical de la préfecture de police, peut convoquer devant la commission médicale régionale l'étranger demandant que lui soit délivrée une carte de séjour temporaire en application des dispositions du 11° de l'article [L. 313-11](#article-l313-11), ainsi que l'étranger mineur au titre duquel l'un des parents sollicite la délivrance d'une autorisation provisoire de séjour en application des dispositions de l'article [L. 311-12](#article-l311-12).
-
-La commission médicale régionale prend alors connaissance du rapport médical mentionné au deuxième alinéa de l'article [R. 313-22](#article-r313-22). Elle peut demander tout complément d'information au médecin agréé ou au praticien hospitalier ayant établi ce rapport. Elle entend l'étranger. Elle peut solliciter l'avis d'un médecin spécialiste. Elle rend un avis sur l'état de santé de l'étranger et sur les traitements rendus nécessaires par cet état.
-
-
-####### Article R313-27
-
-La saisine de la commission médicale régionale par le médecin de l'agence régionale de santé mentionné au premier alinéa de l'article [R. 313-22](#article-r313-22) ou, à Paris, le médecin, chef du service médical de la préfecture de police, intervient dans le délai d'un mois à compter de la réception, par ce médecin, du rapport médical mentionné au deuxième alinéa de l'article [R. 313-22](#article-r313-22).
-
-La commission médicale régionale se réunit dans un délai d'un mois à compter de la date de sa saisine.
-
-
-####### Article R313-28
-
-L'étranger convoqué devant la commission médicale régionale en est avisé par une lettre précisant la date, l'heure et le lieu de la séance de la commission lors de laquelle il sera entendu, au moins quinze jours avant cette date.
-
-L'étranger est assisté, le cas échéant, par un interprète et peut demander à se faire assister par un médecin. Lorsque l'étranger est mineur, il est accompagné de son représentant légal.
-
-Si l'étranger ne se présente pas devant la commission médicale régionale, celle-ci peut néanmoins délibérer et rendre un avis.
-
-
-####### Article R313-29
-
-Le médecin de l'agence régionale de santé mentionné au premier alinéa de l'article [R. 313-22](#article-r313-22) ou, à Paris, le médecin, chef du service médical de la préfecture de police, peut assister, sans voix délibérative, à la séance de la commission médicale régionale lors de laquelle est entendu l'étranger convoqué à la demande de ce médecin. Le médecin, chef du service médical de la préfecture de police, peut être représenté par un médecin de ce service.
-
-
-####### Article R313-30
-
-L'avis de la commission médicale régionale est transmis au médecin de l'agence régionale de santé mentionné au premier alinéa de l'article [R. 313-22](#article-r313-22) ou, à Paris, au médecin, chef du service médical de la préfecture de police, dans un délai d'un mois à compter de la séance à laquelle l'étranger a été convoqué.
-
-Si la commission ne s'est pas prononcée à l'issue de ce délai, le médecin de l'agence régionale de santé mentionné au premier alinéa de l'article [R. 313-22](#article-r313-22) ou, à Paris, le médecin, chef du service médical de la préfecture de police, peut remettre son avis au préfet.
-
-
-####### Article R313-31
-
-La commission médicale régionale établit un rapport annuel transmis au ministre chargé des affaires sociales et au ministre chargé de la santé.
-
-
-####### Article R313-32
-
-Les conditions d'indemnisation des membres de la commission médicale régionale sont fixées par arrêté conjoint du ministre chargé du budget, du ministre chargé des affaires sociales et du ministre chargé de la santé.
+L'étranger mentionné au 11° de l'article [L. 313-11](#article-l313-11) qui ne remplit pas la condition de résidence habituelle peut recevoir une autorisation provisoire de séjour renouvelable pendant la durée de son traitement.
 
 
 ###### Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et aux membres de sa famille
@@ -8156,7 +8123,13 @@ La carte de séjour temporaire porte la mention " vie privée et familiale ". El
 
 #### Article R511-1
 
-L'état de santé défini au 10° de l'article [L. 511-4](#article-l511-4) est constaté dans les mêmes conditions que celles qui sont prévues aux trois premiers alinéas de l'article [R. 313-22](#article-r313-22).
+L'état de santé défini au 10° de l'article [L. 511-4](#article-l511-4) est constaté au vu d'un avis émis par un collège de médecins à compétence nationale de l'Office français de l'immigration et de l'intégration.
+
+Cet avis est émis dans les conditions fixées par arrêté du ministre chargé de l'immigration et du ministre chargé de la santé au vu, d'une part, d'un certificat médical établi par le médecin qui suit habituellement l'étranger ou un médecin praticien hospitalier et, d'autre part, des informations disponibles sur les possibilités de bénéficier effectivement d'un traitement approprié dans le pays d'origine de l'intéressé.
+
+Toutefois, lorsque l'étranger est retenu en application de l'article [L. 551-1](#article-l551-1), le certificat est établi par un médecin intervenant dans le lieu de rétention conformément à l'article [R. 553-8](#article-r553-8).
+
+En cas de rétention ou d'assignation à résidence en application de l'article [L. 561-2](#article-l561-2), l'avis est émis par un médecin de l'office et transmis sans délai au préfet territorialement compétent.
 
 
 #### Article R511-2
@@ -8278,7 +8251,7 @@ L'article [R. 561-7](#article-r561-7) est applicable.
 
 #### Article R521-1
 
-L'état de santé défini au 5° de l'article [L. 521-3](#article-l521-3) est constaté dans les mêmes conditions que celles qui sont prévues aux trois premiers alinéas de l'article [R. 313-22](#article-r313-22).
+L'état de santé défini au 5° de l'article [L. 521-3](#article-l521-3) est constaté dans les mêmes conditions que celles qui sont prévues à l'article [R. 511-1](#article-r511-1).
 
 
 #### Chapitre II : Procédure administrative
@@ -8412,6 +8385,11 @@ III.-Par dérogation à l'article [R. 523-4](#article-r523-4), l'autorité admin
 ##### Article R523-7
 
 Le ministre de l'intérieur est dans tous les cas l'autorité administrative compétente pour prononcer l'assignation à résidence d'un étranger dans un département de France métropolitaine, dans un département d'outre-mer, à Saint-Barthélemy, à Saint-Martin ou à Saint-Pierre-et-Miquelon lorsqu'au moment du prononcé de l'assignation à résidence, l'étranger se trouve dans les îles Wallis et Futuna, en Polynésie française ou en Nouvelle-Calédonie.
+
+
+##### Article R523-8
+
+L'état de santé défini à l'article [L. 523-4](#article-l523-4) est constaté dans les mêmes conditions que celles qui sont prévues à l'article [R. 511-1](#article-r511-1).
 
 
 ##### Article R523-9
@@ -12169,7 +12147,7 @@ B. - Données relatives au droit au séjour, au droit au travail et au titre de 
 
 1. Titre de séjour : références juridiques et de gestion (dates, lieux) de la demande, de la délivrance, du refus et du retrait ; date et condition d'entrée en France ; historique des titres détenus ;
 
-2. Avis du médecin de l'agence régionale de la santé sur la satisfaction par l'étranger sollicitant un droit de séjour des critères relatifs à son état de santé (sens de l'avis, nombre de jours de séjour autorisés, caractère curable de la maladie dans le pays d'origine, caractère d'exceptionnelle gravité du défaut de soins, maintien sur le territoire autorisé, sursis à l'éloignement autorisé, capacité à voyager) ;
+2. Avis du collège de médecins du service médical de l'office français de l'immigration et de l'intégration sur la satisfaction par l'étranger sollicitant un droit de séjour des critères relatifs à son état de santé (sens de l'avis, conséquences d'une exceptionnelle gravité résultant du défaut d'une prise en charge médicale, possibilité de bénéficier effectivement d'un traitement approprié eu égard à l'offre de soins et aux caractéristiques du système de santé dans le pays d'origine ou de renvoi ; maintien sur le territoire autorisé, sursis à l'éloignement autorisé, capacité à voyager) ;
 
 3. Regroupement familial : avis du maire ou de l'Office français de l'immigration et de l'intégration sur l'adéquation des ressources au nombre de personnes à charge et sur la salubrité et l'adéquation de la surface du logement à la taille de la famille ;
 
