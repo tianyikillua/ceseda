@@ -1,7 +1,7 @@
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
-- Date de consolidation : 1er janvier 2017
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20170101)
+- Date de consolidation : 11 janvier 2017
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20170111)
 
 
 # Partie législative
